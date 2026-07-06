@@ -448,6 +448,35 @@ def setup_mlb_tools(mcp):
             return {"error": str(e)}
 
     @mcp.tool()
+    def get_mlb_batter_vs_pitcher(batter_id: int, pitcher_id: int) -> dict:
+        """
+        Get a batter's career hitting statistics against a specific pitcher (batter-vs-pitcher).
+
+        Queries the MLB Stats API vsPlayerTotal hitting split for the given batter against
+        the given opposing pitcher, covering all matchups in MLB Stats API history.
+
+        Args:
+            batter_id (int): The MLBAM ID of the batter.
+            pitcher_id (int): The MLBAM ID of the opposing pitcher.
+
+        Returns:
+            dict: Batter-vs-pitcher hitting statistics as returned by the MLB Stats API.
+        """
+        try:
+            endpoint = (
+                f"people/{batter_id}/stats?stats=vsPlayerTotal&group=hitting"
+                f"&opposingPlayerId={pitcher_id}"
+            )
+            response = mlb._mlb_adapter_v1.get(endpoint=endpoint)
+
+            if 400 <= response.status_code <= 499:
+                return {"error": f"API error: {response.status_code}"}
+
+            return response.data
+        except Exception as e:
+            return {"error": str(e)}
+
+    @mcp.tool()
     def get_mlb_game_highlights(game_id: int) -> dict:
         """
         Get game highlights for a specific game by game_id.
