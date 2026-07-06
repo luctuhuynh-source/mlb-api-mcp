@@ -7,9 +7,34 @@ import fastmcp
 from fastmcp import FastMCP
 from starlette.responses import HTMLResponse, JSONResponse, RedirectResponse
 from starlette.middleware.cors import CORSMiddleware
+from starlette.middleware.trustedhost import TrustedHostMiddleware
 
 from generic_api import setup_generic_tools
 from mlb_api import setup_mlb_tools
+
+# Host allow-list for DNS-rebinding protection.
+#
+# When served over HTTP behind Railway's proxy, the incoming Host header is the
+# public Railway domain rather than localhost. The MCP streamable-HTTP transport
+# rejects Host headers that are not explicitly allowed with a 421 "Invalid Host
+# header" response (DNS-rebinding protection). We therefore allow the Railway
+# domain plus local development hosts. Set the ALLOWED_HOSTS environment variable
+# (comma-separated) to override this list for other deployments.
+DEFAULT_ALLOWED_HOSTS = [
+    "mlb-api-mcp-production.up.railway.app",
+    "localhost",
+    "127.0.0.1",
+]
+
+
+def get_allowed_hosts():
+    """Return the Host allow-list, honoring the ALLOWED_HOSTS env override."""
+    raw = os.environ.get("ALLOWED_HOSTS")
+    if raw:
+        hosts = [h.strip() for h in raw.split(",") if h.strip()]
+        if hosts:
+            return hosts
+    return DEFAULT_ALLOWED_HOSTS
 
 # Suppress websockets deprecation warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning, module="websockets")
@@ -173,8 +198,19 @@ if __name__ == "__main__":
         print(f"- Tools list: http://localhost:{port}/tools")
         print(f"- MCP protocol: http://localhost:{port}/mcp")
 
-        # Create CORS middleware configuration
+        # Create middleware configuration
         from starlette.middleware import Middleware
+
+        allowed_hosts = get_allowed_hosts()
+        print(f"- Allowed hosts: {', '.join(allowed_hosts)}")
+
+        # Reject requests whose Host header is not on the allow-list. This is what
+        # prevents the 421 "Invalid Host header" (DNS-rebinding) rejection for the
+        # Railway domain while still refusing arbitrary/unexpected hosts.
+        trusted_host_middleware = Middleware(
+            TrustedHostMiddleware,
+            allowed_hosts=allowed_hosts,
+        )
 
         cors_middleware = Middleware(
             CORSMiddleware,
@@ -186,11 +222,13 @@ if __name__ == "__main__":
             max_age=86400,
         )
 
-        # Get the Starlette app with CORS middleware (using modern http_app method).
+        # Get the Starlette app with middleware (using modern http_app method).
+        # TrustedHostMiddleware is listed first so it runs outermost and validates
+        # the Host header before any other processing.
         # FastMCP 2.x mounts the streamable-HTTP transport at /mcp/ and serves it
         # directly. Do NOT add a path-rewrite middleware here: rewriting /mcp -> /mcp/
         # fights FastMCP's own redirect and produces an infinite 307 loop.
-        app = mcp.http_app(middleware=[cors_middleware])
+        app = mcp.http_app(middleware=[trusted_host_middleware, cors_middleware])
 
         # Run the MCP server with HTTP transport using uvicorn
         uvicorn.run(
