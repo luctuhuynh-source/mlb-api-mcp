@@ -1,4 +1,5 @@
 import argparse
+import inspect
 import os
 import warnings
 
@@ -7,49 +8,45 @@ import fastmcp
 from fastmcp import FastMCP
 from starlette.responses import HTMLResponse, JSONResponse, RedirectResponse
 from starlette.middleware.cors import CORSMiddleware
-from starlette.middleware.trustedhost import TrustedHostMiddleware
 
 from generic_api import setup_generic_tools
 from mlb_api import setup_mlb_tools
 
-# Optional Host allow-list (opt-in).
+# Host header allow-list for FastMCP's built-in DNS-rebinding guard.
 #
-# IMPORTANT: Do NOT enable Host filtering by default. This app runs behind
-# Railway's edge proxy, which terminates TLS and then forwards requests -- and
-# Railway's platform probes (healthchecks, internal routing) send requests with
-# ``Host: healthcheck.railway.app`` and other internal hosts, NOT the public
-# domain. A strict app-layer allow-list that omits those hosts makes the service
-# look unhealthy, and Railway's edge then returns "421 Misdirected Request" for
-# every path. (The MCP SDK's own DNS-rebinding protection is disabled by default
-# in FastMCP 2.x, so it is not the source of that 421.)
+# FastMCP 3.x wraps the whole HTTP app in a HostOriginGuardMiddleware that
+# validates the incoming Host header and returns "421 Misdirected Request" for
+# any host not on its allow-list. Its built-in defaults are localhost-only
+# ("127.0.0.1", "localhost", "::1"), so every request that arrives with the
+# public Railway domain in the Host header (i.e. all real traffic, plus
+# Railway's own healthcheck probes) is rejected with a 421 -- on every path,
+# including /docs and /health.
 #
-# Host filtering is therefore opt-in: it is applied only when the ALLOWED_HOSTS
-# environment variable is set (comma-separated). Even then, we always fold in the
-# Railway probe host and localhost so platform health checks can never be
-# rejected.
-ALWAYS_ALLOWED_HOSTS = [
-    "healthcheck.railway.app",
-    "localhost",
-    "127.0.0.1",
+# We therefore pass the Railway hostnames to FastMCP so the guard allows them.
+# localhost/127.0.0.1/::1 remain allowed via FastMCP's own defaults. Additional
+# hostnames can be supplied via the ALLOWED_HOSTS environment variable
+# (comma-separated). fnmatch-style wildcards are supported (e.g. "*.railway.app").
+DEFAULT_ALLOWED_HOSTS = [
+    "mlb-api-mcp-production.up.railway.app",  # public Railway domain
+    "*.up.railway.app",                       # other/preview Railway domains
+    "*.railway.app",                          # Railway internal hosts (healthcheck.railway.app, etc.)
 ]
 
 
 def get_allowed_hosts():
-    """Return the Host allow-list from ALLOWED_HOSTS, or None to disable filtering.
+    """Return the Host allow-list to hand to FastMCP's Host/Origin guard.
 
-    Returns None (no Host filtering) unless ALLOWED_HOSTS is explicitly set. When
-    it is set, the Railway probe host and localhost are always included so the
-    platform's health checks are never rejected.
+    Starts from the Railway defaults and appends any hosts from the ALLOWED_HOSTS
+    environment variable (comma-separated). localhost is always permitted by
+    FastMCP's own built-in defaults, so it is not repeated here.
     """
+    hosts = list(DEFAULT_ALLOWED_HOSTS)
     raw = os.environ.get("ALLOWED_HOSTS")
-    if not raw:
-        return None
-    hosts = [h.strip() for h in raw.split(",") if h.strip()]
-    if not hosts:
-        return None
-    for h in ALWAYS_ALLOWED_HOSTS:
-        if h not in hosts:
-            hosts.append(h)
+    if raw:
+        for h in raw.split(","):
+            h = h.strip()
+            if h and h not in hosts:
+                hosts.append(h)
     return hosts
 
 # Suppress websockets deprecation warnings
@@ -217,39 +214,34 @@ if __name__ == "__main__":
         # Create middleware configuration
         from starlette.middleware import Middleware
 
-        middleware = []
-
-        # Host filtering is opt-in via ALLOWED_HOSTS. Do NOT enable it by default:
-        # rejecting Railway's platform probe hosts here causes the edge to return
-        # "421 Misdirected Request" for every path (see get_allowed_hosts above).
-        allowed_hosts = get_allowed_hosts()
-        if allowed_hosts is not None:
-            print(f"- Host filtering enabled; allowed hosts: {', '.join(allowed_hosts)}")
-            middleware.append(
-                Middleware(TrustedHostMiddleware, allowed_hosts=allowed_hosts)
-            )
-        else:
-            print("- Host filtering disabled (set ALLOWED_HOSTS to enable)")
-
         # CORS: allow browser-based MCP clients to reach the server.
-        middleware.append(
-            Middleware(
-                CORSMiddleware,
-                allow_origins=["*"],  # Configure this more restrictively in production
-                allow_credentials=True,
-                allow_methods=["GET", "POST", "OPTIONS"],
-                allow_headers=["*"],
-                expose_headers=["mcp-session-id"],  # Allow client to read session ID
-                max_age=86400,
-            )
+        cors_middleware = Middleware(
+            CORSMiddleware,
+            allow_origins=["*"],  # Configure this more restrictively in production
+            allow_credentials=True,
+            allow_methods=["GET", "POST", "OPTIONS"],
+            allow_headers=["*"],
+            expose_headers=["mcp-session-id"],  # Allow client to read session ID
+            max_age=86400,
         )
 
+        # Configure FastMCP's built-in Host/Origin guard so it accepts the Railway
+        # domain instead of answering "421 Misdirected Request" for every request.
+        # The `allowed_hosts`/`host_origin_protection` parameters exist on FastMCP
+        # 3.x's http_app(); they do not exist on 2.x (which has no such guard), so
+        # we pass them only when the running FastMCP supports them.
+        allowed_hosts = get_allowed_hosts()
+        print(f"- Allowed hosts: {', '.join(allowed_hosts)}")
+
+        http_app_kwargs = {"middleware": [cors_middleware]}
+        if "allowed_hosts" in inspect.signature(mcp.http_app).parameters:
+            http_app_kwargs["allowed_hosts"] = allowed_hosts
+
         # Get the Starlette app with middleware (using modern http_app method).
-        # When present, TrustedHostMiddleware is listed first so it runs outermost.
-        # FastMCP 2.x mounts the streamable-HTTP transport at /mcp/ and serves it
+        # FastMCP mounts the streamable-HTTP transport at /mcp/ and serves it
         # directly. Do NOT add a path-rewrite middleware here: rewriting /mcp -> /mcp/
         # fights FastMCP's own redirect and produces an infinite 307 loop.
-        app = mcp.http_app(middleware=middleware)
+        app = mcp.http_app(**http_app_kwargs)
 
         # Run the MCP server with HTTP transport using uvicorn
         uvicorn.run(
