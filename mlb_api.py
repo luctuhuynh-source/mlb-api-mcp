@@ -1,10 +1,33 @@
+import os
 from datetime import datetime
 from typing import List, Optional
 
 import mlbstatsapi
+import requests
 from pybaseball import statcast, statcast_batter, statcast_pitcher
 
 mlb = mlbstatsapi.Mlb()
+
+# Base URL for The Odds API (https://the-odds-api.com/). The API key is read at
+# call time from the ODDS_API_KEY environment variable and is never hardcoded.
+ODDS_API_BASE_URL = "https://api.the-odds-api.com/v4"
+
+
+def get_odds_api_key() -> str:
+    """Return the Odds API key from the environment, or raise a clear error.
+
+    Raises
+    ------
+    RuntimeError
+        If the ODDS_API_KEY environment variable is not set.
+    """
+    api_key = os.environ.get("ODDS_API_KEY")
+    if not api_key:
+        raise RuntimeError(
+            "ODDS_API_KEY environment variable is not set. Set it to your "
+            "the-odds-api.com API key to use the odds tools."
+        )
+    return api_key
 
 
 def get_multiple_player_stats(
@@ -473,6 +496,84 @@ def setup_mlb_tools(mcp):
                 return {"error": f"API error: {response.status_code}"}
 
             return response.data
+        except Exception as e:
+            return {"error": str(e)}
+
+    @mcp.tool()
+    def get_mlb_odds(
+        markets: str = "h2h,totals",
+        regions: str = "us",
+        odds_format: str = "american",
+    ) -> dict:
+        """
+        Get current betting odds for MLB games from The Odds API.
+
+        Requires the ODDS_API_KEY environment variable to be set to a valid
+        the-odds-api.com API key.
+
+        Args:
+            markets (str): Comma-separated betting markets (default: "h2h,totals").
+            regions (str): Comma-separated bookmaker regions (default: "us").
+            odds_format (str): Odds format, "american" or "decimal" (default: "american").
+
+        Returns:
+            dict: Odds data under "odds" plus the remaining/used quota headers, or an
+                error dict on failure.
+        """
+        api_key = get_odds_api_key()
+        try:
+            response = requests.get(
+                f"{ODDS_API_BASE_URL}/sports/baseball_mlb/odds",
+                params={
+                    "apiKey": api_key,
+                    "markets": markets,
+                    "regions": regions,
+                    "oddsFormat": odds_format,
+                },
+                timeout=30,
+            )
+
+            if 400 <= response.status_code <= 499:
+                return {"error": f"API error: {response.status_code} {response.text}"}
+            response.raise_for_status()
+
+            return {
+                "requests_remaining": response.headers.get("x-requests-remaining"),
+                "requests_used": response.headers.get("x-requests-used"),
+                "odds": response.json(),
+            }
+        except Exception as e:
+            return {"error": str(e)}
+
+    @mcp.tool()
+    def get_odds_usage() -> dict:
+        """
+        Get the remaining and used request quota for The Odds API.
+
+        Makes a lightweight call to The Odds API (the /sports listing, which does not
+        consume quota) and returns the quota headers, for monitoring usage. Requires
+        the ODDS_API_KEY environment variable to be set.
+
+        Returns:
+            dict: {"requests_remaining": ..., "requests_used": ...}, or an error dict
+                on failure.
+        """
+        api_key = get_odds_api_key()
+        try:
+            response = requests.get(
+                f"{ODDS_API_BASE_URL}/sports",
+                params={"apiKey": api_key},
+                timeout=30,
+            )
+
+            if 400 <= response.status_code <= 499:
+                return {"error": f"API error: {response.status_code} {response.text}"}
+            response.raise_for_status()
+
+            return {
+                "requests_remaining": response.headers.get("x-requests-remaining"),
+                "requests_used": response.headers.get("x-requests-used"),
+            }
         except Exception as e:
             return {"error": str(e)}
 

@@ -13,6 +13,7 @@ dependencies = [
     "python-mlb-statsapi>=0.5.26",
     "uvicorn[standard]>=0.24.0",
     "pybaseball>=2.2.7",
+    "requests>=2.28",
 ]
 
 [project.optional-dependencies]
