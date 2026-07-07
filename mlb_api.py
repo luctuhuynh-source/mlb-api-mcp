@@ -1108,3 +1108,135 @@ def setup_mlb_tools(mcp):
             return result
         except Exception as e:
             return {"error": str(e)}
+# ============================================================
+# get_park_weather — Open-Meteo park weather for mlb-api-mcp
+# Free, no API key. Paste into the same file where your other
+# tools (e.g. get_mlb_odds) are registered with @mcp.tool().
+# ============================================================
+
+
+
+# team: (park name, lat, lon, roof type)
+# roof: "open" | "retractable" | "dome"
+MLB_PARKS = {
+    "ARI": ("Chase Field", 33.4453, -112.0667, "retractable"),
+    "ATH": ("Sutter Health Park (Sacramento)", 38.5802, -121.5136, "open"),
+    "ATL": ("Truist Park", 33.8908, -84.4678, "open"),
+    "BAL": ("Camden Yards", 39.2839, -76.6217, "open"),
+    "BOS": ("Fenway Park", 42.3467, -71.0972, "open"),
+    "CHC": ("Wrigley Field", 41.9484, -87.6553, "open"),
+    "CWS": ("Rate Field", 41.8299, -87.6338, "open"),
+    "CIN": ("Great American Ball Park", 39.0975, -84.5066, "open"),
+    "CLE": ("Progressive Field", 41.4962, -81.6852, "open"),
+    "COL": ("Coors Field", 39.7559, -104.9942, "open"),
+    "DET": ("Comerica Park", 42.3390, -83.0485, "open"),
+    "HOU": ("Daikin Park", 29.7573, -95.3555, "retractable"),
+    "KC":  ("Kauffman Stadium", 39.0517, -94.4803, "open"),
+    "LAA": ("Angel Stadium", 33.8003, -117.8827, "open"),
+    "LAD": ("Dodger Stadium", 34.0739, -118.2400, "open"),
+    "MIA": ("loanDepot park", 25.7781, -80.2196, "retractable"),
+    "MIL": ("American Family Field", 43.0280, -87.9712, "retractable"),
+    "MIN": ("Target Field", 44.9817, -93.2776, "open"),
+    "NYM": ("Citi Field", 40.7571, -73.8458, "open"),
+    "NYY": ("Yankee Stadium", 40.8296, -73.9262, "open"),
+    "PHI": ("Citizens Bank Park", 39.9061, -75.1665, "open"),
+    "PIT": ("PNC Park", 40.4469, -80.0057, "open"),
+    "SD":  ("Petco Park", 32.7076, -117.1570, "open"),
+    "SEA": ("T-Mobile Park", 47.5914, -122.3325, "retractable"),
+    "SF":  ("Oracle Park", 37.7786, -122.3893, "open"),
+    "STL": ("Busch Stadium", 38.6226, -90.1928, "open"),
+    "TB":  ("Tropicana Field", 27.7683, -82.6534, "dome"),
+    "TEX": ("Globe Life Field", 32.7473, -97.0847, "retractable"),
+    "TOR": ("Rogers Centre", 43.6414, -79.3894, "retractable"),
+    "WSH": ("Nationals Park", 38.8730, -77.0074, "open"),
+}
+
+OPEN_METEO_URL = "https://api.open-meteo.com/v1/forecast"
+
+
+@mcp.tool()
+def get_park_weather(team: str, hours: int = 12) -> dict:
+    """Get current conditions and hourly forecast at an MLB park via Open-Meteo.
+
+    Returns temperature (F), wind speed/gusts (mph), wind direction (degrees),
+    humidity, and precipitation probability, starting from the current hour.
+
+    Args:
+        team: Team abbreviation (e.g., 'SD', 'SF', 'COL'). See MLB_PARKS keys.
+        hours: Number of forecast hours to return (default 12, max 48).
+    """
+    key = team.upper().strip()
+    if key not in MLB_PARKS:
+        return {
+            "error": f"Unknown team '{team}'.",
+            "valid_teams": sorted(MLB_PARKS.keys()),
+        }
+
+    park_name, lat, lon, roof = MLB_PARKS[key]
+    hours = max(1, min(int(hours), 48))
+
+    params = {
+        "latitude": lat,
+        "longitude": lon,
+        "current": "temperature_2m,relative_humidity_2m,wind_speed_10m,"
+                   "wind_gusts_10m,wind_direction_10m,precipitation",
+        "hourly": "temperature_2m,relative_humidity_2m,wind_speed_10m,"
+                  "wind_gusts_10m,wind_direction_10m,precipitation_probability",
+        "forecast_days": 2,
+        "timezone": "auto",
+        "wind_speed_unit": "mph",
+        "temperature_unit": "fahrenheit",
+        "precipitation_unit": "inch",
+    }
+
+    try:
+        resp = requests.get(OPEN_METEO_URL, params=params, timeout=15)
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception as e:
+        return {"error": f"Open-Meteo request failed: {e}"}
+
+    current = data.get("current", {})
+    hourly = data.get("hourly", {})
+    times = hourly.get("time", [])
+
+    # Trim hourly arrays to start at the current hour, length = hours
+    now_iso = current.get("time", "")
+    start_idx = 0
+    if now_iso and now_iso[:13] + ":00" in times:
+        start_idx = times.index(now_iso[:13] + ":00")
+
+    def slice_h(field):
+        vals = hourly.get(field, [])
+        return vals[start_idx:start_idx + hours]
+
+    forecast = []
+    for i, t in enumerate(times[start_idx:start_idx + hours]):
+        forecast.append({
+            "time": t,
+            "temp_f": slice_h("temperature_2m")[i],
+            "humidity_pct": slice_h("relative_humidity_2m")[i],
+            "wind_mph": slice_h("wind_speed_10m")[i],
+            "gusts_mph": slice_h("wind_gusts_10m")[i],
+            "wind_dir_deg": slice_h("wind_direction_10m")[i],
+            "precip_prob_pct": slice_h("precipitation_probability")[i],
+        })
+
+    return {
+        "team": key,
+        "park": park_name,
+        "roof": roof,
+        "timezone": data.get("timezone"),
+        "current": {
+            "time": current.get("time"),
+            "temp_f": current.get("temperature_2m"),
+            "humidity_pct": current.get("relative_humidity_2m"),
+            "wind_mph": current.get("wind_speed_10m"),
+            "gusts_mph": current.get("wind_gusts_10m"),
+            "wind_dir_deg": current.get("wind_direction_10m"),
+            "precip_in": current.get("precipitation"),
+        },
+        "hourly_forecast": forecast,
+        "note": "Wind direction is meteorological (direction wind comes FROM). "
+                "For dome/retractable parks, conditions may not apply if roof is closed.",
+    }
