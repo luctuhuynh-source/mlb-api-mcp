@@ -1235,139 +1235,139 @@ def setup_mlb_tools(mcp):
         }
 
 
-# ============================================================
-# PASTE BOTH FUNCTIONS AT THE VERY END OF mlb_api.py
-#
-# CRITICAL: The "@mcp.tool()" lines below must start in the
-# SAME COLUMN as the "@mcp.tool()" on line 1150 (above
-# get_park_weather). If that line is indented 4 spaces, select
-# this entire pasted block in the GitHub editor and press Tab
-# once to indent everything by 4.
-# ============================================================
-
-from datetime import datetime as _dt
-
-
-@mcp.tool()
-def get_mlb_probable_pitchers(date: str = None) -> dict:
-    """Get probable starting pitchers for all MLB games on a date.
-
-    Args:
-        date: Date in 'YYYY-MM-DD' format. Defaults to today.
-    """
-    if date is None:
-        date = _dt.now().strftime("%Y-%m-%d")
-    url = "https://statsapi.mlb.com/api/v1/schedule"
-    params = {
-        "sportId": 1,
-        "date": date,
-        "hydrate": "probablePitcher(note)",
-    }
-    try:
-        resp = requests.get(url, params=params, timeout=15)
-        resp.raise_for_status()
-        data = resp.json()
-    except Exception as e:
-        return {"error": f"MLB schedule request failed: {e}"}
-
-    games = []
-    for d in data.get("dates", []):
-        for g in d.get("games", []):
-
-            def _side(team_side):
-                t = g.get("teams", {}).get(team_side, {})
-                pp = t.get("probablePitcher") or {}
-                return {
-                    "team": (t.get("team") or {}).get("name"),
-                    "probable_pitcher": pp.get("fullName", "TBD"),
-                    "pitcher_id": pp.get("id"),
-                }
-
+    # ============================================================
+    # PASTE BOTH FUNCTIONS AT THE VERY END OF mlb_api.py
+    #
+    # CRITICAL: The "@mcp.tool()" lines below must start in the
+    # SAME COLUMN as the "@mcp.tool()" on line 1150 (above
+    # get_park_weather). If that line is indented 4 spaces, select
+    # this entire pasted block in the GitHub editor and press Tab
+    # once to indent everything by 4.
+    # ============================================================
+    
+    from datetime import datetime as _dt
+    
+    
+    @mcp.tool()
+    def get_mlb_probable_pitchers(date: str = None) -> dict:
+        """Get probable starting pitchers for all MLB games on a date.
+    
+        Args:
+            date: Date in 'YYYY-MM-DD' format. Defaults to today.
+        """
+        if date is None:
+            date = _dt.now().strftime("%Y-%m-%d")
+        url = "https://statsapi.mlb.com/api/v1/schedule"
+        params = {
+            "sportId": 1,
+            "date": date,
+            "hydrate": "probablePitcher(note)",
+        }
+        try:
+            resp = requests.get(url, params=params, timeout=15)
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception as e:
+            return {"error": f"MLB schedule request failed: {e}"}
+    
+        games = []
+        for d in data.get("dates", []):
+            for g in d.get("games", []):
+    
+                def _side(team_side):
+                    t = g.get("teams", {}).get(team_side, {})
+                    pp = t.get("probablePitcher") or {}
+                    return {
+                        "team": (t.get("team") or {}).get("name"),
+                        "probable_pitcher": pp.get("fullName", "TBD"),
+                        "pitcher_id": pp.get("id"),
+                    }
+    
+                games.append(
+                    {
+                        "game_id": g.get("gamePk"),
+                        "game_time_utc": g.get("gameDate"),
+                        "venue": (g.get("venue") or {}).get("name"),
+                        "status": (g.get("status") or {}).get("detailedState"),
+                        "away": _side("away"),
+                        "home": _side("home"),
+                    }
+                )
+        return {"date": date, "games": games}
+    
+    
+    @mcp.tool()
+    def get_mlb_pitcher_game_log(
+        player_id: int, season: int = None, last_n: int = 5
+    ) -> dict:
+        """Get a pitcher's recent game-by-game log with a trailing-window summary.
+    
+        Args:
+            player_id: MLBAM player ID (from roster or search results).
+            season: Season year. Defaults to the current year.
+            last_n: Number of most recent appearances to return (default 5).
+        """
+        if season is None:
+            season = _dt.now().year
+        url = f"https://statsapi.mlb.com/api/v1/people/{player_id}/stats"
+        params = {"stats": "gameLog", "group": "pitching", "season": season}
+        try:
+            resp = requests.get(url, params=params, timeout=15)
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception as e:
+            return {"error": f"MLB game log request failed: {e}"}
+    
+        splits = []
+        for block in data.get("stats", []):
+            splits.extend(block.get("splits", []))
+        splits.sort(key=lambda s: s.get("date", ""), reverse=True)
+    
+        games = []
+        for s in splits[: max(1, int(last_n))]:
+            st = s.get("stat", {})
             games.append(
                 {
-                    "game_id": g.get("gamePk"),
-                    "game_time_utc": g.get("gameDate"),
-                    "venue": (g.get("venue") or {}).get("name"),
-                    "status": (g.get("status") or {}).get("detailedState"),
-                    "away": _side("away"),
-                    "home": _side("home"),
+                    "date": s.get("date"),
+                    "opponent": (s.get("opponent") or {}).get("name"),
+                    "is_home": s.get("isHome"),
+                    "innings_pitched": st.get("inningsPitched"),
+                    "earned_runs": st.get("earnedRuns"),
+                    "runs": st.get("runs"),
+                    "hits": st.get("hits"),
+                    "walks": st.get("baseOnBalls"),
+                    "strikeouts": st.get("strikeOuts"),
+                    "home_runs": st.get("homeRuns"),
+                    "pitches": st.get("numberOfPitches"),
                 }
             )
-    return {"date": date, "games": games}
-
-
-@mcp.tool()
-def get_mlb_pitcher_game_log(
-    player_id: int, season: int = None, last_n: int = 5
-) -> dict:
-    """Get a pitcher's recent game-by-game log with a trailing-window summary.
-
-    Args:
-        player_id: MLBAM player ID (from roster or search results).
-        season: Season year. Defaults to the current year.
-        last_n: Number of most recent appearances to return (default 5).
-    """
-    if season is None:
-        season = _dt.now().year
-    url = f"https://statsapi.mlb.com/api/v1/people/{player_id}/stats"
-    params = {"stats": "gameLog", "group": "pitching", "season": season}
-    try:
-        resp = requests.get(url, params=params, timeout=15)
-        resp.raise_for_status()
-        data = resp.json()
-    except Exception as e:
-        return {"error": f"MLB game log request failed: {e}"}
-
-    splits = []
-    for block in data.get("stats", []):
-        splits.extend(block.get("splits", []))
-    splits.sort(key=lambda s: s.get("date", ""), reverse=True)
-
-    games = []
-    for s in splits[: max(1, int(last_n))]:
-        st = s.get("stat", {})
-        games.append(
-            {
-                "date": s.get("date"),
-                "opponent": (s.get("opponent") or {}).get("name"),
-                "is_home": s.get("isHome"),
-                "innings_pitched": st.get("inningsPitched"),
-                "earned_runs": st.get("earnedRuns"),
-                "runs": st.get("runs"),
-                "hits": st.get("hits"),
-                "walks": st.get("baseOnBalls"),
-                "strikeouts": st.get("strikeOuts"),
-                "home_runs": st.get("homeRuns"),
-                "pitches": st.get("numberOfPitches"),
-            }
-        )
-
-    def _ip_to_outs(ip):
-        try:
-            whole, _, frac = str(ip).partition(".")
-            return int(whole) * 3 + (int(frac) if frac else 0)
-        except Exception:
-            return 0
-
-    outs = sum(_ip_to_outs(g["innings_pitched"]) for g in games)
-    er = sum(int(g["earned_runs"] or 0) for g in games)
-    bb = sum(int(g["walks"] or 0) for g in games)
-    h = sum(int(g["hits"] or 0) for g in games)
-    k = sum(int(g["strikeouts"] or 0) for g in games)
-    ip_float = outs / 3 if outs else 0
-
-    summary = {
-        "games": len(games),
-        "innings_pitched": round(ip_float, 1),
-        "era": round(er * 9 / ip_float, 2) if ip_float else None,
-        "whip": round((bb + h) / ip_float, 2) if ip_float else None,
-        "strikeouts": k,
-        "earned_runs": er,
-    }
-    return {
-        "player_id": player_id,
-        "season": season,
-        "last_n": len(games),
-        "trailing_summary": summary,
-        "game_log": games,
-    }
+    
+        def _ip_to_outs(ip):
+            try:
+                whole, _, frac = str(ip).partition(".")
+                return int(whole) * 3 + (int(frac) if frac else 0)
+            except Exception:
+                return 0
+    
+        outs = sum(_ip_to_outs(g["innings_pitched"]) for g in games)
+        er = sum(int(g["earned_runs"] or 0) for g in games)
+        bb = sum(int(g["walks"] or 0) for g in games)
+        h = sum(int(g["hits"] or 0) for g in games)
+        k = sum(int(g["strikeouts"] or 0) for g in games)
+        ip_float = outs / 3 if outs else 0
+    
+        summary = {
+            "games": len(games),
+            "innings_pitched": round(ip_float, 1),
+            "era": round(er * 9 / ip_float, 2) if ip_float else None,
+            "whip": round((bb + h) / ip_float, 2) if ip_float else None,
+            "strikeouts": k,
+            "earned_runs": er,
+        }
+        return {
+            "player_id": player_id,
+            "season": season,
+            "last_n": len(games),
+            "trailing_summary": summary,
+            "game_log": games,
+        }
