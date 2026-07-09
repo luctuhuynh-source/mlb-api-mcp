@@ -276,6 +276,148 @@ def setup_mlb_tools(mcp):
 #   and shows the game count + estimated spend before committing.
 # ============================================================
 
+    # ============================================================
+    # PATCH: get_f5_lines_for_games - batch historical F5 closing lines
+    # For: luctuhuynh-source/mlb-api-mcp -> mlb_api.py
+    #
+    # WHERE TO PASTE:
+    #   Inside setup_mlb_tools(mcp), at the VERY END of the function,
+    #   right after your last tool (the 3 historical odds tools).
+    #   This block is ALREADY INDENTED 4 SPACES for direct paste.
+    #   The @mcp.tool() line must line up in the same column as the
+    #   @mcp.tool() lines above it.
+    #
+    # CREDIT COST: ~1 credit per unique date + ~10 per game.
+    #   All 62 backtest games across 3 calls =~ 670 credits.
+    # ============================================================
+    @mcp.tool()
+    def get_f5_lines_for_games(
+        games: str,
+        minutes_before_start: int = 7,
+        markets: str = "totals_1st_5_innings",
+        regions: str = "us",
+        odds_format: str = "american",
+    ) -> dict:
+        """Batch-pull historical F5 closing lines for SPECIFIC games only.
+
+        games: semicolon-separated entries of 'YYYY-MM-DD|Away Team|Home Team'
+          using full team names, e.g.
+          '2026-04-14|Seattle Mariners|San Diego Padres;2026-05-18|Los Angeles Dodgers|San Diego Padres'
+          Max ~25 per call. Date = the game's LOCAL calendar date (UTC date of
+          first pitch may be the next day for West Coast night games; both are
+          checked).
+
+        Returns compact per-game closing lines (one snapshot per game at
+        minutes_before_start before first pitch) instead of full-slate pulls.
+        Credit cost ~= (#unique dates) + (#games x #markets x #regions x 10)/10.
+        """
+        import os, requests
+        from datetime import datetime, timedelta
+
+        api_key = os.environ.get("ODDS_API_KEY")
+        if not api_key:
+            return {"error": "ODDS_API_KEY not configured"}
+
+        BASE = "https://api.the-odds-api.com/v4/historical/sports/baseball_mlb"
+
+        entries = []
+        for raw in games.split(";"):
+            raw = raw.strip()
+            if not raw:
+                continue
+            parts = [p.strip() for p in raw.split("|")]
+            if len(parts) != 3:
+                return {"error": f"Bad entry '{raw}'. Use 'YYYY-MM-DD|Away|Home'."}
+            entries.append({"date": parts[0], "away": parts[1], "home": parts[2]})
+        if len(entries) > 25:
+            return {"error": "Max 25 games per call."}
+
+        def norm(s):
+            return "".join(c for c in s.lower() if c.isalnum())
+
+        # --- 1) One event-list call per unique date (covers UTC spillover) ---
+        events_by_date = {}
+        quota = {}
+        for d in sorted({e["date"] for e in entries}):
+            day = datetime.strptime(d, "%Y-%m-%d")
+            snap = day.strftime("%Y-%m-%dT18:00:00Z")
+            cf = day.strftime("%Y-%m-%dT10:00:00Z")
+            ct = (day + timedelta(days=1)).strftime("%Y-%m-%dT10:00:00Z")
+            r = requests.get(
+                f"{BASE}/events",
+                params={
+                    "apiKey": api_key, "date": snap,
+                    "commenceTimeFrom": cf, "commenceTimeTo": ct,
+                }, timeout=30,
+            )
+            quota = {
+                "requests_remaining": r.headers.get("x-requests-remaining"),
+                "requests_used": r.headers.get("x-requests-used"),
+            }
+            if r.status_code != 200:
+                return {"error": f"events {d}: HTTP {r.status_code}", "detail": r.text[:300]}
+            events_by_date[d] = (r.json() or {}).get("data", [])
+
+        # --- 2) One odds snapshot per matched game ---
+        results, unmatched = [], []
+        for e in entries:
+            match = None
+            for ev in events_by_date.get(e["date"], []):
+                if norm(ev.get("away_team", "")) == norm(e["away"]) and \
+                   norm(ev.get("home_team", "")) == norm(e["home"]):
+                    match = ev
+                    break
+            if match is None:  # loose fallback
+                for ev in events_by_date.get(e["date"], []):
+                    if norm(e["home"]) in norm(ev.get("home_team", "")) and \
+                       norm(e["away"]) in norm(ev.get("away_team", "")):
+                        match = ev
+                        break
+            if match is None:
+                unmatched.append(e)
+                continue
+
+            commence = datetime.strptime(match["commence_time"], "%Y-%m-%dT%H:%M:%SZ")
+            snap_ts = (commence - timedelta(minutes=minutes_before_start)).strftime("%Y-%m-%dT%H:%M:%SZ")
+            r = requests.get(
+                f"{BASE}/events/{match['id']}/odds",
+                params={
+                    "apiKey": api_key, "date": snap_ts, "regions": regions,
+                    "markets": markets, "oddsFormat": odds_format,
+                }, timeout=30,
+            )
+            quota = {
+                "requests_remaining": r.headers.get("x-requests-remaining"),
+                "requests_used": r.headers.get("x-requests-used"),
+            }
+            if r.status_code != 200:
+                results.append({**e, "error": f"HTTP {r.status_code}"})
+                continue
+            data = (r.json() or {}).get("data", {})
+            books = []
+            for bk in data.get("bookmakers", []):
+                for mkt in bk.get("markets", []):
+                    if mkt.get("key") != "totals_1st_5_innings":
+                        continue
+                    line = over = under = None
+                    for oc in mkt.get("outcomes", []):
+                        if oc.get("name") == "Over":
+                            line, over = oc.get("point"), oc.get("price")
+                        elif oc.get("name") == "Under":
+                            line = oc.get("point") if line is None else line
+                            under = oc.get("price")
+                    books.append({"b": bk.get("key"), "ln": line, "o": over, "u": under})
+            results.append({
+                "date": e["date"], "away": e["away"], "home": e["home"],
+                "commence": match["commence_time"], "snapshot": snap_ts,
+                "books": books,
+            })
+
+        return {
+            "count": len(results), "results": results,
+            "unmatched": unmatched, **quota,
+        }
+    
     @mcp.tool()
     def get_mlb_historical_events(
         date: str,
