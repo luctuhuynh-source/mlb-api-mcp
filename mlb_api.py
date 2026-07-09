@@ -439,15 +439,18 @@ def setup_mlb_tools(mcp):
             return {"error": "ODDS_API_KEY not set"}
         from datetime import datetime, timedelta
 
-        day_start = f"{date}T00:00:00Z"
-        day_end = f"{date}T23:59:59Z"
+        slate = datetime.strptime(date, "%Y-%m-%d")
+        day_start = (slate + timedelta(hours=14)).strftime("%Y-%m-%dT%H:%M:%SZ")
+        day_end = (slate + timedelta(hours=33)).strftime("%Y-%m-%dT%H:%M:%SZ")
+        snapshot_ts = (slate + timedelta(hours=26)).strftime("%Y-%m-%dT%H:%M:%SZ")
+        
         # Snapshot for the event list: end of day guarantees all games listed
         try:
             r = requests.get(
                 "https://api.the-odds-api.com/v4/historical/sports/baseball_mlb/events",
                 params={
                     "apiKey": api_key,
-                    "date": day_end,
+                    "date": snapshot_ts,
                     "commenceTimeFrom": day_start,
                     "commenceTimeTo": day_end,
                 },
