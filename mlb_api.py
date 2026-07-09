@@ -442,7 +442,7 @@ def setup_mlb_tools(mcp):
         slate = datetime.strptime(date, "%Y-%m-%d")
         day_start = (slate + timedelta(hours=14)).strftime("%Y-%m-%dT%H:%M:%SZ")
         day_end = (slate + timedelta(hours=33)).strftime("%Y-%m-%dT%H:%M:%SZ")
-        snapshot_ts = (slate + timedelta(hours=26)).strftime("%Y-%m-%dT%H:%M:%SZ")
+        snapshot_ts = (slate + timedelta(hours=16)).strftime("%Y-%m-%dT%H:%M:%SZ")
         
         # Snapshot for the event list: end of day guarantees all games listed
         try:
