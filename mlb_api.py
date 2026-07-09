@@ -244,6 +244,67 @@ def validate_date_range(start_date: str, end_date: str) -> Optional[dict]:
 def setup_mlb_tools(mcp):
     """Setup MLB tools for the MCP server"""
 
+    # get_f5_results — batch F5/final results tool for mlb-api-mcp
+#
+# INSTALL: Paste this function INSIDE setup_mlb_tools(mcp) in mlb_api.py,
+# indented 4 spaces (same level as the other @mcp.tool() functions).
+# Then commit + push; Railway will auto-redeploy.
+
+    @mcp.tool()
+    def get_f5_results(game_ids: str) -> dict:
+        """Get compact first-5-inning (F5) and final results for multiple games in one call.
+
+        Args:
+            game_ids: Comma-separated MLB gamePks, e.g. "823387,824439,822736".
+                      Recommended max ~25 per call.
+
+        Returns per game: date, teams, F5 score by side, F5 winner (or TIE),
+        final score, total hits per side (for outburst verification), and
+        innings played (for extra-innings / long-game checks).
+        Designed for backtest grading: ~150 bytes per game instead of a
+        full 15KB linescore payload.
+        """
+        import requests
+        results = []
+        ids = [g.strip() for g in str(game_ids).split(",") if g.strip()]
+        for gid in ids[:25]:
+            try:
+                ls = requests.get(
+                    f"https://statsapi.mlb.com/api/v1/game/{gid}/linescore",
+                    timeout=10,
+                ).json()
+                sched = requests.get(
+                    f"https://statsapi.mlb.com/api/v1/schedule?gamePk={gid}&sportId=1",
+                    timeout=10,
+                ).json()
+                g = sched["dates"][0]["games"][0]
+                away = g["teams"]["away"]["team"]["name"]
+                home = g["teams"]["home"]["team"]["name"]
+                innings = ls.get("innings", [])
+                f5_away = sum(i["away"].get("runs") or 0 for i in innings[:5])
+                f5_home = sum(i["home"].get("runs") or 0 for i in innings[:5])
+                results.append({
+                    "game_id": int(gid),
+                    "date": g.get("officialDate"),
+                    "away": away,
+                    "home": home,
+                    "f5_away_runs": f5_away,
+                    "f5_home_runs": f5_home,
+                    "f5_winner": (
+                        away if f5_away > f5_home
+                        else home if f5_home > f5_away
+                        else "TIE"
+                    ),
+                    "final_away_runs": ls["teams"]["away"].get("runs"),
+                    "final_home_runs": ls["teams"]["home"].get("runs"),
+                    "away_hits": ls["teams"]["away"].get("hits"),
+                    "home_hits": ls["teams"]["home"].get("hits"),
+                    "innings_played": ls.get("currentInning"),
+                })
+            except Exception as e:
+                results.append({"game_id": gid, "error": str(e)})
+        return {"count": len(results), "results": results}
+
     @mcp.tool()
     def get_mlb_standings(
         season: Optional[int] = None,
