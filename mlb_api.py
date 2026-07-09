@@ -250,6 +250,308 @@ def setup_mlb_tools(mcp):
 # indented 4 spaces (same level as the other @mcp.tool() functions).
 # Then commit + push; Railway will auto-redeploy.
 
+# ============================================================
+# PATCH: Historical F5 odds backtest tools (3 tools)
+# For: luctuhuynh-source/mlb-api-mcp  ->  mlb_api.py
+#
+# WHERE TO PASTE:
+#   Inside setup_mlb_tools(mcp), at the very end of the function,
+#   right after your last tool (get_f5_results / get_park_weather).
+#   This block is ALREADY INDENTED 4 SPACES for direct paste.
+#   Never flush-left. The "@mcp.tool()" lines must line up in the
+#   same column as the @mcp.tool() above get_park_weather.
+#
+# REQUIREMENTS:
+#   - PAID Odds API plan (historical endpoints locked on free tier)
+#   - ODDS_API_KEY env var on Railway = your NEW 100K-plan key
+#     (already confirmed working via get_odds_usage: 100,000 remaining)
+#   - `import os` and `import requests` already at top of mlb_api.py
+#
+# CREDIT COSTS:
+#   - get_mlb_historical_events ......... 1 credit per call
+#   - get_mlb_f5_odds_historical ........ 10 credits x markets x regions
+#   - get_mlb_f5_closing_lines .......... 1 + (10 x games) with defaults
+#       e.g. 15-game slate = ~151 credits for closing F5 totals
+#   dry_run=True (the default on the batch tool) costs only 1 credit
+#   and shows the game count + estimated spend before committing.
+# ============================================================
+
+    @mcp.tool()
+    def get_mlb_historical_events(
+        date: str,
+        commence_time_from: str = None,
+        commence_time_to: str = None,
+    ) -> dict:
+        """List MLB events as they appeared at a historical snapshot (no odds).
+
+        Use this first to get the 32-char event IDs needed by
+        get_mlb_f5_odds_historical.
+
+        Args:
+            date: ISO8601 snapshot timestamp, e.g. '2025-07-03T15:00:00Z'.
+                  Returns the closest snapshot at or before this time.
+            commence_time_from: optional ISO8601 lower bound on game start
+                  (use to restrict to a single day's slate).
+            commence_time_to: optional ISO8601 upper bound on game start.
+
+        Cost: 1 credit.
+        """
+        api_key = os.environ.get("ODDS_API_KEY")
+        if not api_key:
+            return {"error": "ODDS_API_KEY not set"}
+        params = {"apiKey": api_key, "date": date}
+        if commence_time_from:
+            params["commenceTimeFrom"] = commence_time_from
+        if commence_time_to:
+            params["commenceTimeTo"] = commence_time_to
+        try:
+            r = requests.get(
+                "https://api.the-odds-api.com/v4/historical/sports/baseball_mlb/events",
+                params=params,
+                timeout=30,
+            )
+            if r.status_code != 200:
+                return {"error": f"HTTP {r.status_code}: {r.text[:300]}"}
+            payload = r.json()
+            events = payload.get("data", [])
+            return {
+                "snapshot_timestamp": payload.get("timestamp"),
+                "previous_snapshot": payload.get("previous_timestamp"),
+                "next_snapshot": payload.get("next_timestamp"),
+                "event_count": len(events),
+                "events": [
+                    {
+                        "event_id": e.get("id"),
+                        "commence_time": e.get("commence_time"),
+                        "home_team": e.get("home_team"),
+                        "away_team": e.get("away_team"),
+                    }
+                    for e in events
+                ],
+                "requests_remaining": r.headers.get("x-requests-remaining"),
+                "requests_used": r.headers.get("x-requests-used"),
+            }
+        except Exception as ex:
+            return {"error": str(ex)}
+
+    @mcp.tool()
+    def get_mlb_f5_odds_historical(
+        event_id: str,
+        date: str,
+        markets: str = "totals_1st_5_innings",
+        regions: str = "us",
+        odds_format: str = "american",
+    ) -> dict:
+        """Get one game's historical F5 odds at a snapshot timestamp.
+
+        For CLOSING lines use a timestamp ~7 minutes before first pitch.
+        For OPENING lines use ~24h before first pitch.
+        The API returns the closest snapshot at or before `date`.
+
+        Args:
+            event_id: 32-char event ID from get_mlb_historical_events.
+            date: ISO8601 snapshot timestamp, e.g. '2025-04-14T19:03:00Z'.
+            markets: comma-separated. F5 keys: totals_1st_5_innings,
+                     h2h_1st_5_innings, spreads_1st_5_innings.
+            regions: bookmaker regions (default 'us').
+            odds_format: 'american' or 'decimal'.
+
+        Cost: 10 credits x number_of_markets x number_of_regions.
+        """
+        api_key = os.environ.get("ODDS_API_KEY")
+        if not api_key:
+            return {"error": "ODDS_API_KEY not set"}
+        params = {
+            "apiKey": api_key,
+            "date": date,
+            "markets": markets,
+            "regions": regions,
+            "oddsFormat": odds_format,
+        }
+        try:
+            r = requests.get(
+                f"https://api.the-odds-api.com/v4/historical/sports/baseball_mlb/events/{event_id}/odds",
+                params=params,
+                timeout=30,
+            )
+            if r.status_code != 200:
+                return {"error": f"HTTP {r.status_code}: {r.text[:300]}"}
+            payload = r.json()
+            data = payload.get("data", {})
+            books = []
+            for bk in data.get("bookmakers", []):
+                entry = {"book": bk.get("key"), "markets": {}}
+                for m in bk.get("markets", []):
+                    entry["markets"][m.get("key")] = [
+                        {
+                            "name": o.get("name"),
+                            "price": o.get("price"),
+                            "point": o.get("point"),
+                        }
+                        for o in m.get("outcomes", [])
+                    ]
+                books.append(entry)
+            return {
+                "snapshot_timestamp": payload.get("timestamp"),
+                "previous_snapshot": payload.get("previous_timestamp"),
+                "next_snapshot": payload.get("next_timestamp"),
+                "event_id": data.get("id"),
+                "commence_time": data.get("commence_time"),
+                "home_team": data.get("home_team"),
+                "away_team": data.get("away_team"),
+                "bookmakers": books,
+                "requests_remaining": r.headers.get("x-requests-remaining"),
+                "requests_used": r.headers.get("x-requests-used"),
+            }
+        except Exception as ex:
+            return {"error": str(ex)}
+
+    @mcp.tool()
+    def get_mlb_f5_closing_lines(
+        date: str,
+        dry_run: bool = True,
+        markets: str = "totals_1st_5_innings",
+        regions: str = "us",
+        odds_format: str = "american",
+        minutes_before_start: int = 7,
+    ) -> dict:
+        """Batch-pull historical F5 CLOSING lines for a full day's slate.
+
+        Lists all games on the date (1 credit), then pulls each game's F5
+        odds at a snapshot ~minutes_before_start before its first pitch.
+
+        SAFETY: dry_run defaults to True — it lists the games and the
+        estimated credit cost WITHOUT pulling any odds. Re-run with
+        dry_run=False to actually spend the credits.
+
+        Args:
+            date: slate date, 'YYYY-MM-DD' (games starting that UTC day).
+            dry_run: True = preview count/cost only (1 credit total).
+            markets: comma-separated F5 market keys.
+            regions: bookmaker regions (default 'us').
+            odds_format: 'american' or 'decimal'.
+            minutes_before_start: snapshot offset for the closer (default 7).
+
+        Cost: 1 credit (dry run) or ~1 + 10 x markets x regions x games.
+        """
+        api_key = os.environ.get("ODDS_API_KEY")
+        if not api_key:
+            return {"error": "ODDS_API_KEY not set"}
+        from datetime import datetime, timedelta
+
+        day_start = f"{date}T00:00:00Z"
+        day_end = f"{date}T23:59:59Z"
+        # Snapshot for the event list: end of day guarantees all games listed
+        try:
+            r = requests.get(
+                "https://api.the-odds-api.com/v4/historical/sports/baseball_mlb/events",
+                params={
+                    "apiKey": api_key,
+                    "date": day_end,
+                    "commenceTimeFrom": day_start,
+                    "commenceTimeTo": day_end,
+                },
+                timeout=30,
+            )
+            if r.status_code != 200:
+                return {"error": f"HTTP {r.status_code}: {r.text[:300]}"}
+            events = r.json().get("data", [])
+        except Exception as ex:
+            return {"error": f"event list failed: {ex}"}
+
+        n_markets = len([m for m in markets.split(",") if m.strip()])
+        n_regions = len([g for g in regions.split(",") if g.strip()])
+        est_cost = 1 + 10 * n_markets * n_regions * len(events)
+
+        if dry_run:
+            return {
+                "dry_run": True,
+                "date": date,
+                "game_count": len(events),
+                "estimated_credit_cost": est_cost,
+                "games": [
+                    {
+                        "event_id": e.get("id"),
+                        "commence_time": e.get("commence_time"),
+                        "matchup": f"{e.get('away_team')} @ {e.get('home_team')}",
+                    }
+                    for e in events
+                ],
+                "note": "Re-run with dry_run=False to pull closing lines.",
+                "requests_remaining": r.headers.get("x-requests-remaining"),
+            }
+
+        results = []
+        for e in events:
+            try:
+                ct = datetime.strptime(
+                    e["commence_time"], "%Y-%m-%dT%H:%M:%SZ"
+                )
+                snap = (
+                    ct - timedelta(minutes=minutes_before_start)
+                ).strftime("%Y-%m-%dT%H:%M:%SZ")
+                r2 = requests.get(
+                    f"https://api.the-odds-api.com/v4/historical/sports/baseball_mlb/events/{e['id']}/odds",
+                    params={
+                        "apiKey": api_key,
+                        "date": snap,
+                        "markets": markets,
+                        "regions": regions,
+                        "oddsFormat": odds_format,
+                    },
+                    timeout=30,
+                )
+                if r2.status_code != 200:
+                    results.append(
+                        {
+                            "event_id": e.get("id"),
+                            "matchup": f"{e.get('away_team')} @ {e.get('home_team')}",
+                            "error": f"HTTP {r2.status_code}",
+                        }
+                    )
+                    continue
+                p2 = r2.json()
+                d2 = p2.get("data", {})
+                books = []
+                for bk in d2.get("bookmakers", []):
+                    entry = {"book": bk.get("key"), "markets": {}}
+                    for m in bk.get("markets", []):
+                        entry["markets"][m.get("key")] = [
+                            {
+                                "name": o.get("name"),
+                                "price": o.get("price"),
+                                "point": o.get("point"),
+                            }
+                            for o in m.get("outcomes", [])
+                        ]
+                    books.append(entry)
+                results.append(
+                    {
+                        "event_id": e.get("id"),
+                        "matchup": f"{e.get('away_team')} @ {e.get('home_team')}",
+                        "commence_time": e.get("commence_time"),
+                        "snapshot_used": p2.get("timestamp"),
+                        "bookmakers": books,
+                    }
+                )
+                last_remaining = r2.headers.get("x-requests-remaining")
+            except Exception as ex:
+                results.append(
+                    {
+                        "event_id": e.get("id"),
+                        "matchup": f"{e.get('away_team')} @ {e.get('home_team')}",
+                        "error": str(ex),
+                    }
+                )
+        return {
+            "dry_run": False,
+            "date": date,
+            "game_count": len(events),
+            "estimated_credit_cost": est_cost,
+            "closing_lines": results,
+            "requests_remaining": last_remaining if results else None,
+        }    
+    
     @mcp.tool()
     def get_f5_results(game_ids: str) -> dict:
         """Get compact first-5-inning (F5) and final results for multiple games in one call.
