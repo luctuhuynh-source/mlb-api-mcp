@@ -306,6 +306,48 @@ def setup_mlb_tools(mcp):
         return {"count": len(results), "results": results}
 
     @mcp.tool()
+    def get_mlb_f5_odds(markets: str = "totals_1st_5_innings",
+                        regions: str = "us",
+                        odds_format: str = "american") -> dict:
+        """Get F5 (first 5 innings) odds for today's MLB games from The Odds API.
+        Markets: totals_1st_5_innings, h2h_1st_5_innings, spreads_1st_5_innings
+        (comma-separated). NOTE: each event costs [markets x regions] credits."""
+        import os, requests
+        key = os.environ.get("ODDS_API_KEY")
+        if not key:
+            return {"error": "ODDS_API_KEY not set"}
+        base = "https://api.the-odds-api.com/v4/sports/baseball_mlb"
+        # Step A: list today's events (free call)
+        ev = requests.get(f"{base}/events", params={"apiKey": key}, timeout=15)
+        if ev.status_code != 200:
+            return {"error": f"events fetch failed: {ev.status_code}", "body": ev.text[:300]}
+        results, credits_used = [], 0
+        for e in ev.json():
+            r = requests.get(
+                f"{base}/events/{e['id']}/odds",
+                params={"apiKey": key, "regions": regions,
+                        "markets": markets, "oddsFormat": odds_format},
+                timeout=15)
+            if r.status_code != 200:
+                continue
+            credits_used += len(markets.split(",")) * len(regions.split(","))
+            d = r.json()
+            books = []
+            for bk in d.get("bookmakers", []):
+                for m in bk.get("markets", []):
+                    books.append({
+                        "book": bk["key"], "market": m["key"],
+                        "outcomes": [
+                            {"name": o["name"], "price": o["price"],
+                             "point": o.get("point")}
+                            for o in m.get("outcomes", [])]})
+            if books:
+                results.append({"away": d["away_team"], "home": d["home_team"],
+                                "commence": d["commence_time"], "books": books})
+        return {"count": len(results), "approx_credits_used": credits_used,
+                "games": results}
+
+    @mcp.tool()
     def get_mlb_standings(
         season: Optional[int] = None,
         standingsTypes: Optional[str] = None,
