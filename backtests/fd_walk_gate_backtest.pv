@@ -1,0 +1,227 @@
+#!/usr/bin/env python3
+"""
+FanDuel MLB DFS — Anchor Walk-Volatility Gate Backtest (v1.1)
+
+Gate under test:
+    Exclude any starting pitcher with >= GATE_COUNT starts of >= GATE_BB walks
+    in his prior WINDOW starts, regardless of aggregate WHIP/ERA.
+    Default: 2+ starts of 5+ BB in prior 6.
+
+Method:
+    1. Pull every game in [START_DATE, END_DATE] from the free MLB Stats API.
+    2. Extract each starting pitcher's line from the boxscore
+       (IP, ER, K, BB, W) and score it in FanDuel points.
+    3. Sort each pitcher's starts chronologically; for each start, compute
+       gate status using only the PRIOR `WINDOW` starts (no lookahead).
+    4. Compare GATED vs PASSED buckets: mean/median FD pts, disaster rate,
+       negative rate, ceiling rate.
+    5. Optional parameter sweep over (GATE_BB, GATE_COUNT, WINDOW).
+
+FanDuel pitcher scoring:
+    +3 per full IP (1 pt per out), +3 per K, -3 per ER, +6 Win, +4 Quality Start
+
+Usage:
+    pip install requests
+    python fd_walk_gate_backtest.py --start 2026-04-01 --end 2026-07-10
+    python fd_walk_gate_backtest.py --start 2026-04-01 --end 2026-07-10 --sweep
+    Output: per-start CSV (fd_gate_starts.csv) + summary printed to stdout.
+
+Notes:
+    - Pull from Opening Day even if you only care about June+ slates, so
+      each start has a full prior-6 window. Starts with fewer than WINDOW
+      prior starts in-range are flagged warmup=True and excluded from the
+      headline comparison (kept in the CSV).
+    - statsapi.mlb.com is free/keyless. Be polite: SLEEP between calls.
+"""
+
+import argparse
+import csv
+import statistics
+import sys
+import time
+from collections import defaultdict
+
+import requests
+
+API = "https://statsapi.mlb.com/api/v1"
+SLEEP = 0.25  # seconds between boxscore calls
+
+# ---------------------------------------------------------------- FD scoring
+
+def outs_from_ip(ip_str: str) -> int:
+    """'6.2' -> 20 outs. MLB notation: .1 = 1 out, .2 = 2 outs."""
+    if not ip_str:
+        return 0
+    whole, _, frac = str(ip_str).partition(".")
+    return int(whole) * 3 + (int(frac) if frac else 0)
+
+
+def fd_pitcher_points(outs: int, er: int, k: int, win: bool) -> float:
+    ip_pts = outs * 1.0            # +3 per inning == +1 per out
+    qs = outs >= 18 and er <= 3    # 6+ IP, 3 or fewer ER
+    return ip_pts + 3 * k - 3 * er + (6 if win else 0) + (4 if qs else 0)
+
+
+# ---------------------------------------------------------------- data pull
+
+def get_game_pks(start_date: str, end_date: str) -> list[int]:
+    r = requests.get(
+        f"{API}/schedule",
+        params={"sportId": 1, "startDate": start_date, "endDate": end_date},
+        timeout=30,
+    )
+    r.raise_for_status()
+    pks = []
+    for day in r.json().get("dates", []):
+        for g in day.get("games", []):
+            # Final regular-season games only
+            if g.get("status", {}).get("codedGameState") == "F" and \
+               g.get("gameType") == "R":
+                pks.append((g["officialDate"], g["gamePk"]))
+    return pks
+
+
+def extract_starters(game_date: str, game_pk: int) -> list[dict]:
+    """Return one record per starting pitcher in the game."""
+    r = requests.get(f"{API}/game/{game_pk}/boxscore", timeout=30)
+    r.raise_for_status()
+    box = r.json()
+    out = []
+    for side in ("home", "away"):
+        team = box["teams"][side]
+        for pid_key, pdata in team.get("players", {}).items():
+            pit = pdata.get("stats", {}).get("pitching") or {}
+            if not pit or pit.get("gamesStarted", 0) != 1:
+                continue
+            outs = outs_from_ip(pit.get("inningsPitched", "0.0"))
+            er = int(pit.get("earnedRuns", 0) or 0)
+            k = int(pit.get("strikeOuts", 0) or 0)
+            bb = int(pit.get("baseOnBalls", 0) or 0)
+            win = int(pit.get("wins", 0) or 0) == 1
+            out.append({
+                "date": game_date,
+                "game_pk": game_pk,
+                "player_id": pdata["person"]["id"],
+                "name": pdata["person"]["fullName"],
+                "team": team["team"]["name"],
+                "outs": outs,
+                "ip": pit.get("inningsPitched", "0.0"),
+                "er": er,
+                "k": k,
+                "bb": bb,
+                "win": win,
+                "fd_pts": fd_pitcher_points(outs, er, k, win),
+            })
+    return out
+
+
+# ---------------------------------------------------------------- gate logic
+
+def apply_gate(starts_by_pitcher: dict, gate_bb: int, gate_count: int,
+               window: int) -> list[dict]:
+    rows = []
+    for pid, starts in starts_by_pitcher.items():
+        starts = sorted(starts, key=lambda s: (s["date"], s["game_pk"]))
+        for i, s in enumerate(starts):
+            prior = starts[max(0, i - window):i]
+            high_bb = sum(1 for p in prior if p["bb"] >= gate_bb)
+            s = dict(s)
+            s["prior_starts"] = len(prior)
+            s["high_bb_in_window"] = high_bb
+            s["warmup"] = len(prior) < window
+            s["gated"] = (not s["warmup"]) and high_bb >= gate_count
+            rows.append(s)
+    return rows
+
+
+# ---------------------------------------------------------------- reporting
+
+def bucket_stats(rows: list[dict]) -> dict:
+    pts = [r["fd_pts"] for r in rows]
+    if not pts:
+        return {}
+    return {
+        "n": len(pts),
+        "mean": round(statistics.mean(pts), 2),
+        "median": round(statistics.median(pts), 2),
+        "stdev": round(statistics.pstdev(pts), 2),
+        "disaster_rate_lt5": round(sum(p < 5 for p in pts) / len(pts), 3),
+        "negative_rate": round(sum(p < 0 for p in pts) / len(pts), 3),
+        "ceiling_rate_ge35": round(sum(p >= 35 for p in pts) / len(pts), 3),
+    }
+
+
+def summarize(rows: list[dict], label: str) -> None:
+    eligible = [r for r in rows if not r["warmup"]]
+    gated = [r for r in eligible if r["gated"]]
+    passed = [r for r in eligible if not r["gated"]]
+    print(f"\n=== {label} ===")
+    print(f"eligible starts: {len(eligible)}  "
+          f"(warmup excluded: {len(rows) - len(eligible)})")
+    for name, bucket in (("GATED (excluded by rule)", gated),
+                         ("PASSED (anchor pool)", passed)):
+        st = bucket_stats(bucket)
+        if not st:
+            print(f"  {name}: no starts")
+            continue
+        print(f"  {name}: n={st['n']}  mean={st['mean']}  "
+              f"median={st['median']}  sd={st['stdev']}")
+        print(f"      disaster(<5): {st['disaster_rate_lt5']:.1%}   "
+              f"negative(<0): {st['negative_rate']:.1%}   "
+              f"ceiling(35+): {st['ceiling_rate_ge35']:.1%}")
+
+
+# ---------------------------------------------------------------- main
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--start", required=True, help="YYYY-MM-DD")
+    ap.add_argument("--end", required=True, help="YYYY-MM-DD")
+    ap.add_argument("--gate-bb", type=int, default=5)
+    ap.add_argument("--gate-count", type=int, default=2)
+    ap.add_argument("--window", type=int, default=6)
+    ap.add_argument("--sweep", action="store_true",
+                    help="run a parameter sweep after the headline test")
+    ap.add_argument("--csv", default="fd_gate_starts.csv")
+    args = ap.parse_args()
+
+    print(f"Pulling schedule {args.start} .. {args.end} ...")
+    games = get_game_pks(args.start, args.end)
+    print(f"{len(games)} final games. Pulling boxscores "
+          f"(~{len(games) * SLEEP / 60:.0f}+ min) ...")
+
+    starts_by_pitcher = defaultdict(list)
+    for idx, (gdate, pk) in enumerate(games, 1):
+        try:
+            for rec in extract_starters(gdate, pk):
+                starts_by_pitcher[rec["player_id"]].append(rec)
+        except Exception as e:  # noqa: BLE001 — skip bad games, keep going
+            print(f"  skip game {pk}: {e}", file=sys.stderr)
+        if idx % 100 == 0:
+            print(f"  {idx}/{len(games)} games")
+        time.sleep(SLEEP)
+
+    rows = apply_gate(starts_by_pitcher, args.gate_bb, args.gate_count,
+                      args.window)
+
+    with open(args.csv, "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        w.writeheader()
+        w.writerows(rows)
+    print(f"\nWrote {len(rows)} starts to {args.csv}")
+
+    summarize(rows, f"GATE: {args.gate_count}+ starts of {args.gate_bb}+ BB "
+                    f"in prior {args.window}")
+
+    if args.sweep:
+        for gate_bb in (4, 5):
+            for gate_count in (1, 2, 3):
+                for window in (5, 6, 8):
+                    r = apply_gate(starts_by_pitcher, gate_bb, gate_count,
+                                   window)
+                    summarize(r, f"sweep bb>={gate_bb} count>={gate_count} "
+                                 f"window={window}")
+
+
+if __name__ == "__main__":
+    main()
