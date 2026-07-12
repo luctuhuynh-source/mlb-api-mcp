@@ -1,21 +1,40 @@
 #!/usr/bin/env python3
 """
-FanDuel MLB DFS — Anchor Walk-Volatility Gate Backtest (v1.1)
+FanDuel MLB DFS — Anchor Walk-Volatility Gate Backtest (v1.1, patched)
 
 Gate under test:
     Exclude any starting pitcher with >= GATE_COUNT starts of >= GATE_BB walks
     in his prior WINDOW starts, regardless of aggregate WHIP/ERA.
     Default: 2+ starts of 5+ BB in prior 6.
 
+PATCH NOTES (v1.1.1):
+    * ANCHOR-POOL FILTER — the headline comparison is now restricted to
+      starts that would have PASSED the existing v1.0/v1.1 anchor gates
+      (trailing WHIP <= WHIP_MAX and trailing K/9 >= K9_MIN, both computed
+      from the same prior window). This isolates the walk gate's MARGINAL
+      value: does it catch bad anchors the WHIP/K gates already miss
+      (the Yesavage profile)? The full-population comparison is still
+      printed as context.
+    * OPENER SCREEN — starts whose prior-window average is < OPENER_OUTS
+      outs/start are flagged `opener` and excluded from the headline
+      (structurally capped scores pollute both buckets).
+    * Finality check now uses abstractGameState == "Final" (codedGameState
+      "F" misses games coded "O").
+    * Boxscore fetches retry twice before skipping a game.
+    * Empty-pull guard before CSV write.
+    * Rookie note: starts with < WINDOW prior in-range starts are warmup
+      and excluded from the headline. The LIVE protocol still needs a
+      ruling on short-history callups (gate-exempt vs anchor-ineligible).
+
 Method:
-    1. Pull every game in [START_DATE, END_DATE] from the free MLB Stats API.
-    2. Extract each starting pitcher's line from the boxscore
-       (IP, ER, K, BB, W) and score it in FanDuel points.
-    3. Sort each pitcher's starts chronologically; for each start, compute
-       gate status using only the PRIOR `WINDOW` starts (no lookahead).
-    4. Compare GATED vs PASSED buckets: mean/median FD pts, disaster rate,
-       negative rate, ceiling rate.
-    5. Optional parameter sweep over (GATE_BB, GATE_COUNT, WINDOW).
+    1. Pull every final regular-season game in [START, END].
+    2. Extract each starting pitcher's line and score it in FD points.
+    3. For each start, compute gate + anchor-pool status from PRIOR
+       `WINDOW` starts only (no lookahead — the graded start is excluded
+       from its own window).
+    4. Compare GATED vs PASSED inside the anchor pool; secondary
+       comparison over the full eligible population.
+    5. Optional parameter sweep (runs inside the anchor pool).
 
 FanDuel pitcher scoring:
     +3 per full IP (1 pt per out), +3 per K, -3 per ER, +6 Win, +4 Quality Start
@@ -23,15 +42,8 @@ FanDuel pitcher scoring:
 Usage:
     pip install requests
     python fd_walk_gate_backtest.py --start 2026-04-01 --end 2026-07-10
-    python fd_walk_gate_backtest.py --start 2026-04-01 --end 2026-07-10 --sweep
+    python fd_walk_gate_backtest.py --start ... --end ... --sweep
     Output: per-start CSV (fd_gate_starts.csv) + summary printed to stdout.
-
-Notes:
-    - Pull from Opening Day even if you only care about June+ slates, so
-      each start has a full prior-6 window. Starts with fewer than WINDOW
-      prior starts in-range are flagged warmup=True and excluded from the
-      headline comparison (kept in the CSV).
-    - statsapi.mlb.com is free/keyless. Be polite: SLEEP between calls.
 """
 
 import argparse
@@ -46,7 +58,22 @@ import requests
 API = "https://statsapi.mlb.com/api/v1"
 SLEEP = 0.25  # seconds between boxscore calls
 
-# ---------------------------------------------------------------- FD scoring
+
+# ---------------------------------------------------------------- helpers
+
+def get_json(url: str, params: dict | None = None, retries: int = 2) -> dict:
+    """GET with simple retry; raises after final attempt."""
+    for attempt in range(retries + 1):
+        try:
+            r = requests.get(url, params=params, timeout=30)
+            r.raise_for_status()
+            return r.json()
+        except Exception:
+            if attempt == retries:
+                raise
+            time.sleep(1.5 * (attempt + 1))
+    raise RuntimeError("unreachable")
+
 
 def outs_from_ip(ip_str: str) -> int:
     """'6.2' -> 20 outs. MLB notation: .1 = 1 out, .2 = 2 outs."""
@@ -64,18 +91,16 @@ def fd_pitcher_points(outs: int, er: int, k: int, win: bool) -> float:
 
 # ---------------------------------------------------------------- data pull
 
-def get_game_pks(start_date: str, end_date: str) -> list[int]:
-    r = requests.get(
+def get_game_pks(start_date: str, end_date: str) -> list[tuple[str, int]]:
+    data = get_json(
         f"{API}/schedule",
         params={"sportId": 1, "startDate": start_date, "endDate": end_date},
-        timeout=30,
     )
-    r.raise_for_status()
     pks = []
-    for day in r.json().get("dates", []):
+    for day in data.get("dates", []):
         for g in day.get("games", []):
-            # Final regular-season games only
-            if g.get("status", {}).get("codedGameState") == "F" and \
+            # abstractGameState catches both "F" and "O" coded finals
+            if g.get("status", {}).get("abstractGameState") == "Final" and \
                g.get("gameType") == "R":
                 pks.append((g["officialDate"], g["gamePk"]))
     return pks
@@ -83,9 +108,7 @@ def get_game_pks(start_date: str, end_date: str) -> list[int]:
 
 def extract_starters(game_date: str, game_pk: int) -> list[dict]:
     """Return one record per starting pitcher in the game."""
-    r = requests.get(f"{API}/game/{game_pk}/boxscore", timeout=30)
-    r.raise_for_status()
-    box = r.json()
+    box = get_json(f"{API}/game/{game_pk}/boxscore")
     out = []
     for side in ("home", "away"):
         team = box["teams"][side]
@@ -97,6 +120,7 @@ def extract_starters(game_date: str, game_pk: int) -> list[dict]:
             er = int(pit.get("earnedRuns", 0) or 0)
             k = int(pit.get("strikeOuts", 0) or 0)
             bb = int(pit.get("baseOnBalls", 0) or 0)
+            h = int(pit.get("hits", 0) or 0)
             win = int(pit.get("wins", 0) or 0) == 1
             out.append({
                 "date": game_date,
@@ -109,6 +133,7 @@ def extract_starters(game_date: str, game_pk: int) -> list[dict]:
                 "er": er,
                 "k": k,
                 "bb": bb,
+                "h": h,
                 "win": win,
                 "fd_pts": fd_pitcher_points(outs, er, k, win),
             })
@@ -118,18 +143,44 @@ def extract_starters(game_date: str, game_pk: int) -> list[dict]:
 # ---------------------------------------------------------------- gate logic
 
 def apply_gate(starts_by_pitcher: dict, gate_bb: int, gate_count: int,
-               window: int) -> list[dict]:
+               window: int, whip_max: float, k9_min: float,
+               opener_outs: float) -> list[dict]:
     rows = []
     for pid, starts in starts_by_pitcher.items():
+        # (date, game_pk) ordering; game_pk breaks doubleheader ties.
+        # Not guaranteed chronological within a DH day, but a same-day
+        # double start by one pitcher is effectively nonexistent.
         starts = sorted(starts, key=lambda s: (s["date"], s["game_pk"]))
         for i, s in enumerate(starts):
-            prior = starts[max(0, i - window):i]
-            high_bb = sum(1 for p in prior if p["bb"] >= gate_bb)
+            prior = starts[max(0, i - window):i]   # graded start excluded
             s = dict(s)
             s["prior_starts"] = len(prior)
-            s["high_bb_in_window"] = high_bb
             s["warmup"] = len(prior) < window
-            s["gated"] = (not s["warmup"]) and high_bb >= gate_count
+            s["high_bb_in_window"] = sum(1 for p in prior
+                                         if p["bb"] >= gate_bb)
+            if prior:
+                p_outs = sum(p["outs"] for p in prior)
+                p_ip = p_outs / 3.0
+                p_bbh = sum(p["bb"] + p["h"] for p in prior)
+                p_k = sum(p["k"] for p in prior)
+                s["trail_whip"] = round(p_bbh / p_ip, 3) if p_ip else None
+                s["trail_k9"] = round(p_k * 27.0 / p_outs, 2) if p_outs else None
+                s["avg_prior_outs"] = round(p_outs / len(prior), 1)
+            else:
+                s["trail_whip"] = s["trail_k9"] = s["avg_prior_outs"] = None
+            s["opener"] = (s["avg_prior_outs"] is not None
+                           and s["avg_prior_outs"] < opener_outs)
+            s["gated"] = (not s["warmup"]) and \
+                s["high_bb_in_window"] >= gate_count
+            # Anchor pool: passes the EXISTING gates. The walk gate's
+            # marginal value is measured only inside this pool.
+            s["anchor_pool"] = (
+                not s["warmup"] and not s["opener"]
+                and s["trail_whip"] is not None
+                and s["trail_whip"] <= whip_max
+                and s["trail_k9"] is not None
+                and s["trail_k9"] >= k9_min
+            )
             rows.append(s)
     return rows
 
@@ -151,13 +202,7 @@ def bucket_stats(rows: list[dict]) -> dict:
     }
 
 
-def summarize(rows: list[dict], label: str) -> None:
-    eligible = [r for r in rows if not r["warmup"]]
-    gated = [r for r in eligible if r["gated"]]
-    passed = [r for r in eligible if not r["gated"]]
-    print(f"\n=== {label} ===")
-    print(f"eligible starts: {len(eligible)}  "
-          f"(warmup excluded: {len(rows) - len(eligible)})")
+def print_buckets(gated: list[dict], passed: list[dict]) -> None:
     for name, bucket in (("GATED (excluded by rule)", gated),
                          ("PASSED (anchor pool)", passed)):
         st = bucket_stats(bucket)
@@ -171,6 +216,22 @@ def summarize(rows: list[dict], label: str) -> None:
               f"ceiling(35+): {st['ceiling_rate_ge35']:.1%}")
 
 
+def summarize(rows: list[dict], label: str) -> None:
+    eligible = [r for r in rows if not r["warmup"] and not r["opener"]]
+    pool = [r for r in eligible if r["anchor_pool"]]
+    print(f"\n=== {label} ===")
+    print(f"eligible starts: {len(eligible)}  "
+          f"(warmup/opener excluded: {len(rows) - len(eligible)})")
+    print(f"\n-- HEADLINE: anchor pool only "
+          f"(trailing WHIP/K9 gates already passed) --")
+    print(f"anchor-pool starts: {len(pool)}")
+    print_buckets([r for r in pool if r["gated"]],
+                  [r for r in pool if not r["gated"]])
+    print(f"\n-- context: full eligible population --")
+    print_buckets([r for r in eligible if r["gated"]],
+                  [r for r in eligible if not r["gated"]])
+
+
 # ---------------------------------------------------------------- main
 
 def main() -> None:
@@ -180,6 +241,12 @@ def main() -> None:
     ap.add_argument("--gate-bb", type=int, default=5)
     ap.add_argument("--gate-count", type=int, default=2)
     ap.add_argument("--window", type=int, default=6)
+    ap.add_argument("--whip-max", type=float, default=1.35,
+                    help="anchor-pool trailing WHIP ceiling (existing gate)")
+    ap.add_argument("--k9-min", type=float, default=8.0,
+                    help="anchor-pool trailing K/9 floor (existing gate)")
+    ap.add_argument("--opener-outs", type=float, default=9.0,
+                    help="prior-window avg outs below this = opener flag")
     ap.add_argument("--sweep", action="store_true",
                     help="run a parameter sweep after the headline test")
     ap.add_argument("--csv", default="fd_gate_starts.csv")
@@ -196,13 +263,16 @@ def main() -> None:
             for rec in extract_starters(gdate, pk):
                 starts_by_pitcher[rec["player_id"]].append(rec)
         except Exception as e:  # noqa: BLE001 — skip bad games, keep going
-            print(f"  skip game {pk}: {e}", file=sys.stderr)
+            print(f"  skip game {pk} after retries: {e}", file=sys.stderr)
         if idx % 100 == 0:
             print(f"  {idx}/{len(games)} games")
         time.sleep(SLEEP)
 
     rows = apply_gate(starts_by_pitcher, args.gate_bb, args.gate_count,
-                      args.window)
+                      args.window, args.whip_max, args.k9_min,
+                      args.opener_outs)
+    if not rows:
+        sys.exit("No starts extracted — check date range / API access.")
 
     with open(args.csv, "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
@@ -218,7 +288,8 @@ def main() -> None:
             for gate_count in (1, 2, 3):
                 for window in (5, 6, 8):
                     r = apply_gate(starts_by_pitcher, gate_bb, gate_count,
-                                   window)
+                                   window, args.whip_max, args.k9_min,
+                                   args.opener_outs)
                     summarize(r, f"sweep bb>={gate_bb} count>={gate_count} "
                                  f"window={window}")
 
