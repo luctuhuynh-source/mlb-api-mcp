@@ -243,6 +243,130 @@ def validate_date_range(start_date: str, end_date: str) -> Optional[dict]:
 
 def setup_mlb_tools(mcp):
     """Setup MLB tools for the MCP server"""
+    # ---------------------------------------------------------------------------
+# FD DFS BACKTEST SUMMARY TOOL — paste INSIDE setup_mlb_tools(mcp),
+# indented exactly 4 spaces (as below), or the server crashes on boot.
+#
+# Serves pre-computed backtest results. Workflow:
+#   1. Run fd_walk_gate_backtest.py / fd_batter_backtests.py LOCALLY.
+#   2. Commit the output CSVs into backtests/ in the repo:
+#        backtests/fd_gate_starts.csv
+#        backtests/fd_batter_games.csv
+#   3. Paste this tool, push, let Railway redeploy.
+#
+# No live MLB API calls — reads the committed CSV in milliseconds, so no
+# MCP timeout risk. Returns a dict (never a bare list — the server's
+# structured_content wrapper rejects lists, per the roster-tool bug).
+# ---------------------------------------------------------------------------
+
+    @mcp.tool()
+    def get_fd_backtest_summary(
+        kind: str = "pitcher",
+        date_from: str = "",
+        date_to: str = "",
+    ) -> dict:
+        """Summarize committed FanDuel DFS backtest CSVs.
+
+        kind: 'pitcher' (walk-volatility gate, anchor-pool headline) or
+              'batter' (form-delta signal + within-player paired test).
+        date_from/date_to: optional YYYY-MM-DD filters on start/game date.
+        """
+        import csv as _csv
+        import statistics as _st
+        from collections import defaultdict as _dd
+        from pathlib import Path as _Path
+
+        base = _Path(__file__).resolve().parent / "backtests"
+        files = {"pitcher": base / "fd_gate_starts.csv",
+                 "batter": base / "fd_batter_games.csv"}
+        if kind not in files:
+            return {"error": "kind must be 'pitcher' or 'batter'"}
+        path = files[kind]
+        if not path.exists():
+            return {"error": f"{path.name} not committed yet — run the "
+                             "backtest locally and commit the CSV"}
+
+        def _b(v):  # CSV booleans arrive as strings
+            return str(v).strip().lower() == "true"
+
+        with open(path, newline="") as f:
+            rows = [r for r in _csv.DictReader(f)]
+        if date_from:
+            rows = [r for r in rows if r["date"] >= date_from]
+        if date_to:
+            rows = [r for r in rows if r["date"] <= date_to]
+        for r in rows:
+            r["fd_pts"] = float(r["fd_pts"])
+
+        def _stats(sub, lo, hi):
+            pts = [r["fd_pts"] for r in sub]
+            if not pts:
+                return {"n": 0}
+            return {
+                "n": len(pts),
+                "mean": round(_st.mean(pts), 2),
+                "median": round(_st.median(pts), 2),
+                "stdev": round(_st.pstdev(pts), 2),
+                "floor_rate_lt%d" % lo:
+                    round(sum(p < lo for p in pts) / len(pts), 3),
+                "negative_rate":
+                    round(sum(p < 0 for p in pts) / len(pts), 3),
+                "ceiling_rate_ge%d" % hi:
+                    round(sum(p >= hi for p in pts) / len(pts), 3),
+            }
+
+        if kind == "pitcher":
+            eligible = [r for r in rows
+                        if not _b(r["warmup"]) and not _b(r["opener"])]
+            pool = [r for r in eligible if _b(r["anchor_pool"])]
+            return {
+                "kind": "pitcher",
+                "rows_total": len(rows),
+                "eligible": len(eligible),
+                "anchor_pool": len(pool),
+                "headline_anchor_pool": {
+                    "gated": _stats([r for r in pool if _b(r["gated"])],
+                                    5, 35),
+                    "passed": _stats([r for r in pool
+                                      if not _b(r["gated"])], 5, 35),
+                },
+                "context_full_population": {
+                    "gated": _stats([r for r in eligible
+                                     if _b(r["gated"])], 5, 35),
+                    "passed": _stats([r for r in eligible
+                                      if not _b(r["gated"])], 5, 35),
+                },
+            }
+
+        # batter
+        eligible = [r for r in rows if not _b(r["warmup"])]
+        out = {"kind": "batter", "rows_total": len(rows),
+               "eligible": len(eligible), "buckets": {}}
+        for bucket in ("HOT", "NEUTRAL", "COLD"):
+            out["buckets"][bucket] = _stats(
+                [r for r in eligible if r["bucket"] == bucket], 5, 25)
+        per = _dd(lambda: {"HOT": [], "COLD": []})
+        for r in eligible:
+            if r["bucket"] in ("HOT", "COLD"):
+                per[r["player_id"]][r["bucket"]].append(r["fd_pts"])
+        deltas = [
+            _st.mean(b["HOT"]) - _st.mean(b["COLD"])
+            for b in per.values()
+            if len(b["HOT"]) >= 3 and len(b["COLD"]) >= 3
+        ]
+        if deltas:
+            pos = sum(d > 0 for d in deltas)
+            out["within_player_paired"] = {
+                "players": len(deltas),
+                "mean_hot_minus_cold": round(_st.mean(deltas), 2),
+                "median": round(_st.median(deltas), 2),
+                "share_positive": round(pos / len(deltas), 2),
+                "read": "~0 mean and ~0.5 positive = form is noise",
+            }
+        else:
+            out["within_player_paired"] = {"players": 0}
+        return out
+
 
     # get_f5_results — batch F5/final results tool for mlb-api-mcp
 #

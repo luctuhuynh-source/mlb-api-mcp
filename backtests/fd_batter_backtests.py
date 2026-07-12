@@ -57,7 +57,7 @@ SLEEP = 0.25
 
 # ---------------------------------------------------------------- helpers
 
-def get_json(url: str, params: dict | None = None, retries: int = 2) -> dict:
+def get_json(url: str, params=None, retries: int = 2) -> dict:
     for attempt in range(retries + 1):
         try:
             r = requests.get(url, params=params, timeout=30)

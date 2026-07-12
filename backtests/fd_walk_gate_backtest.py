@@ -61,7 +61,7 @@ SLEEP = 0.25  # seconds between boxscore calls
 
 # ---------------------------------------------------------------- helpers
 
-def get_json(url: str, params: dict | None = None, retries: int = 2) -> dict:
+def get_json(url: str, params=None, retries: int = 2) -> dict:
     """GET with simple retry; raises after final attempt."""
     for attempt in range(retries + 1):
         try:
