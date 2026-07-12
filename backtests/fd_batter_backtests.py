@@ -1,38 +1,45 @@
 #!/usr/bin/env python3
 """
-FanDuel MLB DFS — Batter Backtest Framework
+FanDuel MLB DFS — Batter Form Backtest (patched)
 
-Companion to fd_walk_gate_backtest.py. Same architecture:
-    1. Pull every final game in [START_DATE, END_DATE] from the MLB Stats API.
-    2. Extract every batter's line from the boxscore and score it in
-       FanDuel points.
-    3. Sort each batter's games chronologically; for each game, compute a
-       trailing-form SIGNAL using only PRIOR games (no lookahead).
-    4. Bucket games by signal and compare FD-point outcomes.
-    5. Optional parameter sweep.
+Companion to fd_walk_gate_backtest.py. Same architecture: pull final games,
+score every batter-game in FD points, compute a trailing signal from PRIOR
+games only, bucket, compare.
+
+PATCH NOTES (v1.1):
+    * FORM-DELTA SIGNAL — the old signal (trailing FD avg >= threshold)
+      was a BETWEEN-player comparison: the HOT bucket fills with good
+      hitters, so HOT "beats" COLD even if form is pure noise. The signal
+      is now the trailing WINDOW average MINUS the player's own expanding
+      baseline over all prior games:
+          delta = trail_avg(window) - baseline_avg(all prior)
+          HOT   if delta >= +hot_delta
+          COLD  if delta <= -hot_delta
+          NEUTRAL otherwise
+      This asks the real question: does a player running above HIS OWN
+      norm keep doing so tomorrow?
+    * WITHIN-PLAYER PAIRED TEST — additionally, for every player with
+      enough games in both HOT and COLD buckets, compute (his HOT mean -
+      his COLD mean) and aggregate across players. This removes player
+      quality from the comparison entirely. If fire-emoji chasing works,
+      the mean per-player delta is positive and most players are positive.
+    * 0-PA rows with SB or R credited (pinch-runner points) are now
+      included, matching the original docstring's intent.
+    * Finality via abstractGameState == "Final"; boxscore retries;
+      empty-pull guard.
 
 FanDuel hitter scoring:
     1B +3, 2B +6, 3B +9, HR +12, RBI +3.5, R +3.2, BB +3, HBP +3, SB +6
 
-Default signal (swappable):
-    HOT  = trailing avg FD pts over prior WINDOW games >= HOT_THRESHOLD
-    COLD = otherwise
-    (min PRIOR games required, else warmup=True and excluded from headline)
-
-This answers questions like: does chasing trailing form (fire-emoji chasing)
-actually predict next-game production, or is it noise? Swap in your own
-signal in `compute_signal()` — e.g. HR in last N, BB rate, multi-hit streak.
-
 Usage:
     pip install requests
-    python fd_batter_backtest.py --start 2026-04-01 --end 2026-07-10
-    python fd_batter_backtest.py --start ... --end ... --sweep
+    python fd_batter_backtests.py --start 2026-04-01 --end 2026-07-10
+    python fd_batter_backtests.py --start ... --end ... --sweep
     Output: per-game CSV (fd_batter_games.csv) + summary to stdout.
 
-Note: pull from Opening Day so trailing windows are full. ~0.25s sleep per
-boxscore call; a full season-to-date pull takes ~10-15 min. If you already
-ran the pitcher script over the same range, the boxscore calls are repeated —
-if you want, merge the two scripts later so one pull feeds both analyses.
+Note: pull from Opening Day so baselines are meaningful. If you already ran
+the pitcher script over the same range, the boxscore calls are repeated —
+consider merging so one pull feeds both analyses.
 """
 
 import argparse
@@ -47,7 +54,21 @@ import requests
 API = "https://statsapi.mlb.com/api/v1"
 SLEEP = 0.25
 
-# ---------------------------------------------------------------- FD scoring
+
+# ---------------------------------------------------------------- helpers
+
+def get_json(url: str, params: dict | None = None, retries: int = 2) -> dict:
+    for attempt in range(retries + 1):
+        try:
+            r = requests.get(url, params=params, timeout=30)
+            r.raise_for_status()
+            return r.json()
+        except Exception:
+            if attempt == retries:
+                raise
+            time.sleep(1.5 * (attempt + 1))
+    raise RuntimeError("unreachable")
+
 
 def fd_batter_points(singles: int, doubles: int, triples: int, hr: int,
                      rbi: int, runs: int, bb: int, hbp: int, sb: int) -> float:
@@ -58,26 +79,22 @@ def fd_batter_points(singles: int, doubles: int, triples: int, hr: int,
 # ---------------------------------------------------------------- data pull
 
 def get_game_pks(start_date: str, end_date: str) -> list[tuple[str, int]]:
-    r = requests.get(
+    data = get_json(
         f"{API}/schedule",
         params={"sportId": 1, "startDate": start_date, "endDate": end_date},
-        timeout=30,
     )
-    r.raise_for_status()
     pks = []
-    for day in r.json().get("dates", []):
+    for day in data.get("dates", []):
         for g in day.get("games", []):
-            if g.get("status", {}).get("codedGameState") == "F" and \
+            if g.get("status", {}).get("abstractGameState") == "Final" and \
                g.get("gameType") == "R":
                 pks.append((g["officialDate"], g["gamePk"]))
     return pks
 
 
 def extract_batters(game_date: str, game_pk: int) -> list[dict]:
-    """One record per batter who had at least one PA (or SB/R credited)."""
-    r = requests.get(f"{API}/game/{game_pk}/boxscore", timeout=30)
-    r.raise_for_status()
-    box = r.json()
+    """One record per batter with a PA, or 0-PA with SB/R credited."""
+    box = get_json(f"{API}/game/{game_pk}/boxscore")
     out = []
     for side in ("home", "away"):
         team = box["teams"][side]
@@ -86,7 +103,9 @@ def extract_batters(game_date: str, game_pk: int) -> list[dict]:
             if not bat:
                 continue
             pa = int(bat.get("plateAppearances", 0) or 0)
-            if pa == 0:
+            runs = int(bat.get("runs", 0) or 0)
+            sb = int(bat.get("stolenBases", 0) or 0)
+            if pa == 0 and runs == 0 and sb == 0:
                 continue
             hits = int(bat.get("hits", 0) or 0)
             doubles = int(bat.get("doubles", 0) or 0)
@@ -94,10 +113,8 @@ def extract_batters(game_date: str, game_pk: int) -> list[dict]:
             hr = int(bat.get("homeRuns", 0) or 0)
             singles = hits - doubles - triples - hr
             rbi = int(bat.get("rbi", 0) or 0)
-            runs = int(bat.get("runs", 0) or 0)
             bb = int(bat.get("baseOnBalls", 0) or 0)
             hbp = int(bat.get("hitByPitch", 0) or 0)
-            sb = int(bat.get("stolenBases", 0) or 0)
             out.append({
                 "date": game_date,
                 "game_pk": game_pk,
@@ -117,31 +134,39 @@ def extract_batters(game_date: str, game_pk: int) -> list[dict]:
 
 # ---------------------------------------------------------------- signal
 
-def compute_signal(prior: list[dict], hot_threshold: float) -> tuple[str, float]:
+def apply_signal(games_by_batter: dict, window: int, baseline_min: int,
+                 hot_delta: float) -> list[dict]:
     """
-    Default signal: trailing mean FD pts over the prior window.
-    Returns (bucket_label, trailing_avg).
-    Swap this function to test other signals (HR in last N, BB rate, etc.).
+    delta = trailing WINDOW mean - expanding baseline mean (ALL prior games).
+    HOT / COLD / NEUTRAL at +-hot_delta. Warmup until the player has
+    baseline_min prior games AND a full trailing window.
     """
-    avg = statistics.mean(g["fd_pts"] for g in prior)
-    return ("HOT" if avg >= hot_threshold else "COLD"), round(avg, 2)
-
-
-def apply_signal(games_by_batter: dict, window: int, min_prior: int,
-                 hot_threshold: float) -> list[dict]:
     rows = []
     for pid, games in games_by_batter.items():
         games = sorted(games, key=lambda g: (g["date"], g["game_pk"]))
         for i, g in enumerate(games):
-            prior = games[max(0, i - window):i]
+            all_prior = games[:i]                    # graded game excluded
+            win_prior = games[max(0, i - window):i]
             g = dict(g)
-            g["prior_games"] = len(prior)
-            g["warmup"] = len(prior) < min_prior
+            g["prior_games"] = len(all_prior)
+            g["warmup"] = (len(all_prior) < baseline_min
+                           or len(win_prior) < window)
             if g["warmup"]:
-                g["bucket"], g["trailing_avg"] = "WARMUP", None
+                g["bucket"] = "WARMUP"
+                g["trailing_avg"] = g["baseline_avg"] = g["form_delta"] = None
             else:
-                g["bucket"], g["trailing_avg"] = compute_signal(
-                    prior, hot_threshold)
+                trail = statistics.mean(x["fd_pts"] for x in win_prior)
+                base = statistics.mean(x["fd_pts"] for x in all_prior)
+                delta = trail - base
+                g["trailing_avg"] = round(trail, 2)
+                g["baseline_avg"] = round(base, 2)
+                g["form_delta"] = round(delta, 2)
+                if delta >= hot_delta:
+                    g["bucket"] = "HOT"
+                elif delta <= -hot_delta:
+                    g["bucket"] = "COLD"
+                else:
+                    g["bucket"] = "NEUTRAL"
             rows.append(g)
     return rows
 
@@ -168,7 +193,7 @@ def summarize(rows: list[dict], label: str) -> None:
     print(f"\n=== {label} ===")
     print(f"eligible games: {len(eligible)}  "
           f"(warmup excluded: {len(rows) - len(eligible)})")
-    for bucket in ("HOT", "COLD"):
+    for bucket in ("HOT", "NEUTRAL", "COLD"):
         sub = [r for r in eligible if r["bucket"] == bucket]
         st = bucket_stats(sub)
         if not st:
@@ -179,6 +204,33 @@ def summarize(rows: list[dict], label: str) -> None:
         print(f"      dud(<5): {st['dud_rate_lt5']:.1%}   "
               f"ceiling(25+): {st['ceiling_rate_ge25']:.1%}   "
               f"smash(35+): {st['smash_rate_ge35']:.1%}")
+    within_player_summary(eligible)
+
+
+def within_player_summary(eligible: list[dict], min_each: int = 3) -> None:
+    """Paired test: per-player HOT mean minus COLD mean, aggregated."""
+    per = defaultdict(lambda: {"HOT": [], "COLD": []})
+    for r in eligible:
+        if r["bucket"] in ("HOT", "COLD"):
+            per[r["player_id"]][r["bucket"]].append(r["fd_pts"])
+    deltas = []
+    for pid, b in per.items():
+        if len(b["HOT"]) >= min_each and len(b["COLD"]) >= min_each:
+            deltas.append(statistics.mean(b["HOT"])
+                          - statistics.mean(b["COLD"]))
+    print(f"\n  -- within-player paired test "
+          f"(players with {min_each}+ games in each bucket) --")
+    if not deltas:
+        print("  not enough paired players")
+        return
+    pos = sum(d > 0 for d in deltas)
+    print(f"  players: {len(deltas)}  "
+          f"mean per-player (HOT - COLD): "
+          f"{statistics.mean(deltas):+.2f} FD pts  "
+          f"median: {statistics.median(deltas):+.2f}  "
+          f"positive: {pos}/{len(deltas)} ({pos / len(deltas):.0%})")
+    print("  interpretation: ~0 mean / ~50% positive = form is noise; "
+          "clearly positive = hot hand is real.")
 
 
 # ---------------------------------------------------------------- main
@@ -189,10 +241,11 @@ def main() -> None:
     ap.add_argument("--end", required=True, help="YYYY-MM-DD")
     ap.add_argument("--window", type=int, default=7,
                     help="trailing games in the signal window")
-    ap.add_argument("--min-prior", type=int, default=5,
-                    help="min prior games required (else warmup)")
-    ap.add_argument("--hot-threshold", type=float, default=12.0,
-                    help="trailing avg FD pts to qualify as HOT")
+    ap.add_argument("--baseline-min", type=int, default=15,
+                    help="min prior games for a usable baseline")
+    ap.add_argument("--hot-delta", type=float, default=3.0,
+                    help="form delta (FD pts above/below own baseline) "
+                         "to qualify HOT/COLD")
     ap.add_argument("--sweep", action="store_true")
     ap.add_argument("--csv", default="fd_batter_games.csv")
     args = ap.parse_args()
@@ -208,13 +261,15 @@ def main() -> None:
             for rec in extract_batters(gdate, pk):
                 games_by_batter[rec["player_id"]].append(rec)
         except Exception as e:  # noqa: BLE001
-            print(f"  skip game {pk}: {e}", file=sys.stderr)
+            print(f"  skip game {pk} after retries: {e}", file=sys.stderr)
         if idx % 100 == 0:
             print(f"  {idx}/{len(games)} games")
         time.sleep(SLEEP)
 
-    rows = apply_signal(games_by_batter, args.window, args.min_prior,
-                        args.hot_threshold)
+    rows = apply_signal(games_by_batter, args.window, args.baseline_min,
+                        args.hot_delta)
+    if not rows:
+        sys.exit("No batter-games extracted — check date range / API access.")
 
     with open(args.csv, "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
@@ -222,15 +277,15 @@ def main() -> None:
         w.writerows(rows)
     print(f"\nWrote {len(rows)} batter-games to {args.csv}")
 
-    summarize(rows, f"SIGNAL: trailing {args.window}-game FD avg, "
-                    f"HOT >= {args.hot_threshold}")
+    summarize(rows, f"SIGNAL: {args.window}-game form delta vs own baseline, "
+                    f"HOT/COLD at +-{args.hot_delta}")
 
     if args.sweep:
         for window in (5, 7, 10):
-            for thresh in (10.0, 12.0, 15.0):
+            for delta in (2.0, 3.0, 5.0):
                 r = apply_signal(games_by_batter, window,
-                                 min(args.min_prior, window), thresh)
-                summarize(r, f"sweep window={window} hot>={thresh}")
+                                 args.baseline_min, delta)
+                summarize(r, f"sweep window={window} delta=+-{delta}")
 
 
 if __name__ == "__main__":
