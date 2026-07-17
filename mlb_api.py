@@ -367,6 +367,63 @@ def setup_mlb_tools(mcp):
             out["within_player_paired"] = {"players": 0}
         return out
 
+@mcp.tool()
+    def get_xweather_hourly(location: str, hours: int = 24) -> dict:
+        """Hourly Xweather forecast for any location. Accepts 'city,state'
+        (e.g. 'san diego,ca'), 'lat,lon' (e.g. '53.765,-3.031' for Royal
+        Birkdale), or airport codes. Returns per-hour temp, wind speed,
+        gusts, direction, precip probability, and sky cover — built for
+        golf wave-split scans and F5 park weather checks."""
+        import os
+        import requests
+
+        cid = os.environ.get("XWEATHER_CLIENT_ID", "")
+        sec = os.environ.get("XWEATHER_CLIENT_SECRET", "")
+        if not cid or not sec:
+            return {"error": "XWEATHER_CLIENT_ID / XWEATHER_CLIENT_SECRET not set in Railway variables"}
+
+        hours = max(1, min(int(hours), 72))
+        try:
+            r = requests.get(
+                f"https://data.api.xweather.com/forecasts/{location}",
+                params={
+                    "client_id": cid,
+                    "client_secret": sec,
+                    "filter": "1hr",
+                    "limit": hours,
+                },
+                timeout=15,
+            )
+            data = r.json()
+        except Exception as e:
+            return {"error": f"request failed: {e}"}
+
+        if not data.get("success") or not data.get("response"):
+            return {"error": str(data.get("error"))}
+
+        block = data["response"][0]
+        periods = []
+        for p in block.get("periods", []):
+            periods.append({
+                "time": p.get("dateTimeISO"),
+                "tempF": p.get("tempF"),
+                "windMPH": p.get("windSpeedMPH"),
+                "gustMPH": p.get("windGustMPH"),
+                "windDir": p.get("windDir"),
+                "windDirDEG": p.get("windDirDEG"),
+                "popPct": p.get("pop"),
+                "precipIN": p.get("precipIN"),
+                "skyPct": p.get("sky"),
+                "weather": p.get("weather"),
+            })
+
+        return {
+            "place": block.get("place", {}),
+            "loc": block.get("loc", {}),
+            "hours": len(periods),
+            "periods": periods,
+        }
+
 
     # get_f5_results — batch F5/final results tool for mlb-api-mcp
 #
