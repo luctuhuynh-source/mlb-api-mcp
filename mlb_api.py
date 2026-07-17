@@ -367,7 +367,7 @@ def setup_mlb_tools(mcp):
             out["within_player_paired"] = {"players": 0}
         return out
 
-@mcp.tool()
+    @mcp.tool()
     def get_xweather_hourly(location: str, hours: int = 24) -> dict:
         """Hourly Xweather forecast for any location. Accepts 'city,state'
         (e.g. 'san diego,ca'), 'lat,lon' (e.g. '53.765,-3.031' for Royal
