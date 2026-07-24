@@ -1602,24 +1602,78 @@ def setup_mlb_tools(mcp):
         except Exception as e:
             return {"error": str(e)}
 
+    # PATCH: get_mlb_search_players (7/24/26)
+# Fix for known quirk: player search returns empty.
+# Replaces the old endpoint with /api/v1/people/search, plus a
+# season-roster substring fallback if that ever comes back empty.
+#
+# HOW TO APPLY:
+# 1. In the repo, find the existing `get_mlb_search_players` tool block
+#    inside setup_mlb_tools(mcp) and DELETE it.
+# 2. Paste everything below the marker line in its place — it is already
+#    indented 4 spaces to sit inside setup_mlb_tools(mcp).
+# 3. Commit → Railway auto-deploys → ping Claude to smoke-test.
+#
+# Backward compatible: still returns "player_ids" (the old key), and adds
+# a richer "players" list (id, name, team, position).
+# ---- paste everything below this line ----
+
     @mcp.tool()
-    def get_mlb_search_players(fullname: str, sport_id: int = 1, search_key: str = "fullname") -> dict:
-        """
-        Search for players by name.
+    def get_mlb_search_players(fullname: str, search_key: str = "fullname", sport_id: int = 1) -> dict:
+        """Search for players by name. Patched 7/24/26: uses the
+        /api/v1/people/search endpoint (handles partial names and
+        accents), with a season-roster substring-match fallback."""
+        import requests
+        from datetime import date
 
-        Args:
-            fullname (str): Player name to search for.
-            sport_id (int): Sport ID (default: 1 for MLB).
-            search_key (str): Search key (default: "fullname").
+        def trim(p):
+            return {
+                "id": p.get("id"),
+                "fullName": p.get("fullName"),
+                "currentTeam": (p.get("currentTeam") or {}).get("name"),
+                "primaryPosition": (p.get("primaryPosition") or {}).get("abbreviation"),
+                "active": p.get("active"),
+            }
 
-        Returns:
-            dict: Player search results.
-        """
+        players = []
+        errors = []
+
+        # Primary: people/search — the endpoint that actually works in 2026
         try:
-            player_ids = mlb.get_people_id(fullname, sport_id=sport_id, search_key=search_key)
-            return {"player_ids": player_ids}
+            r = requests.get(
+                "https://statsapi.mlb.com/api/v1/people/search",
+                params={"names": fullname, "sportIds": sport_id},
+                timeout=10,
+            )
+            r.raise_for_status()
+            players = [trim(p) for p in r.json().get("people", [])]
         except Exception as e:
-            return {"error": str(e)}
+            errors.append(f"people/search: {e}")
+
+        # Fallback: current-season player dump + case-insensitive substring
+        if not players:
+            try:
+                r = requests.get(
+                    f"https://statsapi.mlb.com/api/v1/sports/{sport_id}/players",
+                    params={"season": date.today().year},
+                    timeout=15,
+                )
+                r.raise_for_status()
+                q = fullname.lower().strip()
+                players = [
+                    trim(p) for p in r.json().get("people", [])
+                    if q in p.get("fullName", "").lower()
+                ]
+            except Exception as e:
+                errors.append(f"season fallback: {e}")
+
+        out = {
+            "player_ids": [p["id"] for p in players],  # legacy key
+            "players": players,
+        }
+        if errors and not players:
+            out["error"] = "; ".join(errors)
+        return out
 
     @mcp.tool()
     def get_mlb_players(sport_id: int = 1, season: Optional[int] = None) -> dict:
