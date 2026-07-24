@@ -423,7 +423,172 @@ def setup_mlb_tools(mcp):
             "hours": len(periods),
             "periods": periods,
         }
+# ============================================================
+# DATA GOLF TOOLS for mlb-api-mcp (Railway)
+# Paste EVERYTHING below inside setup_mlb_tools(mcp), indented
+# 4 spaces, same as the Xweather tool. Requires Railway env var:
+#   DATAGOLF_API_KEY = <your key>
+# ============================================================
 
+    DG_BASE = "https://feeds.datagolf.com"
+
+    def _dg_get(path, params=None):
+        import os
+        import requests
+        key = os.environ.get("DATAGOLF_API_KEY")
+        if not key:
+            return {"error": "DATAGOLF_API_KEY env var not set on Railway"}
+        p = dict(params or {})
+        p["key"] = key
+        p.setdefault("file_format", "json")
+        try:
+            r = requests.get(f"{DG_BASE}/{path}", params=p, timeout=25)
+            r.raise_for_status()
+            return r.json()
+        except Exception as e:
+            return {"error": f"datagolf request failed: {e}"}
+
+    def _dg_trim(d, keep_substrings):
+        # keep only keys containing any whitelisted substring
+        return {k: v for k, v in d.items()
+                if any(s in k.lower() for s in keep_substrings)}
+
+    @mcp.tool()
+    def get_dg_field_waves(tour: str = "pga") -> dict:
+        """Current-event field with tee times and early/late wave label
+        per round, plus dg_ids. Primary pre-flight tool: replaces manual
+        wave-splitting from screenshots. tour: pga (default), opp, euro,
+        kft, alt."""
+        data = _dg_get("field-updates", {"tour": tour})
+        if isinstance(data, dict) and data.get("error"):
+            return data
+        field = []
+        for pl in data.get("field", []):
+            field.append({
+                "player_name": pl.get("player_name"),
+                "dg_id": pl.get("dg_id"),
+                "country": pl.get("country"),
+                "dg_rank": pl.get("dg_rank"),
+                "teetimes": [
+                    {"round": t.get("round_num"),
+                     "teetime": t.get("teetime"),
+                     "start_hole": t.get("start_hole"),
+                     "wave": t.get("wave")}
+                    for t in (pl.get("teetimes") or [])
+                ],
+            })
+        return {
+            "event_name": data.get("event_name"),
+            "event_id": data.get("event_id"),
+            "course_name": data.get("course_name"),
+            "current_round": data.get("current_round"),
+            "field_size": len(field),
+            "field": field,
+        }
+
+    @mcp.tool()
+    def get_dg_event_ids(source: str = "raw", tour: str = "pga") -> dict:
+        """List event_ids available in a Data Golf archive.
+        source: 'raw' (round-level scoring archive) or 'dfs'
+        (hole-scoring / DFS points archive). Use these ids for
+        get_dg_rounds / get_dg_hole_scoring."""
+        if source == "dfs":
+            data = _dg_get("historical-dfs-data/event-list", {})
+        else:
+            data = _dg_get("historical-raw-data/event-list", {"tour": tour})
+        return {"source": source, "events": data}
+
+    @mcp.tool()
+    def get_dg_hole_scoring(event_id: int, year: int, tour: str = "pga",
+                            site: str = "fanduel") -> dict:
+        """Per-player event-level hole scoring (birdies/eagles/bogeys etc.)
+        from the DFS archive — the birdie/bogey PROFILE input for GOLF
+        v1.x. One event per call; loop recent events locally to build
+        profiles. site: fanduel (default) or draftkings."""
+        data = _dg_get("historical-dfs-data/points",
+                       {"tour": tour, "site": site,
+                        "event_id": event_id, "year": year})
+        if isinstance(data, dict) and data.get("error"):
+            return data
+        keep = ["name", "dg_id", "fin", "bird", "bogey", "eagle", "par",
+                "hole", "score", "salary"]
+        rows = data if isinstance(data, list) else data.get("dfs_points", data)
+        try:
+            trimmed = [_dg_trim(r, keep) for r in rows if isinstance(r, dict)]
+        except TypeError:
+            return {"raw": data}  # unexpected shape: return as-is once, inspect
+        return {"event_id": event_id, "year": year, "site": site,
+                "players": trimmed}
+
+    @mcp.tool()
+    def get_dg_rounds(event_id: str, year: int, tour: str = "pga",
+                      dg_ids: str = "") -> dict:
+        """Round-level scoring/stats/SG + tee times from the raw archive
+        (PGA back to 2004). Course-history gate source (8+ rounds,
+        computed exactly). dg_ids: optional comma-separated dg_id filter
+        to shrink the payload — STRONGLY recommended; a full event
+        unfiltered is large. Avoid event_id='all' through MCP (timeout
+        risk) — do bulk pulls locally per the backtest pattern."""
+        data = _dg_get("historical-raw-data/rounds",
+                       {"tour": tour, "event_id": event_id, "year": year})
+        if isinstance(data, dict) and data.get("error"):
+            return data
+        want = None
+        if dg_ids.strip():
+            want = {int(x) for x in dg_ids.split(",") if x.strip().isdigit()}
+        keep = ["name", "dg_id", "round", "score", "sg_", "teetime",
+                "course", "fin", "gir", "driving", "prox", "scrambl",
+                "putt", "great", "poor"]
+        out = []
+        rows = data if isinstance(data, list) else data.get("scores", data)
+        if isinstance(rows, list):
+            for r in rows:
+                if not isinstance(r, dict):
+                    continue
+                if want is not None and r.get("dg_id") not in want:
+                    continue
+                out.append(_dg_trim(r, keep))
+            return {"event_id": event_id, "year": year, "n_rows": len(out),
+                    "rounds": out}
+        return {"raw": data}  # unexpected shape: inspect once, then re-trim
+
+    @mcp.tool()
+    def get_dg_live_hole_stats(tour: str = "pga") -> dict:
+        """LIVE hole-by-hole scoring averages and distributions split by
+        tee-time WAVE for the ongoing event — direct read on the
+        wave-split thesis (AM vs PM birdie environment) during a round.
+        Post-mortem + LIVE-READ verification tool; mid-round thesis
+        revision stays banned per v1.0."""
+        return {"live_hole_stats": _dg_get("preds/live-hole-stats",
+                                           {"tour": tour})}
+
+    @mcp.tool()
+    def get_dg_skill_ratings(display: str = "value") -> dict:
+        """Data Golf skill estimates (SG total + components) for players
+        with sufficient measured rounds. Input to aggressive/conservative
+        classification. display: value (default) or rank."""
+        data = _dg_get("preds/skill-ratings", {"display": display})
+        if isinstance(data, dict) and data.get("error"):
+            return data
+        keep = ["name", "dg_id", "sg_", "driving", "date"]
+        players = data.get("players", data) if isinstance(data, dict) else data
+        if isinstance(players, list):
+            return {"players": [_dg_trim(p, keep) for p in players
+                                if isinstance(p, dict)]}
+        return {"raw": data}
+
+# ============================================================
+# Deploy checklist:
+# 1. Railway → project → Variables → add DATAGOLF_API_KEY
+# 2. Paste the block above INSIDE setup_mlb_tools(mcp), 4-space
+#    indent (server crashes otherwise — known constraint)
+# 3. Commit + push → Railway redeploys
+# 4. Smoke test from chat: get_dg_field_waves() should return the
+#    3M Open field with wave labels
+# 5. The two "raw"/inspect fallbacks exist because exact archive
+#    field names vary — if a tool returns {"raw": ...}, send me
+#    the shape and I'll tighten the trim lists
+# ============================================================
 
     # get_f5_results — batch F5/final results tool for mlb-api-mcp
 #
