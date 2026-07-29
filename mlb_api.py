@@ -2321,3 +2321,108 @@ def setup_mlb_tools(mcp):
             "trailing_summary": summary,
             "game_log": games,
         }
+
+"""
+Kalshi public-data tools for the MLB Stats MCP server (Railway).
+Adds Robinhood-equivalent prediction-market prices to the Cornerstone workflow.
+
+RH prediction markets clear on Kalshi's exchange, and Kalshi market data is
+PUBLIC — no API key, no RSA signing, read-only. The price RH shows as
+"Buy Xc" is the Kalshi ask for that side.
+
+Two tools:
+  1. kalshi_discover_mlb(keyword)  -> find the series/event tickers for MLB
+                                      F5 markets (run once; ticker names may
+                                      differ from guesses, so discover first)
+  2. kalshi_get_markets(...)       -> live yes/no prices for those markets
+
+Register both with the same decorator pattern as the existing tools
+(e.g. @mcp.tool() in the FastMCP app), redeploy on Railway, done.
+
+Notes:
+  - Order-book quirk: Kalshi books carry yes-bids and no-bids only.
+    Buy-Yes price (RH's over/ML "Buy") = 100 - best no_bid = yes_ask.
+    The /markets endpoint already returns yes_ask / no_ask fields, so we
+    read those directly and skip the orderbook endpoint.
+  - Rate limits are ~10-20 req/s; a Cornerstone run makes 2-3 calls total.
+  - Public endpoints need no headers. Never add account keys to this file.
+"""
+
+import requests
+
+KALSHI_BASE = "https://api.elections.kalshi.com/trade-api/v2"
+TIMEOUT = 15
+
+
+def _get(path: str, params: dict | None = None) -> dict:
+    r = requests.get(f"{KALSHI_BASE}{path}", params=params or {}, timeout=TIMEOUT)
+    r.raise_for_status()
+    return r.json()
+
+
+# ---------------------------------------------------------------- tool 1
+@mcp.tool()
+def kalshi_discover_mlb(keyword: str = "MLB") -> dict:
+    """Discover Kalshi series whose ticker or title matches `keyword`.
+
+    Run this ONCE to learn the real series tickers for MLB game-winner and
+    first-5-innings totals markets (e.g. something like KXMLBGAME / an F5
+    totals series). Then hard-code the confirmed tickers into the daily
+    protocol run and stop calling discovery.
+
+    Returns: {"series": [{"ticker", "title", "category"}, ...]}
+    """
+    out, cursor = [], None
+    for _ in range(10):  # page cap
+        params = {"limit": 200}
+        if cursor:
+            params["cursor"] = cursor
+        data = _get("/series", params)
+        for s in data.get("series", []):
+            blob = f"{s.get('ticker','')} {s.get('title','')}".upper()
+            if keyword.upper() in blob:
+                out.append({
+                    "ticker": s.get("ticker"),
+                    "title": s.get("title"),
+                    "category": s.get("category"),
+                })
+        cursor = data.get("cursor")
+        if not cursor:
+            break
+    return {"keyword": keyword, "match_count": len(out), "series": out}
+
+
+# ---------------------------------------------------------------- tool 2
+@mcp.tool()
+def kalshi_get_markets(series_ticker: str = "",
+                       event_ticker: str = "",
+                       status: str = "open",
+                       limit: int = 100) -> dict:
+    """Live Kalshi prices for a series or event (public, no auth).
+
+    Pass the series_ticker confirmed by discovery (or a specific
+    event_ticker for one game). Returns per-market yes/no bid/ask in cents —
+    yes_ask is the number RH displays on the Buy button for Yes.
+
+    Returns: {"markets": [{"ticker","title","yes_bid","yes_ask",
+                           "no_bid","no_ask","close_time","volume"}, ...]}
+    """
+    params = {"status": status, "limit": limit}
+    if series_ticker:
+        params["series_ticker"] = series_ticker
+    if event_ticker:
+        params["event_ticker"] = event_ticker
+    data = _get("/markets", params)
+    mkts = []
+    for m in data.get("markets", []):
+        mkts.append({
+            "ticker": m.get("ticker"),
+            "title": m.get("title"),
+            "yes_bid": m.get("yes_bid"),
+            "yes_ask": m.get("yes_ask"),          # = RH "Buy Yes" price
+            "no_bid": m.get("no_bid"),
+            "no_ask": m.get("no_ask"),            # = RH "Buy No" price
+            "close_time": m.get("close_time"),
+            "volume": m.get("volume"),
+        })
+    return {"count": len(mkts), "markets": mkts}
