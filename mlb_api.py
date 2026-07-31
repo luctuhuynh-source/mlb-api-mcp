@@ -2348,7 +2348,7 @@ def setup_mlb_tools(mcp):
           - Public endpoints need no headers. Never add account keys to this file.
         """
         
-        import requests
+        
         
         KALSHI_BASE = "https://api.elections.kalshi.com/trade-api/v2"
         TIMEOUT = 15
