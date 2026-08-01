@@ -1,0 +1,79 @@
+date,c_team,c_score,q_team,q_score,fired
+2026-04-07,Colorado Rockies,72.3,Colorado Rockies,72.3,0
+2026-04-08,Houston Astros,12.0,Houston Astros,12.0,0
+2026-04-11,Arizona Diamondbacks,28.2,Arizona Diamondbacks,28.2,0
+2026-04-12,Chicago Cubs,24.599999999999998,Chicago Cubs,24.599999999999998,0
+2026-04-15,Los Angeles Angels,27.2,Los Angeles Angels,27.2,0
+2026-04-17,Atlanta Braves,50.3,Atlanta Braves,50.3,0
+2026-04-18,Los Angeles Dodgers,12.2,Los Angeles Dodgers,12.2,0
+2026-04-19,Los Angeles Dodgers,40.599999999999994,Los Angeles Dodgers,40.599999999999994,0
+2026-04-20,Los Angeles Dodgers,86.39999999999999,Los Angeles Dodgers,86.39999999999999,0
+2026-04-21,Colorado Rockies,9.0,San Diego Padres,6.0,1
+2026-04-22,San Diego Padres,27.7,San Diego Padres,27.7,0
+2026-04-23,Colorado Rockies,90.5,Colorado Rockies,90.5,0
+2026-04-24,Los Angeles Dodgers,18.2,Los Angeles Dodgers,18.2,0
+2026-04-25,San Diego Padres,32.099999999999994,San Diego Padres,32.099999999999994,0
+2026-04-26,San Diego Padres,24.4,San Diego Padres,24.4,0
+2026-04-27,Los Angeles Angels,53.599999999999994,Los Angeles Angels,53.599999999999994,0
+2026-04-28,Atlanta Braves,43.9,Atlanta Braves,43.9,0
+2026-04-29,Colorado Rockies,106.10000000000001,Colorado Rockies,106.10000000000001,0
+2026-04-30,Cincinnati Reds,40.099999999999994,Cincinnati Reds,40.099999999999994,0
+2026-05-02,Cleveland Guardians,68.3,Cleveland Guardians,68.3,0
+2026-05-03,Chicago Cubs,42.8,Chicago Cubs,42.8,0
+2026-05-05,Miami Marlins,65.6,Miami Marlins,65.6,0
+2026-05-06,Chicago White Sox,15.7,Chicago White Sox,15.7,0
+2026-05-07,Colorado Rockies,47.7,Colorado Rockies,47.7,0
+2026-05-08,Athletics,28.2,Athletics,28.2,0
+2026-05-09,New York Mets,9.2,New York Mets,9.2,0
+2026-05-11,San Francisco Giants,96.6,San Francisco Giants,96.6,0
+2026-05-12,Athletics,50.4,Athletics,50.4,0
+2026-05-13,Athletics,66.3,Athletics,66.3,0
+2026-05-14,St. Louis Cardinals,43.9,St. Louis Cardinals,43.9,0
+2026-05-15,Colorado Rockies,24.7,Colorado Rockies,24.7,0
+2026-05-16,Arizona Diamondbacks,30.5,Arizona Diamondbacks,30.5,0
+2026-05-17,Arizona Diamondbacks,87.5,Arizona Diamondbacks,87.5,0
+2026-05-18,Cincinnati Reds,49.4,Cincinnati Reds,49.4,0
+2026-05-20,Los Angeles Angels,56.099999999999994,Los Angeles Angels,56.099999999999994,0
+2026-05-22,Arizona Diamondbacks,24.2,Arizona Diamondbacks,24.2,0
+2026-05-23,Cincinnati Reds,31.7,Cincinnati Reds,31.7,0
+2026-05-25,Athletics,24.7,Athletics,24.7,0
+2026-05-26,Los Angeles Dodgers,71.7,Los Angeles Dodgers,71.7,0
+2026-05-27,Tampa Bay Rays,24.2,Tampa Bay Rays,24.2,0
+2026-05-28,Detroit Tigers,6.0,Detroit Tigers,6.0,0
+2026-05-30,San Francisco Giants,6.0,San Francisco Giants,6.0,0
+2026-05-31,Colorado Rockies,37.4,Colorado Rockies,37.4,0
+2026-06-02,Arizona Diamondbacks,56.599999999999994,Arizona Diamondbacks,56.599999999999994,0
+2026-06-03,Minnesota Twins,6.0,Minnesota Twins,6.0,0
+2026-06-04,Athletics,62.599999999999994,Athletics,62.599999999999994,0
+2026-06-05,Colorado Rockies,67.8,Colorado Rockies,67.8,0
+2026-06-07,Milwaukee Brewers,75.3,Milwaukee Brewers,75.3,0
+2026-06-08,Milwaukee Brewers,107.1,Milwaukee Brewers,107.1,0
+2026-06-09,Athletics,74.8,Athletics,74.8,0
+2026-06-10,Milwaukee Brewers,33.9,Milwaukee Brewers,33.9,0
+2026-06-11,Colorado Rockies,36.0,Colorado Rockies,36.0,0
+2026-06-14,Colorado Rockies,205.7,Colorado Rockies,205.7,0
+2026-06-15,Athletics,75.8,Athletics,75.8,0
+2026-06-16,Pittsburgh Pirates,93.2,Pittsburgh Pirates,93.2,0
+2026-06-17,Colorado Rockies,37.9,Colorado Rockies,37.9,0
+2026-06-18,Chicago White Sox,36.9,New York Yankees,6.0,1
+2026-06-19,Pittsburgh Pirates,18.7,Pittsburgh Pirates,18.7,0
+2026-06-20,Athletics,15.0,Athletics,15.0,0
+2026-06-21,Pittsburgh Pirates,50.3,Pittsburgh Pirates,50.3,0
+2026-06-22,Colorado Rockies,34.9,Colorado Rockies,34.9,0
+2026-06-23,Boston Red Sox,58.7,Boston Red Sox,58.7,0
+2026-06-24,Boston Red Sox,34.2,Boston Red Sox,34.2,0
+2026-06-26,Colorado Rockies,66.6,Colorado Rockies,66.6,0
+2026-06-27,Minnesota Twins,33.9,Minnesota Twins,33.9,0
+2026-06-28,Los Angeles Angels,12.2,Los Angeles Angels,12.2,0
+2026-06-29,Miami Marlins,58.5,Miami Marlins,58.5,0
+2026-06-30,Chicago White Sox,40.599999999999994,Chicago White Sox,40.599999999999994,0
+2026-07-01,San Diego Padres,33.4,San Diego Padres,33.4,0
+2026-07-02,Miami Marlins,47.1,Miami Marlins,47.1,0
+2026-07-03,Miami Marlins,100.1,Miami Marlins,100.1,0
+2026-07-04,San Francisco Giants,46.599999999999994,San Francisco Giants,46.599999999999994,0
+2026-07-05,San Francisco Giants,65.1,San Francisco Giants,65.1,0
+2026-07-06,Los Angeles Dodgers,53.800000000000004,Los Angeles Dodgers,53.800000000000004,0
+2026-07-07,Los Angeles Dodgers,40.2,Los Angeles Dodgers,40.2,0
+2026-07-08,Baltimore Orioles,47.099999999999994,Baltimore Orioles,47.099999999999994,0
+2026-07-09,Pittsburgh Pirates,43.4,Pittsburgh Pirates,43.4,0
+2026-07-10,Baltimore Orioles,27.7,Baltimore Orioles,27.7,0
