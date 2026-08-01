@@ -2407,6 +2407,12 @@ def setup_mlb_tools(mcp):
         Returns: {"markets": [{"ticker","title","yes_bid","yes_ask",
                                "no_bid","no_ask","close_time","volume"}, ...]}
         """
+        def _cents(v):
+            try:
+                return round(float(v) * 100)
+            except (TypeError, ValueError):
+                return None
+
         params = {"status": status, "limit": limit}
         if series_ticker:
             params["series_ticker"] = series_ticker
@@ -2418,11 +2424,12 @@ def setup_mlb_tools(mcp):
             mkts.append({
                 "ticker": m.get("ticker"),
                 "title": m.get("title"),
-                "yes_bid": m.get("yes_bid"),
-                "yes_ask": m.get("yes_ask"),          # = RH "Buy Yes" price
-                "no_bid": m.get("no_bid"),
-                "no_ask": m.get("no_ask"),            # = RH "Buy No" price
+                "yes_bid": _cents(m.get("yes_bid_dollars")),
+                "yes_ask": _cents(m.get("yes_ask_dollars")),          # = RH "Buy Yes" price
+                "no_bid": _cents(m.get("no_bid_dollars")),
+                "no_ask": _cents(m.get("no_ask_dollars")),            # = RH "Buy No" price
+                "floor_strike": m.get("floor_strike"),
                 "close_time": m.get("close_time"),
-                "volume": m.get("volume"),
+                "volume": m.get("volume_fp"),
             })
         return {"count": len(mkts), "markets": mkts}
