@@ -1792,86 +1792,39 @@ def setup_mlb_tools(mcp):
 
     @mcp.tool()
     def get_mlb_game_lineup(game_id: int) -> dict:
-        """
-        Get lineup information for a specific game by game_id.
-
-        Args:
-            game_id (int): The game ID.
-
-        Returns:
-            dict: Game lineup information.
-        """
-        try:
-            # Get the boxscore data
-            boxscore = mlb.get_game_box_score(game_id)
-
-            result = {"game_id": game_id, "teams": {}}
-
-            # Process both teams (away and home)
-            for team_type in ["away", "home"]:
-                if hasattr(boxscore, "teams") and hasattr(boxscore.teams, team_type):
-                    team_data = getattr(boxscore.teams, team_type)
-
-                    team_info = {
-                        "team_name": getattr(team_data.team, "name", "Unknown"),
-                        "team_id": getattr(team_data.team, "id", None),
-                        "players": [],
-                    }
-
-                    # Get players from the team data
-                    if hasattr(team_data, "players") and team_data.players is not None:
-                        players_dict = team_data.players
-
-                        # Extract player information
-                        for player_key, player_data in players_dict.items():
-                            if player_key.startswith("id"):
-                                player_info = {
-                                    "player_id": getattr(player_data.person, "id", None),
-                                    "player_name": getattr(player_data.person, "fullname", "Unknown"),
-                                    "jersey_number": getattr(player_data, "jerseynumber", None),
-                                    "positions": [],
-                                    "batting_order": None,
-                                    "game_entries": [],
-                                }
-
-                                # Get position information
-                                if hasattr(player_data, "allpositions") and player_data.allpositions is not None:
-                                    for position in player_data.allpositions:
-                                        position_info = {
-                                            "position": getattr(position, "abbreviation", None),
-                                            "position_name": getattr(position, "name", None),
-                                        }
-                                        player_info["positions"].append(position_info)
-
-                                # Get batting order from player data directly
-                                if hasattr(player_data, "battingorder"):
-                                    player_info["batting_order"] = getattr(player_data, "battingorder", None)
-
-                                # Get game entry information (substitutions, etc.)
-                                if hasattr(player_data, "gamestatus"):
-                                    game_status = player_data.gamestatus
-                                    entry_info = {
-                                        "is_on_bench": getattr(game_status, "isonbench", False),
-                                        "is_substitute": getattr(game_status, "issubstitute", False),
-                                        "status": getattr(game_status, "status", None),
-                                    }
-                                    player_info["game_entries"].append(entry_info)
-
-                                team_info["players"].append(player_info)
-
-                    # Sort players by batting order (starting lineup first, then substitutes)
-                    def sort_key(player):
-                        batting_order = player.get("batting_order")
-                        if batting_order is None:
-                            return 999  # Put non-batting order players at the end
-                        return int(str(batting_order).replace("0", ""))  # Handle batting order formatting
-
-                    team_info["players"].sort(key=sort_key)
-                    result["teams"][team_type] = team_info
-
-            return result
-        except Exception as e:
-            return {"error": str(e)}
+        """Lineups via boxscore battingOrder. Starters = x00 slots;
+        subs x01+. Empty pregame until lineups post."""
+        import requests as _rq
+        url = f"https://statsapi.mlb.com/api/v1/game/{game_id}/boxscore"
+        r = _rq.get(url, timeout=15)
+        r.raise_for_status()
+        box = r.json()
+        out = {"game_id": game_id, "source": "boxscore", "teams": {}}
+        for side in ("away", "home"):
+            t = box.get("teams", {}).get(side, {}) or {}
+            team = t.get("team", {}) or {}
+            players = []
+            for p in (t.get("players", {}) or {}).values():
+                bo = p.get("battingOrder")
+                if not bo:
+                    continue
+                bo = int(bo)
+                players.append({
+                    "batting_order": bo,
+                    "slot": bo // 100,
+                    "is_starter": bo % 100 == 0,
+                    "id": p.get("person", {}).get("id"),
+                    "name": p.get("person", {}).get("fullName"),
+                    "position": p.get("position", {}).get("abbreviation"),
+                })
+            players.sort(key=lambda x: x["batting_order"])
+            out["teams"][side] = {
+                "team_name": team.get("name"),
+                "team_id": team.get("id"),
+                "lineup_posted": any(pl["is_starter"] for pl in players),
+                "players": players,
+            }
+        return out
 
     @mcp.tool()
     def get_statcast_pitcher(
