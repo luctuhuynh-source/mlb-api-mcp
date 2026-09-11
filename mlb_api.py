@@ -1598,7 +1598,8 @@ def setup_mlb_tools(mcp):
             if team_id is None:
                 return {"error": f"Could not find team ID for '{team}'"}
             roster = mlb.get_team_roster(team_id, **params)
-            return roster
+            _r = roster
+            return _r if isinstance(_r, dict) else {"roster": _r}
         except Exception as e:
             return {"error": str(e)}
 
