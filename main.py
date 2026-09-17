@@ -236,6 +236,9 @@ if __name__ == "__main__":
         http_app_kwargs = {"middleware": [cors_middleware]}
         if "allowed_hosts" in inspect.signature(mcp.http_app).parameters:
             http_app_kwargs["allowed_hosts"] = allowed_hosts
+        if "stateless_http" in inspect.signature(mcp.http_app).parameters:
+            http_app_kwargs["stateless_http"] = True
+            print("- Stateless HTTP: enabled (no session tracking)")
 
         # Get the Starlette app with middleware (using modern http_app method).
         # FastMCP mounts the streamable-HTTP transport at /mcp/ and serves it
