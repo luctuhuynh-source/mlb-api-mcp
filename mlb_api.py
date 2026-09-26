@@ -2387,3 +2387,325 @@ def setup_mlb_tools(mcp):
                 "volume": m.get("volume_fp"),
             })
         return {"count": len(mkts), "markets": mkts}
+
+
+    # ================================================================
+    # GENERIC ODDS API TOOLS (added 9/25/26) — any sport, any market
+    # incl. half/quarter keys. Built for the CFB / NFL 2nd-half
+    # protocols: multi-book 2H consensus with in-tool de-vig.
+    #
+    #   Sport keys:   americanfootball_ncaaf, americanfootball_nfl,
+    #                 baseball_mlb, basketball_nba, basketball_ncaab
+    #   2H markets:   spreads_h2, totals_h2, h2h_h2
+    #   1H markets:   spreads_h1, totals_h1, h2h_h1
+    #   Quarters:     spreads_q1..q4, totals_q1..q4, h2h_q1..q4
+    #   Full game:    spreads, totals, h2h
+    #
+    # Credits: each event pulled costs (#markets x #regions). The events
+    # listing is free. Use team_filter / event_id so a Saturday slate
+    # of 60 games does not burn 180 credits per pull.
+    # ================================================================
+
+    def _oa_devig_two_way(p_a, p_b):
+        """Multiplicative de-vig of two American prices -> (fair_a, fair_b)."""
+        def _imp(am):
+            am = float(am)
+            return 100.0 / (am + 100.0) if am > 0 else (-am) / (-am + 100.0)
+        try:
+            ia, ib = _imp(p_a), _imp(p_b)
+        except (TypeError, ValueError):
+            return None, None
+        s = ia + ib
+        if s <= 0:
+            return None, None
+        return round(ia / s, 4), round(ib / s, 4)
+
+    def _oa_prob_to_american(p):
+        if p is None or p <= 0 or p >= 1:
+            return None
+        return int(round(-100 * p / (1 - p))) if p >= 0.5 else int(round(100 * (1 - p) / p))
+
+    def _oa_consensus(books, market_key, home_team, away_team):
+        """Per-market consensus across books.
+
+        spreads_*: modal home point (most books) + mean no-vig home prob AT that point,
+                   plus mean home point across all books.
+        totals_*:  modal total + mean no-vig OVER prob at that point, plus mean total.
+        h2h_*:     mean no-vig home prob.
+        """
+        rows = []
+        for bk in books:
+            for m in bk.get("markets", []):
+                if m.get("key") != market_key:
+                    continue
+                outs = m.get("outcomes", [])
+                if len(outs) != 2:
+                    continue
+                rows.append((bk.get("key"), outs))
+        if not rows:
+            return {"book_count": 0}
+
+        kind = "spreads" if market_key.startswith("spreads") else \
+               "totals" if market_key.startswith("totals") else "h2h"
+
+        if kind == "h2h":
+            probs = []
+            for _, outs in rows:
+                home = next((o for o in outs if o.get("name") == home_team), None)
+                away = next((o for o in outs if o.get("name") == away_team), None)
+                if not home or not away:
+                    continue
+                fh, _ = _oa_devig_two_way(home.get("price"), away.get("price"))
+                if fh is not None:
+                    probs.append(fh)
+            if not probs:
+                return {"book_count": 0}
+            mean_p = round(sum(probs) / len(probs), 4)
+            return {"book_count": len(probs),
+                    "fair_home_prob": mean_p,
+                    "fair_home_price": _oa_prob_to_american(mean_p),
+                    "fair_away_price": _oa_prob_to_american(1 - mean_p)}
+
+        # spreads / totals: key by point
+        by_point = {}
+        all_points = []
+        for _, outs in rows:
+            if kind == "spreads":
+                home = next((o for o in outs if o.get("name") == home_team), None)
+                other = next((o for o in outs if o.get("name") == away_team), None)
+            else:
+                home = next((o for o in outs if o.get("name") == "Over"), None)
+                other = next((o for o in outs if o.get("name") == "Under"), None)
+            if not home or not other or home.get("point") is None:
+                continue
+            pt = float(home["point"])
+            all_points.append(pt)
+            fh, _ = _oa_devig_two_way(home.get("price"), other.get("price"))
+            if fh is not None:
+                by_point.setdefault(pt, []).append(fh)
+        if not all_points:
+            return {"book_count": 0}
+        modal_pt = max(by_point.items(), key=lambda kv: (len(kv[1]), -abs(kv[0])))[0]
+        probs = by_point[modal_pt]
+        mean_p = round(sum(probs) / len(probs), 4)
+        label = "home" if kind == "spreads" else "over"
+        out = {
+            "book_count": len(all_points),
+            "modal_point": modal_pt,
+            "books_at_modal": len(probs),
+            "mean_point": round(sum(all_points) / len(all_points), 2),
+            f"fair_{label}_prob_at_modal": mean_p,
+            f"fair_{label}_price_at_modal": _oa_prob_to_american(mean_p),
+            "points_seen": sorted(set(all_points)),
+        }
+        if kind == "spreads":
+            out["note"] = "modal_point is the HOME spread; away = -modal_point"
+        return out
+
+    def _oa_parse_books(d):
+        books = []
+        for bk in d.get("bookmakers", []):
+            books.append({
+                "key": bk.get("key"),
+                "title": bk.get("title"),
+                "last_update": bk.get("last_update"),
+                "markets": [
+                    {"key": m.get("key"),
+                     "outcomes": [
+                         {"name": o.get("name"), "price": o.get("price"),
+                          "point": o.get("point")}
+                         for o in m.get("outcomes", [])]}
+                    for m in bk.get("markets", [])],
+            })
+        return books
+
+    def _oa_match_team(ev, team_filter):
+        if not team_filter:
+            return True
+        blob = f"{ev.get('home_team','')} {ev.get('away_team','')}".lower()
+        return any(t.strip().lower() in blob for t in team_filter.split(",") if t.strip())
+
+    @mcp.tool()
+    def get_event_odds(sport: str = "americanfootball_ncaaf",
+                       markets: str = "spreads_h2,totals_h2,h2h_h2",
+                       team_filter: str = "",
+                       event_id: str = "",
+                       status: str = "live",
+                       regions: str = "us",
+                       odds_format: str = "american",
+                       max_events: int = 10,
+                       dry_run: bool = False) -> dict:
+        """Live odds for ANY sport/market from The Odds API, with per-market
+        multi-book consensus (de-vigged) computed in-tool.
+
+        Built for halftime runs: sport='americanfootball_ncaaf' (or _nfl),
+        markets='spreads_h2,totals_h2,h2h_h2', status='live' (games already
+        kicked off), team_filter='Clemson' (comma-separated substrings; matches
+        home OR away). Or pass event_id for one game.
+
+        status: 'live' (commence_time in the past, i.e. in progress),
+                'upcoming' (not started), 'all'.
+        dry_run=True lists matching events + credit cost, pulls nothing.
+
+        Returns per event: event_id (save it — historical pulls need it),
+        teams, commence_time, books (raw per-book outcomes), consensus per
+        market (modal point, book_count, fair no-vig prob/price at modal).
+
+        Cost: (#markets x #regions) credits per event pulled; listing is free.
+        Bookmaker keys returned include draftkings, fanduel, betmgm,
+        williamhill_us (Caesars), betrivers, bovada, etc.
+        """
+        key = os.environ.get("ODDS_API_KEY")
+        if not key:
+            return {"error": "ODDS_API_KEY not set"}
+        base = f"{ODDS_API_BASE_URL}/sports/{sport}"
+        try:
+            ev = requests.get(f"{base}/events", params={"apiKey": key}, timeout=15)
+        except Exception as ex:
+            return {"error": f"events fetch failed: {ex}"}
+        if ev.status_code != 200:
+            return {"error": f"events fetch failed: HTTP {ev.status_code}",
+                    "body": ev.text[:300]}
+        events = ev.json()
+        now = datetime.utcnow()
+
+        def _started(e):
+            try:
+                ct = datetime.strptime(e["commence_time"], "%Y-%m-%dT%H:%M:%SZ")
+                return ct <= now
+            except Exception:
+                return False
+
+        selected = []
+        for e in events:
+            if event_id and e.get("id") != event_id:
+                continue
+            if not event_id:
+                if status == "live" and not _started(e):
+                    continue
+                if status == "upcoming" and _started(e):
+                    continue
+                if not _oa_match_team(e, team_filter):
+                    continue
+            selected.append(e)
+        selected = selected[:max_events]
+        per_event_cost = len(markets.split(",")) * len(regions.split(","))
+        summary = [{"event_id": e["id"], "away": e["away_team"],
+                    "home": e["home_team"], "commence_time": e["commence_time"]}
+                   for e in selected]
+        if dry_run or not selected:
+            return {"sport": sport, "status_filter": status,
+                    "matched": len(selected), "events": summary,
+                    "credits_if_pulled": per_event_cost * len(selected),
+                    "total_events_listed": len(events), "pulled": False}
+
+        results, credits_used, remaining = [], 0, None
+        for e in selected:
+            try:
+                r = requests.get(
+                    f"{base}/events/{e['id']}/odds",
+                    params={"apiKey": key, "regions": regions,
+                            "markets": markets, "oddsFormat": odds_format},
+                    timeout=20)
+            except Exception as ex:
+                results.append({"event_id": e["id"], "error": str(ex)})
+                continue
+            if r.status_code != 200:
+                results.append({"event_id": e["id"], "away": e["away_team"],
+                                "home": e["home_team"],
+                                "error": f"HTTP {r.status_code}: {r.text[:200]}"})
+                continue
+            credits_used += per_event_cost
+            remaining = r.headers.get("x-requests-remaining", remaining)
+            d = r.json()
+            books = _oa_parse_books(d)
+            consensus = {mk: _oa_consensus(books, mk, d.get("home_team"), d.get("away_team"))
+                         for mk in markets.split(",")}
+            results.append({
+                "event_id": d.get("id"), "away": d.get("away_team"),
+                "home": d.get("home_team"), "commence_time": d.get("commence_time"),
+                "book_count": len(books),
+                "consensus": consensus,
+                "books": books,
+            })
+        return {"sport": sport, "markets": markets, "pulled": True,
+                "count": len(results), "approx_credits_used": credits_used,
+                "requests_remaining": remaining,
+                "pulled_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "games": results}
+
+    @mcp.tool()
+    def get_historical_events(sport: str,
+                              date: str,
+                              commence_time_from: str = "",
+                              commence_time_to: str = "") -> dict:
+        """Events for ANY sport as they stood at a historical snapshot (no odds).
+        Same as get_mlb_historical_events but with a sport key
+        (americanfootball_ncaaf, americanfootball_nfl, ...). Use it to recover
+        an event_id you forgot to save. date = ISO8601, e.g. '2026-09-26T23:00:00Z'.
+        Cost: 1 credit."""
+        key = os.environ.get("ODDS_API_KEY")
+        if not key:
+            return {"error": "ODDS_API_KEY not set"}
+        params = {"apiKey": key, "date": date}
+        if commence_time_from:
+            params["commenceTimeFrom"] = commence_time_from
+        if commence_time_to:
+            params["commenceTimeTo"] = commence_time_to
+        try:
+            r = requests.get(f"{ODDS_API_BASE_URL}/historical/sports/{sport}/events",
+                             params=params, timeout=30)
+            if r.status_code != 200:
+                return {"error": f"HTTP {r.status_code}: {r.text[:300]}"}
+            payload = r.json()
+            return {"snapshot_timestamp": payload.get("timestamp"),
+                    "count": len(payload.get("data", [])),
+                    "events": [{"event_id": e.get("id"), "away": e.get("away_team"),
+                                "home": e.get("home_team"),
+                                "commence_time": e.get("commence_time")}
+                               for e in payload.get("data", [])],
+                    "requests_remaining": r.headers.get("x-requests-remaining")}
+        except Exception as ex:
+            return {"error": str(ex)}
+
+    @mcp.tool()
+    def get_event_odds_historical(sport: str,
+                                  event_id: str,
+                                  date: str,
+                                  markets: str = "spreads_h2,totals_h2,h2h_h2",
+                                  regions: str = "us",
+                                  odds_format: str = "american") -> dict:
+        """One event's odds at a historical snapshot, ANY sport/market, with
+        the same in-tool consensus as get_event_odds. This is the grading tool:
+        for a 2H CLOSE use date = 3rd-quarter kickoff time (halftime start +
+        ~20 min); for a 2H OPEN use halftime start + ~2 min. The API returns
+        the closest snapshot at or before `date` (snapshots ~5-10 min apart
+        for period markets, so the close may be a few minutes early).
+
+        Cost: 10 credits x #markets x #regions. Historical period markets are
+        available from May 2023 on paid plans."""
+        key = os.environ.get("ODDS_API_KEY")
+        if not key:
+            return {"error": "ODDS_API_KEY not set"}
+        params = {"apiKey": key, "date": date, "markets": markets,
+                  "regions": regions, "oddsFormat": odds_format}
+        try:
+            r = requests.get(
+                f"{ODDS_API_BASE_URL}/historical/sports/{sport}/events/{event_id}/odds",
+                params=params, timeout=30)
+            if r.status_code != 200:
+                return {"error": f"HTTP {r.status_code}: {r.text[:300]}"}
+            payload = r.json()
+            d = payload.get("data", {}) or {}
+            books = _oa_parse_books(d)
+            consensus = {mk: _oa_consensus(books, mk, d.get("home_team"), d.get("away_team"))
+                         for mk in markets.split(",")}
+            return {"snapshot_timestamp": payload.get("timestamp"),
+                    "previous_snapshot": payload.get("previous_timestamp"),
+                    "next_snapshot": payload.get("next_timestamp"),
+                    "event_id": d.get("id"), "away": d.get("away_team"),
+                    "home": d.get("home_team"), "commence_time": d.get("commence_time"),
+                    "book_count": len(books), "consensus": consensus, "books": books,
+                    "requests_remaining": r.headers.get("x-requests-remaining")}
+        except Exception as ex:
+            return {"error": str(ex)}
