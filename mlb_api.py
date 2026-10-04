@@ -2821,16 +2821,38 @@ def setup_mlb_tools(mcp):
             return p <= 2 if half == 1 else p >= 3
 
         def _yl_to_opp_distance(d):
-            # ESPN start.yardLine is 0-100 from the offense's own goal line
+            # ESPN start.yardLine is 0-100 measured from the HOME goal line
+            # (verified 10/4 NE@BUF): home offense -> 100 - yl, away offense -> yl
             yl = (d.get("start") or {}).get("yardLine")
+            tm_ = (d.get("team") or {}).get("abbreviation")
             try:
-                return 100 - int(yl)
+                yl = int(yl)
+            except Exception:
+                return None
+            ha = (teams.get(tm_) or {}).get("home_away")
+            if ha == "away":
+                return yl
+            return 100 - yl
+
+        def _score_tuple(d):
+            pl = d.get("plays", []) or []
+            if not pl:
+                return None
+            try:
+                return (int(pl[-1].get("awayScore")), int(pl[-1].get("homeScore")))
             except Exception:
                 return None
 
         drives, summ = [], {}
+        prev_score = (0, 0)
         for d in raw:
             p = _period(d)
+            # track running score across ALL drives so deltas stay correct
+            cur_score = _score_tuple(d)
+            drive_delta = None
+            if cur_score is not None:
+                drive_delta = (cur_score[0] - prev_score[0], cur_score[1] - prev_score[1])
+                prev_score = cur_score
             if not _in_half(p):
                 continue
             tm = (d.get("team") or {}).get("abbreviation")
@@ -2844,10 +2866,15 @@ def setup_mlb_tools(mcp):
             is_three_out = ("punt" in res_l) and n_off is not None and n_off <= 3
             rz = dist_to_goal is not None and (dist_to_goal <= 20 or any(
                 ((pl.get("end") or {}).get("yardsToEndzone") or 99) <= 20 for pl in plays))
+            # points = offense's score delta on this drive (score_after - score_before);
+            # fallback to ESPN result abbreviations (TD / FG) when play scores are missing
             pts = 0
-            if "touchdown" in res_l:
+            ha_off = (teams.get(tm) or {}).get("home_away")
+            if drive_delta is not None and ha_off in ("home", "away"):
+                pts = max(0, drive_delta[1] if ha_off == "home" else drive_delta[0])
+            elif res_l in ("td", "touchdown") or res_l.startswith("td "):
                 pts = 7
-            elif "field goal" in res_l and "missed" not in res_l and "blocked" not in res_l:
+            elif res_l in ("fg", "field goal", "made fg"):
                 pts = 3
             rec = {"team": tm, "period": p,
                    "start": (d.get("start") or {}).get("text"),
