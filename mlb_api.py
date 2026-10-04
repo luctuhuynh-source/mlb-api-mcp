@@ -2895,6 +2895,11 @@ def setup_mlb_tools(mcp):
             s = summ.setdefault(tm, {"drives": 0, "plays": 0, "yards": 0, "points": 0,
                                      "turnovers": 0, "three_and_outs": 0, "rz_trips": 0,
                                      "short_field_drives": 0, "scoring_drives": 0, "results": []})
+            s["results"].append(res)
+            # kneel-outs / clock-kills are not real possessions: keep them in the
+            # drive list and results, but out of every summary counter
+            if res_l.startswith("end of"):
+                continue
             s["drives"] += 1
             s["plays"] += n_off or 0
             s["yards"] += yards or 0
@@ -2904,7 +2909,6 @@ def setup_mlb_tools(mcp):
             s["rz_trips"] += int(rz)
             s["short_field_drives"] += int(dist_to_goal is not None and dist_to_goal <= 40)
             s["scoring_drives"] += int(pts > 0)
-            s["results"].append(res)
         for s in summ.values():
             s["ypp"] = round(s["yards"] / s["plays"], 2) if s["plays"] else None
 
