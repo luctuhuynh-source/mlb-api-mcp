@@ -2709,3 +2709,189 @@ def setup_mlb_tools(mcp):
                     "requests_remaining": r.headers.get("x-requests-remaining")}
         except Exception as ex:
             return {"error": str(ex)}
+
+    # ---- ESPN football play-by-play tools (added 10/4/26) ----
+    # Flush-left source. apply_nfl_pbp.sh indents this block 4 spaces and
+    # appends it inside setup_mlb_tools(mcp). Uses module-level `requests`.
+
+    _ESPN_LEAGUE = {"nfl": "nfl", "cfb": "college-football",
+                    "ncaaf": "college-football", "college-football": "college-football"}
+
+
+    def _espn_get(url, params=None, timeout=20):
+        r = requests.get(url, params=params, timeout=timeout,
+                         headers={"User-Agent": "Mozilla/5.0 (mlb-api-mcp)"})
+        if r.status_code != 200:
+            return None, {"error": f"HTTP {r.status_code}: {r.text[:200]}"}
+        try:
+            return r.json(), None
+        except Exception as ex:
+            return None, {"error": f"bad json: {ex}"}
+
+
+    def _espn_status(comp):
+        st = (comp or {}).get("status", {}) or {}
+        t = st.get("type", {}) or {}
+        return {"state": t.get("state"), "detail": t.get("shortDetail") or t.get("detail"),
+                "period": st.get("period"), "clock": st.get("displayClock"),
+                "completed": t.get("completed")}
+
+
+    def _espn_halftime(status):
+        # ESPN marks halftime as period 2, clock 0:00, state "in" (name STATUS_HALFTIME)
+        return bool(status) and status.get("period") == 2 and status.get("clock") in ("0:00", "0.0", "0")
+
+
+    @mcp.tool()
+    def get_football_scoreboard(league: str = "nfl", date: str = "") -> dict:
+        """Live scoreboard for NFL or college football from ESPN's public JSON
+        (no key needed). Returns each game's ESPN event_id — the id you pass to
+        get_football_drives — plus teams, score, period, clock, status and whether
+        play-by-play is available. league: "nfl" (default) or "cfb".
+        date: optional YYYYMMDD; blank = current slate."""
+        lg = _ESPN_LEAGUE.get(league.lower(), "nfl")
+        params = {"limit": 200}
+        if date:
+            params["dates"] = date
+        data, err = _espn_get(
+            f"https://site.api.espn.com/apis/site/v2/sports/football/{lg}/scoreboard", params)
+        if err:
+            return err
+        out = []
+        for ev in data.get("events", []) or []:
+            comp = (ev.get("competitions") or [{}])[0]
+            status = _espn_status(comp)
+            teams = {}
+            for c in comp.get("competitors", []) or []:
+                ab = (c.get("team") or {}).get("abbreviation")
+                teams[c.get("homeAway")] = {"abbr": ab,
+                                            "name": (c.get("team") or {}).get("displayName"),
+                                            "score": c.get("score"),
+                                            "linescores": [ls.get("value") for ls in c.get("linescores", []) or []]}
+            out.append({"event_id": ev.get("id"), "name": ev.get("shortName"),
+                        "start_utc": ev.get("date"),
+                        "home": teams.get("home"), "away": teams.get("away"),
+                        "status": status, "halftime": _espn_halftime(status),
+                        "pbp_available": comp.get("playByPlayAvailable")})
+        return {"league": lg, "count": len(out), "games": out}
+
+
+    @mcp.tool()
+    def get_football_drives(event_id: str, league: str = "nfl", half: int = 1,
+                            include_plays: bool = True, max_play_chars: int = 110) -> dict:
+        """Drive chart + play-by-play for one NFL/CFB game from ESPN's public JSON.
+        Built for the 2H halftime protocol: call at halftime with half=1 to get
+        every 1H drive (start field position, result, yards, plays, time) with
+        its plays, plus a per-team 1H summary (drives, plays, yards, YPP, points,
+        turnovers, 3-and-outs, red-zone trips, short-field drives starting inside
+        the opponent 40, scoring drives) and the halftime score/linescore.
+        half: 1 = periods 1-2 (default), 2 = periods 3-4, 0 = whole game.
+        include_plays=False returns drives + summary only (small payload).
+        event_id comes from get_football_scoreboard. Cumulative stats are
+        computed from the drives, so they stay 1H-only even after Q3 starts."""
+        lg = _ESPN_LEAGUE.get(league.lower(), "nfl")
+        data, err = _espn_get(
+            f"https://site.api.espn.com/apis/site/v2/sports/football/{lg}/summary",
+            {"event": event_id})
+        if err:
+            return err
+
+        # --- header / score ---
+        hdr_comp = ((data.get("header") or {}).get("competitions") or [{}])[0]
+        status = _espn_status(hdr_comp)
+        teams = {}
+        for c in hdr_comp.get("competitors", []) or []:
+            ab = (c.get("team") or {}).get("abbreviation")
+            teams[ab] = {"home_away": c.get("homeAway"), "score": c.get("score"),
+                         "linescores": [ls.get("displayValue") for ls in c.get("linescores", []) or []]}
+
+        # --- drives ---
+        drives_obj = data.get("drives") or {}
+        raw = list(drives_obj.get("previous", []) or [])
+        cur = drives_obj.get("current")
+        if cur and cur.get("id") not in {d.get("id") for d in raw}:
+            raw.append(cur)
+
+        def _period(d):
+            return ((d.get("start") or {}).get("period") or {}).get("number")
+
+        def _in_half(p):
+            if half == 0 or p is None:
+                return True
+            return p <= 2 if half == 1 else p >= 3
+
+        def _yl_to_opp_distance(d):
+            # ESPN start.yardLine is 0-100 from the offense's own goal line
+            yl = (d.get("start") or {}).get("yardLine")
+            try:
+                return 100 - int(yl)
+            except Exception:
+                return None
+
+        drives, summ = [], {}
+        for d in raw:
+            p = _period(d)
+            if not _in_half(p):
+                continue
+            tm = (d.get("team") or {}).get("abbreviation")
+            res = (d.get("result") or d.get("displayResult") or "").strip()
+            plays = d.get("plays", []) or []
+            n_off = d.get("offensivePlays") or len(plays)
+            yards = d.get("yards")
+            dist_to_goal = _yl_to_opp_distance(d)
+            res_l = res.lower()
+            is_to = any(k in res_l for k in ("interception", "fumble", "downs"))
+            is_three_out = ("punt" in res_l) and n_off is not None and n_off <= 3
+            rz = dist_to_goal is not None and (dist_to_goal <= 20 or any(
+                ((pl.get("end") or {}).get("yardsToEndzone") or 99) <= 20 for pl in plays))
+            pts = 0
+            if "touchdown" in res_l:
+                pts = 7
+            elif "field goal" in res_l and "missed" not in res_l and "blocked" not in res_l:
+                pts = 3
+            rec = {"team": tm, "period": p,
+                   "start": (d.get("start") or {}).get("text"),
+                   "start_clock": ((d.get("start") or {}).get("clock") or {}).get("displayValue"),
+                   "start_dist_to_goal": dist_to_goal,
+                   "result": res, "plays": n_off, "yards": yards,
+                   "time": (d.get("timeElapsed") or {}).get("displayValue"),
+                   "score_after": f"{(plays[-1].get('awayScore') if plays else '')}-{(plays[-1].get('homeScore') if plays else '')}"}
+            if include_plays:
+                rec["pbp"] = [{"q": ((pl.get("period") or {}).get("number")),
+                               "clock": ((pl.get("clock") or {}).get("displayValue")),
+                               "dd": ((pl.get("start") or {}).get("downDistanceText")),
+                               "text": (pl.get("text") or "")[:max_play_chars],
+                               "score": pl.get("scoringPlay") or False}
+                              for pl in plays]
+            drives.append(rec)
+
+            s = summ.setdefault(tm, {"drives": 0, "plays": 0, "yards": 0, "points": 0,
+                                     "turnovers": 0, "three_and_outs": 0, "rz_trips": 0,
+                                     "short_field_drives": 0, "scoring_drives": 0, "results": []})
+            s["drives"] += 1
+            s["plays"] += n_off or 0
+            s["yards"] += yards or 0
+            s["points"] += pts
+            s["turnovers"] += int(is_to)
+            s["three_and_outs"] += int(is_three_out)
+            s["rz_trips"] += int(rz)
+            s["short_field_drives"] += int(dist_to_goal is not None and dist_to_goal <= 40)
+            s["scoring_drives"] += int(pts > 0)
+            s["results"].append(res)
+        for s in summ.values():
+            s["ypp"] = round(s["yards"] / s["plays"], 2) if s["plays"] else None
+
+        # --- scoring plays (whole game, as ESPN lists them) ---
+        scoring = [{"q": ((sp.get("period") or {}).get("number")),
+                    "clock": ((sp.get("clock") or {}).get("displayValue")),
+                    "team": ((sp.get("team") or {}).get("abbreviation")),
+                    "text": (sp.get("text") or "")[:max_play_chars],
+                    "away": sp.get("awayScore"), "home": sp.get("homeScore")}
+                   for sp in (data.get("scoringPlays") or [])
+                   if _in_half(((sp.get("period") or {}).get("number")))]
+
+        return {"event_id": event_id, "league": lg, "status": status,
+                "halftime_now": _espn_halftime(status), "half": half,
+                "teams": teams, "summary": summ, "drive_count": len(drives),
+                "drives": drives, "scoring_plays": scoring,
+                "note": "yardLine-based fields are best-effort; 'summary' is computed from drives in the requested half only"}
