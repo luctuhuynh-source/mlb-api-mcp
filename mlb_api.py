@@ -2513,7 +2513,7 @@ def setup_mlb_tools(mcp):
                     {"key": m.get("key"),
                      "outcomes": [
                          {"name": o.get("name"), "price": o.get("price"),
-                          "point": o.get("point")}
+                          "point": o.get("point"), "description": o.get("description")}
                          for o in m.get("outcomes", [])]}
                     for m in bk.get("markets", [])],
             })
