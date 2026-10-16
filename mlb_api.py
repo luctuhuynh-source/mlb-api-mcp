@@ -2926,3 +2926,215 @@ def setup_mlb_tools(mcp):
                 "teams": teams, "summary": summ, "drive_count": len(drives),
                 "drives": drives, "scoring_plays": scoring,
                 "note": "yardLine-based fields are best-effort; 'summary' is computed from drives in the requested half only"}
+
+    # ---------------------------------------------------------------
+    # CFB / NFL QB STARTER STATUS (added 10/15/2026) — QB gate v1.4
+    # Source: ESPN public site API (no key). For a team: last N completed
+    # games' passing lines (starter = first passer listed with attempts),
+    # next scheduled game, and any ESPN-listed injuries for the team.
+    # Does NOT read conference availability pages or news — those stay
+    # manual checks in the protocol.
+    # ---------------------------------------------------------------
+    @mcp.tool()
+    def get_cfb_qb_status(team: str, league: str = "cfb", games: int = 2) -> dict:
+        """QB starter assurance inputs for one team (CFB default, league='nfl' also works).
+
+        team: name, nickname, location or abbreviation, e.g. 'Texas State',
+              'Colorado State', 'ECU', 'Georgia Southern'.
+        games: how many most-recent completed games to read (default 2).
+
+        Returns: resolved team, next_game (opponent, date, event_id, conference
+        game flag if ESPN exposes it, injuries listed by ESPN), and per past game:
+        opponent, score, starter_qb (first passer listed with attempts), all
+        passers with comp/att, and first_snap_qb parsed from the first offensive
+        play text when it names a passer/rusher.
+        """
+        import requests as _rq
+
+        sport = "college-football" if league.lower() in ("cfb", "ncaaf", "college") else "nfl"
+        base = "https://site.api.espn.com/apis/site/v2/sports/football/" + sport
+        hdr = {"User-Agent": "Mozilla/5.0"}
+
+        def _get(url, **params):
+            r = _rq.get(url, params=params or None, headers=hdr, timeout=25)
+            r.raise_for_status()
+            return r.json()
+
+        try:
+            # 1) resolve team id
+            tj = _get(base + "/teams", limit=1000)
+            teams = tj["sports"][0]["leagues"][0]["teams"]
+            q = team.strip().lower()
+            hit = None
+            for t in teams:
+                tt = t["team"]
+                keys = [str(tt.get(k, "")).lower() for k in
+                        ("displayName", "shortDisplayName", "abbreviation", "location", "name", "nickname")]
+                if q in keys:
+                    hit = tt
+                    break
+            if hit is None:
+                for t in teams:
+                    tt = t["team"]
+                    if q in str(tt.get("displayName", "")).lower():
+                        hit = tt
+                        break
+            if hit is None:
+                return {"error": f"team not found on ESPN {sport}: {team}"}
+            tid = str(hit["id"])
+            resolved = {"id": tid, "name": hit.get("displayName"), "abbr": hit.get("abbreviation")}
+
+            # 2) schedule → completed games + next game
+            sj = _get(base + f"/teams/{tid}/schedule")
+            evs = sj.get("events", [])
+            completed, upcoming = [], []
+            for e in evs:
+                comp = (e.get("competitions") or [{}])[0]
+                st = comp.get("status", {}).get("type", {})
+                (completed if st.get("completed") else upcoming).append(e)
+            recent = completed[-int(games):] if games else []
+
+            def _opp(e):
+                comp = (e.get("competitions") or [{}])[0]
+                for c in comp.get("competitors", []):
+                    if str(c.get("team", {}).get("id")) != tid:
+                        return {"opponent": c.get("team", {}).get("displayName"),
+                                "home_away": "home" if c.get("homeAway") == "away" else "away"}
+                return {"opponent": None, "home_away": None}
+
+            def _score(e):
+                comp = (e.get("competitions") or [{}])[0]
+                us = them = None
+                for c in comp.get("competitors", []):
+                    val = c.get("score", {})
+                    val = val.get("value") if isinstance(val, dict) else val
+                    if str(c.get("team", {}).get("id")) == tid:
+                        us = val
+                    else:
+                        them = val
+                return {"us": us, "them": them}
+
+            # 3) per past game: passers + first-snap QB
+            past = []
+            for e in reversed(recent):
+                eid = str(e["id"])
+                try:
+                    sm = _get(base + "/summary", event=eid)
+                except Exception as ex:
+                    past.append({"event_id": eid, "error": f"summary failed: {ex}"})
+                    continue
+                passers = []
+                for tb in sm.get("boxscore", {}).get("players", []):
+                    if str(tb.get("team", {}).get("id")) != tid:
+                        continue
+                    for stt in tb.get("statistics", []):
+                        if stt.get("name") != "passing":
+                            continue
+                        for a in stt.get("athletes", []):
+                            stats = a.get("stats") or []
+                            passers.append({
+                                "name": a.get("athlete", {}).get("displayName"),
+                                "comp_att": stats[0] if stats else None,
+                                "yds": stats[1] if len(stats) > 1 else None,
+                                "espn_starter_flag": a.get("starter"),
+                            })
+                starter = None
+                for p in passers:
+                    ca = p.get("comp_att") or ""
+                    try:
+                        att = int(str(ca).split("/")[1])
+                    except Exception:
+                        att = 0
+                    if att > 0:
+                        starter = p["name"]
+                        break
+                starter_source = "boxscore.players passing" if starter else None
+                if starter is None:
+                    # fallback: ESPN 'leaders' block (top passer by yards)
+                    for lb in sm.get("leaders", []):
+                        if str(lb.get("team", {}).get("id")) != tid:
+                            continue
+                        for cat in lb.get("leaders", []):
+                            if cat.get("name") in ("passingYards", "passing", "passingLeader"):
+                                lead = cat.get("leaders") or []
+                                if lead:
+                                    starter = lead[0].get("athlete", {}).get("displayName")
+                                    starter_source = "leaders.passingYards (fallback)"
+                                    passers.append({"name": starter, "comp_att": lead[0].get("displayValue"),
+                                                    "yds": None, "espn_starter_flag": None})
+                                break
+                first_snap = None
+                first_play = None
+                for d in sm.get("drives", {}).get("previous", []):
+                    if str(d.get("team", {}).get("id")) != tid:
+                        continue
+                    plays = d.get("plays") or []
+                    if not plays:
+                        continue
+                    first_play = plays[0].get("text")
+                    txt = first_play or ""
+                    for marker in (" pass ", " pass,", " sacked", " scrambles", " run ", " rush "):
+                        if marker in txt:
+                            first_snap = txt.split(marker)[0].strip()
+                            break
+                    break
+                past.append({
+                    "event_id": eid,
+                    "date": e.get("date"),
+                    **_opp(e),
+                    "score": _score(e),
+                    "starter_qb": starter,
+                    "starter_source": starter_source,
+                    "first_snap_qb_parsed": first_snap,
+                    "first_play_text": first_play,
+                    "passers": passers,
+                })
+
+            # 4) next game + ESPN injuries (summary works pregame)
+            nxt = None
+            if upcoming:
+                e = upcoming[0]
+                eid = str(e["id"])
+                comp = (e.get("competitions") or [{}])[0]
+                nxt = {"event_id": eid, "date": e.get("date"), **_opp(e),
+                       "conference_game": comp.get("conferenceCompetition"),
+                       "injuries": [], "injuries_note": None}
+                try:
+                    sm = _get(base + "/summary", event=eid)
+                    inj = sm.get("injuries") or []
+                    for blk in inj:
+                        if str(blk.get("team", {}).get("id")) != tid:
+                            continue
+                        for i in blk.get("injuries", []):
+                            ath = i.get("athlete", {})
+                            nxt["injuries"].append({
+                                "name": ath.get("displayName"),
+                                "pos": ath.get("position", {}).get("abbreviation"),
+                                "status": i.get("status"),
+                                "detail": (i.get("details") or {}).get("type"),
+                            })
+                    if not inj:
+                        nxt["injuries_note"] = "ESPN summary has no injuries block for this game (common for CFB) — check the conference availability report"
+                except Exception as ex:
+                    nxt["injuries_note"] = f"summary failed: {ex}"
+
+            # 5) assurance hint (table QB1 = starter of most recent game)
+            qb1 = past[0].get("starter_qb") if past else None
+            consistent = bool(past) and all(g.get("starter_qb") == qb1 for g in past if g.get("starter_qb"))
+            qb_flags = []
+            if nxt:
+                for i in nxt.get("injuries", []):
+                    if i.get("pos") == "QB":
+                        qb_flags.append(i)
+            return {
+                "team": resolved,
+                "league": sport,
+                "table_qb1": qb1,
+                "qb1_started_last_n": consistent,
+                "qb_injury_flags": qb_flags,
+                "next_game": nxt,
+                "recent_games": past,
+                "note": "Tier B/C still require the conference availability report + news window since the last game; this tool supplies QB1 identity, last-N consistency, and ESPN injuries only.",
+            }
+        except Exception as ex:
+            return {"error": str(ex), "team_query": team}
