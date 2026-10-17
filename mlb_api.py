@@ -2862,7 +2862,16 @@ def setup_mlb_tools(mcp):
             yards = d.get("yards")
             dist_to_goal = _yl_to_opp_distance(d)
             res_l = res.lower()
-            is_to = any(k in res_l for k in ("interception", "fumble", "downs"))
+            # ESPN drive results are often abbreviations ("INT", "FUMBLE", "Downs").
+            # Turnover on downs is NOT a giveaway; count it separately.
+            _words = res_l.replace("-", " ").split()
+            is_to = ("interception" in res_l or "int" in _words or "int td" in res_l
+                     or "fumble" in res_l or "fum" in _words)
+            is_downs = "downs" in res_l
+            # muffed punt: the drive belongs to the punting team, but the giveaway is
+            # the receiving team's -> credit it to the opponent of this drive's team
+            muff_by_receiver = ("punt" in res_l or "fumble" in res_l) and any(
+                "muff" in (pl.get("text") or "").lower() for pl in plays)
             is_three_out = ("punt" in res_l) and n_off is not None and n_off <= 3
             rz = dist_to_goal is not None and (dist_to_goal <= 20 or any(
                 ((pl.get("end") or {}).get("yardsToEndzone") or 99) <= 20 for pl in plays))
@@ -2904,7 +2913,19 @@ def setup_mlb_tools(mcp):
             s["plays"] += n_off or 0
             s["yards"] += yards or 0
             s["points"] += pts
+            if muff_by_receiver:
+                # the punting team recovered the receiver's muff: not this team's giveaway
+                is_to = False
+                opp = next((k for k in teams if k != tm), None)
+                if opp:
+                    o = summ.setdefault(opp, {"drives": 0, "plays": 0, "yards": 0, "points": 0,
+                                              "turnovers": 0, "turnovers_on_downs": 0,
+                                              "three_and_outs": 0, "rz_trips": 0,
+                                              "short_field_drives": 0, "scoring_drives": 0,
+                                              "results": []})
+                    o["turnovers"] = o.get("turnovers", 0) + 1
             s["turnovers"] += int(is_to)
+            s["turnovers_on_downs"] = s.get("turnovers_on_downs", 0) + int(is_downs)
             s["three_and_outs"] += int(is_three_out)
             s["rz_trips"] += int(rz)
             s["short_field_drives"] += int(dist_to_goal is not None and dist_to_goal <= 40)
@@ -2965,6 +2986,18 @@ def setup_mlb_tools(mcp):
             tj = _get(base + "/teams", limit=1000)
             teams = tj["sports"][0]["leagues"][0]["teams"]
             q = team.strip().lower()
+            # common names ESPN spells differently
+            _alias = {"appalachian state": "app state", "appalachian st": "app state",
+                      "app st": "app state", "sam houston state": "sam houston",
+                      "sam houston st": "sam houston", "southern miss": "southern miss",
+                      "southern mississippi": "southern miss", "ul monroe": "ul monroe",
+                      "louisiana monroe": "ul monroe", "miami (oh)": "miami (oh)",
+                      "miami ohio": "miami (oh)", "ole miss": "ole miss",
+                      "mississippi": "ole miss", "jax state": "jacksonville state",
+                      "jacksonville st": "jacksonville state", "texas a&m": "texas a&m",
+                      "fiu": "florida international", "fau": "florida atlantic",
+                      "uconn": "uconn", "connecticut": "uconn", "hawaii": "hawai'i"}
+            q = _alias.get(q, q)
             hit = None
             for t in teams:
                 tt = t["team"]
@@ -2977,6 +3010,16 @@ def setup_mlb_tools(mcp):
                 for t in teams:
                     tt = t["team"]
                     if q in str(tt.get("displayName", "")).lower():
+                        hit = tt
+                        break
+            if hit is None:
+                # last resort: every word of the query appears in location + name
+                qw = [w for w in q.replace(".", "").split() if w not in ("state", "st")]
+                for t in teams:
+                    tt = t["team"]
+                    blob = " ".join(str(tt.get(k, "")) for k in
+                                    ("displayName", "location", "shortDisplayName")).lower()
+                    if qw and all(w in blob for w in qw):
                         hit = tt
                         break
             if hit is None:
