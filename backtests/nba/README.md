@@ -22,5 +22,16 @@ Our entries: username dalatcrew.
 - YYYY-MM-DD_pool*.csv — FanDuel player-list export (salaries, positions, injury flags) at build time.
 - YYYY-MM-DD_lineups*.csv — lineups we built/submitted that day.
 
-## Still missing (step 3 of the plan)
-- Historical FD salaries + realized ownership for slates we did not enter (RotoGuru / LineStar) — blocked from this sandbox, to be sourced separately.
+## linestar/ — LineStar FanDuel NBA history (salaries, projections, actual points, realized ownership)
+Pulled 2026-10-29 by `linestar_pull.py` from LineStar's GetSalariesV5 endpoint (site 2 = FanDuel, sport 2 = NBA);
+369 slate-days, 2025-01-01 .. 2026-10-29. Rerun the script any time to add new days (only missing days are fetched).
+- players.csv — one row per player per slate-day: salary, pos, team/opp, LineStar projection (ls_proj/floor/ceil/conf),
+  season ppg, actual_fd_pts (FanDuel points scored that night), injury status, Vegas line/total.
+- ownership.csv — kind=actual: realized ownership % per tracked contest (contest name, fee, entries, slate);
+  kind=projected: LineStar's pre-lock projected ownership per slate. 342 days have realized ownership;
+  50 days include the $6 "NBA Shot" contest we play.
+- games.csv — one row per game: Vegas line/total/moneylines, final score.
+- raw/ — gzipped original JSON per day (re-parse with `python3 -c "import linestar_pull; linestar_pull.rebuild()"`).
+
+Caveats: days before the current season's start are last season's slates; LineStar's "actual" ownership covers only the
+contests it tracks (not every FD contest). Our own standings CSVs (standings/) remain the ground truth for slates we entered.
