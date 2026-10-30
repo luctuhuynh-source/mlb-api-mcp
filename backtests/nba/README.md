@@ -35,3 +35,7 @@ Pulled 2026-10-29 by `linestar_pull.py` from LineStar's GetSalariesV5 endpoint (
 
 Caveats: days before the current season's start are last season's slates; LineStar's "actual" ownership covers only the
 contests it tracks (not every FD contest). Our own standings CSVs (standings/) remain the ground truth for slates we entered.
+
+## sources/ — targeted reads for the protocol (saved as PDFs 10/29)
+1 Paine projection method (rookie draft-slot prior) · 2 BPM 2.0 methodology (450-minute shrinkage) · 3 Pelton SCHOENE ·
+4 DFS Engineer projections guide + 4b optimizer, 4c ownership/leverage, 4d minutes when a starter sits · 5 Daily Fantasy Pro ownership tool.
