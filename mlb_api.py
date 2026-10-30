@@ -3482,3 +3482,136 @@ def setup_mlb_tools(mcp):
             "note": "ESPN statuses lag the official 5:30 PM ET report by minutes to an hour; confirm "
                     "game-time decisions against the posted starting lineup before lock (late-swap rule).",
         }
+
+    # ===== NBA news + lineups tools (FanDuel NBA protocol, added 10/30) =====
+    @mcp.tool()
+    def get_nba_player_news(player: str = "", team: str = "", limit: int = 25, days: int = 3) -> dict:
+        """NBA player news blurbs with RotoWire's analysis (headline, news,
+        analysis, time) for the FanDuel NBA protocol, from RotoWire's free NBA
+        news page (latest items across all players in one call). player:
+        optional name filter ("maxey"); team: optional filter on text
+        ("76ers", "PHI"); limit: max items (1-60). Fallbacks: ESPN fantasy
+        news feed, then ESPN general NBA news. parse_ok=false returns a text
+        fallback so the news is still readable."""
+        import re as _r, html as _h, json as _j, urllib.request as _u, datetime as _d
+        def _fetch(url):
+            req = _u.Request(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh)"})
+            with _u.urlopen(req, timeout=25) as r:
+                return r.read().decode("utf-8", "replace")
+        def _txt(x):
+            x = _r.sub(r"<[^>]+>", " ", x or "")
+            return _r.sub(r"\s+", " ", _h.unescape(x)).strip()
+        limit = max(1, min(int(limit or 25), 60))
+        pl, tm = (player or "").lower().strip(), (team or "").lower().strip()
+        warnings, out, src = [], [], "rotowire_nba_news"
+        page = None
+        try:
+            page = _fetch("https://www.rotowire.com/basketball/news.php")
+        except Exception as e:
+            warnings.append(f"rotowire news fetch failed: {type(e).__name__}: {e}")
+        parsed = 0
+        if page:
+            for b in _r.split(r'<div class="news-update(?:\s|")', page)[1:]:
+                def g(cls):
+                    m = _r.search(r'class="news-update__' + cls + r'[^"]*"[^>]*>(.*?)</(?:div|a|span)>', b, _r.S)
+                    return _txt(m.group(1)) if m else None
+                name = g("player-link")
+                head, news, ana, ts = g("headline"), g("news"), g("analysis"), g("timestamp")
+                if not (name or head or news):
+                    continue
+                parsed += 1
+                if ana and ana.upper().startswith("ANALYSIS"):
+                    ana = ana[8:].strip()
+                if ana and "subscribe" in ana.lower():
+                    ana = "LOCKED (RotoWire subscriber-only)"
+                blob = " ".join(x for x in [name, head, news, ana, _txt(b[:600])] if x).lower()
+                if pl and pl not in blob: continue
+                if tm and tm not in blob: continue
+                out.append({"time": ts, "player": name, "headline": head, "news": news,
+                            "analysis": (ana[:1500] if ana else None)})
+                if len(out) >= limit: break
+        res = {"source": src, "fetched_utc": _d.datetime.utcnow().strftime("%Y-%m-%dT%H:%MZ"),
+               "parse_ok": parsed > 0, "items_parsed": parsed, "count": len(out), "items": out}
+        if page and parsed == 0:
+            body = _r.sub(r"<(script|style)[^>]*>.*?</\1>", " ", page, flags=_r.S)
+            t = _txt(body)
+            if pl:
+                k = t.lower().find(pl)
+                res["text_fallback"] = t[max(0, k - 300): k + 3000] if k >= 0 else "player not found on page"
+            else:
+                k = t.find("ANALYSIS")
+                res["text_fallback"] = t[max(0, k - 1500): max(0, k - 1500) + 15000]
+        if not page:
+            src = "espn_nba_news"
+            try:
+                data = _j.loads(_fetch("https://site.api.espn.com/apis/site/v2/sports/basketball/nba/news?limit=100"))
+                for it in data.get("articles") or []:
+                    head = it.get("headline") or ""; story = it.get("description") or ""
+                    if pl and pl not in (head + " " + story).lower(): continue
+                    out.append({"time": it.get("published"), "player": None, "headline": head,
+                                "news": story, "analysis": None})
+                    if len(out) >= limit: break
+                res.update(source=src, count=len(out), items=out)
+            except Exception as e:
+                warnings.append(f"espn news failed: {type(e).__name__}: {e}")
+        res["warnings"] = warnings or None
+        return res
+
+    @mcp.tool()
+    def get_nba_lineups(team: str = "") -> dict:
+        """Today's NBA starting lineups from RotoWire's free NBA Lineups page
+        for the FanDuel NBA protocol: per game, each team's status (Expected /
+        Confirmed Lineup), the five starters with positions, and the
+        may-not-play list with injury tags (OUT / GTD / Prob / Ques). team:
+        optional filter on the team abbreviation as RotoWire prints it (PHI,
+        NYK, GSW...). If the page layout changes, parse_ok=false and a
+        text fallback is returned so the data is still readable."""
+        import re as _r, html as _h, urllib.request as _u, datetime as _d
+        url = "https://www.rotowire.com/basketball/nba-lineups.php"
+        try:
+            req = _u.Request(url, headers={"User-Agent": "Mozilla/5.0 (Macintosh)"})
+            with _u.urlopen(req, timeout=25) as r:
+                page = r.read().decode("utf-8", "replace")
+        except Exception as e:
+            return {"error": f"rotowire fetch failed: {type(e).__name__}: {e}"}
+        def _txt(s):
+            s = _r.sub(r"<[^>]+>", " ", s)
+            return _r.sub(r"\s+", " ", _h.unescape(s)).strip()
+        boxes = _r.split(r'<div class="lineup is-nba', page)[1:]
+        games = []
+        for b in boxes:
+            abbrs = [_txt(a) for a in _r.findall(r'class="lineup__abbr"[^>]*>(.*?)</', b, _r.S)]
+            time_m = _r.search(r'class="lineup__time"[^>]*>(.*?)</div>', b, _r.S)
+            sides = _r.split(r'<ul class="lineup__list', b)[1:]
+            teams_out = []
+            for i, s in enumerate(sides[:2]):
+                st = _r.search(r'class="lineup__status[^"]*"[^>]*>(.*?)</li>', s, _r.S)
+                players = []
+                for li in _r.findall(r'<li class="lineup__player[^"]*"[^>]*>(.*?)</li>', s, _r.S):
+                    pos = _r.search(r'class="lineup__pos"[^>]*>(.*?)</div>', li, _r.S)
+                    nm = _r.search(r'title="([^"]+)"', li) or _r.search(r'<a[^>]*>(.*?)</a>', li, _r.S)
+                    inj = _r.search(r'class="lineup__inj"[^>]*>(.*?)</span>', li, _r.S)
+                    players.append({"pos": _txt(pos.group(1)) if pos else None,
+                                    "name": _h.unescape(nm.group(1)).strip() if nm else _txt(li),
+                                    "tag": _txt(inj.group(1)) if inj else None})
+                teams_out.append({"team": abbrs[i] if i < len(abbrs) else None,
+                                  "status": _txt(st.group(1)) if st else None,
+                                  "starters": players[:5],
+                                  "may_not_play": players[5:]})
+            if not abbrs:
+                continue
+            if team and not any(team.upper() == (a or "").upper() for a in abbrs):
+                continue
+            games.append({"matchup": " @ ".join(abbrs[:2]) if abbrs else None,
+                          "time": _txt(time_m.group(1)) if time_m else None,
+                          "teams": teams_out})
+        parse_ok = bool(games) and any(t["starters"] for g in games for t in g["teams"])
+        res = {"source": "rotowire_nba_lineups",
+               "fetched_utc": _d.datetime.utcnow().strftime("%Y-%m-%dT%H:%MZ"),
+               "parse_ok": parse_ok, "games": games}
+        if not parse_ok:
+            body = _r.sub(r"<(script|style)[^>]*>.*?</\1>", " ", page, flags=_r.S)
+            t = _txt(body)
+            k = t.find("Lineup")
+            res["text_fallback"] = t[max(0, k - 200): max(0, k - 200) + 20000]
+        return res
