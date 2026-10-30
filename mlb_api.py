@@ -3181,3 +3181,304 @@ def setup_mlb_tools(mcp):
             }
         except Exception as ex:
             return {"error": str(ex), "team_query": team}
+
+
+    # ------------------------------------------------------------------
+    # NBA FanDuel protocol tools (job C, 10/30/2026)
+    #   get_nba_player_log     — last-N game log + minutes/rate summary
+    #   get_nba_team_rotation  — who plays, how much, how stable
+    #   get_nba_injury_report  — ESPN injuries + today's games
+    # Game-log data = committed CSVs under backtests/nba/ (hoopR/ESPN box
+    # scores, refreshed weekly by nba_pull_gamelogs.py). Injuries/schedule
+    # are live from ESPN's public JSON (same host as the football tools).
+    # ------------------------------------------------------------------
+    _NBA_CACHE = {}
+    _NBA_TEAM_WORDS = {
+        "ATL": "hawks", "BOS": "celtics", "BKN": "nets", "CHA": "hornets", "CHI": "bulls",
+        "CLE": "cavaliers", "DAL": "mavericks", "DEN": "nuggets", "DET": "pistons",
+        "GS": "warriors", "GSW": "warriors", "HOU": "rockets", "IND": "pacers", "LAC": "clippers",
+        "LAL": "lakers", "MEM": "grizzlies", "MIA": "heat", "MIL": "bucks", "MIN": "timberwolves",
+        "NO": "pelicans", "NOP": "pelicans", "NY": "knicks", "NYK": "knicks", "OKC": "thunder",
+        "ORL": "magic", "PHI": "76ers", "PHX": "suns", "POR": "trail blazers", "SAC": "kings",
+        "SA": "spurs", "SAS": "spurs", "TOR": "raptors", "UTAH": "jazz", "UTA": "jazz",
+        "WSH": "wizards", "WAS": "wizards",
+    }
+
+    def _nba_base():
+        from pathlib import Path as _P
+        return _P(__file__).resolve().parent / "backtests" / "nba"
+
+    def _nba_seasons():
+        import re as _re
+        out = []
+        for p in sorted(_nba_base().glob("nba_player_games_*.csv")):
+            m = _re.search(r"(\d{4}-\d{2})", p.name)
+            if m:
+                out.append((m.group(1), p))
+        return out
+
+    def _nba_load(season=""):
+        """Rows of one season's game log (latest season when blank), cached."""
+        import csv as _csv
+        seasons = _nba_seasons()
+        if not seasons:
+            return None, "no backtests/nba/nba_player_games_*.csv committed"
+        if season:
+            hit = [s for s in seasons if s[0] == season]
+            if not hit:
+                return None, f"season {season} not found; have {[s[0] for s in seasons]}"
+            key, path = hit[0]
+        else:
+            key, path = seasons[-1]
+        mt = path.stat().st_mtime
+        c = _NBA_CACHE.get(key)
+        if c and c[0] == mt:
+            return c[1], None
+        with open(path, newline="", encoding="utf-8") as f:
+            rows = list(_csv.DictReader(f))
+        for r in rows:
+            r["_season"] = key
+            for k in ("minutes", "points", "rebounds", "assists", "steals", "blocks", "turnovers",
+                      "field_goals_attempted", "free_throws_attempted", "fd_pts", "fd_per_min",
+                      "plus_minus", "team_score", "opponent_team_score"):
+                try:
+                    r[k] = float(r.get(k) or 0)
+                except Exception:
+                    r[k] = 0.0
+            r["_dnp"] = str(r.get("did_not_play", "")).strip().lower() == "true"
+            r["_start"] = str(r.get("starter", "")).strip().lower() == "true"
+        _NBA_CACHE[key] = (mt, rows)
+        return rows, None
+
+    def _nba_norm(s):
+        import unicodedata as _u
+        s = _u.normalize("NFKD", str(s or "")).encode("ascii", "ignore").decode()
+        return " ".join(s.lower().replace(".", "").replace("'", "").split())
+
+    def _nba_find_player(rows, query):
+        q = _nba_norm(query)
+        names = {}
+        for r in rows:
+            names.setdefault(r["athlete_display_name"], r.get("athlete_id"))
+        exact = [n for n in names if _nba_norm(n) == q]
+        if exact:
+            return exact[0], []
+        parts = q.split()
+        cands = [n for n in names if all(p in _nba_norm(n) for p in parts)]
+        if len(cands) == 1:
+            return cands[0], []
+        return None, sorted(cands)[:10]
+
+    @mcp.tool()
+    def get_nba_player_log(player: str, games: int = 10, season: str = "") -> dict:
+        """NBA player game log for the FanDuel NBA protocol: the player's last N
+        games (newest first) with minutes, starter flag, DNP reason, box score,
+        FanDuel points (1 pt, 1.2 reb, 1.5 ast, 3 stl, 3 blk, -1 TO) and FD/min,
+        plus a summary (games, starts, avg minutes, last-3 minutes, FD/min season
+        and last-5). Also returns the prior season's summary for the rate blend.
+        player: full or partial name ("Derik Queen", "queen"). games: 1-40.
+        season: "2026-27" style; blank = latest committed season. Data = the
+        committed game-log CSVs (weekly refresh) — check data_through."""
+        rows, err = _nba_load(season)
+        if err:
+            return {"error": err}
+        name, cands = _nba_find_player(rows, player)
+        if not name:
+            return {"error": f"player '{player}' not found" + (f"; candidates: {cands}" if cands else "")}
+        games = max(1, min(int(games or 10), 40))
+        mine = [r for r in rows if r["athlete_display_name"] == name]
+        mine.sort(key=lambda r: (r["game_date"], r["game_id"]), reverse=True)
+        played = [r for r in mine if not r["_dnp"] and r["minutes"] > 0]
+        log = []
+        for r in mine[:games]:
+            log.append({
+                "date": r["game_date"], "team": r["team_abbreviation"], "opp": r["opponent_team_abbreviation"],
+                "home_away": r.get("home_away"), "starter": r["_start"], "dnp": r["_dnp"],
+                "reason": (r.get("reason") or None) if r["_dnp"] else None,
+                "min": r["minutes"], "pts": r["points"], "reb": r["rebounds"], "ast": r["assists"],
+                "stl": r["steals"], "blk": r["blocks"], "tov": r["turnovers"],
+                "fga": r["field_goals_attempted"], "fta": r["free_throws_attempted"],
+                "fd_pts": r["fd_pts"], "fd_per_min": r["fd_per_min"],
+                "score": f"{int(r['team_score'])}-{int(r['opponent_team_score'])}",
+            })
+
+        def _summ(pl):
+            if not pl:
+                return None
+            mins = sum(r["minutes"] for r in pl)
+            fd = sum(r["fd_pts"] for r in pl)
+            last3 = pl[:3]
+            last5 = pl[:5]
+            return {
+                "games": len(pl), "starts": sum(1 for r in pl if r["_start"]),
+                "avg_min": round(mins / len(pl), 1), "avg_fd": round(fd / len(pl), 1),
+                "fd_per_min": round(fd / mins, 3) if mins else None,
+                "last3_avg_min": round(sum(r["minutes"] for r in last3) / len(last3), 1),
+                "last5_fd_per_min": round(sum(r["fd_pts"] for r in last5) / max(1e-9, sum(r["minutes"] for r in last5)), 3),
+                "min_sd": round((sum((r["minutes"] - mins / len(pl)) ** 2 for r in pl) / len(pl)) ** 0.5, 1),
+                "fga_per_min": round(sum(r["field_goals_attempted"] for r in pl) / mins, 3) if mins else None,
+            }
+
+        cur = _summ(played)
+        dnps = [{"date": r["game_date"], "reason": r.get("reason") or ""} for r in mine if r["_dnp"]][:10]
+        prior = None
+        seasons = [s[0] for s in _nba_seasons()]
+        this = rows[0]["_season"] if rows else None
+        if this in seasons and seasons.index(this) > 0:
+            prow, _e = _nba_load(seasons[seasons.index(this) - 1])
+            if prow:
+                pp = [r for r in prow if r["athlete_display_name"] == name and not r["_dnp"] and r["minutes"] > 0]
+                pp.sort(key=lambda r: r["game_date"], reverse=True)
+                prior = _summ(pp)
+                if prior:
+                    prior["season"] = seasons[seasons.index(this) - 1]
+                    prior["team"] = pp[0]["team_abbreviation"] if pp else None
+        return {
+            "player": name, "team": mine[0]["team_abbreviation"] if mine else None,
+            "position": mine[0].get("athlete_position_abbreviation") if mine else None,
+            "season": this, "data_through": max(r["game_date"] for r in rows),
+            "summary": cur, "dnp": dnps, "prior_season": prior, "log": log,
+            "note": "minutes x rate engine: use avg_min/last3_avg_min for the minutes path and fd_per_min "
+                    "(this season) blended with prior_season.fd_per_min for the rate; a rookie has no prior_season.",
+        }
+
+    @mcp.tool()
+    def get_nba_team_rotation(team: str, games: int = 5, season: str = "") -> dict:
+        """NBA team rotation for the FanDuel NBA protocol: over the team's last N
+        games, every player's starts, minutes per game, average, last-game minutes,
+        trend (last game minus average), DNPs with reasons, and FD/min; plus a
+        240-minute reconciliation per game and a rotation-stability index (mean
+        per-player minutes SD among rotation players — lower = tighter rotation).
+        team: abbreviation as in the box scores (ATL, GS, NO, NY, SA, UTAH, WSH...).
+        games: 1-20. Data = committed game-log CSVs — check data_through."""
+        rows, err = _nba_load(season)
+        if err:
+            return {"error": err}
+        t = str(team or "").upper().strip()
+        alias = {"GSW": "GS", "NOP": "NO", "NYK": "NY", "SAS": "SA", "UTA": "UTAH", "WAS": "WSH", "PHO": "PHX"}
+        t = alias.get(t, t)
+        trows = [r for r in rows if r["team_abbreviation"] == t]
+        if not trows:
+            have = sorted({r["team_abbreviation"] for r in rows})
+            return {"error": f"team '{team}' not found; have {have}"}
+        games = max(1, min(int(games or 5), 20))
+        gids = sorted({(r["game_date"], r["game_id"]) for r in trows}, reverse=True)[:games]
+        gset = {g[1] for g in gids}
+        sub = [r for r in trows if r["game_id"] in gset]
+        order = [g[1] for g in gids]  # newest first
+        per = {}
+        for r in sub:
+            p = per.setdefault(r["athlete_display_name"], {"pos": r.get("athlete_position_abbreviation"),
+                                                            "mins": {}, "starts": 0, "dnp": [], "fd": 0.0, "m": 0.0})
+            if r["_dnp"] or r["minutes"] <= 0:
+                p["dnp"].append({"date": r["game_date"], "reason": r.get("reason") or ""})
+                p["mins"][r["game_id"]] = 0.0
+            else:
+                p["mins"][r["game_id"]] = r["minutes"]
+                p["starts"] += 1 if r["_start"] else 0
+                p["fd"] += r["fd_pts"]
+                p["m"] += r["minutes"]
+        players = []
+        sds = []
+        for n, p in per.items():
+            seq = [p["mins"].get(g) for g in order]
+            played = [x for x in seq if x]
+            avg = sum(played) / len(played) if played else 0.0
+            last = seq[0] if seq and seq[0] is not None else None
+            sd = (sum((x - avg) ** 2 for x in played) / len(played)) ** 0.5 if len(played) >= 2 else None
+            if avg >= 12 and sd is not None:
+                sds.append(sd)
+            players.append({
+                "player": n, "pos": p["pos"], "gp": len(played), "starts": p["starts"],
+                "avg_min": round(avg, 1), "last_min": last,
+                "trend": round(last - avg, 1) if last is not None and played else None,
+                "min_sd": round(sd, 1) if sd is not None else None,
+                "fd_per_min": round(p["fd"] / p["m"], 3) if p["m"] else None,
+                "absent_games": len(order) - len(p["mins"]),
+                "minutes_by_game": [round(x, 1) if x is not None else None for x in seq],
+                "dnp": p["dnp"],
+            })
+        players.sort(key=lambda x: (-x["avg_min"], x["player"]))
+        games_out = []
+        for d, g in gids:
+            gr = [r for r in sub if r["game_id"] == g]
+            tot = sum(r["minutes"] for r in gr)
+            any_r = gr[0]
+            games_out.append({"date": d, "game_id": g, "opp": any_r["opponent_team_abbreviation"],
+                              "home_away": any_r.get("home_away"),
+                              "score": f"{int(any_r['team_score'])}-{int(any_r['opponent_team_score'])}",
+                              "team_minutes": round(tot, 0),
+                              "starters": [r["athlete_display_name"] for r in gr if r["_start"]]})
+        return {
+            "team": t, "season": rows[0]["_season"], "data_through": max(r["game_date"] for r in rows),
+            "games": games_out,
+            "rotation_stability_index": round(sum(sds) / len(sds), 2) if sds else None,
+            "rotation_players": len([p for p in players if p["avg_min"] >= 12]),
+            "players": players,
+            "note": "240 team minutes per regulation game (265 with one OT); starters list is per game; "
+                    "trend = last game minus average over the window; absent_games = not in the box score "
+                    "at all (inactive/injured/not on roster), DNP = dressed but did not play.",
+        }
+
+    @mcp.tool()
+    def get_nba_injury_report(team: str = "", date: str = "") -> dict:
+        """Live NBA injury report from ESPN's public JSON for the FanDuel NBA
+        protocol (no key): every listed player with status (out / day-to-day /
+        questionable ...), injury type/detail, expected return date and the
+        latest note; plus the day's games (tip time UTC, teams, status, score).
+        team: optional filter — abbreviation (ATL, GS, NO...) or any part of the
+        team name ("hawks"); blank = all teams. date: optional YYYYMMDD for the
+        scoreboard; blank = today."""
+        inj, err = _espn_get("https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries", {})
+        if err:
+            return err
+        want = None
+        if team:
+            tt = str(team).strip()
+            want = _NBA_TEAM_WORDS.get(tt.upper(), tt.lower())
+        teams = []
+        n_players = 0
+        for blk in inj.get("injuries", []) or []:
+            dn = blk.get("displayName") or ""
+            if want and want not in dn.lower():
+                continue
+            items = []
+            for i in blk.get("injuries", []) or []:
+                ath = i.get("athlete") or {}
+                det = i.get("details") or {}
+                items.append({
+                    "name": ath.get("displayName"),
+                    "pos": (ath.get("position") or {}).get("abbreviation"),
+                    "status": i.get("status") or (i.get("type") or {}).get("description"),
+                    "fantasy_status": (det.get("fantasyStatus") or {}).get("description"),
+                    "injury": det.get("type"), "detail": det.get("detail"), "side": det.get("side"),
+                    "return_date": det.get("returnDate"),
+                    "updated": i.get("date"),
+                    "note": i.get("shortComment"),
+                })
+            n_players += len(items)
+            teams.append({"team": dn, "espn_team_id": blk.get("id"), "injuries": items})
+        params = {"limit": 50}
+        if date:
+            params["dates"] = date
+        sb, err2 = _espn_get("https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard", params)
+        games = []
+        if not err2:
+            for ev in sb.get("events", []) or []:
+                comp = (ev.get("competitions") or [{}])[0]
+                tm = {}
+                for c in comp.get("competitors", []) or []:
+                    tm[c.get("homeAway")] = {"abbr": (c.get("team") or {}).get("abbreviation"),
+                                             "name": (c.get("team") or {}).get("displayName"),
+                                             "score": c.get("score")}
+                st = (ev.get("status") or {}).get("type") or {}
+                games.append({"event_id": ev.get("id"), "name": ev.get("shortName"), "tip_utc": ev.get("date"),
+                              "status": st.get("description"), "detail": st.get("detail"),
+                              "away": tm.get("away"), "home": tm.get("home")})
+        return {
+            "as_of": inj.get("timestamp"), "team_filter": team or None,
+            "teams_listed": len(teams), "players_listed": n_players, "teams": teams,
+            "games": games, "scoreboard_error": err2,
+            "note": "ESPN statuses lag the official 5:30 PM ET report by minutes to an hour; confirm "
+                    "game-time decisions against the posted starting lineup before lock (late-swap rule).",
+        }
