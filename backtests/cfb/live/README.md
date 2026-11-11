@@ -3,7 +3,7 @@
 `build_live.py` is the ONLY script that builds live CFB lineups. Run it as-is. Never retype the rules from notes or memory.
 If a session cannot find this script, the build stops and Phong is told. No rebuild from notes.
 It runs protocol **v1.4** (section 17 of the protocol doc, Claude Doc id `cc22c30c-4f25-4ccd-b33c-ed3e16fba012`), in force from 2026-11-07. `CFB_FD_v14_protocol.md` here is a copy of the rules as run.
-Recovered 2026-11-11 from the 11/7 build chat (merge step + build_v14.py with its two edits); it reproduces the four lineups entered on 11/7.
+Recovered 2026-11-11 from the 11/7 build chat (merge step + build_v14.py with its two edits); it reproduces the file uploaded on 11/7 byte for byte, on the real FanDuel files (archived in `backtests/cfb/archive/2026-11-07_chat/`).
 
 ```
 CFB_RATIFIED_SHA=<hash from the doc> CFB_REFRESH="8:33 AM" python3 backtests/cfb/live/build_live.py <fd_players_list.csv> \
@@ -23,5 +23,5 @@ Phong's rule of 11/11: either the full protocol is run, or he is told that it wa
 - The script ends every run with `PROTOCOL RUN: FULL` or `PROTOCOL RUN: NOT FULL - n item(s)`, or stops with `PROTOCOL RUN: STOPPED - <reason>` and writes nothing. That block goes at the very top of the reply, word for word, on the first build and on every rebuild.
 - The session passes `CFB_RATIFIED_SHA` (the hash in section 17 of the doc, currently `2a38d1446c3c6476`, version 2026-11-11a; read it from the doc) and `CFB_REFRESH` (Pacific time the QB gate and injury tags were checked). Optional `CFB_LOCK="9:00 AM"`.
 - The script checks the rest: unmodified repo copy; LineStar files one pull, dated today, newest of the day, within 45 minutes of first lock; 16+ projected players (else cookie expired = STOPPED); projections for every game; LineStar slate fits the FanDuel list; injury tags present; every QB-gate and core name matched; both shadows built; the upload file re-read and validated (slots, salary, team caps, stacks, overlap, exposure).
-- Regression: `sh backtests/cfb/live/regression/regress.sh` must say PASS after any change. The FanDuel list in `regression/` is a stand-in rebuilt from the 11/7 LineStar pull, because the real 11/7 FanDuel files were not kept.
+- Regression: `sh backtests/cfb/live/regression/regress.sh` must say PASS after any change. It runs the real 11/7 FanDuel files from the archive and must match the uploaded file byte for byte.
 - Changing the script: only on Phong's say. Bump `VERSION`, run the regression, write the new hash into section 17 of the doc and into the protocol copy here, then push.
