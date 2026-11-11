@@ -1,0 +1,52 @@
+MODE v16  N=15
+QBs: ['Jared Goff', 'Dak Prescott', 'Patrick Mahomes']
+            name team  salary   itt  total  qscore      proj  ls_proj  fp_props  proj_sal
+      Jared Goff  DET    7700 28.25   50.0   48.10 15.429566    20.15 16.253213 14.605919
+    Dak Prescott  DAL    8000 28.00   51.5   48.00 16.493755    21.36 17.545680 15.441829
+ Patrick Mahomes   KC    7900 28.75   48.0   47.50 18.552827    19.98 21.690046 15.415609
+Matthew Stafford  LAR    7500 26.00   47.5   45.00 14.414450    17.65 15.633822 13.195078
+    Kirk Cousins   LV    6900 21.25   52.0   42.05 12.836737    16.62 15.743822  9.929651
+          Bo Nix  DEN    7200 23.50   44.5   41.30 13.963048    16.70 16.452095 11.474002
+      Drake Maye   NE    8200 23.75   44.5   40.65 16.415681    18.72 18.519835 14.311527
+    Tyler Shough   NO    7400 22.75   42.5   39.75 14.528045    16.73 17.305551 11.750538
+
+UNPRICED EXCLUDED (>=5k): Deshaun Watson CLE $7000, Tanner McKee PHI $6600, Jameis Winston NYG $6300, Anthony Richardson Sr. IND $6300, Cole Payton PHI $6300, Marcus Mariota WAS $6300, Fernando Mendoza LV $6200, Athan Kaliakmanis WAS $6200, Tyrod Taylor GB $6000, Kyle McCord MIA $6000, Sam Howell DAL $6000, Aidan O'Connell LV $6000, Garrett Nussmeier KC $6000, Will Levis NYJ $6000, Taylen Green CLE $6000, Dillon Gabriel CLE $6000, Zach Wilson NO $6000, Luke Altmyer DET $6000, Sam Ehlinger DEN $6000, Jake Browning LAC $6000, Cade Klubnik NYJ $6000, Stetson Bennett IV LAR $6000, Justin Fields KC $6000, Joshua Dobbs DET $6000, Mac Jones SF $6000, Behren Morton NE $6000, Jarrett Stidham DEN $6000, Davis Mills HOU $6000, Tommy DeVito NE $6000, Sam Hartman WAS $6000, Kyle Trask DAL $6000, Jake Haener NYG $6000, Riley Leonard IND $6000, Brady Cook MIA $6000, Jalen Milroe SEA $6000, Kurtis Rourke SF $6000, Kenny Pickett CAR $6000, Carson Beck ARI $6000, Ty Simpson LAR $6000, Haynes King CAR $6000, Spencer Rattler NO $6000, Cam Skattebo NYG $6000, DJ Uiagalelei LAC $6000, Jacob Cowing SF $5800, Emanuel Wilson SEA $5500, Kendre Miller NO $5500, Jake Ferguson DAL $5300, Kaleb Johnson GB $5300, Isaiah Davis NYJ $5100, Colby Parkinson LAR $5000, Jaydon Blue PHI $5000
+RB ROLE-GATE DROPPED: Ashton Jeanty LV $6800 cs=0.20, Zach Charbonnet SEA $6600 cs=0.32, Seth McGowan IND $5900 cs=0.27, Elijah Mitchell PHI $5800 cs=0.26, Alvin Kamara NO $5700 cs=0.24, Omarion Hampton LAC $5600 cs=0.34, MarShawn Lloyd GB $5600 cs=0.20, J.K. Dobbins DEN $5500 cs=0.27, Emmett Johnson KC $5400 cs=0.03, Kimani Vidal LAC $5200 cs=0.32, Devin Singletary NYG $5200 cs=0.17, Austin Ekeler WAS $5100 cs=0.21, Dylan Sampson CLE $5000 cs=0.16, Keaton Mitchell LAC $4900 cs=0.13, Sione Vaki DET $4800 cs=0.17, Corey Kiner NE $4800 cs=0.21, Trevor Etienne CAR $4700 cs=0.17, Tyler Goodson DAL $4600 cs=0.22, Kyle Juszczyk SF $4200 cs=0.00
+
+L1 $60,000 proj 100.6 | QB Jared Goff (DET) $7700 | RB Christian McCaffrey (SF) $8700 | RB Rhamondre Stevenson (NE) $6400 | WR Amon-Ra St. Brown (DET) $8600 | WR Jameson Williams (DET) $6700 | WR Demarcus Robinson (SF) $5300 | TE George Kittle (SF) $6700 | FLEX Jonah Coleman (DEN) $6300 | DEF New Orleans Saints (NO) $3600
+L2 $59,900 proj 99.2 | QB Jared Goff (DET) $7700 | RB Christian McCaffrey (SF) $8700 | RB Woody Marks (HOU) $6500 | WR Amon-Ra St. Brown (DET) $8600 | WR Jameson Williams (DET) $6700 | WR Ryan Flournoy (DAL) $5400 | TE Travis Kelce (KC) $5200 | FLEX Rhamondre Stevenson (NE) $6400 | DEF Seattle Seahawks (SEA) $4700
+L3 $59,800 proj 98.4 | QB Jared Goff (DET) $7700 | RB Kenneth Walker III (KC) $8900 | RB Christian McCaffrey (SF) $8700 | WR Amon-Ra St. Brown (DET) $8600 | WR Jameson Williams (DET) $6700 | WR Jordyn Tyson (NO) $4700 | TE Travis Kelce (KC) $5200 | FLEX Jonah Coleman (DEN) $6300 | DEF Arizona Cardinals (ARI) $3000
+L4 $60,000 proj 98.0 | QB Jared Goff (DET) $7700 | RB Christian McCaffrey (SF) $8700 | RB Ollie Gordon II (MIA) $6200 | WR Amon-Ra St. Brown (DET) $8600 | WR Jameson Williams (DET) $6700 | WR Ryan Flournoy (DAL) $5400 | TE George Kittle (SF) $6700 | FLEX Jadarian Price (SEA) $5800 | DEF Kansas City Chiefs (KC) $4200
+L5 $59,800 proj 97.9 | QB Jared Goff (DET) $7700 | RB Christian McCaffrey (SF) $8700 | RB Jonah Coleman (DEN) $6300 | WR Amon-Ra St. Brown (DET) $8600 | WR Jameson Williams (DET) $6700 | WR Antonio Williams (WAS) $5500 | TE Tyler Warren (IND) $5400 | FLEX Ollie Gordon II (MIA) $6200 | DEF Seattle Seahawks (SEA) $4700
+L6 $59,900 proj 101.8 | QB Dak Prescott (DAL) $8000 | RB Christian McCaffrey (SF) $8700 | RB Rhamondre Stevenson (NE) $6400 | WR CeeDee Lamb (DAL) $8800 | WR Jaylen Waddle (DEN) $6000 | WR Ryan Flournoy (DAL) $5400 | TE George Kittle (SF) $6700 | FLEX Jonah Coleman (DEN) $6300 | DEF New Orleans Saints (NO) $3600
+L7 $59,900 proj 100.9 | QB Dak Prescott (DAL) $8000 | RB Kenneth Walker III (KC) $8900 | RB Christian McCaffrey (SF) $8700 | WR CeeDee Lamb (DAL) $8800 | WR Antonio Williams (WAS) $5500 | WR Ryan Flournoy (DAL) $5400 | TE Travis Kelce (KC) $5200 | FLEX Rhamondre Stevenson (NE) $6400 | DEF Arizona Cardinals (ARI) $3000
+L8 $60,000 proj 99.6 | QB Dak Prescott (DAL) $8000 | RB Jahmyr Gibbs (DET) $10200 | RB Rhamondre Stevenson (NE) $6400 | WR CeeDee Lamb (DAL) $8800 | WR Omar Cooper Jr. (NYJ) $5500 | WR Ryan Flournoy (DAL) $5400 | TE Travis Kelce (KC) $5200 | FLEX Jadarian Price (SEA) $5800 | DEF Seattle Seahawks (SEA) $4700
+L9 $60,000 proj 99.2 | QB Dak Prescott (DAL) $8000 | RB Kenneth Walker III (KC) $8900 | RB Jonah Coleman (DEN) $6300 | WR CeeDee Lamb (DAL) $8800 | WR Adonai Mitchell (NYJ) $5400 | WR Ryan Flournoy (DAL) $5400 | TE George Kittle (SF) $6700 | FLEX Jadarian Price (SEA) $5800 | DEF Seattle Seahawks (SEA) $4700
+L10 $60,000 proj 99.1 | QB Dak Prescott (DAL) $8000 | RB Jahmyr Gibbs (DET) $10200 | RB Jonah Coleman (DEN) $6300 | WR CeeDee Lamb (DAL) $8800 | WR Antonio Williams (WAS) $5500 | WR Ryan Flournoy (DAL) $5400 | TE George Kittle (SF) $6700 | FLEX Blake Corum (LAR) $6100 | DEF Arizona Cardinals (ARI) $3000
+L11 $59,900 proj 102.3 | QB Patrick Mahomes (KC) $7900 | RB Jahmyr Gibbs (DET) $10200 | RB Rhamondre Stevenson (NE) $6400 | WR Puka Nacua (LAR) $9200 | WR Xavier Worthy (KC) $5600 | WR Antonio Williams (WAS) $5500 | TE Travis Kelce (KC) $5200 | FLEX Jonah Coleman (DEN) $6300 | DEF New Orleans Saints (NO) $3600
+L12 $60,000 proj 101.5 | QB Patrick Mahomes (KC) $7900 | RB Jahmyr Gibbs (DET) $10200 | RB Javonte Williams (DAL) $7700 | WR Rashee Rice (KC) $7200 | WR Antonio Williams (WAS) $5500 | WR Caleb Douglas (MIA) $5200 | TE Travis Kelce (KC) $5200 | FLEX Rhamondre Stevenson (NE) $6400 | DEF Seattle Seahawks (SEA) $4700
+L13 $60,000 proj 100.1 | QB Patrick Mahomes (KC) $7900 | RB Jahmyr Gibbs (DET) $10200 | RB Kyren Williams (LAR) $7500 | WR Rashee Rice (KC) $7200 | WR Omar Cooper Jr. (NYJ) $5500 | WR Demarcus Robinson (SF) $5300 | TE Travis Kelce (KC) $5200 | FLEX Woody Marks (HOU) $6500 | DEF Seattle Seahawks (SEA) $4700
+L14 $60,000 proj 99.7 | QB Patrick Mahomes (KC) $7900 | RB Jahmyr Gibbs (DET) $10200 | RB Woody Marks (HOU) $6500 | WR Rashee Rice (KC) $7200 | WR Xavier Worthy (KC) $5600 | WR Adonai Mitchell (NYJ) $5400 | TE George Kittle (SF) $6700 | FLEX Jadarian Price (SEA) $5800 | DEF Seattle Seahawks (SEA) $4700
+L15 $59,900 proj 99.0 | QB Patrick Mahomes (KC) $7900 | RB Jahmyr Gibbs (DET) $10200 | RB Javonte Williams (DAL) $7700 | WR Rashee Rice (KC) $7200 | WR Xavier Worthy (KC) $5600 | WR Antonio Williams (WAS) $5500 | TE George Kittle (SF) $6700 | FLEX Blake Corum (LAR) $6100 | DEF Arizona Cardinals (ARI) $3000
+
+EXPOSURE: Christian McCaffrey x7, George Kittle x7, Rhamondre Stevenson x7, Jonah Coleman x7, Ryan Flournoy x7, Travis Kelce x7, Seattle Seahawks x7, Jahmyr Gibbs x7, Antonio Williams x6, Amon-Ra St. Brown x5, Jared Goff x5, Jameson Williams x5, CeeDee Lamb x5, Dak Prescott x5, Patrick Mahomes x5, Arizona Cardinals x4, Jadarian Price x4, Rashee Rice x4, New Orleans Saints x3, Woody Marks x3, Kenneth Walker III x3, Xavier Worthy x3
+MAX PAIRWISE OVERLAP 5; MAX PAIR 5
+
+COMPLIANCE (C1 stack / C2 noRBsameTeam / C3 FLEX=RB,RBx3>=20k,sal / C4 cheap&floor / C6 overlap<=5):
+L1: stack 2 | RBsameTeam 0 | RB 3 $21,400 | $60,000 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L2: stack 2 | RBsameTeam 0 | RB 3 $21,600 | $59,900 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L3: stack 2 | RBsameTeam 0 | RB 3 $23,900 | $59,800 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L4: stack 2 | RBsameTeam 0 | RB 3 $20,700 | $60,000 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L5: stack 2 | RBsameTeam 0 | RB 3 $21,200 | $59,800 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L6: stack 2 | RBsameTeam 0 | RB 3 $21,400 | $59,900 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L7: stack 2 | RBsameTeam 0 | RB 3 $24,000 | $59,900 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L8: stack 2 | RBsameTeam 0 | RB 3 $22,400 | $60,000 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L9: stack 2 | RBsameTeam 0 | RB 3 $21,000 | $60,000 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L10: stack 2 | RBsameTeam 0 | RB 3 $22,600 | $60,000 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L11: stack 2 | RBsameTeam 0 | RB 3 $22,900 | $59,900 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L12: stack 2 | RBsameTeam 0 | RB 3 $24,300 | $60,000 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L13: stack 2 | RBsameTeam 0 | RB 3 $24,200 | $60,000 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L14: stack 2 | RBsameTeam 0 | RB 3 $22,500 | $60,000 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+L15: stack 2 | RBsameTeam 0 | RB 3 $24,000 | $59,900 | cheapOffGame 0 floor 0 | Dconf 0 | ov 5 -> OK
+VIOLATIONS: 0
+LS own on rostered: Christian McCaffrey 29.6, George Kittle 24.6, Rhamondre Stevenson 13.4, Jonah Coleman 21.1, Ryan Flournoy 9.2, Travis Kelce 14.0, Seattle Seahawks 21.0, Jahmyr Gibbs 37.6, Antonio Williams 2.7, Amon-Ra St. Brown 10.2, Jared Goff 6.7, Jameson Williams 11.6, CeeDee Lamb 19.0, Dak Prescott 10.2, Patrick Mahomes 13.6, Arizona Cardinals 8.4, Jadarian Price 2.2, Rashee Rice 8.6, New Orleans Saints 21.7, Woody Marks 13.6, Kenneth Walker III 28.5, Xavier Worthy 1.3, Demarcus Robinson 3.3, Ollie Gordon II 17.5, Omar Cooper Jr. 9.3
