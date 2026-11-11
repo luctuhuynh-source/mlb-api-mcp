@@ -1,0 +1,758 @@
+away,home,snapshot,book,market,player,side,point,price
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jonathan Taylor,Yes,,-310
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jaylen Warren,Yes,,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,DK Metcalf,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Tyler Warren,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Michael Pittman Jr.,Yes,,170
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jonnu Smith,Yes,,280
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Calvin Austin III,Yes,,280
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Alec Pierce,Yes,,295
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Kenneth Gainwell,Yes,,310
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Daniel Jones,Yes,,320
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Josh Downs,Yes,,340
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Darnell Washington,Yes,,370
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Pat Freiermuth,Yes,,390
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Indianapolis Colts D/ST,Yes,,500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Pittsburgh Steelers D/ST,Yes,,600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Roman Wilson,Yes,,650
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Ameer Abdullah,Yes,,650
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Mo Alie-Cox,Yes,,1000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Connor Heyward,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Ben Skowronek,Yes,,1200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Drew Ogletree,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Ashton Dulin,Yes,,1500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Aaron Rodgers,Yes,,1600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Tyler Goodson,Yes,,1600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Kaleb Johnson,Yes,,1700
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Adonai Mitchell,Yes,,1900
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Laquon Treadwell,Yes,,2200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Ke'Shawn Williams,Yes,,3000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Daniel Jones,Over,1.5,-146
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Daniel Jones,Under,1.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Aaron Rodgers,Over,1.5,-145
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Aaron Rodgers,Under,1.5,114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Daniel Jones,Over,255.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Daniel Jones,Under,255.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Aaron Rodgers,Over,238.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Aaron Rodgers,Under,238.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,DK Metcalf,Over,61.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,DK Metcalf,Under,61.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Tyler Warren,Over,61.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Tyler Warren,Under,61.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Michael Pittman Jr.,Over,57.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Michael Pittman Jr.,Under,57.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Alec Pierce,Over,46.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Alec Pierce,Under,46.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Josh Downs,Over,35.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Josh Downs,Under,35.5,-109
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Calvin Austin III,Over,35.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Calvin Austin III,Under,35.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jonnu Smith,Over,25.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jonnu Smith,Under,25.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jaylen Warren,Over,21.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jaylen Warren,Under,21.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Pat Freiermuth,Over,19.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Pat Freiermuth,Under,19.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jonathan Taylor,Over,19.5,-109
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jonathan Taylor,Under,19.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Roman Wilson,Over,14.5,-116
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Roman Wilson,Under,14.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Kenneth Gainwell,Over,13.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Kenneth Gainwell,Under,13.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Darnell Washington,Over,12.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Darnell Washington,Under,12.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Michael Pittman Jr.,Over,5.5,102
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Michael Pittman Jr.,Under,5.5,-131
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Tyler Warren,Over,5.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Tyler Warren,Under,5.5,-147
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,DK Metcalf,Over,4.5,101
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,DK Metcalf,Under,4.5,-129
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Josh Downs,Over,3.5,-145
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Josh Downs,Under,3.5,114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Jaylen Warren,Over,3.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Jaylen Warren,Under,3.5,-147
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Calvin Austin III,Over,3.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Calvin Austin III,Under,3.5,-153
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Jonnu Smith,Over,3.5,122
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Jonnu Smith,Under,3.5,-155
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Alec Pierce,Over,2.5,-137
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Alec Pierce,Under,2.5,107
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Jonathan Taylor,Over,2.5,-136
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Jonathan Taylor,Under,2.5,107
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Pat Freiermuth,Over,2.5,127
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Pat Freiermuth,Under,2.5,-162
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Kenneth Gainwell,Over,2.5,131
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Kenneth Gainwell,Under,2.5,-168
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Darnell Washington,Over,1.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Darnell Washington,Under,1.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Roman Wilson,Over,1.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_receptions,Roman Wilson,Under,1.5,-147
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Jonathan Taylor,Over,96.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Jonathan Taylor,Under,96.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Jaylen Warren,Over,57.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Jaylen Warren,Under,57.5,-109
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Kenneth Gainwell,Over,19.5,-116
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Kenneth Gainwell,Under,19.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Daniel Jones,Over,14.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Daniel Jones,Under,14.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Aaron Rodgers,Over,0.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Aaron Rodgers,Under,0.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jonathan Taylor,Yes,,-290
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jaylen Warren,Yes,,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,DK Metcalf,Yes,,135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Tyler Warren,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Michael Pittman Jr.,Yes,,170
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Alec Pierce,Yes,,275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Calvin Austin III,Yes,,275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jonnu Smith,Yes,,275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Josh Downs,Yes,,300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Kenneth Gainwell,Yes,,305
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Daniel Jones,Yes,,310
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Darnell Washington,Yes,,350
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Pat Freiermuth,Yes,,375
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Roman Wilson,Yes,,600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Ameer Abdullah,Yes,,625
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Connor Heyward,Yes,,1000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Mo Alie-Cox,Yes,,1000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Ashton Dulin,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Ben Skowronek,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Adonai Mitchell,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Tyler Goodson,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Drew Ogletree,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Kaleb Johnson,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Aaron Rodgers,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Laquon Treadwell,Yes,,2200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Ke'Shawn Williams,Yes,,3000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Aaron Rodgers,Over,1.5,-139
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Aaron Rodgers,Under,1.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Daniel Jones,Over,1.5,-130
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Daniel Jones,Under,1.5,-103
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Daniel Jones,Over,256.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Daniel Jones,Under,256.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Aaron Rodgers,Over,237.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Aaron Rodgers,Under,237.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jonnu Smith,Over,25.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jonnu Smith,Under,25.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Michael Pittman Jr.,Over,55.5,-122
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Michael Pittman Jr.,Under,55.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Calvin Austin III,Over,34.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Calvin Austin III,Under,34.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Tyler Warren,Over,60.5,-122
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Tyler Warren,Under,60.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jonathan Taylor,Over,18.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jonathan Taylor,Under,18.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Pat Freiermuth,Over,19.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Pat Freiermuth,Under,19.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Darnell Washington,Over,12.5,-107
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Darnell Washington,Under,12.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Kenneth Gainwell,Over,13.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Kenneth Gainwell,Under,13.5,-121
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jaylen Warren,Over,20.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jaylen Warren,Under,20.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,DK Metcalf,Over,61.5,-121
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,DK Metcalf,Under,61.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Josh Downs,Over,36.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Josh Downs,Under,36.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Roman Wilson,Over,14.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Roman Wilson,Under,14.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Alec Pierce,Over,45.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Alec Pierce,Under,45.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,DK Metcalf,Over,4.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,DK Metcalf,Under,4.5,-148
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Alec Pierce,Over,2.5,-134
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Alec Pierce,Under,2.5,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Josh Downs,Over,3.5,-152
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Josh Downs,Under,3.5,110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Darnell Washington,Over,1.5,-107
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Darnell Washington,Under,1.5,-127
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Kenneth Gainwell,Over,2.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Kenneth Gainwell,Under,2.5,-173
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Calvin Austin III,Over,3.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Calvin Austin III,Under,3.5,-162
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Tyler Warren,Over,5.5,110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Tyler Warren,Under,5.5,-152
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Michael Pittman Jr.,Over,5.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Michael Pittman Jr.,Under,5.5,-143
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jaylen Warren,Over,3.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jaylen Warren,Under,3.5,-170
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Pat Freiermuth,Over,2.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Pat Freiermuth,Under,2.5,-170
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jonnu Smith,Over,3.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jonnu Smith,Under,3.5,-164
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Roman Wilson,Over,1.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Roman Wilson,Under,1.5,-141
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jonathan Taylor,Over,2.5,-139
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jonathan Taylor,Under,2.5,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Daniel Jones,Over,13.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Daniel Jones,Under,13.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Jonathan Taylor,Over,94.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Jonathan Taylor,Under,94.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Kenneth Gainwell,Over,19.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Kenneth Gainwell,Under,19.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Jaylen Warren,Over,56.5,-121
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Jaylen Warren,Under,56.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jonathan Taylor,Yes,,-300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jaylen Warren,Yes,,-135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Tyler Warren,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,DK Metcalf,Yes,,145
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Michael Pittman Jr.,Yes,,175
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jonnu Smith,Yes,,280
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Calvin Austin III,Yes,,280
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Alec Pierce,Yes,,300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Kenneth Gainwell,Yes,,300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Daniel Jones,Yes,,310
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Josh Downs,Yes,,330
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Darnell Washington,Yes,,370
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Pat Freiermuth,Yes,,410
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Roman Wilson,Yes,,600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Indianapolis Colts Defense,Yes,,600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Ameer Abdullah,Yes,,650
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Pittsburgh Steelers Defense,Yes,,700
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Mo Alie-Cox,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Connor Heyward,Yes,,1200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Ashton Dulin,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Drew Ogletree,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Ben Skowronek,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Aaron Rodgers,Yes,,1500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Kaleb Johnson,Yes,,1600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Tyler Goodson,Yes,,1800
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Adonai Mitchell,Yes,,1800
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Laquon Treadwell,Yes,,2700
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Ke'Shawn Williams,Yes,,4000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Aaron Rodgers,Over,1.5,-140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Aaron Rodgers,Under,1.5,110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Daniel Jones,Over,1.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Daniel Jones,Under,1.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Aaron Rodgers,Over,237.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Aaron Rodgers,Under,237.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Daniel Jones,Over,254.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Daniel Jones,Under,254.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Pat Freiermuth,Over,19.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Pat Freiermuth,Under,19.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Calvin Austin III,Over,34.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Calvin Austin III,Under,34.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jaylen Warren,Over,20.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jaylen Warren,Under,20.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jonathan Taylor,Over,18.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jonathan Taylor,Under,18.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Kenneth Gainwell,Over,12.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Kenneth Gainwell,Under,12.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Alec Pierce,Over,45.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Alec Pierce,Under,45.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Tyler Warren,Over,59.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Tyler Warren,Under,59.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Michael Pittman Jr.,Over,55.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Michael Pittman Jr.,Under,55.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Darnell Washington,Over,12.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Darnell Washington,Under,12.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,DK Metcalf,Over,61.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,DK Metcalf,Under,61.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Josh Downs,Over,35.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Josh Downs,Under,35.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Roman Wilson,Over,14.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Roman Wilson,Under,14.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jonnu Smith,Over,25.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jonnu Smith,Under,25.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,DK Metcalf,Over,4.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,DK Metcalf,Under,4.5,-152
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Michael Pittman Jr.,Over,5.5,104
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Michael Pittman Jr.,Under,5.5,-132
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Darnell Washington,Over,1.5,102
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Darnell Washington,Under,1.5,-128
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Calvin Austin III,Over,3.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Calvin Austin III,Under,3.5,-152
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Jonathan Taylor,Over,2.5,-138
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Jonathan Taylor,Under,2.5,108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Pat Freiermuth,Over,2.5,118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Pat Freiermuth,Under,2.5,-150
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Alec Pierce,Over,2.5,-116
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Alec Pierce,Under,2.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Jaylen Warren,Over,3.5,116
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Jaylen Warren,Under,3.5,-148
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Tyler Warren,Over,5.5,116
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Tyler Warren,Under,5.5,-148
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Josh Downs,Over,3.5,-146
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Josh Downs,Under,3.5,114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Kenneth Gainwell,Over,2.5,130
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Kenneth Gainwell,Under,2.5,-166
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Roman Wilson,Over,1.5,112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Roman Wilson,Under,1.5,-142
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Jonnu Smith,Over,3.5,130
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_receptions,Jonnu Smith,Under,3.5,-166
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Daniel Jones,Over,13.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Daniel Jones,Under,13.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Jonathan Taylor,Over,93.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Jonathan Taylor,Under,93.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Jaylen Warren,Over,56.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Jaylen Warren,Under,56.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Kenneth Gainwell,Over,19.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Kenneth Gainwell,Under,19.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Tyler Warren,Yes,,130
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,DK Metcalf,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jonathan Taylor,Yes,,-333
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jaylen Warren,Yes,,-143
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Aaron Rodgers,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Daniel Jones,Yes,,300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Josh Downs,Yes,,325
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Alec Pierce,Yes,,275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Michael Pittman Jr.,Yes,,170
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jonnu Smith,Yes,,280
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Kenneth Gainwell,Yes,,300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Calvin Austin III,Yes,,280
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Darnell Washington,Yes,,350
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Pat Freiermuth,Yes,,350
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Will Mallory,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Anthony Gould,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Kaleb Johnson,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Mo Alie-Cox,Yes,,1000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,DJ Giddens,Yes,,1700
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Roman Wilson,Yes,,500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Ashton Dulin,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Drew Ogletree,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Ke'Shawn Williams,Yes,,2900
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Ben Skowronek,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Tyler Goodson,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Adonai Mitchell,Yes,,1700
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Connor Heyward,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Daniel Jones,Over,1.5,-143
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Daniel Jones,Under,1.5,110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Aaron Rodgers,Over,1.5,-164
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Aaron Rodgers,Under,1.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Daniel Jones,Over,255.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Daniel Jones,Under,255.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Aaron Rodgers,Over,239.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Aaron Rodgers,Under,239.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Josh Downs,Over,37.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Josh Downs,Under,37.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Calvin Austin III,Over,34.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Calvin Austin III,Under,34.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jonathan Taylor,Over,18.5,-116
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jonathan Taylor,Under,18.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Pat Freiermuth,Over,20.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Pat Freiermuth,Under,20.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jaylen Warren,Over,21.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jaylen Warren,Under,21.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jonnu Smith,Over,25.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jonnu Smith,Under,25.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Darnell Washington,Over,12.5,-116
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Darnell Washington,Under,12.5,-111
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,DK Metcalf,Over,63.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,DK Metcalf,Under,63.5,-103
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Alec Pierce,Over,48.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Alec Pierce,Under,48.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Michael Pittman Jr.,Over,57.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Michael Pittman Jr.,Under,57.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Roman Wilson,Over,16.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Roman Wilson,Under,16.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Tyler Warren,Over,61.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Tyler Warren,Under,61.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Kenneth Gainwell,Over,12.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Kenneth Gainwell,Under,12.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,DK Metcalf,Over,4.5,112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,DK Metcalf,Under,4.5,-145
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Tyler Warren,Over,5.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Tyler Warren,Under,5.5,-149
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Michael Pittman Jr.,Over,5.5,-103
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Michael Pittman Jr.,Under,5.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Calvin Austin III,Over,3.5,122
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Calvin Austin III,Under,3.5,-159
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Josh Downs,Over,3.5,-154
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Josh Downs,Under,3.5,119
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Alec Pierce,Over,2.5,-137
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Alec Pierce,Under,2.5,106
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jonathan Taylor,Over,2.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jonathan Taylor,Under,2.5,-103
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jonnu Smith,Over,3.5,124
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jonnu Smith,Under,3.5,-161
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Pat Freiermuth,Over,2.5,128
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Pat Freiermuth,Under,2.5,-167
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jaylen Warren,Over,3.5,124
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jaylen Warren,Under,3.5,-161
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Kenneth Gainwell,Over,2.5,128
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Kenneth Gainwell,Under,2.5,-167
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Darnell Washington,Over,1.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Darnell Washington,Under,1.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Roman Wilson,Over,1.5,109
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_receptions,Roman Wilson,Under,1.5,-141
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Jaylen Warren,Over,57.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Jaylen Warren,Under,57.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Kenneth Gainwell,Over,19.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Kenneth Gainwell,Under,19.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Jonathan Taylor,Over,95.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Jonathan Taylor,Under,95.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Daniel Jones,Over,14.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Daniel Jones,Under,14.5,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Laquon Treadwell,Yes,,1150
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Aaron Rodgers,Yes,,950
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jaylen Warren,Yes,,-108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Michael Pittman Jr.,Yes,,165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Calvin Austin III,Yes,,220
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Ameer Abdullah,Yes,,460
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Drew Ogletree,Yes,,2000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jonathan Taylor,Yes,,-315
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Josh Downs,Yes,,310
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Connor Heyward,Yes,,1150
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Roman Wilson,Yes,,475
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Tyler Warren,Yes,,133
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Alec Pierce,Yes,,195
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Mo Alie-Cox,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Ashton Dulin,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,DK Metcalf,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Pat Freiermuth,Yes,,330
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Darnell Washington,Yes,,410
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Ke'Shawn Williams,Yes,,1200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Daniel Jones,Yes,,325
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Kaleb Johnson,Yes,,1150
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Adonai Mitchell,Yes,,1150
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Ben Skowronek,Yes,,850
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jonnu Smith,Yes,,300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Kenneth Gainwell,Yes,,320
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Tyler Goodson,Yes,,1700
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Aaron Rodgers,Over,1.5,-152
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Aaron Rodgers,Under,1.5,114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Daniel Jones,Over,1.5,-143
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Daniel Jones,Under,1.5,108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Daniel Jones,Over,252.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Daniel Jones,Under,252.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Aaron Rodgers,Over,246.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Aaron Rodgers,Under,246.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jaylen Warren,Over,21.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jaylen Warren,Under,21.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jonathan Taylor,Over,18.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jonathan Taylor,Under,18.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Pat Freiermuth,Over,21.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Pat Freiermuth,Under,21.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,DK Metcalf,Over,63.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,DK Metcalf,Under,63.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Calvin Austin III,Over,35.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Calvin Austin III,Under,35.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Darnell Washington,Over,12.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Darnell Washington,Under,12.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Michael Pittman Jr.,Over,54.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Michael Pittman Jr.,Under,54.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Roman Wilson,Over,14.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Roman Wilson,Under,14.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jonnu Smith,Over,24.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jonnu Smith,Under,24.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Josh Downs,Over,37.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Josh Downs,Under,37.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Tyler Warren,Over,61.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Tyler Warren,Under,61.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Alec Pierce,Over,44.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Alec Pierce,Under,44.5,-113
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Kenneth Gainwell,Over,13.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Kenneth Gainwell,Under,13.5,-112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Jaylen Warren,Over,3.5,138
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Jaylen Warren,Under,3.5,-182
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Darnell Washington,Over,1.5,-106
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Darnell Washington,Under,1.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Calvin Austin III,Over,3.5,123
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Calvin Austin III,Under,3.5,-165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Michael Pittman Jr.,Over,5.5,112
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Michael Pittman Jr.,Under,5.5,-150
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Roman Wilson,Over,1.5,-103
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Roman Wilson,Under,1.5,-130
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Pat Freiermuth,Over,2.5,123
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Pat Freiermuth,Under,2.5,-162
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Kenneth Gainwell,Over,2.5,135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Kenneth Gainwell,Under,2.5,-182
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,DK Metcalf,Over,4.5,102
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,DK Metcalf,Under,4.5,-134
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Jonnu Smith,Over,3.5,128
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Jonnu Smith,Under,3.5,-175
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Josh Downs,Over,3.5,-165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Josh Downs,Under,3.5,123
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Jonathan Taylor,Over,2.5,-139
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Jonathan Taylor,Under,2.5,104
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Tyler Warren,Over,5.5,108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Tyler Warren,Under,5.5,-143
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Alec Pierce,Over,2.5,-143
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_receptions,Alec Pierce,Under,2.5,108
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Jaylen Warren,Over,57.5,-114
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Jaylen Warren,Under,57.5,-117
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Daniel Jones,Over,13.5,-109
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Daniel Jones,Under,13.5,-122
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Jonathan Taylor,Over,92.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Jonathan Taylor,Under,92.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Kenneth Gainwell,Over,20.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Kenneth Gainwell,Under,20.5,-121
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jonnu Smith,Yes,,250
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Aaron Rodgers,Yes,,900
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,DK Metcalf,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Ben Skowronek,Yes,,900
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Kenneth Gainwell,Yes,,305
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Pat Freiermuth,Yes,,380
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Calvin Austin III,Yes,,270
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jaylen Warren,Yes,,-105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Connor Heyward,Yes,,900
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Darnell Washington,Yes,,345
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Roman Wilson,Yes,,550
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Kaleb Johnson,Yes,,1050
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Pittsburgh Steelers D/ST,Yes,,500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Mo Alie-Cox,Yes,,900
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Ameer Abdullah,Yes,,550
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Daniel Jones,Yes,,315
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Ashton Dulin,Yes,,900
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Michael Pittman Jr.,Yes,,165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jonathan Taylor,Yes,,-275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Alec Pierce,Yes,,285
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Drew Ogletree,Yes,,1050
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Tyler Goodson,Yes,,1050
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Josh Downs,Yes,,295
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Adonai Mitchell,Yes,,800
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Tyler Warren,Yes,,145
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Indianapolis Colts D/ST,Yes,,500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Laquon Treadwell,Yes,,1800
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Trey Sermon,Yes,,1800
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Daniel Jones,Over,1.5,-140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Daniel Jones,Under,1.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Aaron Rodgers,Over,1.5,-160
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Aaron Rodgers,Under,1.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Daniel Jones,Over,255.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Daniel Jones,Under,255.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Aaron Rodgers,Over,240.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Aaron Rodgers,Under,240.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jonathan Taylor,Over,15.5,-140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jonathan Taylor,Under,15.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Calvin Austin III,Over,35.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Calvin Austin III,Under,35.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jaylen Warren,Over,20.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jaylen Warren,Under,20.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Josh Downs,Over,35.5,-135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Josh Downs,Under,35.5,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,DK Metcalf,Over,60.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,DK Metcalf,Under,60.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Pat Freiermuth,Over,20.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Pat Freiermuth,Under,20.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Michael Pittman Jr.,Over,55.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Michael Pittman Jr.,Under,55.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Kenneth Gainwell,Over,15.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Kenneth Gainwell,Under,15.5,-140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jonnu Smith,Over,25.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jonnu Smith,Under,25.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Alec Pierce,Over,45.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Alec Pierce,Under,45.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Roman Wilson,Over,15.5,-105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Roman Wilson,Under,15.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Tyler Warren,Over,60.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Tyler Warren,Under,60.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Darnell Washington,Over,10.5,-140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Darnell Washington,Under,10.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Michael Pittman Jr.,Over,5.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Michael Pittman Jr.,Under,5.5,-140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,DK Metcalf,Over,4.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,DK Metcalf,Under,4.5,-140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Tyler Warren,Over,5.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Tyler Warren,Under,5.5,-155
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Calvin Austin III,Over,3.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Calvin Austin III,Under,3.5,-155
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Josh Downs,Over,4.5,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Josh Downs,Under,4.5,-195
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Jaylen Warren,Over,3.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Jaylen Warren,Under,3.5,-155
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Jonathan Taylor,Over,3.5,175
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Jonathan Taylor,Under,3.5,-255
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Pat Freiermuth,Over,2.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Pat Freiermuth,Under,2.5,-165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Jonnu Smith,Over,3.5,130
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Jonnu Smith,Under,3.5,-180
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Kenneth Gainwell,Over,2.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Kenneth Gainwell,Under,2.5,-170
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Alec Pierce,Over,2.5,-135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Alec Pierce,Under,2.5,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Darnell Washington,Over,1.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Darnell Washington,Under,1.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Roman Wilson,Over,1.5,110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_receptions,Roman Wilson,Under,1.5,-150
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Jonathan Taylor,Over,95.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Jonathan Taylor,Under,95.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Jaylen Warren,Over,55.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Jaylen Warren,Under,55.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Kenneth Gainwell,Over,20.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Kenneth Gainwell,Under,20.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Daniel Jones,Over,15.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Daniel Jones,Under,15.5,-140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Jonathan Taylor,Yes,,-250
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Jaylen Warren,Yes,,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Tyler Warren,Yes,,135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,DK Metcalf,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Michael Pittman Jr.,Yes,,150
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Jonnu Smith,Yes,,230
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Calvin Austin III,Yes,,250
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Alec Pierce,Yes,,260
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Josh Downs,Yes,,275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Kenneth Gainwell,Yes,,300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Pat Freiermuth,Yes,,333
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Darnell Washington,Yes,,333
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Daniel Jones,Yes,,350
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Pittsburgh Steelers D/ST,Yes,,500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Indianapolis Colts D/ST,Yes,,500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Adonai Mitchell,Yes,,550
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Roman Wilson,Yes,,700
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Ameer Abdullah,Yes,,700
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Ashton Dulin,Yes,,900
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Aaron Rodgers,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Connor Heyward,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,DJ Giddens,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Mo Alie-Cox,Yes,,1200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Tyler Goodson,Yes,,1200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Ben Skowronek,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Will Mallory,Yes,,1500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Drew Ogletree,Yes,,1600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Kaleb Johnson,Yes,,1600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Ke'Shawn Williams,Yes,,2500
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_anytime_td,No Touchdown,Yes,,8000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_pass_tds,Aaron Rodgers,Over,1.5,-135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_pass_tds,Aaron Rodgers,Under,1.5,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_pass_tds,Daniel Jones,Over,1.5,-130
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_pass_tds,Daniel Jones,Under,1.5,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_pass_yds,Aaron Rodgers,Over,240.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_pass_yds,Aaron Rodgers,Under,240.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_pass_yds,Daniel Jones,Over,255.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_pass_yds,Daniel Jones,Under,255.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jaylen Warren,Over,19.5,-140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jaylen Warren,Under,19.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Michael Pittman Jr.,Over,54.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Michael Pittman Jr.,Under,54.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,DK Metcalf,Over,60.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,DK Metcalf,Under,60.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Kenneth Gainwell,Over,12.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Kenneth Gainwell,Under,12.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jonnu Smith,Over,24.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jonnu Smith,Under,24.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Calvin Austin III,Over,36.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Calvin Austin III,Under,36.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jonathan Taylor,Over,16.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jonathan Taylor,Under,16.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Josh Downs,Over,38.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Josh Downs,Under,38.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Alec Pierce,Over,44.5,-135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Alec Pierce,Under,44.5,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Roman Wilson,Over,14.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Roman Wilson,Under,14.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Darnell Washington,Over,13.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Darnell Washington,Under,13.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Pat Freiermuth,Over,20.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Pat Freiermuth,Under,20.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Tyler Warren,Over,58.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Tyler Warren,Under,58.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Jaylen Warren,Over,3.5,135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Jaylen Warren,Under,3.5,-175
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,DK Metcalf,Over,4.5,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,DK Metcalf,Under,4.5,-135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Jonnu Smith,Over,3.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Jonnu Smith,Under,3.5,-165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Calvin Austin III,Over,3.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Calvin Austin III,Under,3.5,-160
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Kenneth Gainwell,Over,2.5,145
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Kenneth Gainwell,Under,2.5,-190
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Jonathan Taylor,Over,2.5,-135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Jonathan Taylor,Under,2.5,100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Tyler Warren,Over,5.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Tyler Warren,Under,5.5,-145
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Michael Pittman Jr.,Over,5.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Michael Pittman Jr.,Under,5.5,-155
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Alec Pierce,Over,2.5,-155
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Alec Pierce,Under,2.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Josh Downs,Over,4.5,130
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Josh Downs,Under,4.5,-175
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Darnell Washington,Over,1.5,-105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Darnell Washington,Under,1.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Pat Freiermuth,Over,2.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Pat Freiermuth,Under,2.5,-165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Roman Wilson,Over,1.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_receptions,Roman Wilson,Under,1.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Jonathan Taylor,Over,96.5,-105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Jonathan Taylor,Under,96.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Jaylen Warren,Over,58.5,-118
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Jaylen Warren,Under,58.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Daniel Jones,Over,14.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Daniel Jones,Under,14.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Kenneth Gainwell,Over,19.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Kenneth Gainwell,Under,19.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Laquon Treadwell,Yes,,2200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Drew Ogletree,Yes,,1200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Kaleb Johnson,Yes,,1400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Adonai Mitchell,Yes,,1600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Josh Downs,Yes,,320
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Pat Freiermuth,Yes,,400
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Aaron Rodgers,Yes,,1300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Daniel Jones,Yes,,300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Alec Pierce,Yes,,275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Tyler Warren,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jonnu Smith,Yes,,275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Pittsburgh Steelers D/ST,Yes,,625
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jonathan Taylor,Yes,,-335
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Indianapolis Colts Defense,Yes,,525
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Ben Skowronek,Yes,,1200
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Ameer Abdullah,Yes,,600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,DK Metcalf,Yes,,140
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Roman Wilson,Yes,,525
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Mo Alie-Cox,Yes,,1000
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Darnell Washington,Yes,,350
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Ashton Dulin,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Kenneth Gainwell,Yes,,275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Ke'Shawn Williams,Yes,,3300
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jaylen Warren,Yes,,-139
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Connor Heyward,Yes,,1100
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Michael Pittman Jr.,Yes,,175
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Calvin Austin III,Yes,,275
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_anytime_td,Tyler Goodson,Yes,,1600
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_pass_tds,Aaron Rodgers,Over,1.5,-135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_pass_tds,Aaron Rodgers,Under,1.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_pass_tds,Daniel Jones,Over,1.5,-145
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_pass_tds,Daniel Jones,Under,1.5,110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_pass_yds,Aaron Rodgers,Over,239.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_pass_yds,Aaron Rodgers,Under,239.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_pass_yds,Daniel Jones,Over,256.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_pass_yds,Daniel Jones,Under,256.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Alec Pierce,Over,48.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Alec Pierce,Under,48.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Calvin Austin III,Over,34.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Calvin Austin III,Under,34.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,DK Metcalf,Over,63.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,DK Metcalf,Under,63.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jaylen Warren,Over,21.5,-105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jaylen Warren,Under,21.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jonathan Taylor,Over,18.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jonathan Taylor,Under,18.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jonnu Smith,Over,25.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jonnu Smith,Under,25.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Josh Downs,Over,37.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Josh Downs,Under,37.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Kenneth Gainwell,Over,14.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Kenneth Gainwell,Under,14.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Michael Pittman Jr.,Over,56.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Michael Pittman Jr.,Under,56.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Pat Freiermuth,Over,20.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Pat Freiermuth,Under,20.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Tyler Warren,Over,61.5,-120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_reception_yds,Tyler Warren,Under,61.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Alec Pierce,Over,2.5,-150
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Alec Pierce,Under,2.5,115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Calvin Austin III,Over,3.5,135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Calvin Austin III,Under,3.5,-180
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,DK Metcalf,Over,4.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,DK Metcalf,Under,4.5,-160
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Jaylen Warren,Over,3.5,130
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Jaylen Warren,Under,3.5,-170
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Jonathan Taylor,Over,2.5,-135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Jonathan Taylor,Under,2.5,105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Jonnu Smith,Over,3.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Jonnu Smith,Under,3.5,-165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Josh Downs,Over,3.5,-165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Josh Downs,Under,3.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Michael Pittman Jr.,Over,5.5,120
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Michael Pittman Jr.,Under,5.5,-160
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Pat Freiermuth,Over,2.5,135
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Pat Freiermuth,Under,2.5,-180
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Tyler Warren,Over,5.5,125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_receptions,Tyler Warren,Under,5.5,-165
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_rush_yds,Daniel Jones,Over,13.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_rush_yds,Daniel Jones,Under,13.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_rush_yds,Jaylen Warren,Over,55.5,-125
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_rush_yds,Jaylen Warren,Under,55.5,-105
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_rush_yds,Jonathan Taylor,Over,95.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_rush_yds,Jonathan Taylor,Under,95.5,-115
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_rush_yds,Kenneth Gainwell,Over,20.5,-110
+Indianapolis Colts,Pittsburgh Steelers,2025-11-02T17:35:38Z,bovada,player_rush_yds,Kenneth Gainwell,Under,20.5,-120

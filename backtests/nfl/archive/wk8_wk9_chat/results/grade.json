@@ -1,0 +1,2345 @@
+{
+ "wk1": {
+  "field": 4472,
+  "median": 129.04,
+  "cash20": 151.1,
+  "top1": 193.26,
+  "winner": 222.92,
+  "new": [
+   {
+    "L": 1,
+    "qb": "Justin Herbert",
+    "score": 142.26000000000002,
+    "pct": 67.03935599284436,
+    "cash": false,
+    "zero": [
+     "Tennessee Titans"
+    ],
+    "cum_own": 156.43,
+    "detail": [
+     [
+      "QB",
+      "Justin Herbert",
+      7600,
+      14.26,
+      15.32
+     ],
+     [
+      "RB",
+      "Jahmyr Gibbs",
+      9100,
+      34.1,
+      49.1
+     ],
+     [
+      "RB",
+      "Chase Brown",
+      7500,
+      16.3,
+      14.3
+     ],
+     [
+      "RB",
+      "Kyle Monangai",
+      5600,
+      22.4,
+      0.11
+     ],
+     [
+      "WR",
+      "Amon-Ra St. Brown",
+      8600,
+      23.7,
+      16.0
+     ],
+     [
+      "WR",
+      "Jameson Williams",
+      7100,
+      6.5,
+      5.53
+     ],
+     [
+      "WR",
+      "Ladd McConkey",
+      6500,
+      16.7,
+      26.37
+     ],
+     [
+      "TE",
+      "David Njoku",
+      4800,
+      8.3,
+      0.16
+     ],
+     [
+      "DST",
+      "Tennessee Titans",
+      3200,
+      0.0,
+      29.54
+     ]
+    ]
+   },
+   {
+    "L": 2,
+    "qb": "Justin Herbert",
+    "score": 141.35999999999999,
+    "pct": 66.52504472271914,
+    "cash": false,
+    "zero": [
+     "Charlie Kolar"
+    ],
+    "cum_own": 135.73000000000002,
+    "detail": [
+     [
+      "QB",
+      "Justin Herbert",
+      7600,
+      14.26,
+      15.32
+     ],
+     [
+      "RB",
+      "Jahmyr Gibbs",
+      9100,
+      34.1,
+      49.1
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      8300,
+      37.8,
+      6.66
+     ],
+     [
+      "RB",
+      "Chase Brown",
+      7500,
+      16.3,
+      14.3
+     ],
+     [
+      "WR",
+      "Jameson Williams",
+      7100,
+      6.5,
+      5.53
+     ],
+     [
+      "WR",
+      "Ladd McConkey",
+      6500,
+      16.7,
+      26.37
+     ],
+     [
+      "WR",
+      "Quentin Johnston",
+      6000,
+      2.7,
+      8.48
+     ],
+     [
+      "TE",
+      "Charlie Kolar",
+      4100,
+      0.0,
+      0.4
+     ],
+     [
+      "DST",
+      "Las Vegas Raiders",
+      3800,
+      13.0,
+      9.57
+     ]
+    ]
+   },
+   {
+    "L": 3,
+    "qb": "Kyler Murray",
+    "score": 97.32,
+    "pct": 15.004472271914132,
+    "cash": false,
+    "zero": [
+     "Jordan Addison",
+     "Tennessee Titans"
+    ],
+    "cum_own": 165.41,
+    "detail": [
+     [
+      "QB",
+      "Kyler Murray",
+      7200,
+      0.62,
+      8.9
+     ],
+     [
+      "RB",
+      "Jahmyr Gibbs",
+      9100,
+      34.1,
+      49.1
+     ],
+     [
+      "RB",
+      "Chase Brown",
+      7500,
+      16.3,
+      14.3
+     ],
+     [
+      "RB",
+      "Omarion Hampton",
+      7300,
+      8.3,
+      35.69
+     ],
+     [
+      "WR",
+      "Amon-Ra St. Brown",
+      8600,
+      23.7,
+      16.0
+     ],
+     [
+      "WR",
+      "Jordan Addison",
+      6100,
+      0.0,
+      2.6
+     ],
+     [
+      "WR",
+      "Quentin Johnston",
+      6000,
+      2.7,
+      8.48
+     ],
+     [
+      "TE",
+      "T.J. Hockenson",
+      5000,
+      11.6,
+      0.8
+     ],
+     [
+      "DST",
+      "Tennessee Titans",
+      3200,
+      0.0,
+      29.54
+     ]
+    ]
+   },
+   {
+    "L": 4,
+    "qb": "Kyler Murray",
+    "score": 136.42000000000002,
+    "pct": 60.44275491949911,
+    "cash": false,
+    "zero": [
+     "Jordan Addison"
+    ],
+    "cum_own": 98.91,
+    "detail": [
+     [
+      "QB",
+      "Kyler Murray",
+      7200,
+      0.62,
+      8.9
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      8300,
+      37.8,
+      6.66
+     ],
+     [
+      "RB",
+      "Omarion Hampton",
+      7300,
+      8.3,
+      35.69
+     ],
+     [
+      "RB",
+      "D'Andre Swift",
+      6600,
+      34.9,
+      13.16
+     ],
+     [
+      "WR",
+      "Amon-Ra St. Brown",
+      8600,
+      23.7,
+      16.0
+     ],
+     [
+      "WR",
+      "Jameson Williams",
+      7100,
+      6.5,
+      5.53
+     ],
+     [
+      "WR",
+      "Jordan Addison",
+      6100,
+      0.0,
+      2.6
+     ],
+     [
+      "TE",
+      "T.J. Hockenson",
+      5000,
+      11.6,
+      0.8
+     ],
+     [
+      "DST",
+      "Las Vegas Raiders",
+      3800,
+      13.0,
+      9.57
+     ]
+    ]
+   },
+   {
+    "L": 5,
+    "qb": "Baker Mayfield",
+    "score": 85.03999999999999,
+    "pct": 8.273703041144902,
+    "cash": false,
+    "zero": [
+     "Tennessee Titans"
+    ],
+    "cum_own": 147.16,
+    "detail": [
+     [
+      "QB",
+      "Baker Mayfield",
+      7500,
+      11.64,
+      7.46
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      8300,
+      37.8,
+      6.66
+     ],
+     [
+      "RB",
+      "Saquon Barkley",
+      8100,
+      8.5,
+      23.57
+     ],
+     [
+      "RB",
+      "Omarion Hampton",
+      7300,
+      8.3,
+      35.69
+     ],
+     [
+      "WR",
+      "Ja'Marr Chase",
+      8900,
+      2.2,
+      29.66
+     ],
+     [
+      "WR",
+      "Tee Higgins",
+      7200,
+      7.4,
+      12.25
+     ],
+     [
+      "WR",
+      "Ted Hurst III",
+      4500,
+      5.1,
+      0.24
+     ],
+     [
+      "TE",
+      "Cade Otton",
+      5000,
+      4.1,
+      2.09
+     ],
+     [
+      "DST",
+      "Tennessee Titans",
+      3200,
+      0.0,
+      29.54
+     ]
+    ]
+   },
+   {
+    "L": 6,
+    "qb": "Baker Mayfield",
+    "score": 98.33999999999999,
+    "pct": 15.652951699463328,
+    "cash": false,
+    "zero": [],
+    "cum_own": 115.25,
+    "detail": [
+     [
+      "QB",
+      "Baker Mayfield",
+      7500,
+      11.64,
+      7.46
+     ],
+     [
+      "RB",
+      "Saquon Barkley",
+      8100,
+      8.5,
+      23.57
+     ],
+     [
+      "RB",
+      "D'Andre Swift",
+      6600,
+      34.9,
+      13.16
+     ],
+     [
+      "RB",
+      "Jaylen Warren",
+      6500,
+      7.8,
+      1.73
+     ],
+     [
+      "WR",
+      "Ja'Marr Chase",
+      8900,
+      2.2,
+      29.66
+     ],
+     [
+      "WR",
+      "Tee Higgins",
+      7200,
+      7.4,
+      12.25
+     ],
+     [
+      "WR",
+      "Emeka Egbuka",
+      6400,
+      8.8,
+      15.76
+     ],
+     [
+      "TE",
+      "Cade Otton",
+      5000,
+      4.1,
+      2.09
+     ],
+     [
+      "DST",
+      "Las Vegas Raiders",
+      3800,
+      13.0,
+      9.57
+     ]
+    ]
+   }
+  ],
+  "old": [],
+  "our_entries": 0
+ },
+ "wk2": {
+  "field": 410028,
+  "median": 98.6,
+  "cash20": 119.52,
+  "top1": 158.56,
+  "winner": 211.16,
+  "new": [
+   {
+    "L": 1,
+    "qb": "Cooper Rush",
+    "score": 85.04,
+    "pct": 26.94645243739452,
+    "cash": false,
+    "zero": [],
+    "cum_own": 104.19,
+    "detail": [
+     [
+      "QB",
+      "Cooper Rush",
+      6900,
+      1.44,
+      0.36
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      9000,
+      20.6,
+      21.22
+     ],
+     [
+      "RB",
+      "Javonte Williams",
+      7400,
+      6.5,
+      22.73
+     ],
+     [
+      "RB",
+      "D'Andre Swift",
+      7100,
+      10.4,
+      8.26
+     ],
+     [
+      "WR",
+      "Mike Evans",
+      8200,
+      6.9,
+      5.56
+     ],
+     [
+      "WR",
+      "Deebo Samuel Sr.",
+      6200,
+      5.0,
+      8.4
+     ],
+     [
+      "WR",
+      "Rashod Bateman",
+      5000,
+      18.3,
+      7.78
+     ],
+     [
+      "TE",
+      "Mark Andrews",
+      5200,
+      7.9,
+      20.9
+     ],
+     [
+      "DST",
+      "San Francisco 49ers",
+      5000,
+      8.0,
+      8.98
+     ]
+    ]
+   },
+   {
+    "L": 2,
+    "qb": "Cooper Rush",
+    "score": 77.64,
+    "pct": 16.23767157364863,
+    "cash": false,
+    "zero": [
+     "Zay Flowers"
+    ],
+    "cum_own": 97.07,
+    "detail": [
+     [
+      "QB",
+      "Cooper Rush",
+      6900,
+      1.44,
+      0.36
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      9000,
+      20.6,
+      21.22
+     ],
+     [
+      "RB",
+      "Javonte Williams",
+      7400,
+      6.5,
+      22.73
+     ],
+     [
+      "RB",
+      "David Montgomery",
+      7000,
+      3.4,
+      15.74
+     ],
+     [
+      "WR",
+      "Mike Evans",
+      8200,
+      6.9,
+      5.56
+     ],
+     [
+      "WR",
+      "Zay Flowers",
+      7600,
+      0.0,
+      0.04
+     ],
+     [
+      "WR",
+      "Demarcus Robinson",
+      5400,
+      4.9,
+      0.91
+     ],
+     [
+      "TE",
+      "Mark Andrews",
+      5200,
+      7.9,
+      20.9
+     ],
+     [
+      "DST",
+      "Carolina Panthers",
+      3300,
+      26.0,
+      9.61
+     ]
+    ]
+   },
+   {
+    "L": 3,
+    "qb": "Justin Herbert",
+    "score": 95.48,
+    "pct": 44.47769420624933,
+    "cash": false,
+    "zero": [],
+    "cum_own": 103.05,
+    "detail": [
+     [
+      "QB",
+      "Justin Herbert",
+      7400,
+      9.88,
+      4.97
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      9000,
+      20.6,
+      21.22
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      8700,
+      16.2,
+      32.69
+     ],
+     [
+      "RB",
+      "Javonte Williams",
+      7400,
+      6.5,
+      22.73
+     ],
+     [
+      "WR",
+      "Mike Evans",
+      8200,
+      6.9,
+      5.56
+     ],
+     [
+      "WR",
+      "Deebo Samuel Sr.",
+      6200,
+      5.0,
+      8.4
+     ],
+     [
+      "WR",
+      "Tre' Harris",
+      4900,
+      5.8,
+      1.48
+     ],
+     [
+      "TE",
+      "Charlie Kolar",
+      4100,
+      3.6,
+      0.03
+     ],
+     [
+      "DST",
+      "New England Patriots",
+      4100,
+      21.0,
+      5.97
+     ]
+    ]
+   },
+   {
+    "L": 4,
+    "qb": "Justin Herbert",
+    "score": 93.78,
+    "pct": 41.51862799613685,
+    "cash": false,
+    "zero": [],
+    "cum_own": 92.13,
+    "detail": [
+     [
+      "QB",
+      "Justin Herbert",
+      7400,
+      9.88,
+      4.97
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      8700,
+      16.2,
+      32.69
+     ],
+     [
+      "RB",
+      "D'Andre Swift",
+      7100,
+      10.4,
+      8.26
+     ],
+     [
+      "RB",
+      "Kaelon Black",
+      5300,
+      2.5,
+      0.66
+     ],
+     [
+      "WR",
+      "CeeDee Lamb",
+      8500,
+      34.3,
+      16.16
+     ],
+     [
+      "WR",
+      "George Pickens",
+      8000,
+      7.0,
+      10.92
+     ],
+     [
+      "WR",
+      "Quentin Johnston",
+      5800,
+      1.9,
+      9.46
+     ],
+     [
+      "TE",
+      "Charlie Kolar",
+      4100,
+      3.6,
+      0.03
+     ],
+     [
+      "DST",
+      "San Francisco 49ers",
+      5000,
+      8.0,
+      8.98
+     ]
+    ]
+   },
+   {
+    "L": 5,
+    "qb": "Baker Mayfield",
+    "score": 130.77999999999997,
+    "pct": 89.97312378666822,
+    "cash": true,
+    "zero": [],
+    "cum_own": 102.95,
+    "detail": [
+     [
+      "QB",
+      "Baker Mayfield",
+      7600,
+      13.18,
+      6.77
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      8700,
+      16.2,
+      32.69
+     ],
+     [
+      "RB",
+      "Omarion Hampton",
+      7300,
+      16.5,
+      7.23
+     ],
+     [
+      "RB",
+      "Kaelon Black",
+      5300,
+      2.5,
+      0.66
+     ],
+     [
+      "WR",
+      "CeeDee Lamb",
+      8500,
+      34.3,
+      16.16
+     ],
+     [
+      "WR",
+      "George Pickens",
+      8000,
+      7.0,
+      10.92
+     ],
+     [
+      "WR",
+      "Emeka Egbuka",
+      6500,
+      8.8,
+      17.78
+     ],
+     [
+      "TE",
+      "Cade Otton",
+      4800,
+      6.3,
+      1.13
+     ],
+     [
+      "DST",
+      "Carolina Panthers",
+      3300,
+      26.0,
+      9.61
+     ]
+    ]
+   },
+   {
+    "L": 6,
+    "qb": "Baker Mayfield",
+    "score": 105.88,
+    "pct": 61.78797545533476,
+    "cash": false,
+    "zero": [],
+    "cum_own": 90.45,
+    "detail": [
+     [
+      "QB",
+      "Baker Mayfield",
+      7600,
+      13.18,
+      6.77
+     ],
+     [
+      "RB",
+      "Omarion Hampton",
+      7300,
+      16.5,
+      7.23
+     ],
+     [
+      "RB",
+      "D'Andre Swift",
+      7100,
+      10.4,
+      8.26
+     ],
+     [
+      "RB",
+      "David Montgomery",
+      7000,
+      3.4,
+      15.74
+     ],
+     [
+      "WR",
+      "CeeDee Lamb",
+      8500,
+      34.3,
+      16.16
+     ],
+     [
+      "WR",
+      "Emeka Egbuka",
+      6500,
+      8.8,
+      17.78
+     ],
+     [
+      "WR",
+      "Deebo Samuel Sr.",
+      6200,
+      5.0,
+      8.4
+     ],
+     [
+      "TE",
+      "Cade Otton",
+      4800,
+      6.3,
+      1.13
+     ],
+     [
+      "DST",
+      "San Francisco 49ers",
+      5000,
+      8.0,
+      8.98
+     ]
+    ]
+   }
+  ],
+  "old": [],
+  "our_entries": 0
+ },
+ "wk3": {
+  "field": 118748,
+  "median": 115.14,
+  "cash20": 134.86,
+  "top1": 171.2,
+  "winner": 219.2,
+  "new": [
+   {
+    "L": 1,
+    "qb": "Drew Lock",
+    "score": 105.99999999999999,
+    "pct": 33.67804089332031,
+    "cash": false,
+    "zero": [
+     "Drew Lock",
+     "Elijah Arroyo"
+    ],
+    "cum_own": 102.3,
+    "detail": [
+     [
+      "QB",
+      "Drew Lock",
+      6900,
+      0.0,
+      0.19
+     ],
+     [
+      "RB",
+      "Jahmyr Gibbs",
+      9200,
+      37.9,
+      31.29
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      9000,
+      21.4,
+      15.31
+     ],
+     [
+      "RB",
+      "James Cook III",
+      8100,
+      22.4,
+      11.37
+     ],
+     [
+      "WR",
+      "Amon-Ra St. Brown",
+      9000,
+      9.9,
+      10.35
+     ],
+     [
+      "WR",
+      "Khalil Shakir",
+      5900,
+      1.1,
+      5.08
+     ],
+     [
+      "WR",
+      "Tory Horton",
+      4500,
+      6.3,
+      0.1
+     ],
+     [
+      "TE",
+      "Elijah Arroyo",
+      4300,
+      0.0,
+      0.01
+     ],
+     [
+      "DST",
+      "Tennessee Titans",
+      3100,
+      7.0,
+      28.6
+     ]
+    ]
+   },
+   {
+    "L": 2,
+    "qb": "Drew Lock",
+    "score": 98.60000000000001,
+    "pct": 21.391518172937648,
+    "cash": false,
+    "zero": [
+     "Drew Lock",
+     "Joshua Palmer"
+    ],
+    "cum_own": 75.1,
+    "detail": [
+     [
+      "QB",
+      "Drew Lock",
+      6900,
+      0.0,
+      0.19
+     ],
+     [
+      "RB",
+      "Jahmyr Gibbs",
+      9200,
+      37.9,
+      31.29
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      9000,
+      21.4,
+      15.31
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      8900,
+      19.6,
+      9.46
+     ],
+     [
+      "WR",
+      "Amon-Ra St. Brown",
+      9000,
+      9.9,
+      10.35
+     ],
+     [
+      "WR",
+      "Joshua Palmer",
+      4900,
+      0.0,
+      2.58
+     ],
+     [
+      "WR",
+      "Tory Horton",
+      4500,
+      6.3,
+      0.1
+     ],
+     [
+      "TE",
+      "Brady Russell",
+      4200,
+      2.5,
+      0.0
+     ],
+     [
+      "DST",
+      "New Orleans Saints",
+      3400,
+      1.0,
+      5.82
+     ]
+    ]
+   },
+   {
+    "L": 3,
+    "qb": "Tyler Shough",
+    "score": 136.1,
+    "pct": 81.37063361067133,
+    "cash": true,
+    "zero": [
+     "Bryce Lance",
+     "Oscar Delp"
+    ],
+    "cum_own": 99.32000000000001,
+    "detail": [
+     [
+      "QB",
+      "Tyler Shough",
+      7500,
+      24.8,
+      9.08
+     ],
+     [
+      "RB",
+      "Jahmyr Gibbs",
+      9200,
+      37.9,
+      31.29
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      9000,
+      21.4,
+      15.31
+     ],
+     [
+      "RB",
+      "James Cook III",
+      8100,
+      22.4,
+      11.37
+     ],
+     [
+      "WR",
+      "Zay Flowers",
+      7500,
+      12.9,
+      0.73
+     ],
+     [
+      "WR",
+      "DJ Moore",
+      6700,
+      9.7,
+      2.87
+     ],
+     [
+      "WR",
+      "Bryce Lance",
+      4700,
+      0.0,
+      0.07
+     ],
+     [
+      "TE",
+      "Oscar Delp",
+      4200,
+      0.0,
+      0.0
+     ],
+     [
+      "DST",
+      "Tennessee Titans",
+      3100,
+      7.0,
+      28.6
+     ]
+    ]
+   },
+   {
+    "L": 4,
+    "qb": "Tyler Shough",
+    "score": 111.9,
+    "pct": 44.21211304611446,
+    "cash": false,
+    "zero": [
+     "Barion Brown",
+     "Oscar Delp"
+    ],
+    "cum_own": 82.24,
+    "detail": [
+     [
+      "QB",
+      "Tyler Shough",
+      7500,
+      24.8,
+      9.08
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      8900,
+      19.6,
+      9.46
+     ],
+     [
+      "RB",
+      "Kenneth Walker III",
+      8300,
+      20.3,
+      44.73
+     ],
+     [
+      "RB",
+      "James Cook III",
+      8100,
+      22.4,
+      11.37
+     ],
+     [
+      "WR",
+      "Mike Evans",
+      7800,
+      10.9,
+      1.05
+     ],
+     [
+      "WR",
+      "Zay Flowers",
+      7500,
+      12.9,
+      0.73
+     ],
+     [
+      "WR",
+      "Barion Brown",
+      4300,
+      0.0,
+      0.0
+     ],
+     [
+      "TE",
+      "Oscar Delp",
+      4200,
+      0.0,
+      0.0
+     ],
+     [
+      "DST",
+      "New Orleans Saints",
+      3400,
+      1.0,
+      5.82
+     ]
+    ]
+   },
+   {
+    "L": 5,
+    "qb": "Bryce Young",
+    "score": 92.14000000000001,
+    "pct": 12.935796813420016,
+    "cash": false,
+    "zero": [
+     "Ja'Tavion Sanders"
+    ],
+    "cum_own": 115.6,
+    "detail": [
+     [
+      "QB",
+      "Bryce Young",
+      7600,
+      14.64,
+      6.41
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      8900,
+      19.6,
+      9.46
+     ],
+     [
+      "RB",
+      "Kenneth Walker III",
+      8300,
+      20.3,
+      44.73
+     ],
+     [
+      "RB",
+      "Ty Johnson",
+      5000,
+      7.0,
+      0.06
+     ],
+     [
+      "WR",
+      "Amon-Ra St. Brown",
+      9000,
+      9.9,
+      10.35
+     ],
+     [
+      "WR",
+      "Mike Evans",
+      7800,
+      10.9,
+      1.05
+     ],
+     [
+      "WR",
+      "Jalen Coker",
+      6200,
+      2.8,
+      14.93
+     ],
+     [
+      "TE",
+      "Ja'Tavion Sanders",
+      4100,
+      0.0,
+      0.01
+     ],
+     [
+      "DST",
+      "Tennessee Titans",
+      3100,
+      7.0,
+      28.6
+     ]
+    ]
+   },
+   {
+    "L": 6,
+    "qb": "Bryce Young",
+    "score": 96.84,
+    "pct": 18.870212550948228,
+    "cash": false,
+    "zero": [
+     "Ja'Tavion Sanders"
+    ],
+    "cum_own": 80.89999999999999,
+    "detail": [
+     [
+      "QB",
+      "Bryce Young",
+      7600,
+      14.64,
+      6.41
+     ],
+     [
+      "RB",
+      "Kenneth Walker III",
+      8300,
+      20.3,
+      44.73
+     ],
+     [
+      "RB",
+      "Javonte Williams",
+      7300,
+      17.3,
+      3.58
+     ],
+     [
+      "RB",
+      "Bhayshul Tuten",
+      6400,
+      16.0,
+      1.56
+     ],
+     [
+      "WR",
+      "Mike Evans",
+      7800,
+      10.9,
+      1.05
+     ],
+     [
+      "WR",
+      "Zay Flowers",
+      7500,
+      12.9,
+      0.73
+     ],
+     [
+      "WR",
+      "Jalen Coker",
+      6200,
+      2.8,
+      14.93
+     ],
+     [
+      "TE",
+      "Ja'Tavion Sanders",
+      4100,
+      0.0,
+      0.01
+     ],
+     [
+      "DST",
+      "Seattle Seahawks",
+      4800,
+      2.0,
+      7.9
+     ]
+    ]
+   }
+  ],
+  "old": [
+   {
+    "score": 81.66,
+    "pct": 4.204702394987705,
+    "cash": false,
+    "lineup": "QB Josh Allen (134503-62239), RB Derrick Henry (134503-39280), RB Chuba Hubbard (134503-87467), WR Ladd McConkey (134503-133472), WR Jalen Coker (134503-201547), WR Stefon Diggs (134503-25079), TE Dalton Kincaid (134503-145558), RB David Montgomery (134503-73273), D Cincinnati Bengals (134503-12528)",
+    "rank": 113726
+   }
+  ],
+  "our_entries": 1
+ },
+ "wk4": {
+  "field": 102162,
+  "median": 106.22,
+  "cash20": 126.92,
+  "top1": 165.82,
+  "winner": 216.48,
+  "new": [
+   {
+    "L": 1,
+    "qb": "C.J. Stroud",
+    "score": 105.47999999999999,
+    "pct": 48.73044772028739,
+    "cash": false,
+    "zero": [
+     "Jared Wayne"
+    ],
+    "cum_own": 94.88,
+    "detail": [
+     [
+      "QB",
+      "C.J. Stroud",
+      7000,
+      26.08,
+      10.05
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      9100,
+      14.9,
+      25.03
+     ],
+     [
+      "RB",
+      "James Cook III",
+      8200,
+      15.3,
+      12.14
+     ],
+     [
+      "RB",
+      "Chase Brown",
+      7600,
+      13.6,
+      7.84
+     ],
+     [
+      "WR",
+      "Zay Flowers",
+      7300,
+      24.8,
+      12.13
+     ],
+     [
+      "WR",
+      "DJ Moore",
+      6700,
+      2.2,
+      8.25
+     ],
+     [
+      "WR",
+      "Jared Wayne",
+      4700,
+      0.0,
+      0.03
+     ],
+     [
+      "TE",
+      "Foster Moreau",
+      4300,
+      0.6,
+      0.08
+     ],
+     [
+      "DST",
+      "Minnesota Vikings",
+      5000,
+      8.0,
+      19.33
+     ]
+    ]
+   },
+   {
+    "L": 2,
+    "qb": "C.J. Stroud",
+    "score": 114.27999999999999,
+    "pct": 63.02734872065935,
+    "cash": false,
+    "zero": [],
+    "cum_own": 84.32000000000001,
+    "detail": [
+     [
+      "QB",
+      "C.J. Stroud",
+      7000,
+      26.08,
+      10.05
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      9100,
+      14.9,
+      25.03
+     ],
+     [
+      "RB",
+      "Kenneth Walker III",
+      8500,
+      33.4,
+      22.92
+     ],
+     [
+      "RB",
+      "James Cook III",
+      8200,
+      15.3,
+      12.14
+     ],
+     [
+      "WR",
+      "DJ Moore",
+      6700,
+      2.2,
+      8.25
+     ],
+     [
+      "WR",
+      "Khalil Shakir",
+      5700,
+      9.7,
+      1.95
+     ],
+     [
+      "WR",
+      "Xavier Hutchinson",
+      5600,
+      6.1,
+      0.47
+     ],
+     [
+      "TE",
+      "Foster Moreau",
+      4300,
+      0.6,
+      0.08
+     ],
+     [
+      "DST",
+      "Baltimore Ravens",
+      4900,
+      6.0,
+      3.43
+     ]
+    ]
+   },
+   {
+    "L": 3,
+    "qb": "Sam Darnold",
+    "score": 99.61999999999999,
+    "pct": 38.750220238444825,
+    "cash": false,
+    "zero": [
+     "Eric Saubert"
+    ],
+    "cum_own": 96.69,
+    "detail": [
+     [
+      "QB",
+      "Sam Darnold",
+      7500,
+      14.32,
+      5.89
+     ],
+     [
+      "RB",
+      "Derrick Henry",
+      9100,
+      14.9,
+      25.03
+     ],
+     [
+      "RB",
+      "James Cook III",
+      8200,
+      15.3,
+      12.14
+     ],
+     [
+      "RB",
+      "Chase Brown",
+      7600,
+      13.6,
+      7.84
+     ],
+     [
+      "WR",
+      "Tee Higgins",
+      6900,
+      24.2,
+      18.1
+     ],
+     [
+      "WR",
+      "DJ Moore",
+      6700,
+      2.2,
+      8.25
+     ],
+     [
+      "WR",
+      "Tory Horton",
+      4800,
+      7.1,
+      0.09
+     ],
+     [
+      "TE",
+      "Eric Saubert",
+      4200,
+      0.0,
+      0.02
+     ],
+     [
+      "DST",
+      "Minnesota Vikings",
+      5000,
+      8.0,
+      19.33
+     ]
+    ]
+   },
+   {
+    "L": 4,
+    "qb": "Sam Darnold",
+    "score": 108.52,
+    "pct": 53.82529707719113,
+    "cash": false,
+    "zero": [
+     "Eric Saubert"
+    ],
+    "cum_own": 89.51,
+    "detail": [
+     [
+      "QB",
+      "Sam Darnold",
+      7500,
+      14.32,
+      5.89
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      8800,
+      14.5,
+      18.15
+     ],
+     [
+      "RB",
+      "Kenneth Walker III",
+      8500,
+      33.4,
+      22.92
+     ],
+     [
+      "RB",
+      "Chase Brown",
+      7600,
+      13.6,
+      7.84
+     ],
+     [
+      "WR",
+      "Ja'Marr Chase",
+      9100,
+      4.2,
+      14.15
+     ],
+     [
+      "WR",
+      "Khalil Shakir",
+      5700,
+      9.7,
+      1.95
+     ],
+     [
+      "WR",
+      "Rashid Shaheed",
+      5100,
+      11.8,
+      0.49
+     ],
+     [
+      "TE",
+      "Eric Saubert",
+      4200,
+      0.0,
+      0.02
+     ],
+     [
+      "DST",
+      "Chicago Bears",
+      3500,
+      7.0,
+      18.1
+     ]
+    ]
+   },
+   {
+    "L": 5,
+    "qb": "Kyler Murray",
+    "score": 108.88,
+    "pct": 54.428260997239676,
+    "cash": false,
+    "zero": [],
+    "cum_own": 97.3,
+    "detail": [
+     [
+      "QB",
+      "Kyler Murray",
+      7200,
+      11.48,
+      4.88
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      8800,
+      14.5,
+      18.15
+     ],
+     [
+      "RB",
+      "Kenneth Walker III",
+      8500,
+      33.4,
+      22.92
+     ],
+     [
+      "RB",
+      "David Montgomery",
+      6500,
+      4.3,
+      7.38
+     ],
+     [
+      "WR",
+      "Ja'Marr Chase",
+      9100,
+      4.2,
+      14.15
+     ],
+     [
+      "WR",
+      "Khalil Shakir",
+      5700,
+      9.7,
+      1.95
+     ],
+     [
+      "WR",
+      "Tai Felton",
+      4300,
+      1.9,
+      0.07
+     ],
+     [
+      "TE",
+      "T.J. Hockenson",
+      4900,
+      21.4,
+      8.47
+     ],
+     [
+      "DST",
+      "Minnesota Vikings",
+      5000,
+      8.0,
+      19.33
+     ]
+    ]
+   },
+   {
+    "L": 6,
+    "qb": "Kyler Murray",
+    "score": 95.38,
+    "pct": 31.723145592294593,
+    "cash": false,
+    "zero": [],
+    "cum_own": 97.21000000000001,
+    "detail": [
+     [
+      "QB",
+      "Kyler Murray",
+      7200,
+      11.48,
+      4.88
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      8800,
+      14.5,
+      18.15
+     ],
+     [
+      "RB",
+      "David Montgomery",
+      6500,
+      4.3,
+      7.38
+     ],
+     [
+      "RB",
+      "Ty Johnson",
+      5200,
+      2.2,
+      0.1
+     ],
+     [
+      "WR",
+      "Ja'Marr Chase",
+      9100,
+      4.2,
+      14.15
+     ],
+     [
+      "WR",
+      "Tee Higgins",
+      6900,
+      24.2,
+      18.1
+     ],
+     [
+      "WR",
+      "Jordan Addison",
+      6500,
+      7.1,
+      22.55
+     ],
+     [
+      "TE",
+      "T.J. Hockenson",
+      4900,
+      21.4,
+      8.47
+     ],
+     [
+      "DST",
+      "Baltimore Ravens",
+      4900,
+      6.0,
+      3.43
+     ]
+    ]
+   }
+  ],
+  "old": [
+   {
+    "score": 74.62,
+    "pct": 6.681544997161371,
+    "cash": false,
+    "lineup": "QB Joe Burrow (134747-63336), RB Derrick Henry (134747-39280), RB Braelon Allen (134747-158412), WR Ja'Marr Chase (134747-85701), WR Jakobi Meyers (134747-63634), WR Davante Adams (134747-45889), TE Travis Kelce (134747-33076), WR Kalif Raymond (134747-70422), D New York Jets (134747-12544)",
+    "rank": 95311
+   }
+  ],
+  "our_entries": 1
+ },
+ "wk5": {
+  "field": 99618,
+  "median": 131.84,
+  "cash20": 153.86,
+  "top1": 190.36,
+  "winner": 232.98,
+  "new": [
+   {
+    "L": 1,
+    "qb": "Sam Darnold",
+    "score": 105.4,
+    "pct": 16.201891224477503,
+    "cash": false,
+    "zero": [
+     "Elijah Arroyo"
+    ],
+    "cum_own": 176.66,
+    "detail": [
+     [
+      "QB",
+      "Sam Darnold",
+      7200,
+      10.3,
+      3.23
+     ],
+     [
+      "RB",
+      "Jahmyr Gibbs",
+      10000,
+      38.2,
+      38.14
+     ],
+     [
+      "RB",
+      "Chase Brown",
+      8000,
+      5.5,
+      16.83
+     ],
+     [
+      "RB",
+      "D'Andre Swift",
+      6500,
+      15.3,
+      47.02
+     ],
+     [
+      "WR",
+      "Amon-Ra St. Brown",
+      9000,
+      9.9,
+      32.77
+     ],
+     [
+      "WR",
+      "Jameson Williams",
+      6500,
+      17.7,
+      13.1
+     ],
+     [
+      "WR",
+      "Cooper Kupp",
+      5300,
+      2.5,
+      0.45
+     ],
+     [
+      "TE",
+      "Elijah Arroyo",
+      4200,
+      0.0,
+      0.0
+     ],
+     [
+      "DST",
+      "Washington Commanders",
+      3300,
+      6.0,
+      25.12
+     ]
+    ]
+   },
+   {
+    "L": 2,
+    "qb": "Sam Darnold",
+    "score": 104.0,
+    "pct": 14.892890843020337,
+    "cash": false,
+    "zero": [
+     "Tory Horton"
+    ],
+    "cum_own": 112.35000000000001,
+    "detail": [
+     [
+      "QB",
+      "Sam Darnold",
+      7200,
+      10.3,
+      3.23
+     ],
+     [
+      "RB",
+      "Jahmyr Gibbs",
+      10000,
+      38.2,
+      38.14
+     ],
+     [
+      "RB",
+      "Chase Brown",
+      8000,
+      5.5,
+      16.83
+     ],
+     [
+      "RB",
+      "TreVeyon Henderson",
+      5800,
+      4.3,
+      2.86
+     ],
+     [
+      "WR",
+      "Amon-Ra St. Brown",
+      9000,
+      9.9,
+      32.77
+     ],
+     [
+      "WR",
+      "Cooper Kupp",
+      5300,
+      2.5,
+      0.45
+     ],
+     [
+      "WR",
+      "Tory Horton",
+      4700,
+      0.0,
+      0.12
+     ],
+     [
+      "TE",
+      "Sam LaPorta",
+      6000,
+      17.3,
+      12.31
+     ],
+     [
+      "DST",
+      "New York Jets",
+      4000,
+      16.0,
+      5.64
+     ]
+    ]
+   },
+   {
+    "L": 3,
+    "qb": "Jacoby Brissett",
+    "score": 128.66000000000003,
+    "pct": 45.4676865626694,
+    "cash": false,
+    "zero": [],
+    "cum_own": 190.51,
+    "detail": [
+     [
+      "QB",
+      "Jacoby Brissett",
+      6800,
+      25.78,
+      30.53
+     ],
+     [
+      "RB",
+      "Jahmyr Gibbs",
+      10000,
+      38.2,
+      38.14
+     ],
+     [
+      "RB",
+      "Chase Brown",
+      8000,
+      5.5,
+      16.83
+     ],
+     [
+      "RB",
+      "George Holani",
+      4900,
+      3.1,
+      0.01
+     ],
+     [
+      "WR",
+      "Amon-Ra St. Brown",
+      9000,
+      9.9,
+      32.77
+     ],
+     [
+      "WR",
+      "Jameson Williams",
+      6500,
+      17.7,
+      13.1
+     ],
+     [
+      "WR",
+      "Michael Wilson",
+      6400,
+      5.28,
+      53.36
+     ],
+     [
+      "TE",
+      "Elijah Higgins",
+      4400,
+      7.2,
+      0.13
+     ],
+     [
+      "DST",
+      "New York Jets",
+      4000,
+      16.0,
+      5.64
+     ]
+    ]
+   },
+   {
+    "L": 4,
+    "qb": "Jacoby Brissett",
+    "score": 135.66,
+    "pct": 55.38958822702725,
+    "cash": false,
+    "zero": [],
+    "cum_own": 223.02,
+    "detail": [
+     [
+      "QB",
+      "Jacoby Brissett",
+      6800,
+      25.78,
+      30.53
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      8400,
+      15.8,
+      7.63
+     ],
+     [
+      "RB",
+      "D'Andre Swift",
+      6500,
+      15.3,
+      47.02
+     ],
+     [
+      "RB",
+      "Rhamondre Stevenson",
+      5900,
+      16.0,
+      1.51
+     ],
+     [
+      "WR",
+      "Ja'Marr Chase",
+      8900,
+      16.7,
+      7.17
+     ],
+     [
+      "WR",
+      "Jameson Williams",
+      6500,
+      17.7,
+      13.1
+     ],
+     [
+      "WR",
+      "Michael Wilson",
+      6400,
+      5.28,
+      53.36
+     ],
+     [
+      "TE",
+      "Trey McBride",
+      7200,
+      17.1,
+      37.58
+     ],
+     [
+      "DST",
+      "Washington Commanders",
+      3300,
+      6.0,
+      25.12
+     ]
+    ]
+   },
+   {
+    "L": 5,
+    "qb": "Caleb Williams",
+    "score": 75.2,
+    "pct": 1.444518058985324,
+    "cash": false,
+    "zero": [
+     "Caleb Williams",
+     "Sam Roush"
+    ],
+    "cum_own": 73.39,
+    "detail": [
+     [
+      "QB",
+      "Caleb Williams",
+      7500,
+      0.0,
+      0.01
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      8400,
+      15.8,
+      7.63
+     ],
+     [
+      "RB",
+      "Jeremiyah Love",
+      6600,
+      2.2,
+      5.22
+     ],
+     [
+      "RB",
+      "TreVeyon Henderson",
+      5800,
+      4.3,
+      2.86
+     ],
+     [
+      "WR",
+      "Jaxon Smith-Njigba",
+      9300,
+      23.3,
+      18.21
+     ],
+     [
+      "WR",
+      "Ja'Marr Chase",
+      8900,
+      16.7,
+      7.17
+     ],
+     [
+      "WR",
+      "Luther Burden III",
+      5900,
+      6.9,
+      7.17
+     ],
+     [
+      "TE",
+      "Sam Roush",
+      4300,
+      0.0,
+      0.0
+     ],
+     [
+      "DST",
+      "Washington Commanders",
+      3300,
+      6.0,
+      25.12
+     ]
+    ]
+   },
+   {
+    "L": 6,
+    "qb": "Caleb Williams",
+    "score": 77.4,
+    "pct": 1.809913870987171,
+    "cash": false,
+    "zero": [
+     "Caleb Williams"
+    ],
+    "cum_own": 46.03,
+    "detail": [
+     [
+      "QB",
+      "Caleb Williams",
+      7500,
+      0.0,
+      0.01
+     ],
+     [
+      "RB",
+      "Christian McCaffrey",
+      8400,
+      15.8,
+      7.63
+     ],
+     [
+      "RB",
+      "David Montgomery",
+      6800,
+      1.1,
+      3.19
+     ],
+     [
+      "RB",
+      "Sione Vaki",
+      5100,
+      1.1,
+      0.01
+     ],
+     [
+      "WR",
+      "Ja'Marr Chase",
+      8900,
+      16.7,
+      7.17
+     ],
+     [
+      "WR",
+      "Rome Odunze",
+      6200,
+      3.5,
+      2.5
+     ],
+     [
+      "WR",
+      "Luther Burden III",
+      5900,
+      6.9,
+      7.17
+     ],
+     [
+      "TE",
+      "Sam LaPorta",
+      6000,
+      17.3,
+      12.31
+     ],
+     [
+      "DST",
+      "Houston Texans",
+      5000,
+      15.0,
+      6.04
+     ]
+    ]
+   }
+  ],
+  "old": [
+   {
+    "score": 130.4,
+    "pct": 47.974261679616134,
+    "cash": false,
+    "lineup": "QB Joe Burrow (135023-63336), RB D'Andre Swift (135023-91598), RB Braelon Allen (135023-158412), WR Ja'Marr Chase (135023-85701), WR Tee Higgins (135023-89981), WR Matthew Golden (135023-166916), TE Brock Bowers (135023-151794), TE Noah Fant (135023-71705), D Washington Commanders (135023-12552)",
+    "rank": 51803
+   }
+  ],
+  "our_entries": 1
+ }
+}

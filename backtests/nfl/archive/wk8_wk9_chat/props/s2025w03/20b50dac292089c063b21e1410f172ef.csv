@@ -1,0 +1,648 @@
+away,home,snapshot,book,market,player,side,point,price
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Christian McCaffrey,Yes,,-170
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,James Conner,Yes,,115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Ricky Pearsall,Yes,,190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Marvin Harrison Jr.,Yes,,205
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Trey McBride,Yes,,210
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Kyler Murray,Yes,,270
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Trey Benson,Yes,,270
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Kendrick Bourne,Yes,,350
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Brian Robinson Jr.,Yes,,450
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Jake Tonges,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Michael Wilson,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Arizona Cardinals D/ST,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,San Francisco 49ers D/ST,Yes,,550
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Kyle Juszczyk,Yes,,600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Mac Jones,Yes,,650
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Marquez Valdes-Scantling,Yes,,700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Luke Farrell,Yes,,850
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Zay Jones,Yes,,1000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Simi Fehoko,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Elijah Higgins,Yes,,1300
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Greg Dortch,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Isaac Guerendo,Yes,,1500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Emari Demercado,Yes,,1500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Skyy Moore,Yes,,1600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Tip Reiman,Yes,,1800
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,James Jordan,Yes,,1900
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Brayden Willis,Yes,,2200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Travis Vokolek,Yes,,2500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Xavier Weaver,Yes,,2800
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_pass_tds,Kyler Murray,Over,1.5,135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_pass_tds,Kyler Murray,Under,1.5,-173
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_pass_tds,Mac Jones,Over,1.5,136
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_pass_tds,Mac Jones,Under,1.5,-174
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_pass_yds,Mac Jones,Over,219.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_pass_yds,Mac Jones,Under,219.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_pass_yds,Kyler Murray,Over,217.5,-111
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_pass_yds,Kyler Murray,Under,217.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Ricky Pearsall,Over,66.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Ricky Pearsall,Under,66.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Trey McBride,Over,61.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Trey McBride,Under,61.5,-111
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Over,50.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Under,50.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Christian McCaffrey,Over,41.5,-111
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Christian McCaffrey,Under,41.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Kendrick Bourne,Over,31.5,-109
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Kendrick Bourne,Under,31.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Michael Wilson,Over,25.5,-111
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Michael Wilson,Under,25.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jake Tonges,Over,24.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jake Tonges,Under,24.5,-111
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,James Conner,Over,15.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_reception_yds,James Conner,Under,15.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Trey McBride,Over,6.5,-104
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Trey McBride,Under,6.5,-123
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Christian McCaffrey,Over,5.5,109
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Christian McCaffrey,Under,5.5,-139
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Ricky Pearsall,Over,5.5,115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Ricky Pearsall,Under,5.5,-147
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Marvin Harrison Jr.,Over,4.5,113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Marvin Harrison Jr.,Under,4.5,-145
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Kendrick Bourne,Over,2.5,-150
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Kendrick Bourne,Under,2.5,117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Jake Tonges,Over,2.5,-139
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Jake Tonges,Under,2.5,109
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Michael Wilson,Over,2.5,102
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,Michael Wilson,Under,2.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,James Conner,Over,2.5,109
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_receptions,James Conner,Under,2.5,-139
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Christian McCaffrey,Over,71.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Christian McCaffrey,Under,71.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,James Conner,Over,52.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,James Conner,Under,52.5,-109
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Kyler Murray,Over,28.5,-108
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Kyler Murray,Under,28.5,-116
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Trey Benson,Over,23.5,-117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Trey Benson,Under,23.5,-107
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Brian Robinson Jr.,Over,21.5,-109
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Brian Robinson Jr.,Under,21.5,-116
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Mac Jones,Over,7.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Mac Jones,Under,7.5,-109
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Christian McCaffrey,Yes,,-165
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,James Conner,Yes,,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Jauan Jennings,Yes,,190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Marvin Harrison Jr.,Yes,,195
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Ricky Pearsall,Yes,,200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Trey McBride,Yes,,200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Kyler Murray,Yes,,300
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Trey Benson,Yes,,300
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Kendrick Bourne,Yes,,425
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Brian Robinson Jr.,Yes,,450
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Michael Wilson,Yes,,450
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Kyle Juszczyk,Yes,,525
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Jake Tonges,Yes,,550
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Arizona Cardinals D/ST,Yes,,600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,San Francisco 49ers D/ST,Yes,,600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Mac Jones,Yes,,650
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Marquez Valdes-Scantling,Yes,,800
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Zay Jones,Yes,,1000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Elijah Higgins,Yes,,1100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Luke Farrell,Yes,,1100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Greg Dortch,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Isaac Guerendo,Yes,,1600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Emari Demercado,Yes,,1800
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,James Jordan,Yes,,1800
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Travis Vokolek,Yes,,2000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Zonovan Knight,Yes,,2000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Simi Fehoko,Yes,,2200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Xavier Weaver,Yes,,2200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Brayden Willis,Yes,,2500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Skyy Moore,Yes,,2500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_anytime_td,No Touchdown,Yes,,8000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_pass_tds,Kyler Murray,Over,1.5,125
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_pass_tds,Kyler Murray,Under,1.5,-165
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_pass_tds,Mac Jones,Over,1.5,120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_pass_tds,Mac Jones,Under,1.5,-160
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_pass_yds,Kyler Murray,Over,215.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_pass_yds,Kyler Murray,Under,215.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_pass_yds,Mac Jones,Over,220.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_pass_yds,Mac Jones,Under,220.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Michael Wilson,Over,24.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Michael Wilson,Under,24.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,James Conner,Over,14.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,James Conner,Under,14.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Over,45.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Under,45.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Trey Benson,Over,9.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Trey Benson,Under,9.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Trey McBride,Over,64.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Trey McBride,Under,64.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Ricky Pearsall,Over,62.5,-140
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Ricky Pearsall,Under,62.5,105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Kyle Juszczyk,Over,5.5,105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Kyle Juszczyk,Under,5.5,-140
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Brian Robinson Jr.,Over,2.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Brian Robinson Jr.,Under,2.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Kendrick Bourne,Over,30.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Kendrick Bourne,Under,30.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Marquez Valdes-Scantling,Over,12.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Marquez Valdes-Scantling,Under,12.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Christian McCaffrey,Over,38.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Christian McCaffrey,Under,38.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Luke Farrell,Over,9.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Luke Farrell,Under,9.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jake Tonges,Over,20.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jake Tonges,Under,20.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Michael Wilson,Over,2.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Michael Wilson,Under,2.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Marvin Harrison Jr.,Over,3.5,-150
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Marvin Harrison Jr.,Under,3.5,110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Trey McBride,Over,6.5,-105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Trey McBride,Under,6.5,-125
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,James Conner,Over,2.5,-105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,James Conner,Under,2.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Christian McCaffrey,Over,4.5,-160
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Christian McCaffrey,Under,4.5,125
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Trey Benson,Over,1.5,-140
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Trey Benson,Under,1.5,105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Brian Robinson Jr.,Over,0.5,-190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Brian Robinson Jr.,Under,0.5,140
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Ricky Pearsall,Over,4.5,-155
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Ricky Pearsall,Under,4.5,115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Jake Tonges,Over,2.5,-135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Jake Tonges,Under,2.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Marquez Valdes-Scantling,Over,1.5,135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Marquez Valdes-Scantling,Under,1.5,-175
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Kendrick Bourne,Over,2.5,-175
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Kendrick Bourne,Under,2.5,135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Luke Farrell,Over,1.5,115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_receptions,Luke Farrell,Under,1.5,-150
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,James Conner,Over,49.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,James Conner,Under,49.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Kyler Murray,Over,27.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Kyler Murray,Under,27.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Mac Jones,Over,8.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Mac Jones,Under,8.5,-135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Trey Benson,Over,25.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Trey Benson,Under,25.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Christian McCaffrey,Over,73.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Christian McCaffrey,Under,73.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Brian Robinson Jr.,Over,22.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Brian Robinson Jr.,Under,22.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Mac Jones,Over,7.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Mac Jones,Under,7.5,-105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Christian McCaffrey,Yes,,-170
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,James Conner,Yes,,105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Marvin Harrison Jr.,Yes,,190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Ricky Pearsall,Yes,,195
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Jauan Jennings,Yes,,195
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Trey McBride,Yes,,200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Trey Benson,Yes,,265
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Kyler Murray,Yes,,280
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Kendrick Bourne,Yes,,350
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Michael Wilson,Yes,,420
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Brian Robinson Jr.,Yes,,420
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Jake Tonges,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Kyle Juszczyk,Yes,,550
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Mac Jones,Yes,,600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Russell Gage,Yes,,700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Marquez Valdes-Scantling,Yes,,700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Luke Farrell,Yes,,950
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Elijah Higgins,Yes,,1000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Zay Jones,Yes,,1000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Greg Dortch,Yes,,1100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Emari Demercado,Yes,,1300
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Tip Reiman,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Zonovan Knight,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Simi Fehoko,Yes,,1500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Isaac Guerendo,Yes,,1500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Skyy Moore,Yes,,1600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,James Jordan,Yes,,1600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Travis Vokolek,Yes,,1750
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Xavier Weaver,Yes,,1900
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Brayden Willis,Yes,,1900
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_pass_tds,Kyler Murray,Over,1.5,130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_pass_tds,Kyler Murray,Under,1.5,-179
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_pass_tds,Mac Jones,Over,1.5,130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_pass_tds,Mac Jones,Under,1.5,-176
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_pass_yds,Mac Jones,Over,219.5,-135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_pass_yds,Mac Jones,Under,219.5,-102
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_pass_yds,Kyler Murray,Over,215.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_pass_yds,Kyler Murray,Under,215.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Michael Wilson,Over,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Michael Wilson,Under,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Kendrick Bourne,Over,31.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Kendrick Bourne,Under,31.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jake Tonges,Over,22.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jake Tonges,Under,22.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Trey McBride,Over,62.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Trey McBride,Under,62.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,James Conner,Over,14.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,James Conner,Under,14.5,-117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Christian McCaffrey,Over,40.5,-121
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Christian McCaffrey,Under,40.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Marvin Harrison Jr.,Over,49.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Marvin Harrison Jr.,Under,49.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Ricky Pearsall,Over,67.5,-117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Ricky Pearsall,Under,67.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Marvin Harrison Jr.,Over,4.5,110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Marvin Harrison Jr.,Under,4.5,-152
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Kendrick Bourne,Over,2.5,-154
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Kendrick Bourne,Under,2.5,110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,James Conner,Over,2.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,James Conner,Under,2.5,-134
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jake Tonges,Over,2.5,-141
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jake Tonges,Under,2.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Trey McBride,Over,6.5,-106
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Trey McBride,Under,6.5,-129
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Christian McCaffrey,Over,5.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Christian McCaffrey,Under,5.5,-138
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Michael Wilson,Over,2.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Michael Wilson,Under,2.5,-139
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Ricky Pearsall,Over,5.5,110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Ricky Pearsall,Under,5.5,-148
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Brian Robinson Jr.,Over,21.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Brian Robinson Jr.,Under,21.5,-117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Mac Jones,Over,7.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Mac Jones,Under,7.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,James Conner,Over,52.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,James Conner,Under,52.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Christian McCaffrey,Over,70.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Christian McCaffrey,Under,70.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Kyler Murray,Over,28.5,-125
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Kyler Murray,Under,28.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Trey Benson,Over,25.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Trey Benson,Under,25.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Christian McCaffrey,Yes,,-172
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,James Conner,Yes,,114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Marvin Harrison Jr.,Yes,,196
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Ricky Pearsall,Yes,,196
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Trey McBride,Yes,,215
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Trey Benson,Yes,,260
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Kyler Murray,Yes,,300
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Kendrick Bourne,Yes,,350
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Michael Wilson,Yes,,420
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Brian Robinson Jr.,Yes,,450
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Jake Tonges,Yes,,520
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Kyle Juszczyk,Yes,,520
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Mac Jones,Yes,,560
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,San Francisco 49ers Defense,Yes,,680
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Arizona Cardinals Defense,Yes,,680
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Russell Gage,Yes,,750
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Marquez Valdes-Scantling,Yes,,750
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Elijah Higgins,Yes,,830
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Zay Jones,Yes,,1060
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Luke Farrell,Yes,,1060
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Bam Knight,Yes,,1100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Greg Dortch,Yes,,1100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Emari Demercado,Yes,,1100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Tip Reiman,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Travis Vokolek,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Simi Fehoko,Yes,,1500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,James Jordan,Yes,,1500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Isaac Guerendo,Yes,,1500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Xavier Weaver,Yes,,1500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Skyy Moore,Yes,,1700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Brayden Willis,Yes,,1700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_pass_tds,Kyler Murray,Over,1.5,144
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_pass_tds,Kyler Murray,Under,1.5,-182
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_pass_tds,Mac Jones,Over,1.5,136
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_pass_tds,Mac Jones,Under,1.5,-174
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_pass_yds,Kyler Murray,Over,215.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_pass_yds,Kyler Murray,Under,215.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_pass_yds,Mac Jones,Over,217.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_pass_yds,Mac Jones,Under,217.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jake Tonges,Over,21.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jake Tonges,Under,21.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Trey McBride,Over,62.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Trey McBride,Under,62.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Kendrick Bourne,Over,31.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Kendrick Bourne,Under,31.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Over,49.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Under,49.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,James Conner,Over,13.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,James Conner,Under,13.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Michael Wilson,Over,25.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Michael Wilson,Under,25.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Christian McCaffrey,Over,40.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Christian McCaffrey,Under,40.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Ricky Pearsall,Over,68.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Ricky Pearsall,Under,68.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Jake Tonges,Over,2.5,-138
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Jake Tonges,Under,2.5,108
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Kendrick Bourne,Over,2.5,-140
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Kendrick Bourne,Under,2.5,110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Trey McBride,Over,6.5,102
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Trey McBride,Under,6.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Marvin Harrison Jr.,Over,4.5,116
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Marvin Harrison Jr.,Under,4.5,-148
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Michael Wilson,Over,2.5,114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Michael Wilson,Under,2.5,-146
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,James Conner,Over,2.5,-102
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,James Conner,Under,2.5,-124
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Christian McCaffrey,Over,4.5,-168
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Christian McCaffrey,Under,4.5,132
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Ricky Pearsall,Over,5.5,120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_receptions,Ricky Pearsall,Under,5.5,-152
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Brian Robinson Jr.,Over,20.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Brian Robinson Jr.,Under,20.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,James Conner,Over,52.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,James Conner,Under,52.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Trey Benson,Over,25.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Trey Benson,Under,25.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Mac Jones,Over,6.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Mac Jones,Under,6.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Kyler Murray,Over,28.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Kyler Murray,Under,28.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Christian McCaffrey,Over,68.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Christian McCaffrey,Under,68.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Marvin Harrison Jr.,Yes,,190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Christian McCaffrey,Yes,,-200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Trey McBride,Yes,,210
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Kyler Murray,Yes,,270
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Trey Benson,Yes,,260
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Michael Wilson,Yes,,400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,James Conner,Yes,,110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Mac Jones,Yes,,550
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Ricky Pearsall,Yes,,190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Kendrick Bourne,Yes,,350
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Kyle Juszczyk,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Brian Robinson Jr.,Yes,,450
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Elijah Higgins,Yes,,800
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Jake Tonges,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Luke Farrell,Yes,,800
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Zay Jones,Yes,,1000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Marquez Valdes-Scantling,Yes,,700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Isaac Guerendo,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,James Jordan,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Skyy Moore,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Travis Vokolek,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Greg Dortch,Yes,,1100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Tip Reiman,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Xavier Weaver,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Simi Fehoko,Yes,,1100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Brayden Willis,Yes,,1700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Emari Demercado,Yes,,1100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_pass_tds,Kyler Murray,Over,1.5,136
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_pass_tds,Kyler Murray,Under,1.5,-179
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_pass_tds,Mac Jones,Over,1.5,136
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_pass_tds,Mac Jones,Under,1.5,-179
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_pass_yds,Kyler Murray,Over,216.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_pass_yds,Kyler Murray,Under,216.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_pass_yds,Mac Jones,Over,219.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_pass_yds,Mac Jones,Under,219.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,James Conner,Over,14.5,-111
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,James Conner,Under,14.5,-116
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Michael Wilson,Over,25.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Michael Wilson,Under,25.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Over,49.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Under,49.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Trey Benson,Over,8.5,-108
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Trey Benson,Under,8.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Trey McBride,Over,59.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Trey McBride,Under,59.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Ricky Pearsall,Over,68.5,-101
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Ricky Pearsall,Under,68.5,-128
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Brian Robinson Jr.,Over,2.5,-123
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Brian Robinson Jr.,Under,2.5,-105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Kendrick Bourne,Over,31.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Kendrick Bourne,Under,31.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Jake Tonges,Over,24.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Jake Tonges,Under,24.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Christian McCaffrey,Over,41.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Christian McCaffrey,Under,41.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Trey McBride,Over,6.5,-102
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Trey McBride,Under,6.5,-127
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,James Conner,Over,2.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,James Conner,Under,2.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Michael Wilson,Over,2.5,104
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Michael Wilson,Under,2.5,-135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Marvin Harrison Jr.,Over,4.5,113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Marvin Harrison Jr.,Under,4.5,-147
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Christian McCaffrey,Over,4.5,-172
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Christian McCaffrey,Under,4.5,131
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Trey Benson,Over,1.5,-135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Trey Benson,Under,1.5,105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Jake Tonges,Over,2.5,-132
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Jake Tonges,Under,2.5,102
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Ricky Pearsall,Over,5.5,115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Ricky Pearsall,Under,5.5,-149
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Kendrick Bourne,Over,2.5,-154
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_receptions,Kendrick Bourne,Under,2.5,119
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Kyler Murray,Over,29.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Kyler Murray,Under,29.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Christian McCaffrey,Over,70.5,-108
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Christian McCaffrey,Under,70.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Mac Jones,Over,7.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Mac Jones,Under,7.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Trey Benson,Over,26.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Trey Benson,Under,26.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Brian Robinson Jr.,Over,21.5,-111
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Brian Robinson Jr.,Under,21.5,-116
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,James Conner,Over,53.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,James Conner,Under,53.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Greg Dortch,Yes,,750
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Jake Tonges,Yes,,480
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Marquez Valdes-Scantling,Yes,,525
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Mac Jones,Yes,,480
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Christian McCaffrey,Yes,,-210
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Elijah Higgins,Yes,,700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Trey McBride,Yes,,220
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Xavier Weaver,Yes,,1600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Trey Benson,Yes,,310
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,James Jordan,Yes,,2400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Brayden Willis,Yes,,1300
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Michael Wilson,Yes,,370
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Marvin Harrison Jr.,Yes,,165
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Ricky Pearsall,Yes,,190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Luke Farrell,Yes,,575
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Kyle Juszczyk,Yes,,700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Kyler Murray,Yes,,295
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Travis Vokolek,Yes,,2500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Brian Robinson Jr.,Yes,,340
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Skyy Moore,Yes,,1000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Emari Demercado,Yes,,1150
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Kendrick Bourne,Yes,,230
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Zonovan Knight,Yes,,3000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Isaac Guerendo,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,James Conner,Yes,,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Zay Jones,Yes,,550
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_pass_tds,Mac Jones,Over,1.5,135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_pass_tds,Mac Jones,Under,1.5,-182
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_pass_tds,Kyler Murray,Over,1.5,135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_pass_tds,Kyler Murray,Under,1.5,-180
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_pass_yds,Kyler Murray,Over,218.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_pass_yds,Kyler Murray,Under,218.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_pass_yds,Mac Jones,Over,220.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_pass_yds,Mac Jones,Under,220.5,-117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Christian McCaffrey,Over,39.5,-117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Christian McCaffrey,Under,39.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Trey McBride,Over,61.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Trey McBride,Under,61.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Michael Wilson,Over,25.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Michael Wilson,Under,25.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Ricky Pearsall,Over,65.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Ricky Pearsall,Under,65.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,James Conner,Over,15.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,James Conner,Under,15.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Over,49.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Under,49.5,-117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Jake Tonges,Over,23.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Jake Tonges,Under,23.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Kendrick Bourne,Over,32.5,-117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Kendrick Bourne,Under,32.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Michael Wilson,Over,2.5,115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Michael Wilson,Under,2.5,-152
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Christian McCaffrey,Over,4.5,-150
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Christian McCaffrey,Under,4.5,114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,James Conner,Over,2.5,-108
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,James Conner,Under,2.5,-122
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Marvin Harrison Jr.,Over,4.5,106
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Marvin Harrison Jr.,Under,4.5,-141
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Ricky Pearsall,Over,5.5,112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Ricky Pearsall,Under,5.5,-148
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Trey McBride,Over,6.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Trey McBride,Under,6.5,-112
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Kendrick Bourne,Over,2.5,-137
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Kendrick Bourne,Under,2.5,104
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Jake Tonges,Over,2.5,-139
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_receptions,Jake Tonges,Under,2.5,105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_rush_yds,James Conner,Over,52.5,-113
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_rush_yds,James Conner,Under,52.5,-118
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Christian McCaffrey,Over,71.5,-117
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Christian McCaffrey,Under,71.5,-114
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Kyler Murray,Over,26.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Kyler Murray,Under,26.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Christian McCaffrey,Yes,,-190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,James Conner,Yes,,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Marvin Harrison Jr.,Yes,,180
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Ricky Pearsall,Yes,,180
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Trey McBride,Yes,,200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Trey Benson,Yes,,250
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Kyler Murray,Yes,,275
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Kendrick Bourne,Yes,,350
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Michael Wilson,Yes,,400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Brian Robinson Jr.,Yes,,440
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Kyle Juszczyk,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Jake Tonges,Yes,,525
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Mac Jones,Yes,,600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,San Francisco 49ers Defense,Yes,,700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Russell Gage,Yes,,725
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Arizona Cardinals D/ST,Yes,,700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Marquez Valdes-Scantling,Yes,,800
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Elijah Higgins,Yes,,900
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Luke Farrell,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Zay Jones,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Emari Demercado,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Zonovan Knight,Yes,,1400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Greg Dortch,Yes,,1300
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Tip Reiman,Yes,,1700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Travis Vokolek,Yes,,1700
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Isaac Guerendo,Yes,,2000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,James Jordan,Yes,,2000
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Simi Fehoko,Yes,,2200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Xavier Weaver,Yes,,2200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Brayden Willis,Yes,,2500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_anytime_td,Skyy Moore,Yes,,2500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_pass_tds,Kyler Murray,Over,1.5,135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_pass_tds,Kyler Murray,Under,1.5,-180
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_pass_tds,Mac Jones,Over,1.5,140
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_pass_tds,Mac Jones,Under,1.5,-185
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_pass_yds,Kyler Murray,Over,216.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_pass_yds,Kyler Murray,Under,216.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_pass_yds,Mac Jones,Over,217.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_pass_yds,Mac Jones,Under,217.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Christian McCaffrey,Over,40.5,-125
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Christian McCaffrey,Under,40.5,-105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,James Conner,Over,14.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,James Conner,Under,14.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Marvin Harrison Jr.,Over,49.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Marvin Harrison Jr.,Under,49.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Michael Wilson,Over,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Michael Wilson,Under,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Ricky Pearsall,Over,68.5,105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Ricky Pearsall,Under,68.5,-135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Trey Benson,Over,8.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Trey Benson,Under,8.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Trey McBride,Over,62.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_reception_yds,Trey McBride,Under,62.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,Christian McCaffrey,Over,4.5,-180
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,Christian McCaffrey,Under,4.5,135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,James Conner,Over,2.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,James Conner,Under,2.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,Marvin Harrison Jr.,Over,4.5,115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,Marvin Harrison Jr.,Under,4.5,-150
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,Michael Wilson,Over,2.5,105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,Michael Wilson,Under,2.5,-135
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,Trey McBride,Over,6.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_receptions,Trey McBride,Under,6.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,Christian McCaffrey,Over,70.5,-105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,Christian McCaffrey,Under,70.5,-125
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,James Conner,Over,51.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,James Conner,Under,51.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,Kyler Murray,Over,27.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,Kyler Murray,Under,27.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,Mac Jones,Over,7.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,Mac Jones,Under,7.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,Trey Benson,Over,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,bovada,player_rush_yds,Trey Benson,Under,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Christian McCaffrey,Yes,,-170
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Jauan Jennings,Yes,,200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Trey McBride,Yes,,225
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Marvin Harrison Jr.,Yes,,190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Marquez Valdes-Scantling,Yes,,660
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Russell Gage,Yes,,600
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Kendrick Bourne,Yes,,345
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Kyle Juszczyk,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Luke Farrell,Yes,,850
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Mac Jones,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Skyy Moore,Yes,,1300
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Brian Robinson Jr.,Yes,,420
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Jake Tonges,Yes,,500
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Brayden Willis,Yes,,1300
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Isaac Guerendo,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Ricky Pearsall,Yes,,190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,James Jordan,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Zay Jones,Yes,,900
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,James Conner,Yes,,115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Greg Dortch,Yes,,900
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Kyler Murray,Yes,,305
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Simi Fehoko,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Zonovan Knight,Yes,,900
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Elijah Higgins,Yes,,740
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Travis Vokolek,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Michael Wilson,Yes,,400
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Emari Demercado,Yes,,1050
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Xavier Weaver,Yes,,1200
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Tip Reiman,Yes,,1050
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Trey Benson,Yes,,250
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_pass_tds,Kyler Murray,Over,1.5,145
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_pass_tds,Kyler Murray,Under,1.5,-190
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_pass_tds,Mac Jones,Over,1.5,130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_pass_tds,Mac Jones,Under,1.5,-170
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_pass_yds,Kyler Murray,Over,215.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_pass_yds,Kyler Murray,Under,215.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_pass_yds,Mac Jones,Over,220.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_pass_yds,Mac Jones,Under,220.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Trey McBride,Over,60.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Trey McBride,Under,60.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Marvin Harrison Jr.,Over,50.5,-105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Marvin Harrison Jr.,Under,50.5,-125
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,James Conner,Over,15.5,-105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,James Conner,Under,15.5,-125
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Christian McCaffrey,Over,40.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Christian McCaffrey,Under,40.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Michael Wilson,Over,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Michael Wilson,Under,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,Michael Wilson,Over,2.5,115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,Michael Wilson,Under,2.5,-150
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,Trey McBride,Over,6.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,Trey McBride,Under,6.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,Christian McCaffrey,Over,5.5,105
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,Christian McCaffrey,Under,5.5,-140
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,Marvin Harrison Jr.,Over,4.5,110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,Marvin Harrison Jr.,Under,4.5,-145
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,James Conner,Over,2.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_receptions,James Conner,Under,2.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,James Conner,Over,50.5,-120
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,James Conner,Under,50.5,-110
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Trey Benson,Over,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Trey Benson,Under,25.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Kyler Murray,Over,30.5,100
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Kyler Murray,Under,30.5,-130
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Brian Robinson Jr.,Over,20.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Brian Robinson Jr.,Under,20.5,-115
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Christian McCaffrey,Over,65.5,-125
+Arizona Cardinals,San Francisco 49ers,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Christian McCaffrey,Under,65.5,-105

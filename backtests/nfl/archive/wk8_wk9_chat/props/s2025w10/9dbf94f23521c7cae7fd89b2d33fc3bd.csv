@@ -1,0 +1,654 @@
+away,home,snapshot,book,market,player,side,point,price
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Nico Collins,Yes,,155
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Travis Etienne Jr.,Yes,,165
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Parker Washington,Yes,,270
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Woody Marks,Yes,,290
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Dalton Schultz,Yes,,310
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Nick Chubb,Yes,,340
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Christian Kirk,Yes,,390
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Bhayshul Tuten,Yes,,400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Houston Texans D/ST,Yes,,425
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Dyami Brown,Yes,,450
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Trevor Lawrence,Yes,,450
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,450
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Johnny Mundt,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Xavier Hutchinson,Yes,,550
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Tim Patrick,Yes,,800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jaylin Noel,Yes,,950
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jayden Higgins,Yes,,1100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Harrison Bryant,Yes,,1200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Dare Ogunbowale,Yes,,1600
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Quintin Morris,Yes,,1600
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Braxton Berrios,Yes,,1800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Davis Mills,Yes,,2200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,LeQuint Allen Jr.,Yes,,2500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,British Brooks,Yes,,3000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Tim Jones,Yes,,3000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Austin Trammell,Yes,,3000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Davis Mills,Over,1.5,140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Davis Mills,Under,1.5,-180
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Trevor Lawrence,Over,1.5,177
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Trevor Lawrence,Under,1.5,-230
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Davis Mills,Over,210.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Davis Mills,Under,210.5,-111
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Trevor Lawrence,Over,202.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Trevor Lawrence,Under,202.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Nico Collins,Over,64.5,-111
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Nico Collins,Under,64.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Parker Washington,Over,40.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Parker Washington,Under,40.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Dalton Schultz,Over,36.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Dalton Schultz,Under,36.5,-111
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Dyami Brown,Over,32.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Dyami Brown,Under,32.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Christian Kirk,Over,30.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Christian Kirk,Under,30.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Xavier Hutchinson,Over,17.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Xavier Hutchinson,Under,17.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Travis Etienne Jr.,Over,16.5,-108
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Travis Etienne Jr.,Under,16.5,-116
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Johnny Mundt,Over,15.5,-111
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Johnny Mundt,Under,15.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Woody Marks,Over,13.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Woody Marks,Under,13.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Nico Collins,Over,5.5,117
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Nico Collins,Under,5.5,-149
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Parker Washington,Over,4.5,113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Parker Washington,Under,4.5,-144
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Dalton Schultz,Over,3.5,-153
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Dalton Schultz,Under,3.5,119
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Christian Kirk,Over,3.5,116
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Christian Kirk,Under,3.5,-148
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Dyami Brown,Over,2.5,-147
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Dyami Brown,Under,2.5,115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Travis Etienne Jr.,Over,2.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Travis Etienne Jr.,Under,2.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Johnny Mundt,Over,2.5,132
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Johnny Mundt,Under,2.5,-169
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Woody Marks,Over,2.5,136
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Woody Marks,Under,2.5,-174
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Xavier Hutchinson,Over,1.5,-189
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_receptions,Xavier Hutchinson,Under,1.5,147
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Travis Etienne Jr.,Over,54.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Travis Etienne Jr.,Under,54.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Nick Chubb,Over,33.5,-111
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Nick Chubb,Under,33.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Woody Marks,Over,30.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Woody Marks,Under,30.5,-109
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Bhayshul Tuten,Over,17.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Bhayshul Tuten,Under,17.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Trevor Lawrence,Over,15.5,-109
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Trevor Lawrence,Under,15.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Davis Mills,Over,5.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Davis Mills,Under,5.5,-104
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Travis Etienne Jr.,Yes,,140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Nico Collins,Yes,,150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Parker Washington,Yes,,240
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Woody Marks,Yes,,250
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Dalton Schultz,Yes,,290
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Nick Chubb,Yes,,320
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Bhayshul Tuten,Yes,,400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Trevor Lawrence,Yes,,425
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Christian Kirk,Yes,,450
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Dyami Brown,Yes,,475
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Houston Texans D/ST,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Johnny Mundt,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Xavier Hutchinson,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jayden Higgins,Yes,,750
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Tim Patrick,Yes,,800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jaylin Noel,Yes,,900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Braxton Berrios,Yes,,950
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Harrison Bryant,Yes,,1000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Quintin Morris,Yes,,1050
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Austin Trammell,Yes,,1800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,British Brooks,Yes,,1900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Dare Ogunbowale,Yes,,1900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Cody Schrader,Yes,,2000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Davis Mills,Yes,,2200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,LeQuint Allen Jr.,Yes,,2200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Tim Jones,Yes,,3000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_anytime_td,No Touchdown,Yes,,4000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Davis Mills,Over,1.5,150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Davis Mills,Under,1.5,-200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Trevor Lawrence,Over,1.5,175
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Trevor Lawrence,Under,1.5,-235
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Trevor Lawrence,Over,199.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Trevor Lawrence,Under,199.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Davis Mills,Over,217.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Davis Mills,Under,217.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Dalton Schultz,Over,35.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Dalton Schultz,Under,35.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Christian Kirk,Over,31.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Christian Kirk,Under,31.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Xavier Hutchinson,Over,18.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Xavier Hutchinson,Under,18.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Nick Chubb,Over,4.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Nick Chubb,Under,4.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Travis Etienne Jr.,Over,13.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Travis Etienne Jr.,Under,13.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Parker Washington,Over,47.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Parker Washington,Under,47.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Johnny Mundt,Over,16.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Johnny Mundt,Under,16.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Dyami Brown,Over,32.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Dyami Brown,Under,32.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Bhayshul Tuten,Over,4.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Bhayshul Tuten,Under,4.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Tim Patrick,Over,10.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Tim Patrick,Under,10.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jayden Higgins,Over,6.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jayden Higgins,Under,6.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Nico Collins,Over,63.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Nico Collins,Under,63.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Nico Collins,Over,5.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Nico Collins,Under,5.5,-130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Christian Kirk,Over,3.5,105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Christian Kirk,Under,3.5,-140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Travis Etienne Jr.,Over,2.5,-130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Travis Etienne Jr.,Under,2.5,-105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Xavier Hutchinson,Over,1.5,-190
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Xavier Hutchinson,Under,1.5,140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Dalton Schultz,Over,4.5,120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Dalton Schultz,Under,4.5,-160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Woody Marks,Over,2.5,120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Woody Marks,Under,2.5,-160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Parker Washington,Over,4.5,110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Parker Washington,Under,4.5,-145
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Johnny Mundt,Over,2.5,120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Johnny Mundt,Under,2.5,-160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Dyami Brown,Over,3.5,125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Dyami Brown,Under,3.5,-165
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Jayden Higgins,Over,0.5,-210
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_receptions,Jayden Higgins,Under,0.5,155
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Trevor Lawrence,Over,16.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Trevor Lawrence,Under,16.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Woody Marks,Over,33.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Woody Marks,Under,33.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Travis Etienne Jr.,Over,55.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Travis Etienne Jr.,Under,55.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Bhayshul Tuten,Over,19.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Bhayshul Tuten,Under,19.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Davis Mills,Over,5.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Davis Mills,Under,5.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Nick Chubb,Over,34.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Nick Chubb,Under,34.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Travis Etienne Jr.,Yes,,150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Nico Collins,Yes,,155
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Parker Washington,Yes,,240
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Woody Marks,Yes,,255
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Nick Chubb,Yes,,295
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Dalton Schultz,Yes,,295
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Bhayshul Tuten,Yes,,375
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Christian Kirk,Yes,,400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Dyami Brown,Yes,,420
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Trevor Lawrence,Yes,,420
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Johnny Mundt,Yes,,475
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Xavier Hutchinson,Yes,,525
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Tim Patrick,Yes,,750
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jaylin Noel,Yes,,900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jayden Higgins,Yes,,950
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Harrison Bryant,Yes,,1000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Quintin Morris,Yes,,1200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Braxton Berrios,Yes,,1300
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Dare Ogunbowale,Yes,,1500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Austin Trammell,Yes,,1800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Davis Mills,Yes,,1800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,LeQuint Allen Jr.,Yes,,1900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,British Brooks,Yes,,2200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Tim Jones,Yes,,2800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Trevor Lawrence,Over,1.5,180
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Trevor Lawrence,Under,1.5,-250
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Davis Mills,Over,1.5,140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Davis Mills,Under,1.5,-190
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Davis Mills,Over,212.5,-117
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Davis Mills,Under,212.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Trevor Lawrence,Over,201.5,-108
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Trevor Lawrence,Under,201.5,-127
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Parker Washington,Over,43.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Parker Washington,Under,43.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Woody Marks,Over,14.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Woody Marks,Under,14.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Christian Kirk,Over,30.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Christian Kirk,Under,30.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Dyami Brown,Over,32.5,-117
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Dyami Brown,Under,32.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Xavier Hutchinson,Over,17.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Xavier Hutchinson,Under,17.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Johnny Mundt,Over,14.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Johnny Mundt,Under,14.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Travis Etienne Jr.,Over,14.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Travis Etienne Jr.,Under,14.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Nico Collins,Over,64.5,-137
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Nico Collins,Under,64.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Dalton Schultz,Over,37.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Dalton Schultz,Under,37.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Dyami Brown,Over,2.5,-180
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Dyami Brown,Under,2.5,118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Johnny Mundt,Over,2.5,120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Johnny Mundt,Under,2.5,-170
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Dalton Schultz,Over,4.5,115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Dalton Schultz,Under,4.5,-157
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Travis Etienne Jr.,Over,2.5,-121
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Travis Etienne Jr.,Under,2.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Christian Kirk,Over,3.5,105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Christian Kirk,Under,3.5,-145
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Nico Collins,Over,5.5,-107
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Nico Collins,Under,5.5,-130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Woody Marks,Over,2.5,125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Woody Marks,Under,2.5,-173
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Xavier Hutchinson,Over,1.5,-180
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Xavier Hutchinson,Under,1.5,128
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Travis Etienne Jr.,Over,55.5,-121
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Travis Etienne Jr.,Under,55.5,-111
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Trevor Lawrence,Over,14.5,-127
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Trevor Lawrence,Under,14.5,-105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Bhayshul Tuten,Over,18.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Bhayshul Tuten,Under,18.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Woody Marks,Over,32.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Woody Marks,Under,32.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Davis Mills,Over,5.5,-117
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Davis Mills,Under,5.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Nick Chubb,Over,35.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Nick Chubb,Under,35.5,-117
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Nico Collins,Yes,,165
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Travis Etienne Jr.,Yes,,160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Parker Washington,Yes,,250
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Woody Marks,Yes,,290
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Dalton Schultz,Yes,,310
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Nick Chubb,Yes,,330
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Bhayshul Tuten,Yes,,400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Christian Kirk,Yes,,410
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Trevor Lawrence,Yes,,470
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Johnny Mundt,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Dyami Brown,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Xavier Hutchinson,Yes,,600
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Tim Patrick,Yes,,800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Houston Texans Defense,Yes,,900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jacksonville Jaguars Defense,Yes,,950
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jaylin Noel,Yes,,1000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Harrison Bryant,Yes,,1100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jayden Higgins,Yes,,1100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Quintin Morris,Yes,,1400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Braxton Berrios,Yes,,1500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Dare Ogunbowale,Yes,,1500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Austin Trammell,Yes,,2200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Davis Mills,Yes,,2200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,LeQuint Allen Jr.,Yes,,2200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Tim Jones,Yes,,3000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_anytime_td,British Brooks,Yes,,3300
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Trevor Lawrence,Over,1.5,190
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Trevor Lawrence,Under,1.5,-260
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Davis Mills,Over,1.5,134
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Davis Mills,Under,1.5,-172
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Davis Mills,Over,211.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Davis Mills,Under,211.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Trevor Lawrence,Over,201.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Trevor Lawrence,Under,201.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Johnny Mundt,Over,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Johnny Mundt,Under,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Nico Collins,Over,64.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Nico Collins,Under,64.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Woody Marks,Over,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Woody Marks,Under,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Travis Etienne Jr.,Over,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Travis Etienne Jr.,Under,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Dyami Brown,Over,32.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Dyami Brown,Under,32.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Dalton Schultz,Over,37.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Dalton Schultz,Under,37.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Parker Washington,Over,42.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Parker Washington,Under,42.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Christian Kirk,Over,30.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Christian Kirk,Under,30.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Xavier Hutchinson,Over,17.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Xavier Hutchinson,Under,17.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Johnny Mundt,Over,2.5,126
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Johnny Mundt,Under,2.5,-160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Parker Washington,Over,4.5,108
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Parker Washington,Under,4.5,-136
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Travis Etienne Jr.,Over,2.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Travis Etienne Jr.,Under,2.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Woody Marks,Over,2.5,130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Woody Marks,Under,2.5,-166
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Dalton Schultz,Over,3.5,-172
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Dalton Schultz,Under,3.5,134
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Christian Kirk,Over,3.5,108
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Christian Kirk,Under,3.5,-138
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Dyami Brown,Over,2.5,-152
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Dyami Brown,Under,2.5,120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Xavier Hutchinson,Over,1.5,-180
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Xavier Hutchinson,Under,1.5,140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Nico Collins,Over,5.5,114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_receptions,Nico Collins,Under,5.5,-146
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Woody Marks,Over,31.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Woody Marks,Under,31.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Trevor Lawrence,Over,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Trevor Lawrence,Under,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Davis Mills,Over,5.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Davis Mills,Under,5.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Bhayshul Tuten,Over,18.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Bhayshul Tuten,Under,18.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Nick Chubb,Over,35.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Nick Chubb,Under,35.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Travis Etienne Jr.,Over,54.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Travis Etienne Jr.,Under,54.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Trevor Lawrence,Yes,,450
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Parker Washington,Yes,,250
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Dalton Schultz,Yes,,300
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Davis Mills,Yes,,1900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Nico Collins,Yes,,150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Xavier Hutchinson,Yes,,550
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Travis Etienne Jr.,Yes,,160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,British Brooks,Yes,,2900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Braxton Berrios,Yes,,1400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Dyami Brown,Yes,,450
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Austin Trammell,Yes,,1900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Christian Kirk,Yes,,350
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Woody Marks,Yes,,290
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jayden Higgins,Yes,,1100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jaylin Noel,Yes,,900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Johnny Mundt,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Tim Patrick,Yes,,800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Quintin Morris,Yes,,1400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Harrison Bryant,Yes,,1100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Nick Chubb,Yes,,325
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Bhayshul Tuten,Yes,,400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,LeQuint Allen Jr.,Yes,,1900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Trevor Lawrence,Over,1.5,186
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Trevor Lawrence,Under,1.5,-250
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Davis Mills,Over,1.5,139
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Davis Mills,Under,1.5,-182
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Davis Mills,Over,211.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Davis Mills,Under,211.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Trevor Lawrence,Over,201.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Trevor Lawrence,Under,201.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Xavier Hutchinson,Over,18.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Xavier Hutchinson,Under,18.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Dalton Schultz,Over,38.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Dalton Schultz,Under,38.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Johnny Mundt,Over,14.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Johnny Mundt,Under,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Nico Collins,Over,67.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Nico Collins,Under,67.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Christian Kirk,Over,30.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Christian Kirk,Under,30.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Travis Etienne Jr.,Over,14.5,-116
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Travis Etienne Jr.,Under,14.5,-111
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Dyami Brown,Over,32.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Dyami Brown,Under,32.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Woody Marks,Over,14.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Woody Marks,Under,14.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Parker Washington,Over,42.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Parker Washington,Under,42.5,-108
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Nico Collins,Over,5.5,106
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Nico Collins,Under,5.5,-137
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Christian Kirk,Over,3.5,109
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Christian Kirk,Under,3.5,-141
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Xavier Hutchinson,Over,1.5,-185
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Xavier Hutchinson,Under,1.5,140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Dalton Schultz,Over,4.5,120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Dalton Schultz,Under,4.5,-156
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Parker Washington,Over,4.5,110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Parker Washington,Under,4.5,-143
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Dyami Brown,Over,2.5,-167
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Dyami Brown,Under,2.5,128
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Johnny Mundt,Over,2.5,128
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Johnny Mundt,Under,2.5,-167
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Travis Etienne Jr.,Over,2.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Travis Etienne Jr.,Under,2.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Woody Marks,Over,2.5,128
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_receptions,Woody Marks,Under,2.5,-167
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Bhayshul Tuten,Over,20.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Bhayshul Tuten,Under,20.5,-130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Trevor Lawrence,Over,14.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Trevor Lawrence,Under,14.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Woody Marks,Over,32.5,-119
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Woody Marks,Under,32.5,-109
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Nick Chubb,Over,35.5,-116
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Nick Chubb,Under,35.5,-111
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Travis Etienne Jr.,Over,55.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Travis Etienne Jr.,Under,55.5,-108
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Davis Mills,Over,6.5,-125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Davis Mills,Under,6.5,-103
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Davis Mills,Yes,,1200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jaylin Noel,Yes,,800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Trevor Lawrence,Yes,,460
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Xavier Hutchinson,Yes,,460
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Bhayshul Tuten,Yes,,360
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Johnny Mundt,Yes,,575
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Harrison Bryant,Yes,,950
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Woody Marks,Yes,,260
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,British Brooks,Yes,,2800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Dyami Brown,Yes,,425
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Nick Chubb,Yes,,235
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Parker Washington,Yes,,270
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Dalton Schultz,Yes,,310
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Tim Patrick,Yes,,650
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,LeQuint Allen Jr.,Yes,,2200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Quintin Morris,Yes,,850
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Travis Etienne Jr.,Yes,,145
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Christian Kirk,Yes,,390
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Dare Ogunbowale,Yes,,2000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jayden Higgins,Yes,,750
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Nico Collins,Yes,,150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Braxton Berrios,Yes,,1150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Tim Jones,Yes,,1500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Austin Trammell,Yes,,650
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Trevor Lawrence,Over,1.5,200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Trevor Lawrence,Under,1.5,-278
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Davis Mills,Over,1.5,145
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Davis Mills,Under,1.5,-195
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Davis Mills,Over,212.5,-117
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Davis Mills,Under,212.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Trevor Lawrence,Over,202.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Trevor Lawrence,Under,202.5,-117
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Nico Collins,Over,67.5,-117
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Nico Collins,Under,67.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Dalton Schultz,Over,36.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Dalton Schultz,Under,36.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Johnny Mundt,Over,14.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Johnny Mundt,Under,14.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Dyami Brown,Over,30.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Dyami Brown,Under,30.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Parker Washington,Over,43.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Parker Washington,Under,43.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Christian Kirk,Over,31.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Christian Kirk,Under,31.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Xavier Hutchinson,Over,19.5,-112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Xavier Hutchinson,Under,19.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Nico Collins,Over,5.5,106
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Nico Collins,Under,5.5,-141
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Dyami Brown,Over,2.5,-150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Dyami Brown,Under,2.5,112
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Christian Kirk,Over,3.5,105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Christian Kirk,Under,3.5,-139
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Parker Washington,Over,4.5,-103
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Parker Washington,Under,4.5,-130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Xavier Hutchinson,Over,1.5,-182
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Xavier Hutchinson,Under,1.5,135
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Dalton Schultz,Over,4.5,118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Dalton Schultz,Under,4.5,-157
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Johnny Mundt,Over,2.5,114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_receptions,Johnny Mundt,Under,2.5,-152
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Travis Etienne Jr.,Over,52.5,-117
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Travis Etienne Jr.,Under,52.5,-114
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Woody Marks,Over,34.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Woody Marks,Under,34.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Davis Mills,Over,6.5,-108
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Davis Mills,Under,6.5,-124
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Trevor Lawrence,Over,15.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Trevor Lawrence,Under,15.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Nick Chubb,Over,36.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Nick Chubb,Under,36.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Bhayshul Tuten,Over,19.5,-113
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Bhayshul Tuten,Under,19.5,-118
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,No Scorer,Yes,,1600
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Braxton Berrios,Yes,,900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Dalton Schultz,Yes,,295
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Christian Kirk,Yes,,380
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Harrison Bryant,Yes,,850
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Nico Collins,Yes,,170
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Davis Mills,Yes,,1500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Xavier Hutchinson,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jaylin Noel,Yes,,740
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jayden Higgins,Yes,,740
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Houston Texans D/ST,Yes,,420
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Tim Patrick,Yes,,660
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Johnny Mundt,Yes,,450
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Trevor Lawrence,Yes,,420
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Travis Etienne Jr.,Yes,,160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Quintin Morris,Yes,,900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Parker Washington,Yes,,240
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,LeQuint Allen Jr.,Yes,,1300
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Bhayshul Tuten,Yes,,380
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,420
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Dyami Brown,Yes,,450
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Nick Chubb,Yes,,315
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Dare Ogunbowale,Yes,,1200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Dameon Pierce,Yes,,800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Woody Marks,Yes,,270
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,British Brooks,Yes,,1500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Austin Trammell,Yes,,1500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Davis Mills,Over,1.5,130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Davis Mills,Under,1.5,-170
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Trevor Lawrence,Over,1.5,165
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Trevor Lawrence,Under,1.5,-225
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Trevor Lawrence,Over,200.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Trevor Lawrence,Under,200.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Davis Mills,Over,215.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Davis Mills,Under,215.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Dalton Schultz,Over,35.5,-135
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Dalton Schultz,Under,35.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Christian Kirk,Over,30.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Christian Kirk,Under,30.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Xavier Hutchinson,Over,15.5,-140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Xavier Hutchinson,Under,15.5,105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Nico Collins,Over,60.5,-135
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Nico Collins,Under,60.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Bhayshul Tuten,Over,10.5,200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Bhayshul Tuten,Under,10.5,-300
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Nick Chubb,Over,10.5,200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Nick Chubb,Under,10.5,-300
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Woody Marks,Over,15.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Woody Marks,Under,15.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Parker Washington,Over,45.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Parker Washington,Under,45.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Dyami Brown,Over,30.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Dyami Brown,Under,30.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jayden Higgins,Over,10.5,125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jayden Higgins,Under,10.5,-170
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Johnny Mundt,Over,15.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Johnny Mundt,Under,15.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Travis Etienne Jr.,Over,15.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Travis Etienne Jr.,Under,15.5,-135
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Tim Patrick,Over,10.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Tim Patrick,Under,10.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Dalton Schultz,Over,4.5,115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Dalton Schultz,Under,4.5,-155
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Xavier Hutchinson,Over,2.5,150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Xavier Hutchinson,Under,2.5,-210
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Christian Kirk,Over,3.5,105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Christian Kirk,Under,3.5,-140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Nico Collins,Over,5.5,110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Nico Collins,Under,5.5,-150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Woody Marks,Over,2.5,125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Woody Marks,Under,2.5,-170
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Dyami Brown,Over,3.5,150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Dyami Brown,Under,3.5,-210
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Johnny Mundt,Over,2.5,120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Johnny Mundt,Under,2.5,-165
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Tim Patrick,Over,1.5,145
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Tim Patrick,Under,1.5,-205
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Travis Etienne Jr.,Over,2.5,-105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Travis Etienne Jr.,Under,2.5,-125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Bhayshul Tuten,Over,1.5,190
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Bhayshul Tuten,Under,1.5,-280
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Parker Washington,Over,4.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_receptions,Parker Washington,Under,4.5,-135
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Trevor Lawrence,Over,15.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Trevor Lawrence,Under,15.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Davis Mills,Over,5.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Davis Mills,Under,5.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Bhayshul Tuten,Over,20.5,105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Bhayshul Tuten,Under,20.5,-140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Travis Etienne Jr.,Over,55.5,-110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Travis Etienne Jr.,Under,55.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Nick Chubb,Over,35.5,-105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Nick Chubb,Under,35.5,-125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Woody Marks,Over,30.5,-125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Woody Marks,Under,30.5,-105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Dyami Brown,Yes,,440
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Braxton Berrios,Yes,,1300
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Dare Ogunbowale,Yes,,1200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Harrison Bryant,Yes,,900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Woody Marks,Yes,,275
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Johnny Mundt,Yes,,500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Parker Washington,Yes,,250
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,825
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Quintin Morris,Yes,,1200
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Travis Etienne Jr.,Yes,,160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Houston Texans D/ST,Yes,,800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Tim Patrick,Yes,,725
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Christian Kirk,Yes,,400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,LeQuint Allen Jr.,Yes,,2000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jaylin Noel,Yes,,900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Xavier Hutchinson,Yes,,525
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Davis Mills,Yes,,1900
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,British Brooks,Yes,,2800
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Nick Chubb,Yes,,320
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Bhayshul Tuten,Yes,,350
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jayden Higgins,Yes,,1000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Dalton Schultz,Yes,,300
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Trevor Lawrence,Yes,,400
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Nico Collins,Yes,,160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Austin Trammell,Yes,,2000
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_anytime_td,Tim Jones,Yes,,2500
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_pass_tds,Davis Mills,Over,1.5,135
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_pass_tds,Davis Mills,Under,1.5,-180
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_pass_tds,Trevor Lawrence,Over,1.5,190
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_pass_tds,Trevor Lawrence,Under,1.5,-260
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_pass_yds,Davis Mills,Over,211.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_pass_yds,Davis Mills,Under,211.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_pass_yds,Trevor Lawrence,Over,206.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_pass_yds,Trevor Lawrence,Under,206.5,-130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Christian Kirk,Over,30.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Christian Kirk,Under,30.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Dalton Schultz,Over,36.5,-125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Dalton Schultz,Under,36.5,-105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Dyami Brown,Over,29.5,-135
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Dyami Brown,Under,29.5,105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Johnny Mundt,Over,14.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Johnny Mundt,Under,14.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Nico Collins,Over,63.5,-150
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Nico Collins,Under,63.5,115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Parker Washington,Over,46.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Parker Washington,Under,46.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Xavier Hutchinson,Over,18.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_reception_yds,Xavier Hutchinson,Under,18.5,-115
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Christian Kirk,Over,3.5,110
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Christian Kirk,Under,3.5,-145
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Dalton Schultz,Over,4.5,120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Dalton Schultz,Under,4.5,-160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Dyami Brown,Over,2.5,-160
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Dyami Brown,Under,2.5,120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Johnny Mundt,Over,2.5,125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Johnny Mundt,Under,2.5,-165
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Nico Collins,Over,5.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Nico Collins,Under,5.5,-130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Parker Washington,Over,4.5,105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Parker Washington,Under,4.5,-135
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Xavier Hutchinson,Over,1.5,-185
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_receptions,Xavier Hutchinson,Under,1.5,140
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Bhayshul Tuten,Over,20.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Bhayshul Tuten,Under,20.5,-130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Davis Mills,Over,5.5,-135
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Davis Mills,Under,5.5,105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Nick Chubb,Over,36.5,100
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Nick Chubb,Under,36.5,-130
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Travis Etienne Jr.,Over,55.5,-125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Travis Etienne Jr.,Under,55.5,-105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Trevor Lawrence,Over,14.5,-105
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Trevor Lawrence,Under,14.5,-125
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Woody Marks,Over,32.5,-120
+Jacksonville Jaguars,Houston Texans,2025-11-09T17:35:37Z,bovada,player_rush_yds,Woody Marks,Under,32.5,-110

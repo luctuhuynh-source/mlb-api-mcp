@@ -1,0 +1,684 @@
+away,home,snapshot,book,market,player,side,point,price
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jaxon Smith-Njigba,Yes,,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Zach Charbonnet,Yes,,135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Trey McBride,Yes,,160
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Kenneth Walker III,Yes,,165
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Marvin Harrison Jr.,Yes,,195
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Rashid Shaheed,Yes,,215
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,AJ Barner,Yes,,240
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Zonovan Knight,Yes,,260
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Elijah Arroyo,Yes,,295
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Cooper Kupp,Yes,,310
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Emari Demercado,Yes,,320
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Michael Wilson,Yes,,390
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Seattle Seahawks D/ST,Yes,,450
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Arizona Cardinals D/ST,Yes,,500
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jacoby Brissett,Yes,,700
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Zay Jones,Yes,,900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Elijah Higgins,Yes,,900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Cody White,Yes,,1000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Sam Darnold,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Greg Dortch,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Nick Kallerup,Yes,,1600
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Michael Carter,Yes,,1800
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Brady Russell,Yes,,2000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Ricky White III,Yes,,2500
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,George Holani,Yes,,3000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Robbie Ouzts,Yes,,3000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Simi Fehoko,Yes,,3000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Josiah Deguara,Yes,,3500
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Xavier Weaver,Yes,,4000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Sam Darnold,Over,1.5,-160
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Sam Darnold,Under,1.5,125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Jacoby Brissett,Over,1.5,139
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Jacoby Brissett,Under,1.5,-178
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Sam Darnold,Over,256.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Sam Darnold,Under,256.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Jacoby Brissett,Over,234.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Jacoby Brissett,Under,234.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jaxon Smith-Njigba,Over,98.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jaxon Smith-Njigba,Under,98.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Trey McBride,Over,64.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Trey McBride,Under,64.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Over,55.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Under,55.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Rashid Shaheed,Over,36.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Rashid Shaheed,Under,36.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Michael Wilson,Over,28.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Michael Wilson,Under,28.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,AJ Barner,Over,26.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,AJ Barner,Under,26.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Cooper Kupp,Over,24.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Cooper Kupp,Under,24.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Elijah Arroyo,Over,18.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Elijah Arroyo,Under,18.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Zay Jones,Over,12.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Zay Jones,Under,12.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Zonovan Knight,Over,12.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Zonovan Knight,Under,12.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Emari Demercado,Over,7.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Emari Demercado,Under,7.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Zach Charbonnet,Over,7.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Zach Charbonnet,Under,7.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Kenneth Walker III,Over,6.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Kenneth Walker III,Under,6.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Jaxon Smith-Njigba,Over,6.5,-150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Jaxon Smith-Njigba,Under,6.5,118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Trey McBride,Over,6.5,-139
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Trey McBride,Under,6.5,109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Marvin Harrison Jr.,Over,4.5,101
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Marvin Harrison Jr.,Under,4.5,-129
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Rashid Shaheed,Over,2.5,-152
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Rashid Shaheed,Under,2.5,119
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,AJ Barner,Over,2.5,-131
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,AJ Barner,Under,2.5,102
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Cooper Kupp,Over,2.5,-122
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Cooper Kupp,Under,2.5,-104
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Michael Wilson,Over,2.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Michael Wilson,Under,2.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Zonovan Knight,Over,2.5,140
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Zonovan Knight,Under,2.5,-180
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Elijah Arroyo,Over,1.5,-152
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Elijah Arroyo,Under,1.5,119
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Emari Demercado,Over,1.5,-138
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Emari Demercado,Under,1.5,108
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Zay Jones,Over,1.5,111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_receptions,Zay Jones,Under,1.5,-142
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Kenneth Walker III,Over,54.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Kenneth Walker III,Under,54.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Zach Charbonnet,Over,38.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Zach Charbonnet,Under,38.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Emari Demercado,Over,35.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Emari Demercado,Under,35.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Zonovan Knight,Over,27.5,-116
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Zonovan Knight,Under,27.5,-108
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Jacoby Brissett,Over,13.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Jacoby Brissett,Under,13.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Sam Darnold,Over,5.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Sam Darnold,Under,5.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jaxon Smith-Njigba,Yes,,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Zach Charbonnet,Yes,,140
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Trey McBride,Yes,,150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Kenneth Walker III,Yes,,160
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Marvin Harrison Jr.,Yes,,180
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Rashid Shaheed,Yes,,200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Cooper Kupp,Yes,,240
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Zonovan Knight,Yes,,250
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,AJ Barner,Yes,,250
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Elijah Arroyo,Yes,,250
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Tory Horton,Yes,,320
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Emari Demercado,Yes,,350
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Michael Wilson,Yes,,375
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Seattle Seahawks D/ST,Yes,,650
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jacoby Brissett,Yes,,650
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Arizona Cardinals D/ST,Yes,,750
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Zay Jones,Yes,,950
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Elijah Higgins,Yes,,950
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Sam Darnold,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Cody White,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Greg Dortch,Yes,,1200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Michael Carter,Yes,,1900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Nick Kallerup,Yes,,2500
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Josiah Deguara,Yes,,3000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Xavier Weaver,Yes,,3300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,George Holani,Yes,,3500
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Robbie Ouzts,Yes,,4000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Simi Fehoko,Yes,,5000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_anytime_td,No Touchdown,Yes,,15000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Sam Darnold,Over,1.5,-165
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Sam Darnold,Under,1.5,125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Jacoby Brissett,Over,1.5,140
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Jacoby Brissett,Under,1.5,-190
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Sam Darnold,Over,254.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Sam Darnold,Under,254.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Jacoby Brissett,Over,233.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Jacoby Brissett,Under,233.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jaxon Smith-Njigba,Over,96.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jaxon Smith-Njigba,Under,96.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Zach Charbonnet,Over,6.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Zach Charbonnet,Under,6.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Kenneth Walker III,Over,6.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Kenneth Walker III,Under,6.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Elijah Arroyo,Over,18.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Elijah Arroyo,Under,18.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Over,57.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Under,57.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,AJ Barner,Over,25.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,AJ Barner,Under,25.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Zay Jones,Over,12.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Zay Jones,Under,12.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Zonovan Knight,Over,12.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Zonovan Knight,Under,12.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Michael Wilson,Over,29.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Michael Wilson,Under,29.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Emari Demercado,Over,8.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Emari Demercado,Under,8.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Rashid Shaheed,Over,38.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Rashid Shaheed,Under,38.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Trey McBride,Over,64.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Trey McBride,Under,64.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Cooper Kupp,Over,27.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Cooper Kupp,Under,27.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Elijah Higgins,Over,10.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Elijah Higgins,Under,10.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Elijah Arroyo,Over,1.5,-190
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Elijah Arroyo,Under,1.5,140
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,AJ Barner,Over,2.5,-130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,AJ Barner,Under,2.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Trey McBride,Over,6.5,-140
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Trey McBride,Under,6.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Marvin Harrison Jr.,Over,4.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Marvin Harrison Jr.,Under,4.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Michael Wilson,Over,2.5,-130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Michael Wilson,Under,2.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Zay Jones,Over,1.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Zay Jones,Under,1.5,-140
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Jaxon Smith-Njigba,Over,6.5,-145
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Jaxon Smith-Njigba,Under,6.5,110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Zonovan Knight,Over,2.5,135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Zonovan Knight,Under,2.5,-175
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Rashid Shaheed,Over,2.5,-155
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Rashid Shaheed,Under,2.5,115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Cooper Kupp,Over,2.5,-150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_receptions,Cooper Kupp,Under,2.5,110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Zach Charbonnet,Over,38.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Zach Charbonnet,Under,38.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Jacoby Brissett,Over,12.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Jacoby Brissett,Under,12.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Sam Darnold,Over,4.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Sam Darnold,Under,4.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Zonovan Knight,Over,29.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Zonovan Knight,Under,29.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Emari Demercado,Over,35.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Emari Demercado,Under,35.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Kenneth Walker III,Over,54.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Kenneth Walker III,Under,54.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jaxon Smith-Njigba,Yes,,-104
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Zach Charbonnet,Yes,,135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Trey McBride,Yes,,150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Kenneth Walker III,Yes,,150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Marvin Harrison Jr.,Yes,,185
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Rashid Shaheed,Yes,,210
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,AJ Barner,Yes,,235
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Zonovan Knight,Yes,,245
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Cooper Kupp,Yes,,295
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Emari Demercado,Yes,,295
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Elijah Arroyo,Yes,,295
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Michael Wilson,Yes,,380
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jacoby Brissett,Yes,,625
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Elijah Higgins,Yes,,850
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Zay Jones,Yes,,850
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Sam Darnold,Yes,,950
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Cody White,Yes,,1000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Greg Dortch,Yes,,1000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Michael Carter,Yes,,1750
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Nick Kallerup,Yes,,1800
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Brady Russell,Yes,,2000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Ricky White III,Yes,,2200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,George Holani,Yes,,2500
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Robbie Ouzts,Yes,,2500
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Josiah Deguara,Yes,,2900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Xavier Weaver,Yes,,3000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Simi Fehoko,Yes,,3500
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Sam Darnold,Over,1.5,-155
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Sam Darnold,Under,1.5,115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Jacoby Brissett,Over,1.5,135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Jacoby Brissett,Under,1.5,-182
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Sam Darnold,Over,255.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Sam Darnold,Under,255.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Jacoby Brissett,Over,234.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Jacoby Brissett,Under,234.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Marvin Harrison Jr.,Over,56.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Marvin Harrison Jr.,Under,56.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Zonovan Knight,Over,12.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Zonovan Knight,Under,12.5,-121
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Michael Wilson,Over,30.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Michael Wilson,Under,30.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Cooper Kupp,Over,24.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Cooper Kupp,Under,24.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Emari Demercado,Over,8.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Emari Demercado,Under,8.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Trey McBride,Over,62.5,-121
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Trey McBride,Under,62.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Kenneth Walker III,Over,6.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Kenneth Walker III,Under,6.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Elijah Arroyo,Over,18.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Elijah Arroyo,Under,18.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,AJ Barner,Over,26.5,-128
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,AJ Barner,Under,26.5,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jaxon Smith-Njigba,Over,96.5,-121
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jaxon Smith-Njigba,Under,96.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Zach Charbonnet,Over,7.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Zach Charbonnet,Under,7.5,-122
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Zay Jones,Over,12.5,-121
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Zay Jones,Under,12.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Rashid Shaheed,Over,36.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Rashid Shaheed,Under,36.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Marvin Harrison Jr.,Over,4.5,-108
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Marvin Harrison Jr.,Under,4.5,-128
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Rashid Shaheed,Over,2.5,-130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Rashid Shaheed,Under,2.5,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jaxon Smith-Njigba,Over,6.5,-148
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jaxon Smith-Njigba,Under,6.5,110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,AJ Barner,Over,2.5,-140
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,AJ Barner,Under,2.5,102
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Trey McBride,Over,6.5,-141
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Trey McBride,Under,6.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Emari Demercado,Over,1.5,-138
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Emari Demercado,Under,1.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Zonovan Knight,Over,2.5,135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Zonovan Knight,Under,2.5,-190
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Michael Wilson,Over,2.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Michael Wilson,Under,2.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Cooper Kupp,Over,2.5,-127
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Cooper Kupp,Under,2.5,-107
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Zay Jones,Over,1.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Zay Jones,Under,1.5,-141
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Elijah Arroyo,Over,1.5,-176
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Elijah Arroyo,Under,1.5,125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Kenneth Walker III,Over,54.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Kenneth Walker III,Under,54.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Emari Demercado,Over,35.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Emari Demercado,Under,35.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Jacoby Brissett,Over,14.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Jacoby Brissett,Under,14.5,-121
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Zonovan Knight,Over,28.5,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Zonovan Knight,Under,28.5,-128
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Zach Charbonnet,Over,39.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Zach Charbonnet,Under,39.5,-121
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Sam Darnold,Over,5.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Sam Darnold,Under,5.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jaxon Smith-Njigba,Yes,,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Zach Charbonnet,Yes,,135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Trey McBride,Yes,,155
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Kenneth Walker III,Yes,,165
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Marvin Harrison Jr.,Yes,,185
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Rashid Shaheed,Yes,,210
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,AJ Barner,Yes,,240
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Bam Knight,Yes,,290
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Elijah Arroyo,Yes,,300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Cooper Kupp,Yes,,310
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Emari Demercado,Yes,,320
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Michael Wilson,Yes,,430
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jacoby Brissett,Yes,,700
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Seattle Seahawks Defense,Yes,,750
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Elijah Higgins,Yes,,950
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Zay Jones,Yes,,1000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Arizona Cardinals Defense,Yes,,1000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Sam Darnold,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Cody White,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Greg Dortch,Yes,,1200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Nick Kallerup,Yes,,1900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Michael Carter,Yes,,1900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Ricky White III,Yes,,2200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Robbie Ouzts,Yes,,3000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,George Holani,Yes,,3000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Josiah Deguara,Yes,,3300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Xavier Weaver,Yes,,3300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Simi Fehoko,Yes,,4000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Sam Darnold,Over,1.5,-164
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Sam Darnold,Under,1.5,128
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Jacoby Brissett,Over,1.5,134
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Jacoby Brissett,Under,1.5,-172
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Jacoby Brissett,Over,237.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Jacoby Brissett,Under,237.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Sam Darnold,Over,257.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Sam Darnold,Under,257.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,AJ Barner,Over,27.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,AJ Barner,Under,27.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Elijah Arroyo,Over,19.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Elijah Arroyo,Under,19.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jaxon Smith-Njigba,Over,95.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jaxon Smith-Njigba,Under,95.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Bam Knight,Over,11.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Bam Knight,Under,11.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Emari Demercado,Over,8.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Emari Demercado,Under,8.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Over,55.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Under,55.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Zach Charbonnet,Over,7.5,-108
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Zach Charbonnet,Under,7.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Kenneth Walker III,Over,6.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Kenneth Walker III,Under,6.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Michael Wilson,Over,30.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Michael Wilson,Under,30.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Trey McBride,Over,62.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Trey McBride,Under,62.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Zay Jones,Over,13.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Zay Jones,Under,13.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Cooper Kupp,Over,23.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Cooper Kupp,Under,23.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Rashid Shaheed,Over,36.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Rashid Shaheed,Under,36.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Jaxon Smith-Njigba,Over,6.5,-142
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Jaxon Smith-Njigba,Under,6.5,112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Emari Demercado,Over,1.5,-142
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Emari Demercado,Under,1.5,112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Bam Knight,Over,2.5,150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Bam Knight,Under,2.5,-192
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Marvin Harrison Jr.,Over,4.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Marvin Harrison Jr.,Under,4.5,-128
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Cooper Kupp,Over,2.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Cooper Kupp,Under,2.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Elijah Arroyo,Over,1.5,-174
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Elijah Arroyo,Under,1.5,136
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Trey McBride,Over,6.5,-132
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Trey McBride,Under,6.5,104
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Michael Wilson,Over,2.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Michael Wilson,Under,2.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,AJ Barner,Over,2.5,-126
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,AJ Barner,Under,2.5,-102
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Zay Jones,Over,1.5,108
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Zay Jones,Under,1.5,-136
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Rashid Shaheed,Over,2.5,-150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_receptions,Rashid Shaheed,Under,2.5,118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Emari Demercado,Over,35.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Emari Demercado,Under,35.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Kenneth Walker III,Over,54.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Kenneth Walker III,Under,54.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Bam Knight,Over,28.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Bam Knight,Under,28.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Zach Charbonnet,Over,38.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Zach Charbonnet,Under,38.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jaxon Smith-Njigba,Yes,,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Trey McBride,Yes,,150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Marvin Harrison Jr.,Yes,,180
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Elijah Arroyo,Yes,,290
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Zach Charbonnet,Yes,,130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jacoby Brissett,Yes,,700
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Zay Jones,Yes,,900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,AJ Barner,Yes,,240
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Michael Wilson,Yes,,350
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Sam Darnold,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Kenneth Walker III,Yes,,160
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Zonovan Knight,Yes,,260
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Cooper Kupp,Yes,,300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jake Bobo,Yes,,2400
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Simi Fehoko,Yes,,2900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Elijah Higgins,Yes,,900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Greg Dortch,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Xavier Weaver,Yes,,2900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,George Holani,Yes,,2900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Robbie Ouzts,Yes,,2900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Nick Kallerup,Yes,,1400
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Emari Demercado,Yes,,300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Josiah Deguara,Yes,,2900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Sam Darnold,Over,1.5,-154
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Sam Darnold,Under,1.5,118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Jacoby Brissett,Over,1.5,134
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Jacoby Brissett,Under,1.5,-175
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Jacoby Brissett,Over,235.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Jacoby Brissett,Under,235.5,-130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Sam Darnold,Over,259.5,-102
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Sam Darnold,Under,259.5,-127
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Jaxon Smith-Njigba,Over,99.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Jaxon Smith-Njigba,Under,99.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Zay Jones,Over,12.5,-116
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Zay Jones,Under,12.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Elijah Arroyo,Over,18.5,-116
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Elijah Arroyo,Under,18.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Michael Wilson,Over,30.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Michael Wilson,Under,30.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Zach Charbonnet,Over,7.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Zach Charbonnet,Under,7.5,-116
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Trey McBride,Over,64.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Trey McBride,Under,64.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Rashid Shaheed,Over,37.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Rashid Shaheed,Under,37.5,-108
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,AJ Barner,Over,27.5,-116
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,AJ Barner,Under,27.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Kenneth Walker III,Over,6.5,-125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Kenneth Walker III,Under,6.5,-103
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Over,55.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Under,55.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Michael Wilson,Over,2.5,-116
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Michael Wilson,Under,2.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Trey McBride,Over,6.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Trey McBride,Under,6.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Marvin Harrison Jr.,Over,4.5,-101
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Marvin Harrison Jr.,Under,4.5,-128
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Jaxon Smith-Njigba,Over,6.5,-149
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Jaxon Smith-Njigba,Under,6.5,115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Rashid Shaheed,Over,2.5,-149
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Rashid Shaheed,Under,2.5,115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,AJ Barner,Over,2.5,-127
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,AJ Barner,Under,2.5,-102
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Zay Jones,Over,1.5,120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_receptions,Zay Jones,Under,1.5,-156
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Jacoby Brissett,Over,14.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Jacoby Brissett,Under,14.5,-119
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Sam Darnold,Over,5.5,-111
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Sam Darnold,Under,5.5,-116
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Emari Demercado,Over,35.5,-119
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Emari Demercado,Under,35.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Zonovan Knight,Over,27.5,-119
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Zonovan Knight,Under,27.5,-109
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Zach Charbonnet,Over,38.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Zach Charbonnet,Under,38.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Kenneth Walker III,Over,56.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Kenneth Walker III,Under,56.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Xavier Weaver,Yes,,1400
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Brady Russell,Yes,,3000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jacoby Brissett,Yes,,540
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Zach Charbonnet,Yes,,123
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Marvin Harrison Jr.,Yes,,160
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Zonovan Knight,Yes,,225
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Michael Wilson,Yes,,310
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Kenneth Walker III,Yes,,125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Greg Dortch,Yes,,750
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Cooper Kupp,Yes,,280
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Robbie Ouzts,Yes,,5000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Nick Kallerup,Yes,,2800
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Zay Jones,Yes,,750
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Elijah Arroyo,Yes,,300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Rashid Shaheed,Yes,,220
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jaxon Smith-Njigba,Yes,,-124
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Sam Darnold,Yes,,1150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,AJ Barner,Yes,,215
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Emari Demercado,Yes,,285
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Elijah Higgins,Yes,,1000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Trey McBride,Yes,,155
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,George Holani,Yes,,1200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Simi Fehoko,Yes,,2400
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Sam Darnold,Over,1.5,-175
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Sam Darnold,Under,1.5,130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Jacoby Brissett,Over,1.5,138
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Jacoby Brissett,Under,1.5,-186
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Sam Darnold,Over,256.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Sam Darnold,Under,256.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Jacoby Brissett,Over,227.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Jacoby Brissett,Under,227.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Trey McBride,Over,62.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Trey McBride,Under,62.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,AJ Barner,Over,28.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,AJ Barner,Under,28.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Michael Wilson,Over,29.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Michael Wilson,Under,29.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jaxon Smith-Njigba,Over,99.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jaxon Smith-Njigba,Under,99.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Zay Jones,Over,13.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Zay Jones,Under,13.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Over,55.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Under,55.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Rashid Shaheed,Over,36.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Rashid Shaheed,Under,36.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Michael Wilson,Over,2.5,-129
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Michael Wilson,Under,2.5,-104
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Trey McBride,Over,6.5,-155
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Trey McBride,Under,6.5,116
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Marvin Harrison Jr.,Over,4.5,-104
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Marvin Harrison Jr.,Under,4.5,-129
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,AJ Barner,Over,2.5,-125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,AJ Barner,Under,2.5,-107
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Jaxon Smith-Njigba,Over,6.5,-157
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Jaxon Smith-Njigba,Under,6.5,118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Zay Jones,Over,1.5,108
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_receptions,Zay Jones,Under,1.5,-143
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Jacoby Brissett,Over,13.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Jacoby Brissett,Under,13.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Zonovan Knight,Over,26.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Zonovan Knight,Under,26.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Zach Charbonnet,Over,38.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Zach Charbonnet,Under,38.5,-112
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Sam Darnold,Over,5.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Sam Darnold,Under,5.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Kenneth Walker III,Over,54.5,-118
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Kenneth Walker III,Under,54.5,-113
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Emari Demercado,Over,35.5,-114
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Emari Demercado,Under,35.5,-117
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,No Scorer,Yes,,5000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jaxon Smith-Njigba,Yes,,110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Rashid Shaheed,Yes,,215
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Seattle Seahawks D/ST,Yes,,420
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Trey McBride,Yes,,160
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Marvin Harrison Jr.,Yes,,180
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Arizona Cardinals D/ST,Yes,,470
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Sam Darnold,Yes,,850
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Cooper Kupp,Yes,,295
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Kenneth Walker III,Yes,,175
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Zach Charbonnet,Yes,,135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,George Holani,Yes,,2000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,AJ Barner,Yes,,250
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Elijah Arroyo,Yes,,285
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Zay Jones,Yes,,800
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jacoby Brissett,Yes,,580
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Greg Dortch,Yes,,900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Zonovan Knight,Yes,,270
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Elijah Higgins,Yes,,740
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Michael Wilson,Yes,,380
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Emari Demercado,Yes,,305
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Simi Fehoko,Yes,,2200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Xavier Weaver,Yes,,2000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Josiah Deguara,Yes,,2200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Michael Carter,Yes,,1200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Ricky White III,Yes,,1500
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Cody White,Yes,,1050
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Jacoby Brissett,Over,1.5,130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Jacoby Brissett,Under,1.5,-170
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Sam Darnold,Over,1.5,-150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Sam Darnold,Under,1.5,115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Jacoby Brissett,Over,230.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Jacoby Brissett,Under,230.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Sam Darnold,Over,255.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Sam Darnold,Under,255.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jaxon Smith-Njigba,Over,95.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jaxon Smith-Njigba,Under,95.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Zach Charbonnet,Over,10.5,135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Zach Charbonnet,Under,10.5,-185
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Kenneth Walker III,Over,10.5,150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Kenneth Walker III,Under,10.5,-210
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Trey McBride,Over,60.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Trey McBride,Under,60.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,AJ Barner,Over,25.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,AJ Barner,Under,25.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Marvin Harrison Jr.,Over,55.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Marvin Harrison Jr.,Under,55.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Elijah Arroyo,Over,20.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Elijah Arroyo,Under,20.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Zay Jones,Over,10.5,-150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Zay Jones,Under,10.5,110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Zonovan Knight,Over,10.5,-140
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Zonovan Knight,Under,10.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Michael Wilson,Over,30.5,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Michael Wilson,Under,30.5,-125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Rashid Shaheed,Over,35.5,-125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Rashid Shaheed,Under,35.5,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Emari Demercado,Over,10.5,115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Emari Demercado,Under,10.5,-155
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Cooper Kupp,Over,25.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Cooper Kupp,Under,25.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Michael Wilson,Over,2.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Michael Wilson,Under,2.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Marvin Harrison Jr.,Over,4.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Marvin Harrison Jr.,Under,4.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Rashid Shaheed,Over,3.5,160
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Rashid Shaheed,Under,3.5,-230
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Jaxon Smith-Njigba,Over,6.5,-155
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Jaxon Smith-Njigba,Under,6.5,115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Trey McBride,Over,7.5,130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Trey McBride,Under,7.5,-180
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Zonovan Knight,Over,2.5,145
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Zonovan Knight,Under,2.5,-205
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Emari Demercado,Over,2.5,200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Emari Demercado,Under,2.5,-300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Zay Jones,Over,1.5,110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Zay Jones,Under,1.5,-150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Elijah Arroyo,Over,2.5,165
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Elijah Arroyo,Under,2.5,-235
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Cooper Kupp,Over,2.5,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,Cooper Kupp,Under,2.5,-125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,AJ Barner,Over,2.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_receptions,AJ Barner,Under,2.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Sam Darnold,Over,5.5,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Sam Darnold,Under,5.5,-125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Jacoby Brissett,Over,15.5,110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Jacoby Brissett,Under,15.5,-150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Kenneth Walker III,Over,50.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Kenneth Walker III,Under,50.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Zach Charbonnet,Over,40.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Zach Charbonnet,Under,40.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Emari Demercado,Over,35.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Emari Demercado,Under,35.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Zonovan Knight,Over,25.5,-140
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Zonovan Knight,Under,25.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Cody White,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Ricky White III,Yes,,2200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Michael Carter,Yes,,2000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Simi Fehoko,Yes,,4000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Marvin Harrison Jr.,Yes,,180
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Elijah Higgins,Yes,,900
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jacoby Brissett,Yes,,725
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Xavier Weaver,Yes,,3300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Sam Darnold,Yes,,1100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Elijah Arroyo,Yes,,300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Robbie Ouzts,Yes,,2800
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,George Holani,Yes,,2800
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Greg Dortch,Yes,,1200
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Bam Knight,Yes,,275
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Seattle Seahawks D/ST,Yes,,725
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jaxon Smith-Njigba,Yes,,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Nick Kallerup,Yes,,2000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Kenneth Walker III,Yes,,170
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Arizona Cardinals D/ST,Yes,,1000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Michael Wilson,Yes,,400
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Zay Jones,Yes,,1000
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Trey McBride,Yes,,150
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Emari Demercado,Yes,,320
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Zach Charbonnet,Yes,,130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Josiah Deguara,Yes,,3300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,AJ Barner,Yes,,240
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_anytime_td,Cooper Kupp,Yes,,300
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_pass_tds,Jacoby Brissett,Over,1.5,135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_pass_tds,Jacoby Brissett,Under,1.5,-180
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_pass_tds,Sam Darnold,Over,1.5,-165
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_pass_tds,Sam Darnold,Under,1.5,125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_pass_yds,Jacoby Brissett,Over,235.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_pass_yds,Jacoby Brissett,Under,235.5,-130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_pass_yds,Sam Darnold,Over,259.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_pass_yds,Sam Darnold,Under,259.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_reception_yds,Jaxon Smith-Njigba,Over,98.5,-130
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_reception_yds,Jaxon Smith-Njigba,Under,98.5,100
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_reception_yds,Marvin Harrison Jr.,Over,56.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_reception_yds,Marvin Harrison Jr.,Under,56.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_reception_yds,Michael Wilson,Over,30.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_reception_yds,Michael Wilson,Under,30.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_reception_yds,Trey McBride,Over,62.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_reception_yds,Trey McBride,Under,62.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_receptions,Jaxon Smith-Njigba,Over,6.5,-160
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_receptions,Jaxon Smith-Njigba,Under,6.5,120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_receptions,Marvin Harrison Jr.,Over,4.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_receptions,Marvin Harrison Jr.,Under,4.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_receptions,Michael Wilson,Over,2.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_receptions,Michael Wilson,Under,2.5,-115
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_receptions,Trey McBride,Over,6.5,-135
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_receptions,Trey McBride,Under,6.5,105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Emari Demercado,Over,35.5,-125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Emari Demercado,Under,35.5,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Jacoby Brissett,Over,14.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Jacoby Brissett,Under,14.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Kenneth Walker III,Over,54.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Kenneth Walker III,Under,54.5,-110
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Zach Charbonnet,Over,40.5,-105
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Zach Charbonnet,Under,40.5,-125
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Zonovan Knight,Over,27.5,-120
+Arizona Cardinals,Seattle Seahawks,2025-11-09T17:35:37Z,bovada,player_rush_yds,Zonovan Knight,Under,27.5,-110

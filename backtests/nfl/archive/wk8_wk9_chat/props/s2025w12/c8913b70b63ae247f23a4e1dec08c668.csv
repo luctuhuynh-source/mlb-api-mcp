@@ -1,0 +1,811 @@
+away,home,snapshot,book,market,player,side,point,price
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jaylen Warren,Yes,,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,D'Andre Swift,Yes,,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Rome Odunze,Yes,,165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,DK Metcalf,Yes,,180
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Kyle Monangai,Yes,,215
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,DJ Moore,Yes,,225
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Kenneth Gainwell,Yes,,330
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Colston Loveland,Yes,,340
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Darnell Washington,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Caleb Williams,Yes,,360
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jonnu Smith,Yes,,390
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Luther Burden III,Yes,,400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Pat Freiermuth,Yes,,400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Chicago Bears D/ST,Yes,,475
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Roman Wilson,Yes,,500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Pittsburgh Steelers D/ST,Yes,,500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Cole Kmet,Yes,,550
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Calvin Austin III,Yes,,600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Olamide Zaccheaus,Yes,,700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Kaleb Johnson,Yes,,850
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Mason Rudolph,Yes,,1000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Brittain Brown,Yes,,1600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Devin Duvernay,Yes,,1600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Durham Smythe,Yes,,2200
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Connor Heyward,Yes,,3000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Ben Skowronek,Yes,,3000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Ke'Shawn Williams,Yes,,4000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Scott Miller,Yes,,4000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Nikola Kalinic,Yes,,4500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Caleb Williams,Over,1.5,104
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Caleb Williams,Under,1.5,-133
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Mason Rudolph,Over,1.5,122
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Mason Rudolph,Under,1.5,-156
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Caleb Williams,Over,222.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Caleb Williams,Under,222.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Mason Rudolph,Over,219.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Mason Rudolph,Under,219.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Rome Odunze,Over,55.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Rome Odunze,Under,55.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,DK Metcalf,Over,50.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,DK Metcalf,Under,50.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Luther Burden III,Over,33.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Luther Burden III,Under,33.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,DJ Moore,Over,32.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,DJ Moore,Under,32.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Colston Loveland,Over,27.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Colston Loveland,Under,27.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Darnell Washington,Over,22.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Darnell Washington,Under,22.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Roman Wilson,Over,22.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Roman Wilson,Under,22.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Kenneth Gainwell,Over,17.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Kenneth Gainwell,Under,17.5,-107
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jonnu Smith,Over,17.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jonnu Smith,Under,17.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Pat Freiermuth,Over,17.5,-108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Pat Freiermuth,Under,17.5,-116
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Calvin Austin III,Over,15.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Calvin Austin III,Under,15.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jaylen Warren,Over,15.5,-108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jaylen Warren,Under,15.5,-116
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Cole Kmet,Over,14.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Cole Kmet,Under,14.5,-107
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,D'Andre Swift,Over,12.5,-107
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_reception_yds,D'Andre Swift,Under,12.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Rome Odunze,Over,3.5,-160
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Rome Odunze,Under,3.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,DK Metcalf,Over,3.5,-130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,DK Metcalf,Under,3.5,102
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Luther Burden III,Over,3.5,120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Luther Burden III,Under,3.5,-153
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,DJ Moore,Over,2.5,-157
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,DJ Moore,Under,2.5,123
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Kenneth Gainwell,Over,2.5,-146
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Kenneth Gainwell,Under,2.5,114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Colston Loveland,Over,2.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Colston Loveland,Under,2.5,-108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Jaylen Warren,Over,2.5,117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Jaylen Warren,Under,2.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Jonnu Smith,Over,2.5,121
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Jonnu Smith,Under,2.5,-154
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Darnell Washington,Over,2.5,124
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Darnell Washington,Under,2.5,-159
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,D'Andre Swift,Over,1.5,-183
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,D'Andre Swift,Under,1.5,143
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Roman Wilson,Over,1.5,-177
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Roman Wilson,Under,1.5,138
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Cole Kmet,Over,1.5,-161
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Cole Kmet,Under,1.5,126
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Pat Freiermuth,Over,1.5,-143
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Pat Freiermuth,Under,1.5,112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Calvin Austin III,Over,1.5,-106
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_receptions,Calvin Austin III,Under,1.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jaylen Warren,Over,61.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jaylen Warren,Under,61.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,D'Andre Swift,Over,60.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,D'Andre Swift,Under,60.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Kyle Monangai,Over,32.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Kyle Monangai,Under,32.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Caleb Williams,Over,23.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Caleb Williams,Under,23.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Kenneth Gainwell,Over,22.5,-108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Kenneth Gainwell,Under,22.5,-116
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jaylen Warren,Yes,,106
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,D'Andre Swift,Yes,,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Rome Odunze,Yes,,167
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,DK Metcalf,Yes,,175
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Kyle Monangai,Yes,,191
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,DJ Moore,Yes,,240
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Colston Loveland,Yes,,305
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Kenneth Gainwell,Yes,,305
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Darnell Washington,Yes,,325
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Caleb Williams,Yes,,325
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Luther Burden III,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jonnu Smith,Yes,,390
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Pat Freiermuth,Yes,,400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Roman Wilson,Yes,,525
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Cole Kmet,Yes,,550
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Calvin Austin III,Yes,,575
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Olamide Zaccheaus,Yes,,675
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Kaleb Johnson,Yes,,850
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Mason Rudolph,Yes,,850
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Devin Duvernay,Yes,,1400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Brittain Brown,Yes,,1500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Durham Smythe,Yes,,2000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Connor Heyward,Yes,,2000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Ben Skowronek,Yes,,2200
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Scott Miller,Yes,,2500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Ke'Shawn Williams,Yes,,3000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Nikola Kalinic,Yes,,4000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Caleb Williams,Over,1.5,106
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Caleb Williams,Under,1.5,-139
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Mason Rudolph,Over,1.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Mason Rudolph,Under,1.5,-164
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Caleb Williams,Over,219.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Caleb Williams,Under,219.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Mason Rudolph,Over,217.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Mason Rudolph,Under,217.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,D'Andre Swift,Over,11.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,D'Andre Swift,Under,11.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jaylen Warren,Over,14.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jaylen Warren,Under,14.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Cole Kmet,Over,15.5,-125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Cole Kmet,Under,15.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Rome Odunze,Over,53.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Rome Odunze,Under,53.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Darnell Washington,Over,20.5,-122
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Darnell Washington,Under,20.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Colston Loveland,Over,27.5,-108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Colston Loveland,Under,27.5,-125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jonnu Smith,Over,17.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jonnu Smith,Under,17.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Pat Freiermuth,Over,17.5,-127
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Pat Freiermuth,Under,17.5,-107
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Roman Wilson,Over,21.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Roman Wilson,Under,21.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Kenneth Gainwell,Over,15.5,-122
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Kenneth Gainwell,Under,15.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,DJ Moore,Over,33.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,DJ Moore,Under,33.5,-122
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,DK Metcalf,Over,50.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,DK Metcalf,Under,50.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Calvin Austin III,Over,15.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Calvin Austin III,Under,15.5,-128
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Luther Burden III,Over,33.5,-128
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Luther Burden III,Under,33.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Rome Odunze,Over,3.5,-148
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Rome Odunze,Under,3.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Cole Kmet,Over,1.5,-170
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Cole Kmet,Under,1.5,121
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jaylen Warren,Over,2.5,123
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jaylen Warren,Under,2.5,-164
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,DK Metcalf,Over,3.5,-136
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,DK Metcalf,Under,3.5,102
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Pat Freiermuth,Over,1.5,-148
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Pat Freiermuth,Under,1.5,111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Kenneth Gainwell,Over,2.5,-145
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Kenneth Gainwell,Under,2.5,108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jonnu Smith,Over,2.5,112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jonnu Smith,Under,2.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Luther Burden III,Over,3.5,127
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Luther Burden III,Under,3.5,-165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Calvin Austin III,Over,1.5,-102
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Calvin Austin III,Under,1.5,-132
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Colston Loveland,Over,2.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Colston Loveland,Under,2.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,DJ Moore,Over,2.5,-140
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,DJ Moore,Under,2.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Darnell Washington,Over,2.5,118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Darnell Washington,Under,2.5,-159
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,D'Andre Swift,Over,1.5,-179
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,D'Andre Swift,Under,1.5,133
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Roman Wilson,Over,1.5,-190
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Roman Wilson,Under,1.5,139
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Jaylen Warren,Over,61.5,-122
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Jaylen Warren,Under,61.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Kenneth Gainwell,Over,21.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Kenneth Gainwell,Under,21.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Kyle Monangai,Over,32.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Kyle Monangai,Under,32.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,D'Andre Swift,Over,58.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,D'Andre Swift,Under,58.5,-121
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Caleb Williams,Over,23.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Caleb Williams,Under,23.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jaylen Warren,Yes,,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,D'Andre Swift,Yes,,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Rome Odunze,Yes,,170
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,DK Metcalf,Yes,,185
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Kyle Monangai,Yes,,200
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,DJ Moore,Yes,,240
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Colston Loveland,Yes,,310
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Kenneth Gainwell,Yes,,330
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Caleb Williams,Yes,,340
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Luther Burden III,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Darnell Washington,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jonnu Smith,Yes,,410
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Pat Freiermuth,Yes,,460
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Roman Wilson,Yes,,550
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Cole Kmet,Yes,,550
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Calvin Austin III,Yes,,650
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Olamide Zaccheaus,Yes,,700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Chicago Bears Defense,Yes,,850
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Pittsburgh Steelers Defense,Yes,,850
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Kaleb Johnson,Yes,,900
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Mason Rudolph,Yes,,1000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Brittain Brown,Yes,,1700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Devin Duvernay,Yes,,1800
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Durham Smythe,Yes,,2200
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Connor Heyward,Yes,,3000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Ben Skowronek,Yes,,3000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Scott Miller,Yes,,3300
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Ke'Shawn Williams,Yes,,3500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Nikola Kalinic,Yes,,5500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Mason Rudolph,Over,1.5,128
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Mason Rudolph,Under,1.5,-164
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Caleb Williams,Over,1.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Caleb Williams,Under,1.5,-128
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Mason Rudolph,Over,216.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Mason Rudolph,Under,216.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Caleb Williams,Over,217.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Caleb Williams,Under,217.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,DK Metcalf,Over,49.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,DK Metcalf,Under,49.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,DJ Moore,Over,32.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,DJ Moore,Under,32.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Darnell Washington,Over,20.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Darnell Washington,Under,20.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jonnu Smith,Over,17.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jonnu Smith,Under,17.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Pat Freiermuth,Over,19.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Pat Freiermuth,Under,19.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jaylen Warren,Over,14.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jaylen Warren,Under,14.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,D'Andre Swift,Over,11.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,D'Andre Swift,Under,11.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Luther Burden III,Over,33.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Luther Burden III,Under,33.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Rome Odunze,Over,52.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Rome Odunze,Under,52.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Roman Wilson,Over,21.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Roman Wilson,Under,21.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Cole Kmet,Over,16.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Cole Kmet,Under,16.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Colston Loveland,Over,27.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Colston Loveland,Under,27.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Kenneth Gainwell,Over,15.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Kenneth Gainwell,Under,15.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Calvin Austin III,Over,15.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Calvin Austin III,Under,15.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,DJ Moore,Over,2.5,-142
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,DJ Moore,Under,2.5,112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,DK Metcalf,Over,3.5,-128
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,DK Metcalf,Under,3.5,102
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Darnell Washington,Over,2.5,130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Darnell Washington,Under,2.5,-166
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Pat Freiermuth,Over,1.5,-154
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Pat Freiermuth,Under,1.5,120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Jonnu Smith,Over,2.5,128
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Jonnu Smith,Under,2.5,-164
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Luther Burden III,Over,3.5,126
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Luther Burden III,Under,3.5,-160
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Rome Odunze,Over,3.5,-138
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Rome Odunze,Under,3.5,108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,D'Andre Swift,Over,1.5,-168
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,D'Andre Swift,Under,1.5,132
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Jaylen Warren,Over,2.5,122
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Jaylen Warren,Under,2.5,-156
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Roman Wilson,Over,2.5,148
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Roman Wilson,Under,2.5,-190
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Cole Kmet,Over,1.5,-164
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Cole Kmet,Under,1.5,128
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Colston Loveland,Over,2.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Colston Loveland,Under,2.5,-108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Calvin Austin III,Over,1.5,102
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Calvin Austin III,Under,1.5,-130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Kenneth Gainwell,Over,2.5,-142
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_receptions,Kenneth Gainwell,Under,2.5,112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Kyle Monangai,Over,31.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Kyle Monangai,Under,31.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Caleb Williams,Over,24.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Caleb Williams,Under,24.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Kenneth Gainwell,Over,21.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Kenneth Gainwell,Under,21.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,D'Andre Swift,Over,57.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,D'Andre Swift,Under,57.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jaylen Warren,Over,61.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jaylen Warren,Under,61.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jaylen Warren,Yes,,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,D'Andre Swift,Yes,,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Rome Odunze,Yes,,160
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,DK Metcalf,Yes,,180
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Caleb Williams,Yes,,325
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,DJ Moore,Yes,,220
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jonnu Smith,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Luther Burden III,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Pat Freiermuth,Yes,,400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Calvin Austin III,Yes,,600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Darnell Washington,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Cole Kmet,Yes,,550
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Colston Loveland,Yes,,300
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Kyle Monangai,Yes,,200
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Kenneth Gainwell,Yes,,325
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Roman Wilson,Yes,,500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Devin Duvernay,Yes,,1400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Olamide Zaccheaus,Yes,,700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Connor Heyward,Yes,,2900
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Kaleb Johnson,Yes,,800
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jahdae Walker,Yes,,1700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Ben Skowronek,Yes,,2900
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Scott Miller,Yes,,2900
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Durham Smythe,Yes,,1900
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Ke'Shawn Williams,Yes,,3400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Mason Rudolph,Yes,,1000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Caleb Williams,Over,1.5,107
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Caleb Williams,Under,1.5,-139
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Mason Rudolph,Over,1.5,122
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Mason Rudolph,Under,1.5,-159
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Caleb Williams,Over,222.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Caleb Williams,Under,222.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Mason Rudolph,Over,216.5,-116
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Mason Rudolph,Under,216.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,D'Andre Swift,Over,12.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,D'Andre Swift,Under,12.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jaylen Warren,Over,14.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jaylen Warren,Under,14.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Colston Loveland,Over,28.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Colston Loveland,Under,28.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jonnu Smith,Over,17.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jonnu Smith,Under,17.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Calvin Austin III,Over,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Calvin Austin III,Under,15.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Luther Burden III,Over,35.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Luther Burden III,Under,35.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Cole Kmet,Over,16.5,-116
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Cole Kmet,Under,16.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Darnell Washington,Over,20.5,-116
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Darnell Washington,Under,20.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Pat Freiermuth,Over,18.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Pat Freiermuth,Under,18.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,DJ Moore,Over,33.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,DJ Moore,Under,33.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Rome Odunze,Over,55.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Rome Odunze,Under,55.5,-108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Kenneth Gainwell,Over,17.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Kenneth Gainwell,Under,17.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Rome Odunze,Over,3.5,-147
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Rome Odunze,Under,3.5,113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,DJ Moore,Over,2.5,-149
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,DJ Moore,Under,2.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,D'Andre Swift,Over,1.5,-179
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,D'Andre Swift,Under,1.5,137
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Colston Loveland,Over,2.5,-123
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Colston Loveland,Under,2.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,DK Metcalf,Over,3.5,-143
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,DK Metcalf,Under,3.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Pat Freiermuth,Over,1.5,-152
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Pat Freiermuth,Under,1.5,116
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jaylen Warren,Over,2.5,122
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jaylen Warren,Under,2.5,-159
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Cole Kmet,Over,1.5,-156
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Cole Kmet,Under,1.5,121
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jonnu Smith,Over,2.5,120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jonnu Smith,Under,2.5,-156
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Calvin Austin III,Over,1.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Calvin Austin III,Under,1.5,-130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Luther Burden III,Over,3.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Luther Burden III,Under,3.5,-164
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Darnell Washington,Over,2.5,120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Darnell Washington,Under,2.5,-156
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Kenneth Gainwell,Over,2.5,-149
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_receptions,Kenneth Gainwell,Under,2.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Kyle Monangai,Over,33.5,-101
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Kyle Monangai,Under,33.5,-128
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Caleb Williams,Over,24.5,-116
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Caleb Williams,Under,24.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,D'Andre Swift,Over,57.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,D'Andre Swift,Under,57.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Kenneth Gainwell,Over,21.5,-116
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Kenneth Gainwell,Under,21.5,-111
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Jaylen Warren,Over,63.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Jaylen Warren,Under,63.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Brittain Brown,Yes,,2200
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Connor Heyward,Yes,,2000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,D'Andre Swift,Yes,,108
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Ben Skowronek,Yes,,1050
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Roman Wilson,Yes,,600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,DJ Moore,Yes,,230
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Colston Loveland,Yes,,295
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Devin Duvernay,Yes,,1200
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Luther Burden III,Yes,,360
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Mason Rudolph,Yes,,850
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,DK Metcalf,Yes,,155
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jaylen Warren,Yes,,-104
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Kenneth Gainwell,Yes,,320
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Pat Freiermuth,Yes,,390
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Scott Miller,Yes,,2400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Cole Kmet,Yes,,575
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Olamide Zaccheaus,Yes,,600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Caleb Williams,Yes,,320
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Kyle Monangai,Yes,,170
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Kaleb Johnson,Yes,,850
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Rome Odunze,Yes,,145
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Calvin Austin III,Yes,,650
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Darnell Washington,Yes,,310
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jonnu Smith,Yes,,335
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Ke'Shawn Williams,Yes,,2400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Durham Smythe,Yes,,1600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Caleb Williams,Over,1.5,102
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Caleb Williams,Under,1.5,-136
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Mason Rudolph,Over,1.5,123
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Mason Rudolph,Under,1.5,-165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Caleb Williams,Over,221.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Caleb Williams,Under,221.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Mason Rudolph,Over,220.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Mason Rudolph,Under,220.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jaylen Warren,Over,14.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jaylen Warren,Under,14.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Darnell Washington,Over,21.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Darnell Washington,Under,21.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jonnu Smith,Over,17.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jonnu Smith,Under,17.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,DJ Moore,Over,33.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,DJ Moore,Under,33.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Pat Freiermuth,Over,16.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Pat Freiermuth,Under,16.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Colston Loveland,Over,25.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Colston Loveland,Under,25.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,DK Metcalf,Over,49.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,DK Metcalf,Under,49.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Luther Burden III,Over,33.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Luther Burden III,Under,33.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Kenneth Gainwell,Over,16.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Kenneth Gainwell,Under,16.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Calvin Austin III,Over,16.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Calvin Austin III,Under,16.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Rome Odunze,Over,53.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Rome Odunze,Under,53.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,D'Andre Swift,Over,12.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,D'Andre Swift,Under,12.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Cole Kmet,Over,15.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Cole Kmet,Under,15.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Darnell Washington,Over,2.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Darnell Washington,Under,2.5,-152
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,D'Andre Swift,Over,1.5,-167
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,D'Andre Swift,Under,1.5,128
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Cole Kmet,Over,1.5,-152
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Cole Kmet,Under,1.5,114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Jaylen Warren,Over,2.5,118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Jaylen Warren,Under,2.5,-157
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Jonnu Smith,Over,2.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Jonnu Smith,Under,2.5,-167
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Luther Burden III,Over,3.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Luther Burden III,Under,3.5,-167
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Pat Freiermuth,Over,1.5,-134
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Pat Freiermuth,Under,1.5,102
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,DK Metcalf,Over,3.5,-130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,DK Metcalf,Under,3.5,-103
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Calvin Austin III,Over,1.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Calvin Austin III,Under,1.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Kenneth Gainwell,Over,2.5,-165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Kenneth Gainwell,Under,2.5,123
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,DJ Moore,Over,2.5,-148
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,DJ Moore,Under,2.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Colston Loveland,Over,2.5,-127
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Colston Loveland,Under,2.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Rome Odunze,Over,3.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_receptions,Rome Odunze,Under,3.5,112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,D'Andre Swift,Over,59.5,-113
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,D'Andre Swift,Under,59.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Kyle Monangai,Over,34.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Kyle Monangai,Under,34.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Kenneth Gainwell,Over,21.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Kenneth Gainwell,Under,21.5,-112
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Caleb Williams,Over,23.5,-117
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Caleb Williams,Under,23.5,-114
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Jaylen Warren,Over,63.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Jaylen Warren,Under,63.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jaylen Warren,Yes,,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,D'Andre Swift,Yes,,120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,DK Metcalf,Yes,,170
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Rome Odunze,Yes,,170
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Kyle Monangai,Yes,,210
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,DJ Moore,Yes,,250
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Colston Loveland,Yes,,300
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Darnell Washington,Yes,,320
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Kenneth Gainwell,Yes,,333
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Caleb Williams,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jonnu Smith,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Luther Burden III,Yes,,360
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Pat Freiermuth,Yes,,400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Calvin Austin III,Yes,,525
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Pittsburgh Steelers D/ST,Yes,,525
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Roman Wilson,Yes,,550
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Chicago Bears D/ST,Yes,,575
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Cole Kmet,Yes,,625
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Olamide Zaccheaus,Yes,,700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Kaleb Johnson,Yes,,825
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Mason Rudolph,Yes,,1000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Connor Heyward,Yes,,1700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Devin Duvernay,Yes,,1700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Ben Skowronek,Yes,,2500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Durham Smythe,Yes,,2800
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Ke'Shawn Williams,Yes,,2800
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Scott Miller,Yes,,2800
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_anytime_td,No Touchdown,Yes,,10000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Caleb Williams,Over,1.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Caleb Williams,Under,1.5,-155
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Mason Rudolph,Over,1.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Mason Rudolph,Under,1.5,-165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Caleb Williams,Over,218.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Caleb Williams,Under,218.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Mason Rudolph,Over,217.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Mason Rudolph,Under,217.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,D'Andre Swift,Over,12.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,D'Andre Swift,Under,12.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Rome Odunze,Over,50.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Rome Odunze,Under,50.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Colston Loveland,Over,28.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Colston Loveland,Under,28.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,DJ Moore,Over,34.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,DJ Moore,Under,34.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,DK Metcalf,Over,51.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,DK Metcalf,Under,51.5,-140
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jonnu Smith,Over,18.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jonnu Smith,Under,18.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Pat Freiermuth,Over,18.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Pat Freiermuth,Under,18.5,-140
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Roman Wilson,Over,19.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Roman Wilson,Under,19.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Luther Burden III,Over,33.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Luther Burden III,Under,33.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Cole Kmet,Over,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Cole Kmet,Under,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Kyle Monangai,Over,3.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Kyle Monangai,Under,3.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Darnell Washington,Over,21.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Darnell Washington,Under,21.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Olamide Zaccheaus,Over,7.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Olamide Zaccheaus,Under,7.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Kenneth Gainwell,Over,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Kenneth Gainwell,Under,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Calvin Austin III,Over,13.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Calvin Austin III,Under,13.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jaylen Warren,Over,11.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jaylen Warren,Under,11.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Rome Odunze,Over,3.5,-145
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Rome Odunze,Under,3.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,DJ Moore,Over,3.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,DJ Moore,Under,3.5,-165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,D'Andre Swift,Over,2.5,135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,D'Andre Swift,Under,2.5,-185
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Colston Loveland,Over,2.5,-125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Colston Loveland,Under,2.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,DK Metcalf,Over,3.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,DK Metcalf,Under,3.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Jonnu Smith,Over,2.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Jonnu Smith,Under,2.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Pat Freiermuth,Over,2.5,155
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Pat Freiermuth,Under,2.5,-210
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Roman Wilson,Over,1.5,-185
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Roman Wilson,Under,1.5,135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Darnell Washington,Over,2.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Darnell Washington,Under,2.5,-155
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Jaylen Warren,Over,2.5,135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Jaylen Warren,Under,2.5,-185
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Calvin Austin III,Over,1.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Calvin Austin III,Under,1.5,-130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Cole Kmet,Over,1.5,-145
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Cole Kmet,Under,1.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Luther Burden III,Over,3.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Luther Burden III,Under,3.5,-165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Kyle Monangai,Over,0.5,-210
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Kyle Monangai,Under,0.5,150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Kenneth Gainwell,Over,2.5,-140
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Kenneth Gainwell,Under,2.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Olamide Zaccheaus,Over,1.5,175
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_receptions,Olamide Zaccheaus,Under,1.5,-235
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Caleb Williams,Over,21.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Caleb Williams,Under,21.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Kyle Monangai,Over,33.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Kyle Monangai,Under,33.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,D'Andre Swift,Over,58.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,D'Andre Swift,Under,58.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Kenneth Gainwell,Over,24.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Kenneth Gainwell,Under,24.5,-165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,DK Metcalf,Over,0.5,875
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,DK Metcalf,Under,0.5,-2500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,DJ Moore,Over,0.5,120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,DJ Moore,Under,0.5,-160
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jaylen Warren,Over,64.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jaylen Warren,Under,64.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Mason Rudolph,Over,6.5,-118
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Mason Rudolph,Under,6.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,D'Andre Swift,Yes,,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Rome Odunze,Yes,,160
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Chicago Bears D/ST,Yes,,420
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,DK Metcalf,Yes,,165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jaylen Warren,Yes,,120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Pittsburgh Steelers D/ST,Yes,,470
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Caleb Williams,Yes,,345
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,DJ Moore,Yes,,225
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Kyle Monangai,Yes,,205
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Colston Loveland,Yes,,285
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Durham Smythe,Yes,,1300
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Olamide Zaccheaus,Yes,,550
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Devin Duvernay,Yes,,1050
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Cole Kmet,Yes,,530
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Luther Burden III,Yes,,345
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jonnu Smith,Yes,,345
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Scott Miller,Yes,,1800
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Ben Skowronek,Yes,,1700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Kenneth Gainwell,Yes,,325
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Pat Freiermuth,Yes,,345
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Calvin Austin III,Yes,,550
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Connor Heyward,Yes,,1050
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Roman Wilson,Yes,,500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Kaleb Johnson,Yes,,700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Darnell Washington,Yes,,295
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Mason Rudolph,Yes,,800
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Brittain Brown,Yes,,1050
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Nikola Kalinic,Yes,,2500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Caleb Williams,Over,1.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Caleb Williams,Under,1.5,-140
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Mason Rudolph,Over,1.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Mason Rudolph,Under,1.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Caleb Williams,Over,220.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Caleb Williams,Under,220.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,D'Andre Swift,Over,10.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,D'Andre Swift,Under,10.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Rome Odunze,Over,50.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Rome Odunze,Under,50.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,DK Metcalf,Over,50.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,DK Metcalf,Under,50.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,DJ Moore,Over,30.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,DJ Moore,Under,30.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jaylen Warren,Over,15.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jaylen Warren,Under,15.5,-125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Pat Freiermuth,Over,15.5,-125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Pat Freiermuth,Under,15.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jonnu Smith,Over,15.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jonnu Smith,Under,15.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Cole Kmet,Over,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Cole Kmet,Under,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Darnell Washington,Over,20.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Darnell Washington,Under,20.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Luther Burden III,Over,30.5,-125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Luther Burden III,Under,30.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Colston Loveland,Over,25.5,-140
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Colston Loveland,Under,25.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Calvin Austin III,Over,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Calvin Austin III,Under,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Kenneth Gainwell,Over,15.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Kenneth Gainwell,Under,15.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Roman Wilson,Over,20.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Roman Wilson,Under,20.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,D'Andre Swift,Over,2.5,155
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,D'Andre Swift,Under,2.5,-220
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Rome Odunze,Over,4.5,160
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Rome Odunze,Under,4.5,-230
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,DJ Moore,Over,3.5,160
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,DJ Moore,Under,3.5,-230
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Jonnu Smith,Over,2.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Jonnu Smith,Under,2.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,DK Metcalf,Over,3.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,DK Metcalf,Under,3.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Darnell Washington,Over,2.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Darnell Washington,Under,2.5,-155
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Pat Freiermuth,Over,1.5,-140
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Pat Freiermuth,Under,1.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Jaylen Warren,Over,2.5,130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Jaylen Warren,Under,2.5,-180
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Cole Kmet,Over,1.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Cole Kmet,Under,1.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Luther Burden III,Over,3.5,120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Luther Burden III,Under,3.5,-165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Calvin Austin III,Over,1.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Calvin Austin III,Under,1.5,-125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Kenneth Gainwell,Over,3.5,175
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Kenneth Gainwell,Under,3.5,-255
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Colston Loveland,Over,2.5,-125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Colston Loveland,Under,2.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Roman Wilson,Over,2.5,155
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_receptions,Roman Wilson,Under,2.5,-220
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,D'Andre Swift,Over,60.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,D'Andre Swift,Under,60.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Caleb Williams,Over,25.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Caleb Williams,Under,25.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Jaylen Warren,Over,60.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Jaylen Warren,Under,60.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Kyle Monangai,Over,30.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Kyle Monangai,Under,30.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Kenneth Gainwell,Over,20.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Kenneth Gainwell,Under,20.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Nikola Kalinic,Yes,,4000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Brittain Brown,Yes,,1600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Mason Rudolph,Yes,,1000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,DK Metcalf,Yes,,180
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,D'Andre Swift,Yes,,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jaylen Warren,Yes,,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Rome Odunze,Yes,,165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Connor Heyward,Yes,,2800
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Scott Miller,Yes,,4000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Kyle Monangai,Yes,,215
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jonnu Smith,Yes,,390
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Pat Freiermuth,Yes,,400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Darnell Washington,Yes,,350
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Roman Wilson,Yes,,500
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Ke'Shawn Williams,Yes,,4000
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Luther Burden III,Yes,,400
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Olamide Zaccheaus,Yes,,700
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Cole Kmet,Yes,,525
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Calvin Austin III,Yes,,600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Ben Skowronek,Yes,,2800
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Devin Duvernay,Yes,,1600
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Durham Smythe,Yes,,2200
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Kaleb Johnson,Yes,,825
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Colston Loveland,Yes,,340
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,DJ Moore,Yes,,225
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Caleb Williams,Yes,,360
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_anytime_td,Kenneth Gainwell,Yes,,330
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_pass_tds,Caleb Williams,Over,1.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_pass_tds,Caleb Williams,Under,1.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_pass_tds,Mason Rudolph,Over,1.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_pass_tds,Mason Rudolph,Under,1.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_pass_yds,Caleb Williams,Over,222.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_pass_yds,Caleb Williams,Under,222.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_pass_yds,Mason Rudolph,Over,220.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_pass_yds,Mason Rudolph,Under,220.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Calvin Austin III,Over,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Calvin Austin III,Under,15.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Cole Kmet,Over,12.5,-145
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Cole Kmet,Under,12.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Colston Loveland,Over,27.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Colston Loveland,Under,27.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,D'Andre Swift,Over,11.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,D'Andre Swift,Under,11.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Darnell Washington,Over,19.5,-145
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Darnell Washington,Under,19.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,DJ Moore,Over,33.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,DJ Moore,Under,33.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,DK Metcalf,Over,48.5,-130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,DK Metcalf,Under,48.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jaylen Warren,Over,14.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jaylen Warren,Under,14.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jonnu Smith,Over,16.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jonnu Smith,Under,16.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Kenneth Gainwell,Over,14.5,-165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Kenneth Gainwell,Under,14.5,125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Luther Burden III,Over,35.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Luther Burden III,Under,35.5,-130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Pat Freiermuth,Over,14.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Pat Freiermuth,Under,14.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Rome Odunze,Over,50.5,-130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_reception_yds,Rome Odunze,Under,50.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Calvin Austin III,Over,1.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Calvin Austin III,Under,1.5,-115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Cole Kmet,Over,1.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Cole Kmet,Under,1.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Colston Loveland,Over,2.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Colston Loveland,Under,2.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,D'Andre Swift,Over,1.5,-185
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,D'Andre Swift,Under,1.5,140
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Darnell Washington,Over,1.5,-220
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Darnell Washington,Under,1.5,165
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,DJ Moore,Over,2.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,DJ Moore,Under,2.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,DK Metcalf,Over,3.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,DK Metcalf,Under,3.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Jaylen Warren,Over,2.5,120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Jaylen Warren,Under,2.5,-160
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Jonnu Smith,Over,2.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Jonnu Smith,Under,2.5,-145
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Kenneth Gainwell,Over,2.5,-125
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Kenneth Gainwell,Under,2.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Luther Burden III,Over,3.5,135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Luther Burden III,Under,3.5,-180
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Pat Freiermuth,Over,1.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Pat Freiermuth,Under,1.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Rome Odunze,Over,3.5,-150
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_receptions,Rome Odunze,Under,3.5,115
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,Caleb Williams,Over,22.5,-120
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,Caleb Williams,Under,22.5,-110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,D'Andre Swift,Over,59.5,105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,D'Andre Swift,Under,59.5,-135
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,Jaylen Warren,Over,59.5,-145
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,Jaylen Warren,Under,59.5,110
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,Kenneth Gainwell,Over,20.5,-130
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,Kenneth Gainwell,Under,20.5,100
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,Kyle Monangai,Over,33.5,-105
+Pittsburgh Steelers,Chicago Bears,2025-11-23T17:35:37Z,bovada,player_rush_yds,Kyle Monangai,Under,33.5,-125

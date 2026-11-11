@@ -1,0 +1,586 @@
+away,home,snapshot,book,market,player,side,point,price
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Jahmyr Gibbs,Yes,,-390
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Amon-Ra St. Brown,Yes,,-145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Josh Jacobs,Yes,,100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Christian Watson,Yes,,125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Sam LaPorta,Yes,,145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Matthew Golden,Yes,,150
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Tucker Kraft,Yes,,165
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Jameson Williams,Yes,,175
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Savion Williams,Yes,,340
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Isaac TeSlaa,Yes,,360
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Pierre Strong Jr.,Yes,,380
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,MarShawn Lloyd,Yes,,450
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Detroit Lions D/ST,Yes,,550
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Green Bay Packers D/ST,Yes,,700
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Jordan Love,Yes,,750
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Brock Wright,Yes,,800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Sione Vaki,Yes,,950
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Jared Goff,Yes,,950
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Jonnu Smith,Yes,,1100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Mark Redman,Yes,,1100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Bo Melton,Yes,,1300
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Tyler Conklin,Yes,,1400
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Josh Whyle,Yes,,1900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,DeAndre Carter,Yes,,2000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Tay Martin,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,J. Michael Sturdivant,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Coleman Owen,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Jackson Meeks,Yes,,2500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_anytime_td,Jacob Saylors,Yes,,3000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_pass_tds,Jared Goff,Over,2.5,127
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_pass_tds,Jared Goff,Under,2.5,-163
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_pass_tds,Jordan Love,Over,1.5,-190
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_pass_tds,Jordan Love,Under,1.5,148
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_pass_yds,Jordan Love,Over,285.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_pass_yds,Jordan Love,Under,285.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_pass_yds,Jared Goff,Over,280.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_pass_yds,Jared Goff,Under,280.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Amon-Ra St. Brown,Over,81.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Amon-Ra St. Brown,Under,81.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Christian Watson,Over,77.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Christian Watson,Under,77.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Matthew Golden,Over,73.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Matthew Golden,Under,73.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Jameson Williams,Over,55.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Jameson Williams,Under,55.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Sam LaPorta,Over,51.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Sam LaPorta,Under,51.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Tucker Kraft,Over,49.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Tucker Kraft,Under,49.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Jahmyr Gibbs,Over,41.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Jahmyr Gibbs,Under,41.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Savion Williams,Over,25.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Savion Williams,Under,25.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Isaac TeSlaa,Over,24.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Isaac TeSlaa,Under,24.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Josh Jacobs,Over,9.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Josh Jacobs,Under,9.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Pierre Strong Jr.,Over,7.5,-108
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_reception_yds,Pierre Strong Jr.,Under,7.5,-116
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Amon-Ra St. Brown,Over,7.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Amon-Ra St. Brown,Under,7.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Sam LaPorta,Over,5.5,109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Sam LaPorta,Under,5.5,-140
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Matthew Golden,Over,5.5,116
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Matthew Golden,Under,5.5,-148
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Jahmyr Gibbs,Over,5.5,126
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Jahmyr Gibbs,Under,5.5,-161
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Tucker Kraft,Over,4.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Tucker Kraft,Under,4.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Christian Watson,Over,4.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Christian Watson,Under,4.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Jameson Williams,Over,3.5,-147
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Jameson Williams,Under,3.5,115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Savion Williams,Over,2.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Savion Williams,Under,2.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Isaac TeSlaa,Over,1.5,-151
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Isaac TeSlaa,Under,1.5,118
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Josh Jacobs,Over,1.5,-125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Josh Jacobs,Under,1.5,-102
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Pierre Strong Jr.,Over,1.5,113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_receptions,Pierre Strong Jr.,Under,1.5,-144
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Jahmyr Gibbs,Over,97.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Jahmyr Gibbs,Under,97.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Josh Jacobs,Over,50.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Josh Jacobs,Under,50.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,MarShawn Lloyd,Over,10.5,-116
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,MarShawn Lloyd,Under,10.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Pierre Strong Jr.,Over,8.5,-118
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Pierre Strong Jr.,Under,8.5,-107
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Sione Vaki,Over,8.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Sione Vaki,Under,8.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Jordan Love,Over,6.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Jordan Love,Under,6.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Jared Goff,Over,0.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,draftkings,player_rush_yds,Jared Goff,Under,0.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Jahmyr Gibbs,Yes,,-380
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Amon-Ra St. Brown,Yes,,-143
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Josh Jacobs,Yes,,105
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Christian Watson,Yes,,125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Sam LaPorta,Yes,,144
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Matthew Golden,Yes,,152
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Tucker Kraft,Yes,,157
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Jameson Williams,Yes,,181
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Savion Williams,Yes,,340
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Isaac TeSlaa,Yes,,360
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Pierre Strong Jr.,Yes,,380
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,MarShawn Lloyd,Yes,,425
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Brock Wright,Yes,,700
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Jordan Love,Yes,,750
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Jonnu Smith,Yes,,900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Jared Goff,Yes,,900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Sione Vaki,Yes,,950
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Mark Redman,Yes,,950
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Tyler Conklin,Yes,,1300
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Bo Melton,Yes,,1300
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Josh Whyle,Yes,,1500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,DeAndre Carter,Yes,,1800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Coleman Owen,Yes,,2000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Tay Martin,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Jackson Meeks,Yes,,2300
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,williamhill_us,player_anytime_td,Jacob Saylors,Yes,,2800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Jahmyr Gibbs,Yes,,-390
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Amon-Ra St. Brown,Yes,,-145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Josh Jacobs,Yes,,105
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Christian Watson,Yes,,120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Sam LaPorta,Yes,,140
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Matthew Golden,Yes,,145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Tucker Kraft,Yes,,165
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Jameson Williams,Yes,,180
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Savion Williams,Yes,,370
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Isaac TeSlaa,Yes,,390
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Pierre Strong Jr.,Yes,,400
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,MarShawn Lloyd,Yes,,440
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Green Bay Packers Defense,Yes,,750
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Brock Wright,Yes,,750
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Detroit Lions Defense,Yes,,750
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Jordan Love,Yes,,800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Jonnu Smith,Yes,,850
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Jared Goff,Yes,,950
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Mark Redman,Yes,,950
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Sione Vaki,Yes,,1000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Tyler Conklin,Yes,,1300
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Bo Melton,Yes,,1500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Josh Whyle,Yes,,1500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,DeAndre Carter,Yes,,1700
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Coleman Owen,Yes,,2000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,J. Michael Sturdivant,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Tay Martin,Yes,,2700
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Jackson Meeks,Yes,,3000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_anytime_td,Jacob Saylors,Yes,,3300
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_pass_tds,Jordan Love,Over,1.5,-196
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_pass_tds,Jordan Love,Under,1.5,148
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_pass_tds,Jared Goff,Over,2.5,136
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_pass_tds,Jared Goff,Under,2.5,-182
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_pass_yds,Jordan Love,Over,281.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_pass_yds,Jordan Love,Under,281.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_pass_yds,Jared Goff,Over,278.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_pass_yds,Jared Goff,Under,278.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Sam LaPorta,Over,49.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Sam LaPorta,Under,49.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Christian Watson,Over,74.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Christian Watson,Under,74.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Amon-Ra St. Brown,Over,78.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Amon-Ra St. Brown,Under,78.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Matthew Golden,Over,73.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Matthew Golden,Under,73.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Jahmyr Gibbs,Over,39.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Jahmyr Gibbs,Under,39.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Josh Jacobs,Over,9.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Josh Jacobs,Under,9.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Tucker Kraft,Over,49.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Tucker Kraft,Under,49.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Jameson Williams,Over,54.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Jameson Williams,Under,54.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Isaac TeSlaa,Over,24.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Isaac TeSlaa,Under,24.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Savion Williams,Over,24.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Savion Williams,Under,24.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Pierre Strong Jr.,Over,6.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_reception_yds,Pierre Strong Jr.,Under,6.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Sam LaPorta,Over,4.5,-148
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Sam LaPorta,Under,4.5,112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Christian Watson,Over,4.5,-130
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Christian Watson,Under,4.5,-102
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Jahmyr Gibbs,Over,4.5,-158
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Jahmyr Gibbs,Under,4.5,118
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Matthew Golden,Over,4.5,-154
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Matthew Golden,Under,4.5,116
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Isaac TeSlaa,Over,1.5,-144
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Isaac TeSlaa,Under,1.5,108
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Josh Jacobs,Over,1.5,-132
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Josh Jacobs,Under,1.5,100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Tucker Kraft,Over,4.5,-102
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Tucker Kraft,Under,4.5,-130
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Jameson Williams,Over,3.5,-138
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Jameson Williams,Under,3.5,104
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Savion Williams,Over,2.5,-102
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Savion Williams,Under,2.5,-130
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Pierre Strong Jr.,Over,1.5,116
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Pierre Strong Jr.,Under,1.5,-154
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Amon-Ra St. Brown,Over,7.5,100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_receptions,Amon-Ra St. Brown,Under,7.5,-132
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Sione Vaki,Over,8.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Sione Vaki,Under,8.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Josh Jacobs,Over,51.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Josh Jacobs,Under,51.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,MarShawn Lloyd,Over,10.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,MarShawn Lloyd,Under,10.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Pierre Strong Jr.,Over,7.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Pierre Strong Jr.,Under,7.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Jared Goff,Over,0.5,-130
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Jared Goff,Under,0.5,102
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Jordan Love,Over,7.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Jordan Love,Under,7.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Jahmyr Gibbs,Over,93.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanduel,player_rush_yds,Jahmyr Gibbs,Under,93.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Amon-Ra St. Brown,Yes,,-167
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Christian Watson,Yes,,120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Tucker Kraft,Yes,,140
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Jameson Williams,Yes,,170
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Jahmyr Gibbs,Yes,,-500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Sam LaPorta,Yes,,140
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Jacob Saylors,Yes,,1900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Jackson Meeks,Yes,,1700
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Josh Whyle,Yes,,1400
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Jared Goff,Yes,,900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Tay Martin,Yes,,1900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Mark Redman,Yes,,900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Jonnu Smith,Yes,,800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Jordan Love,Yes,,750
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Savion Williams,Yes,,325
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Brock Wright,Yes,,650
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Sione Vaki,Yes,,900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Bo Melton,Yes,,1100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Kaleb Johnson,Yes,,500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Isaac TeSlaa,Yes,,350
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Pierre Strong Jr.,Yes,,350
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,MarShawn Lloyd,Yes,,400
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Josh Jacobs,Yes,,100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_anytime_td,Tyler Conklin,Yes,,1300
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_pass_tds,Jordan Love,Over,1.5,-196
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_pass_tds,Jordan Love,Under,1.5,148
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_pass_tds,Jared Goff,Over,2.5,141
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_pass_tds,Jared Goff,Under,2.5,-185
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_pass_yds,Jordan Love,Over,283.5,-118
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_pass_yds,Jordan Love,Under,283.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_pass_yds,Jared Goff,Over,285.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_pass_yds,Jared Goff,Under,285.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Amon-Ra St. Brown,Over,78.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Amon-Ra St. Brown,Under,78.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Sam LaPorta,Over,49.5,-125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Sam LaPorta,Under,49.5,-103
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Isaac TeSlaa,Over,24.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Isaac TeSlaa,Under,24.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Tucker Kraft,Over,49.5,-119
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Tucker Kraft,Under,49.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Jameson Williams,Over,54.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Jameson Williams,Under,54.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Josh Jacobs,Over,9.5,-119
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Josh Jacobs,Under,9.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Pierre Strong Jr.,Over,6.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Pierre Strong Jr.,Under,6.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Savion Williams,Over,25.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Savion Williams,Under,25.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Jahmyr Gibbs,Over,41.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Jahmyr Gibbs,Under,41.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Christian Watson,Over,78.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_reception_yds,Christian Watson,Under,78.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Tucker Kraft,Over,4.5,-130
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Tucker Kraft,Under,4.5,100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Isaac TeSlaa,Over,1.5,-145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Isaac TeSlaa,Under,1.5,111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Christian Watson,Over,4.5,-123
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Christian Watson,Under,4.5,-105
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Amon-Ra St. Brown,Over,7.5,-106
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Amon-Ra St. Brown,Under,7.5,-122
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Jameson Williams,Over,3.5,-141
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Jameson Williams,Under,3.5,109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Savion Williams,Over,2.5,-103
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Savion Williams,Under,2.5,-125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Sam LaPorta,Over,5.5,106
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Sam LaPorta,Under,5.5,-137
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Josh Jacobs,Over,1.5,-132
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Josh Jacobs,Under,1.5,102
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Pierre Strong Jr.,Over,1.5,110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Pierre Strong Jr.,Under,1.5,-143
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Jahmyr Gibbs,Over,5.5,118
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_receptions,Jahmyr Gibbs,Under,5.5,-154
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Jordan Love,Over,7.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Jordan Love,Under,7.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Jahmyr Gibbs,Over,94.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Jahmyr Gibbs,Under,94.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Sione Vaki,Over,8.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Sione Vaki,Under,8.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Pierre Strong Jr.,Over,8.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Pierre Strong Jr.,Under,8.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,MarShawn Lloyd,Over,10.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,MarShawn Lloyd,Under,10.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Josh Jacobs,Over,51.5,-116
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betonlineag,player_rush_yds,Josh Jacobs,Under,51.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Jackson Meeks,Yes,,1150
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Savion Williams,Yes,,360
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Matthew Golden,Yes,,145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Tyler Conklin,Yes,,1500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Jared Goff,Yes,,1000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Pierre Strong Jr.,Yes,,330
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Jonnu Smith,Yes,,900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Tay Martin,Yes,,1500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Jordan Love,Yes,,750
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Josh Whyle,Yes,,1800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Josh Jacobs,Yes,,-106
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Sam LaPorta,Yes,,160
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Sione Vaki,Yes,,650
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Amon-Ra St. Brown,Yes,,-148
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,MarShawn Lloyd,Yes,,220
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Jacob Saylors,Yes,,2800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Christian Watson,Yes,,108
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Mark Redman,Yes,,850
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Isaac TeSlaa,Yes,,350
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Bo Melton,Yes,,1400
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Tucker Kraft,Yes,,160
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Jahmyr Gibbs,Yes,,-455
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Jameson Williams,Yes,,170
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_anytime_td,Brock Wright,Yes,,600
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_pass_tds,Jared Goff,Over,2.5,148
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_pass_tds,Jared Goff,Under,2.5,-200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_pass_tds,Jordan Love,Over,1.5,-220
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_pass_tds,Jordan Love,Under,1.5,160
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_pass_yds,Jared Goff,Over,295.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_pass_yds,Jared Goff,Under,295.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_pass_yds,Jordan Love,Over,288.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_pass_yds,Jordan Love,Under,288.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Matthew Golden,Over,74.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Matthew Golden,Under,74.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Jameson Williams,Over,57.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Jameson Williams,Under,57.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Jahmyr Gibbs,Over,40.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Jahmyr Gibbs,Under,40.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Isaac TeSlaa,Over,24.5,-118
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Isaac TeSlaa,Under,24.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Savion Williams,Over,23.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Savion Williams,Under,23.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Tucker Kraft,Over,51.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Tucker Kraft,Under,51.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Josh Jacobs,Over,9.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Josh Jacobs,Under,9.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Sam LaPorta,Over,53.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Sam LaPorta,Under,53.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Christian Watson,Over,76.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Christian Watson,Under,76.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Amon-Ra St. Brown,Over,82.5,-118
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_reception_yds,Amon-Ra St. Brown,Under,82.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Amon-Ra St. Brown,Over,7.5,-107
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Sam LaPorta,Over,4.5,-155
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Christian Watson,Over,4.5,-122
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Tucker Kraft,Over,4.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Jameson Williams,Over,3.5,-165
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Matthew Golden,Over,5.5,112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Josh Jacobs,Over,1.5,-136
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Jahmyr Gibbs,Over,4.5,-137
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Isaac TeSlaa,Over,1.5,-162
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_receptions,Savion Williams,Over,2.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Jordan Love,Over,7.5,-122
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Jordan Love,Under,7.5,-109
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Jahmyr Gibbs,Over,93.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Jahmyr Gibbs,Under,93.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Pierre Strong Jr.,Over,8.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Pierre Strong Jr.,Under,8.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,MarShawn Lloyd,Over,9.5,-112
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,MarShawn Lloyd,Under,9.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Sione Vaki,Over,8.5,-118
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Sione Vaki,Under,8.5,-113
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Josh Jacobs,Over,53.5,-114
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betrivers,player_rush_yds,Josh Jacobs,Under,53.5,-117
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Detroit Lions D/ST,Yes,,475
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Brock Wright,Yes,,775
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Green Bay Packers D/ST,Yes,,600
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Jonnu Smith,Yes,,1000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Jahmyr Gibbs,Yes,,-350
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Tucker Kraft,Yes,,175
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Jameson Williams,Yes,,200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Isaac TeSlaa,Yes,,340
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,J. Michael Sturdivant,Yes,,2500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Sione Vaki,Yes,,850
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Jacob Saylors,Yes,,1700
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Josh Whyle,Yes,,1550
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Tyler Conklin,Yes,,1850
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,MarShawn Lloyd,Yes,,390
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Jared Goff,Yes,,950
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Jordan Love,Yes,,825
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Savion Williams,Yes,,380
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Amon-Ra St. Brown,Yes,,-125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Christian Watson,Yes,,120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Bo Melton,Yes,,1050
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Pierre Strong Jr.,Yes,,360
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Sam LaPorta,Yes,,175
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Matthew Golden,Yes,,135
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Josh Jacobs,Yes,,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Jackson Meeks,Yes,,4000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Tay Martin,Yes,,3000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Mark Redman,Yes,,1050
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_anytime_td,Coleman Owen,Yes,,2000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_pass_tds,Jordan Love,Over,1.5,-190
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_pass_tds,Jordan Love,Under,1.5,140
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_pass_tds,Jared Goff,Over,2.5,155
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_pass_tds,Jared Goff,Under,2.5,-210
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_pass_yds,Jared Goff,Over,278.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_pass_yds,Jared Goff,Under,278.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_pass_yds,Jordan Love,Over,283.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_pass_yds,Jordan Love,Under,283.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Isaac TeSlaa,Over,22.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Isaac TeSlaa,Under,22.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Christian Watson,Over,76.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Christian Watson,Under,76.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Tucker Kraft,Over,49.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Tucker Kraft,Under,49.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Josh Jacobs,Over,10.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Josh Jacobs,Under,10.5,-111
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Savion Williams,Over,21.5,-135
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Savion Williams,Under,21.5,100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Amon-Ra St. Brown,Over,78.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Amon-Ra St. Brown,Under,78.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Jahmyr Gibbs,Over,42.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Jahmyr Gibbs,Under,42.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Sam LaPorta,Over,48.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Sam LaPorta,Under,48.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Matthew Golden,Over,72.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Matthew Golden,Under,72.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Jameson Williams,Over,52.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_reception_yds,Jameson Williams,Under,52.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Sam LaPorta,Over,4.5,-140
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Sam LaPorta,Under,4.5,105
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Amon-Ra St. Brown,Over,7.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Amon-Ra St. Brown,Under,7.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Jameson Williams,Over,3.5,-150
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Jameson Williams,Under,3.5,110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Savion Williams,Over,2.5,100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Savion Williams,Under,2.5,-135
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Matthew Golden,Over,5.5,110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Matthew Golden,Under,5.5,-150
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Tucker Kraft,Over,4.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Tucker Kraft,Under,4.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Josh Jacobs,Over,1.5,-140
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Josh Jacobs,Under,1.5,105
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Jahmyr Gibbs,Over,5.5,110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_receptions,Jahmyr Gibbs,Under,5.5,-150
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_rush_yds,Josh Jacobs,Over,48.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_rush_yds,Josh Jacobs,Under,48.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_rush_yds,Jahmyr Gibbs,Over,94.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,betmgm,player_rush_yds,Jahmyr Gibbs,Under,94.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Tyler Conklin,Yes,,1100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Jared Goff,Yes,,1000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Amon-Ra St. Brown,Yes,,-145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Brock Wright,Yes,,650
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Tay Martin,Yes,,2800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Jameson Williams,Yes,,185
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Jacob Saylors,Yes,,2800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Jahmyr Gibbs,Yes,,-400
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Sam LaPorta,Yes,,130
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Sione Vaki,Yes,,1000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Isaac TeSlaa,Yes,,380
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Jackson Meeks,Yes,,1300
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Detroit Lions D/ST,Yes,,575
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Jonnu Smith,Yes,,600
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Jordan Love,Yes,,800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Pierre Strong Jr.,Yes,,420
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Christian Watson,Yes,,115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Bo Melton,Yes,,1500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Josh Whyle,Yes,,1100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Tucker Kraft,Yes,,135
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,MarShawn Lloyd,Yes,,450
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Kaleb Johnson,Yes,,525
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Savion Williams,Yes,,380
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Matthew Golden,Yes,,140
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Mark Redman,Yes,,1100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,J. Michael Sturdivant,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Green Bay Packers D/ST,Yes,,600
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Josh Jacobs,Yes,,105
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,DeAndre Carter,Yes,,1900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_anytime_td,Coleman Owen,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_pass_tds,Jared Goff,Over,2.5,130
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_pass_tds,Jared Goff,Under,2.5,-170
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_pass_yds,Jordan Love,Over,280.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_pass_yds,Jordan Love,Under,280.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_reception_yds,Matthew Golden,Over,70.5,-125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_reception_yds,Matthew Golden,Under,70.5,-105
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_receptions,Tucker Kraft,Over,4.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_receptions,Tucker Kraft,Under,4.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_rush_yds,Jahmyr Gibbs,Over,95.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,fanatics,player_rush_yds,Jahmyr Gibbs,Under,95.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Coleman Owen,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,J. Michael Sturdivant,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Sione Vaki,Yes,,900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Tay Martin,Yes,,2200
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Jackson Meeks,Yes,,2500
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Brock Wright,Yes,,800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Tyler Conklin,Yes,,1400
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Isaac TeSlaa,Yes,,360
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Jacob Saylors,Yes,,2800
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Jared Goff,Yes,,900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Detroit Lions D/ST,Yes,,525
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Green Bay Packers D/ST,Yes,,700
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Jahmyr Gibbs,Yes,,-400
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Christian Watson,Yes,,125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Sam LaPorta,Yes,,145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Matthew Golden,Yes,,150
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Tucker Kraft,Yes,,165
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Amon-Ra St. Brown,Yes,,-148
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Jameson Williams,Yes,,175
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Josh Jacobs,Yes,,100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Pierre Strong Jr.,Yes,,380
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Jonnu Smith,Yes,,1100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Bo Melton,Yes,,1300
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Savion Williams,Yes,,340
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Jordan Love,Yes,,725
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Mark Redman,Yes,,1100
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,MarShawn Lloyd,Yes,,440
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,Josh Whyle,Yes,,1900
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_anytime_td,DeAndre Carter,Yes,,2000
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_pass_tds,Jared Goff,Over,2.5,125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_pass_tds,Jared Goff,Under,2.5,-165
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_pass_tds,Jordan Love,Over,1.5,-190
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_pass_tds,Jordan Love,Under,1.5,145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_pass_yds,Jared Goff,Over,280.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_pass_yds,Jared Goff,Under,280.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_pass_yds,Jordan Love,Over,285.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_pass_yds,Jordan Love,Under,285.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Amon-Ra St. Brown,Over,81.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Amon-Ra St. Brown,Under,81.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Christian Watson,Over,77.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Christian Watson,Under,77.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Isaac TeSlaa,Over,24.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Isaac TeSlaa,Under,24.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Jahmyr Gibbs,Over,41.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Jahmyr Gibbs,Under,41.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Jameson Williams,Over,55.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Jameson Williams,Under,55.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Josh Jacobs,Over,9.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Josh Jacobs,Under,9.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Matthew Golden,Over,73.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Matthew Golden,Under,73.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Pierre Strong Jr.,Over,7.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Pierre Strong Jr.,Under,7.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Sam LaPorta,Over,51.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Sam LaPorta,Under,51.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Savion Williams,Over,25.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Savion Williams,Under,25.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Tucker Kraft,Over,49.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_reception_yds,Tucker Kraft,Under,49.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Amon-Ra St. Brown,Over,7.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Amon-Ra St. Brown,Under,7.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Christian Watson,Over,4.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Christian Watson,Under,4.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Isaac TeSlaa,Over,1.5,-150
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Isaac TeSlaa,Under,1.5,115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Jahmyr Gibbs,Over,5.5,125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Jahmyr Gibbs,Under,5.5,-165
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Jameson Williams,Over,3.5,-145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Jameson Williams,Under,3.5,110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Josh Jacobs,Over,1.5,-125
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Josh Jacobs,Under,1.5,-105
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Matthew Golden,Over,5.5,115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Matthew Golden,Under,5.5,-150
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Pierre Strong Jr.,Over,1.5,110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Pierre Strong Jr.,Under,1.5,-145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Sam LaPorta,Over,5.5,110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Sam LaPorta,Under,5.5,-145
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Savion Williams,Over,2.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Savion Williams,Under,2.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Tucker Kraft,Over,4.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_receptions,Tucker Kraft,Under,4.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Jahmyr Gibbs,Over,97.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Jahmyr Gibbs,Under,97.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Jared Goff,Over,0.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Jared Goff,Under,0.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Jordan Love,Over,6.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Jordan Love,Under,6.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Josh Jacobs,Over,50.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Josh Jacobs,Under,50.5,-115
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,MarShawn Lloyd,Over,10.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,MarShawn Lloyd,Under,10.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Pierre Strong Jr.,Over,8.5,-120
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Pierre Strong Jr.,Under,8.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Sione Vaki,Over,8.5,-110
+Green Bay Packers,Detroit Lions,2026-10-25T05:39:07Z,bovada,player_rush_yds,Sione Vaki,Under,8.5,-120

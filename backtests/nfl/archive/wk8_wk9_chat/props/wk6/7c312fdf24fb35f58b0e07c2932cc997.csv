@@ -1,0 +1,659 @@
+away,home,snapshot,book,market,player,side,point,price
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Bijan Robinson,Yes,,-280
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,D'Andre Swift,Yes,,-180
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Drake London,Yes,,105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Rome Odunze,Yes,,165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Luther Burden III,Yes,,190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Brian Robinson Jr.,Yes,,195
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Colston Loveland,Yes,,195
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Kyle Pitts,Yes,,310
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Caleb Williams,Yes,,340
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Kalif Raymond,Yes,,350
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Jahan Dotson,Yes,,370
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Roschon Johnson,Yes,,370
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Cole Kmet,Yes,,500
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Atlanta Falcons D/ST,Yes,,600
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Chicago Bears D/ST,Yes,,600
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Zachariah Branch,Yes,,750
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Olamide Zaccheaus,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Austin Hooper,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Michael Penix Jr.,Yes,,1100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Charlie Woerner,Yes,,1100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Zavion Thomas,Yes,,1300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Jahdae Walker,Yes,,1500
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Sam Roush,Yes,,1500
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Nick Muse,Yes,,1900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Zavier Scott,Yes,,2200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_anytime_td,Chris Blair,Yes,,2800
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_pass_tds,Caleb Williams,Over,1.5,-136
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_pass_tds,Caleb Williams,Under,1.5,107
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_pass_tds,Michael Penix Jr.,Over,1.5,-102
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_pass_tds,Michael Penix Jr.,Under,1.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_pass_yds,Michael Penix Jr.,Over,234.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_pass_yds,Michael Penix Jr.,Under,234.5,-111
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_pass_yds,Caleb Williams,Over,234.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_pass_yds,Caleb Williams,Under,234.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Drake London,Over,90.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Drake London,Under,90.5,-111
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Luther Burden III,Over,53.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Luther Burden III,Under,53.5,-109
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Rome Odunze,Over,44.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Rome Odunze,Under,44.5,-111
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Colston Loveland,Over,37.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Colston Loveland,Under,37.5,-111
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Kyle Pitts,Over,31.5,-110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Kyle Pitts,Under,31.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Bijan Robinson,Over,30.5,-109
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Bijan Robinson,Under,30.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Kalif Raymond,Over,28.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Kalif Raymond,Under,28.5,-110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Jahan Dotson,Over,22.5,-116
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Jahan Dotson,Under,22.5,-108
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,D'Andre Swift,Over,15.5,-117
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,D'Andre Swift,Under,15.5,-107
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Zachariah Branch,Over,9.5,-117
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Zachariah Branch,Under,9.5,-107
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Cole Kmet,Over,9.5,-108
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Cole Kmet,Under,9.5,-116
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Roschon Johnson,Over,5.5,-121
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_reception_yds,Roschon Johnson,Under,5.5,-104
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Drake London,Over,5.5,-154
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Drake London,Under,5.5,121
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Luther Burden III,Over,4.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Luther Burden III,Under,4.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Bijan Robinson,Over,3.5,-106
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Bijan Robinson,Under,3.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Colston Loveland,Over,3.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Colston Loveland,Under,3.5,-121
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Rome Odunze,Over,3.5,128
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Rome Odunze,Under,3.5,-163
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Kyle Pitts,Over,3.5,133
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Kyle Pitts,Under,3.5,-170
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Kalif Raymond,Over,2.5,-166
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Kalif Raymond,Under,2.5,130
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,D'Andre Swift,Over,2.5,101
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,D'Andre Swift,Under,2.5,-129
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Jahan Dotson,Over,1.5,-171
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Jahan Dotson,Under,1.5,134
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Zachariah Branch,Over,1.5,129
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Zachariah Branch,Under,1.5,-165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Roschon Johnson,Over,1.5,141
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Roschon Johnson,Under,1.5,-182
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Cole Kmet,Over,1.5,161
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_receptions,Cole Kmet,Under,1.5,-207
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Bijan Robinson,Over,96.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Bijan Robinson,Under,96.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,D'Andre Swift,Over,62.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,D'Andre Swift,Under,62.5,-109
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Brian Robinson Jr.,Over,32.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Brian Robinson Jr.,Under,32.5,-111
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Roschon Johnson,Over,20.5,-116
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Roschon Johnson,Under,20.5,-108
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Caleb Williams,Over,19.5,-108
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Caleb Williams,Under,19.5,-116
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Luther Burden III,Over,6.5,-109
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Luther Burden III,Under,6.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Michael Penix Jr.,Over,2.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,draftkings,player_rush_yds,Michael Penix Jr.,Under,2.5,-111
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Bijan Robinson,Yes,,-310
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,D'Andre Swift,Yes,,-176
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Drake London,Yes,,109
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Rome Odunze,Yes,,168
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Luther Burden III,Yes,,180
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Colston Loveland,Yes,,190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Brian Robinson Jr.,Yes,,199
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Kyle Pitts,Yes,,295
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Roschon Johnson,Yes,,305
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Caleb Williams,Yes,,330
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Kalif Raymond,Yes,,340
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Jahan Dotson,Yes,,370
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Cole Kmet,Yes,,475
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Zachariah Branch,Yes,,800
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Michael Penix Jr.,Yes,,900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Austin Hooper,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Olamide Zaccheaus,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Charlie Woerner,Yes,,1100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Zavion Thomas,Yes,,1200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Sam Roush,Yes,,1300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Jahdae Walker,Yes,,1500
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Nick Muse,Yes,,2000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Chris Blair,Yes,,2300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,williamhill_us,player_anytime_td,Zavier Scott,Yes,,2300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Bijan Robinson,Yes,,-290
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,D'Andre Swift,Yes,,-165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Drake London,Yes,,120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Rome Odunze,Yes,,170
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Brian Robinson Jr.,Yes,,195
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Colston Loveland,Yes,,195
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Luther Burden III,Yes,,190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Roschon Johnson,Yes,,290
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Kyle Pitts,Yes,,310
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Caleb Williams,Yes,,320
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Kalif Raymond,Yes,,360
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Jahan Dotson,Yes,,420
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Cole Kmet,Yes,,550
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Atlanta Falcons Defense,Yes,,650
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Michael Penix Jr.,Yes,,900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Chicago Bears Defense,Yes,,900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Zachariah Branch,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Olamide Zaccheaus,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Austin Hooper,Yes,,1100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Charlie Woerner,Yes,,1200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Sam Roush,Yes,,1300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Zavion Thomas,Yes,,1400
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Jahdae Walker,Yes,,1600
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Chris Blair,Yes,,2200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Zavier Scott,Yes,,2700
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_anytime_td,Nick Muse,Yes,,3000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_pass_tds,Caleb Williams,Over,1.5,-138
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_pass_tds,Caleb Williams,Under,1.5,106
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_pass_tds,Michael Penix Jr.,Over,1.5,100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_pass_tds,Michael Penix Jr.,Under,1.5,-130
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_pass_yds,Caleb Williams,Over,227.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_pass_yds,Caleb Williams,Under,227.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_pass_yds,Michael Penix Jr.,Over,236.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_pass_yds,Michael Penix Jr.,Under,236.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,D'Andre Swift,Over,15.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,D'Andre Swift,Under,15.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Cole Kmet,Over,9.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Cole Kmet,Under,9.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Zachariah Branch,Over,10.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Zachariah Branch,Under,10.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Bijan Robinson,Over,30.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Bijan Robinson,Under,30.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Rome Odunze,Over,41.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Rome Odunze,Under,41.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Luther Burden III,Over,51.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Luther Burden III,Under,51.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Colston Loveland,Over,37.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Colston Loveland,Under,37.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Kyle Pitts,Over,31.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Kyle Pitts,Under,31.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Drake London,Over,89.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Drake London,Under,89.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Jahan Dotson,Over,23.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Jahan Dotson,Under,23.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Roschon Johnson,Over,5.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Roschon Johnson,Under,5.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Kalif Raymond,Over,28.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_reception_yds,Kalif Raymond,Under,28.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Bijan Robinson,Over,3.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Bijan Robinson,Under,3.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Kalif Raymond,Over,2.5,-174
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Kalif Raymond,Under,2.5,130
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Cole Kmet,Over,1.5,168
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Cole Kmet,Under,1.5,-230
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,D'Andre Swift,Over,2.5,-102
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,D'Andre Swift,Under,2.5,-130
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Luther Burden III,Over,4.5,106
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Luther Burden III,Under,4.5,-140
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Roschon Johnson,Over,1.5,134
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Roschon Johnson,Under,1.5,-180
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Zachariah Branch,Over,1.5,118
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Zachariah Branch,Under,1.5,-158
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Kyle Pitts,Over,2.5,-178
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Kyle Pitts,Under,2.5,132
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Rome Odunze,Over,2.5,-188
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Rome Odunze,Under,2.5,140
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Colston Loveland,Over,3.5,-106
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Colston Loveland,Under,3.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Drake London,Over,6.5,124
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Drake London,Under,6.5,-166
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Jahan Dotson,Over,1.5,-162
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_receptions,Jahan Dotson,Under,1.5,122
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Caleb Williams,Over,18.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Caleb Williams,Under,18.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Bijan Robinson,Over,91.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Bijan Robinson,Under,91.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Brian Robinson Jr.,Over,31.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Brian Robinson Jr.,Under,31.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Michael Penix Jr.,Over,2.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Michael Penix Jr.,Under,2.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,D'Andre Swift,Over,63.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,D'Andre Swift,Under,63.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Luther Burden III,Over,5.5,-106
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Luther Burden III,Under,5.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Roschon Johnson,Over,19.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanduel,player_rush_yds,Roschon Johnson,Under,19.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Austin Hooper,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Cole Kmet,Yes,,450
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Olamide Zaccheaus,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Roschon Johnson,Yes,,290
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Drake London,Yes,,100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Bijan Robinson,Yes,,-333
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Kyle Pitts,Yes,,300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Charlie Woerner,Yes,,1100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Chris Blair,Yes,,1900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,D'Andre Swift,Yes,,-200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Colston Loveland,Yes,,170
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Rome Odunze,Yes,,160
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Jahdae Walker,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Caleb Williams,Yes,,300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Michael Penix Jr.,Yes,,900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Sam Roush,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Kalif Raymond,Yes,,325
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Luther Burden III,Yes,,170
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Zavion Thomas,Yes,,1100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Jahan Dotson,Yes,,350
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Brian Robinson Jr.,Yes,,190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Zachariah Branch,Yes,,750
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_anytime_td,Nick Muse,Yes,,1900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_pass_tds,Michael Penix Jr.,Over,1.5,-108
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_pass_tds,Michael Penix Jr.,Under,1.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_pass_tds,Caleb Williams,Over,1.5,-143
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_pass_tds,Caleb Williams,Under,1.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_pass_yds,Michael Penix Jr.,Over,236.5,-116
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_pass_yds,Michael Penix Jr.,Under,236.5,-111
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_pass_yds,Caleb Williams,Over,233.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_pass_yds,Caleb Williams,Under,233.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Cole Kmet,Over,9.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Cole Kmet,Under,9.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Drake London,Over,90.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Drake London,Under,90.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Bijan Robinson,Over,28.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Bijan Robinson,Under,28.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,D'Andre Swift,Over,15.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,D'Andre Swift,Under,15.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Rome Odunze,Over,43.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Rome Odunze,Under,43.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Colston Loveland,Over,39.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Colston Loveland,Under,39.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Zachariah Branch,Over,9.5,-122
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Zachariah Branch,Under,9.5,-106
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Kyle Pitts,Over,31.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Kyle Pitts,Under,31.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Jahan Dotson,Over,25.5,-110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Jahan Dotson,Under,25.5,-118
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Kalif Raymond,Over,27.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Kalif Raymond,Under,27.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Luther Burden III,Over,52.5,-123
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_reception_yds,Luther Burden III,Under,52.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Drake London,Over,6.5,118
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Drake London,Under,6.5,-154
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Luther Burden III,Over,4.5,-103
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Luther Burden III,Under,4.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Colston Loveland,Over,3.5,-106
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Colston Loveland,Under,3.5,-122
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Jahan Dotson,Over,1.5,-169
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Jahan Dotson,Under,1.5,129
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Bijan Robinson,Over,3.5,-133
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Bijan Robinson,Under,3.5,103
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Kalif Raymond,Over,2.5,-149
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Kalif Raymond,Under,2.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Kyle Pitts,Over,2.5,-156
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Kyle Pitts,Under,2.5,120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Rome Odunze,Over,3.5,128
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Rome Odunze,Under,3.5,-167
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Zachariah Branch,Over,1.5,139
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Zachariah Branch,Under,1.5,-182
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Cole Kmet,Over,1.5,158
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,Cole Kmet,Under,1.5,-208
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,D'Andre Swift,Over,2.5,-101
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_receptions,D'Andre Swift,Under,2.5,-128
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,Caleb Williams,Over,18.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,Caleb Williams,Under,18.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,Roschon Johnson,Over,20.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,Roschon Johnson,Under,20.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,D'Andre Swift,Over,64.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,D'Andre Swift,Under,64.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,Bijan Robinson,Over,95.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,Bijan Robinson,Under,95.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,Brian Robinson Jr.,Over,31.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betonlineag,player_rush_yds,Brian Robinson Jr.,Under,31.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Zachariah Branch,Yes,,750
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Luther Burden III,Yes,,175
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Zavion Thomas,Yes,,1400
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Zavier Scott,Yes,,800
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Sam Roush,Yes,,1700
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Kalif Raymond,Yes,,310
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,D'Andre Swift,Yes,,-195
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Austin Hooper,Yes,,850
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Bijan Robinson,Yes,,-335
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Nick Muse,Yes,,1600
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Kyle Pitts,Yes,,290
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Olamide Zaccheaus,Yes,,900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Drake London,Yes,,104
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Charlie Woerner,Yes,,1150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Michael Penix Jr.,Yes,,700
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Chris Blair,Yes,,1700
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Colston Loveland,Yes,,188
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Roschon Johnson,Yes,,330
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Cole Kmet,Yes,,460
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Jahan Dotson,Yes,,350
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Brian Robinson Jr.,Yes,,210
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Caleb Williams,Yes,,360
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Jahdae Walker,Yes,,1100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_anytime_td,Rome Odunze,Yes,,170
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_pass_tds,Caleb Williams,Over,1.5,-167
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_pass_tds,Caleb Williams,Under,1.5,125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_pass_tds,Michael Penix Jr.,Over,1.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_pass_tds,Michael Penix Jr.,Under,1.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_pass_yds,Michael Penix Jr.,Over,232.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_pass_yds,Michael Penix Jr.,Under,232.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_pass_yds,Caleb Williams,Over,226.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_pass_yds,Caleb Williams,Under,226.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Zachariah Branch,Over,10.5,-108
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Zachariah Branch,Under,10.5,-122
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Drake London,Over,87.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Drake London,Under,87.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Luther Burden III,Over,53.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Luther Burden III,Under,53.5,-118
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Jahan Dotson,Over,23.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Jahan Dotson,Under,23.5,-117
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Bijan Robinson,Over,29.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Bijan Robinson,Under,29.5,-118
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Kalif Raymond,Over,26.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Kalif Raymond,Under,26.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Colston Loveland,Over,35.5,-118
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Colston Loveland,Under,35.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Cole Kmet,Over,9.5,-122
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Cole Kmet,Under,9.5,-109
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Kyle Pitts,Over,29.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Kyle Pitts,Under,29.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Rome Odunze,Over,43.5,-117
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,Rome Odunze,Under,43.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,D'Andre Swift,Over,16.5,-117
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_reception_yds,D'Andre Swift,Under,16.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Bijan Robinson,Over,3.5,-129
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Drake London,Over,6.5,120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,D'Andre Swift,Over,2.5,102
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Kalif Raymond,Over,2.5,-157
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Cole Kmet,Over,1.5,150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Zachariah Branch,Over,1.5,135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Colston Loveland,Over,3.5,-106
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Luther Burden III,Over,4.5,102
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Rome Odunze,Over,3.5,135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Jahan Dotson,Over,1.5,-162
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_receptions,Kyle Pitts,Over,2.5,-167
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,Bijan Robinson,Over,90.5,-117
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,Bijan Robinson,Under,90.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,Brian Robinson Jr.,Over,33.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,Brian Robinson Jr.,Under,33.5,-117
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,D'Andre Swift,Over,67.5,-113
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,D'Andre Swift,Under,67.5,-118
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,Caleb Williams,Over,19.5,-117
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,Caleb Williams,Under,19.5,-114
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,Roschon Johnson,Over,19.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betrivers,player_rush_yds,Roschon Johnson,Under,19.5,-112
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Chris Blair,Yes,,2000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Zachariah Branch,Yes,,700
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Chicago Bears D/ST,Yes,,425
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Charlie Woerner,Yes,,1400
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,D'Andre Swift,Yes,,-185
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Luther Burden III,Yes,,175
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Atlanta Falcons D/ST,Yes,,650
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Jahan Dotson,Yes,,390
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Rome Odunze,Yes,,175
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Nick Muse,Yes,,2800
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Michael Penix Jr.,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Kyle Pitts,Yes,,320
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Kalif Raymond,Yes,,300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Sam Roush,Yes,,1300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Colston Loveland,Yes,,200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Olamide Zaccheaus,Yes,,775
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Roschon Johnson,Yes,,275
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Cole Kmet,Yes,,500
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Brian Robinson Jr.,Yes,,220
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Caleb Williams,Yes,,320
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Austin Hooper,Yes,,900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Drake London,Yes,,105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Zavion Thomas,Yes,,1350
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Bijan Robinson,Yes,,-250
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_anytime_td,Zavier Scott,Yes,,2000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_pass_tds,Michael Penix Jr.,Over,1.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_pass_tds,Michael Penix Jr.,Under,1.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_pass_tds,Caleb Williams,Over,1.5,-155
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_pass_tds,Caleb Williams,Under,1.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_pass_yds,Caleb Williams,Over,226.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_pass_yds,Caleb Williams,Under,226.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_pass_yds,Michael Penix Jr.,Over,235.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_pass_yds,Michael Penix Jr.,Under,235.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Kalif Raymond,Over,26.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Kalif Raymond,Under,26.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Bijan Robinson,Over,29.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Bijan Robinson,Under,29.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Kyle Pitts,Over,29.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Kyle Pitts,Under,29.5,-111
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Colston Loveland,Over,36.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Colston Loveland,Under,36.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Drake London,Over,87.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Drake London,Under,87.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Jahan Dotson,Over,24.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Jahan Dotson,Under,24.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Cole Kmet,Over,9.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Cole Kmet,Under,9.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Luther Burden III,Over,51.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Luther Burden III,Under,51.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,D'Andre Swift,Over,15.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,D'Andre Swift,Under,15.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Zachariah Branch,Over,9.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Zachariah Branch,Under,9.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Rome Odunze,Over,43.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_reception_yds,Rome Odunze,Under,43.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Kalif Raymond,Over,2.5,-155
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Kalif Raymond,Under,2.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Luther Burden III,Over,4.5,-111
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Luther Burden III,Under,4.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Bijan Robinson,Over,3.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Bijan Robinson,Under,3.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Kyle Pitts,Over,2.5,-175
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Kyle Pitts,Under,2.5,130
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Zachariah Branch,Over,1.5,125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Zachariah Branch,Under,1.5,-165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Drake London,Over,6.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Drake London,Under,6.5,-150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Jahan Dotson,Over,1.5,-165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Jahan Dotson,Under,1.5,125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Colston Loveland,Over,3.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Colston Loveland,Under,3.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Cole Kmet,Over,1.5,160
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Cole Kmet,Under,1.5,-220
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,D'Andre Swift,Over,2.5,105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,D'Andre Swift,Under,2.5,-140
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Rome Odunze,Over,2.5,-185
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_receptions,Rome Odunze,Under,2.5,135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_rush_yds,Bijan Robinson,Over,93.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_rush_yds,Bijan Robinson,Under,93.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_rush_yds,Brian Robinson Jr.,Over,35.5,105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_rush_yds,Brian Robinson Jr.,Under,35.5,-140
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_rush_yds,D'Andre Swift,Over,64.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,betmgm,player_rush_yds,D'Andre Swift,Under,64.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Drake London,Yes,,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Bijan Robinson,Yes,,-310
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Atlanta Falcons D/ST,Yes,,525
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,D'Andre Swift,Yes,,-175
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Rome Odunze,Yes,,165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Luther Burden III,Yes,,185
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Colston Loveland,Yes,,180
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Chicago Bears D/ST,Yes,,475
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Brian Robinson Jr.,Yes,,175
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Jahan Dotson,Yes,,375
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Zachariah Branch,Yes,,800
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Kyle Pitts,Yes,,285
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Olamide Zaccheaus,Yes,,800
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Austin Hooper,Yes,,900
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Michael Penix Jr.,Yes,,800
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Charlie Woerner,Yes,,950
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Nick Muse,Yes,,2000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Chris Blair,Yes,,2000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Kalif Raymond,Yes,,340
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Cole Kmet,Yes,,500
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Zavion Thomas,Yes,,1100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Jahdae Walker,Yes,,1300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Roschon Johnson,Yes,,285
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Sam Roush,Yes,,1300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Caleb Williams,Yes,,310
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_anytime_td,Zavier Scott,Yes,,2000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_pass_tds,Caleb Williams,Over,1.5,-140
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_pass_tds,Caleb Williams,Under,1.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_pass_yds,Caleb Williams,Over,225.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_pass_yds,Caleb Williams,Under,225.5,-110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_reception_yds,Kalif Raymond,Over,25.5,-135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_reception_yds,Kalif Raymond,Under,25.5,-110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_receptions,Zachariah Branch,Over,1.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_receptions,Zachariah Branch,Under,1.5,-180
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_rush_yds,Bijan Robinson,Over,95.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,fanatics,player_rush_yds,Bijan Robinson,Under,95.5,-135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,D'Andre Swift,Yes,,-168
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Colston Loveland,Yes,,195
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Rome Odunze,Yes,,170
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Luther Burden III,Yes,,190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Drake London,Yes,,120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Bijan Robinson,Yes,,-300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Chris Blair,Yes,,2200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Brian Robinson Jr.,Yes,,195
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Jahan Dotson,Yes,,420
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Kalif Raymond,Yes,,360
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Charlie Woerner,Yes,,1200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Jahdae Walker,Yes,,1600
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Caleb Williams,Yes,,320
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Cole Kmet,Yes,,525
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Zavier Scott,Yes,,2500
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Austin Hooper,Yes,,1100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Kyle Pitts,Yes,,310
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Zachariah Branch,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Roschon Johnson,Yes,,290
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Michael Penix Jr.,Yes,,825
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Zavion Thomas,Yes,,1400
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Nick Muse,Yes,,2800
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Olamide Zaccheaus,Yes,,1000
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Sam Roush,Yes,,1300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_anytime_td,Atlanta Falcons D/ST,Yes,,700
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_tds,Caleb Williams,Over,1.5,-135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_tds,Caleb Williams,Under,1.5,105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_tds,Michael Penix Jr.,Over,1.5,100
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_tds,Michael Penix Jr.,Under,1.5,-130
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Over,199.5,-250
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Under,199.5,185
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Over,209.5,-190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Under,209.5,145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Over,219.5,-145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Under,219.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Over,229.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Under,229.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Over,239.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Under,239.5,-145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Over,249.5,140
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Under,249.5,-185
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Over,259.5,170
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Caleb Williams,Under,259.5,-230
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Over,207.5,-250
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Under,207.5,185
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Over,217.5,-190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Under,217.5,145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Over,227.5,-145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Under,227.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Over,237.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Under,237.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Over,247.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Under,247.5,-145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Over,257.5,140
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Under,257.5,-185
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Over,267.5,175
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_pass_yds,Michael Penix Jr.,Under,267.5,-240
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Bijan Robinson,Over,29.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Bijan Robinson,Under,29.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Cole Kmet,Over,9.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Cole Kmet,Under,9.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Over,26.5,-220
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Under,26.5,165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Over,31.5,-160
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Under,31.5,120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Over,36.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Under,36.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Over,41.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Under,41.5,-150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Over,46.5,150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Colston Loveland,Under,46.5,-200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,D'Andre Swift,Over,15.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,D'Andre Swift,Under,15.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Over,67.5,-300
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Under,67.5,215
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Over,77.5,-185
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Under,77.5,140
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Over,87.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Under,87.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Over,97.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Under,97.5,-150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Over,107.5,160
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Drake London,Under,107.5,-215
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Jahan Dotson,Over,24.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Jahan Dotson,Under,24.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Kalif Raymond,Over,26.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Kalif Raymond,Under,26.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Kyle Pitts,Over,29.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Kyle Pitts,Under,29.5,-110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Over,41.5,-190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Under,41.5,145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Over,46.5,-145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Under,46.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Over,51.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Under,51.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Over,56.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Under,56.5,-145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Over,61.5,135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Luther Burden III,Under,61.5,-180
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Over,33.5,-210
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Under,33.5,155
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Over,38.5,-150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Under,38.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Over,43.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Under,43.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Over,48.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Under,48.5,-145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Over,53.5,145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Rome Odunze,Under,53.5,-190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Zachariah Branch,Over,9.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_reception_yds,Zachariah Branch,Under,9.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Bijan Robinson,Over,3.5,-125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Bijan Robinson,Under,3.5,-105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Cole Kmet,Over,1.5,160
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Cole Kmet,Under,1.5,-215
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Colston Loveland,Over,3.5,105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Colston Loveland,Under,3.5,-135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,D'Andre Swift,Over,2.5,105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,D'Andre Swift,Under,2.5,-135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Drake London,Over,6.5,110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Drake London,Under,6.5,-145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Jahan Dotson,Over,1.5,-165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Jahan Dotson,Under,1.5,125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Kalif Raymond,Over,2.5,-150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Kalif Raymond,Under,2.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Kyle Pitts,Over,2.5,-170
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Kyle Pitts,Under,2.5,130
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Luther Burden III,Over,4.5,-110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Luther Burden III,Under,4.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Rome Odunze,Over,2.5,-180
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Rome Odunze,Under,2.5,135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Zachariah Branch,Over,1.5,125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_receptions,Zachariah Branch,Under,1.5,-165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Over,73.5,-320
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Under,73.5,230
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Over,83.5,-190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Under,83.5,145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Over,93.5,-120
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Under,93.5,-110
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Over,103.5,125
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Under,103.5,-165
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Over,113.5,190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Bijan Robinson,Under,113.5,-260
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Over,25.5,-215
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Under,25.5,160
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Over,30.5,-135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Under,30.5,105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Over,35.5,105
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Under,35.5,-135
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Over,40.5,145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Under,40.5,-190
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Over,45.5,200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,Brian Robinson Jr.,Under,45.5,-275
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Over,54.5,-200
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Under,54.5,150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Over,59.5,-150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Under,59.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Over,64.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Under,64.5,-115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Over,69.5,115
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Under,69.5,-150
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Over,74.5,145
+Chicago Bears,Atlanta Falcons,2026-10-18T16:17:34Z,bovada,player_rush_yds,D'Andre Swift,Under,74.5,-190

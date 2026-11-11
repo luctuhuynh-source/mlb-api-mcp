@@ -1,0 +1,741 @@
+away,home,snapshot,book,market,player,side,point,price
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Kenneth Walker III,Yes,,-165
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Travis Kelce,Yes,,120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Xavier Worthy,Yes,,155
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Omarion Hampton,Yes,,240
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Ladd McConkey,Yes,,380
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Patrick Mahomes,Yes,,400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Quentin Johnston,Yes,,400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Jalen Royals,Yes,,475
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Kansas City Chiefs D/ST,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Noah Gray,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Charlie Kolar,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Justin Herbert,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Kimani Vidal,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Keaton Mitchell,Yes,,550
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Los Angeles Chargers D/ST,Yes,,600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Emmett Johnson,Yes,,700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Oronde Gadsden II,Yes,,750
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Cyrus Allen,Yes,,800
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Brenen Thompson,Yes,,900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Justin Watson,Yes,,1100
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Brashard Smith,Yes,,1400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,KeAndre Lambert-Smith,Yes,,1500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Theo Wease Jr.,Yes,,1500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Nikko Remigio,Yes,,1600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Jake Briningstool,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Derius Davis,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Scott Matlock,Yes,,2500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Hayden Rucci,Yes,,2500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Jared Wiley,Yes,,3000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_anytime_td,Ben VanSumeren,Yes,,7000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_pass_tds,Patrick Mahomes,Over,1.5,-107
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_pass_tds,Patrick Mahomes,Under,1.5,-119
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_pass_tds,Justin Herbert,Over,0.5,-224
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_pass_tds,Justin Herbert,Under,0.5,173
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_pass_yds,Patrick Mahomes,Over,225.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_pass_yds,Patrick Mahomes,Under,225.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_pass_yds,Justin Herbert,Over,196.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_pass_yds,Justin Herbert,Under,196.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Travis Kelce,Over,55.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Travis Kelce,Under,55.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Xavier Worthy,Over,48.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Xavier Worthy,Under,48.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Ladd McConkey,Over,41.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Ladd McConkey,Under,41.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Quentin Johnston,Over,36.5,-109
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Quentin Johnston,Under,36.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Jalen Royals,Over,25.5,-109
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Jalen Royals,Under,25.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Kenneth Walker III,Over,22.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Kenneth Walker III,Under,22.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Charlie Kolar,Over,21.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Charlie Kolar,Under,21.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Keaton Mitchell,Over,17.5,-107
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Keaton Mitchell,Under,17.5,-117
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Noah Gray,Over,15.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Noah Gray,Under,15.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Oronde Gadsden II,Over,14.5,-116
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Oronde Gadsden II,Under,14.5,-108
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Cyrus Allen,Over,12.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Cyrus Allen,Under,12.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Kimani Vidal,Over,9.5,-108
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Kimani Vidal,Under,9.5,-116
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Emmett Johnson,Over,6.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Emmett Johnson,Under,6.5,-109
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Omarion Hampton,Over,6.5,-103
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_reception_yds,Omarion Hampton,Under,6.5,-121
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Travis Kelce,Over,4.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Travis Kelce,Under,4.5,-106
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Xavier Worthy,Over,4.5,-104
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Xavier Worthy,Under,4.5,-123
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Ladd McConkey,Over,3.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Ladd McConkey,Under,3.5,-116
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Kenneth Walker III,Over,3.5,107
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Kenneth Walker III,Under,3.5,-137
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Quentin Johnston,Over,2.5,-133
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Quentin Johnston,Under,2.5,104
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Charlie Kolar,Over,2.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Charlie Kolar,Under,2.5,-140
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Keaton Mitchell,Over,2.5,113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Keaton Mitchell,Under,2.5,-144
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Jalen Royals,Over,2.5,121
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Jalen Royals,Under,2.5,-154
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Oronde Gadsden II,Over,1.5,-126
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Oronde Gadsden II,Under,1.5,-101
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Noah Gray,Over,1.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Noah Gray,Under,1.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Kimani Vidal,Over,1.5,-104
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Kimani Vidal,Under,1.5,-123
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Cyrus Allen,Over,1.5,130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Cyrus Allen,Under,1.5,-166
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Omarion Hampton,Over,1.5,153
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Omarion Hampton,Under,1.5,-197
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Emmett Johnson,Over,1.5,158
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_receptions,Emmett Johnson,Under,1.5,-203
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Kenneth Walker III,Over,94.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Kenneth Walker III,Under,94.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Omarion Hampton,Over,32.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Omarion Hampton,Under,32.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Justin Herbert,Over,24.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Justin Herbert,Under,24.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Keaton Mitchell,Over,18.5,-116
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Keaton Mitchell,Under,18.5,-108
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Kimani Vidal,Over,16.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Kimani Vidal,Under,16.5,-106
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Patrick Mahomes,Over,15.5,-116
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Patrick Mahomes,Under,15.5,-108
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Emmett Johnson,Over,13.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,draftkings,player_rush_yds,Emmett Johnson,Under,13.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Kenneth Walker III,Yes,,-191
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Travis Kelce,Yes,,132
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Xavier Worthy,Yes,,155
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Omarion Hampton,Yes,,250
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Ladd McConkey,Yes,,360
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Quentin Johnston,Yes,,380
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Patrick Mahomes,Yes,,400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Jalen Royals,Yes,,425
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Kimani Vidal,Yes,,450
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Noah Gray,Yes,,475
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Justin Herbert,Yes,,475
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Charlie Kolar,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Keaton Mitchell,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Emmett Johnson,Yes,,675
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Oronde Gadsden II,Yes,,700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Cyrus Allen,Yes,,750
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Brenen Thompson,Yes,,900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Brashard Smith,Yes,,1200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Theo Wease Jr.,Yes,,1400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,KeAndre Lambert-Smith,Yes,,1500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Nikko Remigio,Yes,,1500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Jake Briningstool,Yes,,2000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Jared Wiley,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Derius Davis,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Hayden Rucci,Yes,,2400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Scott Matlock,Yes,,2600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,williamhill_us,player_anytime_td,Ben VanSumeren,Yes,,4000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Kenneth Walker III,Yes,,-165
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Travis Kelce,Yes,,135
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Xavier Worthy,Yes,,155
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Omarion Hampton,Yes,,270
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Ladd McConkey,Yes,,380
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Quentin Johnston,Yes,,400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Patrick Mahomes,Yes,,410
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Jalen Royals,Yes,,470
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Justin Herbert,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Kimani Vidal,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Noah Gray,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Charlie Kolar,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Keaton Mitchell,Yes,,550
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Los Angeles Chargers Defense,Yes,,650
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Emmett Johnson,Yes,,700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Oronde Gadsden II,Yes,,750
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Cyrus Allen,Yes,,800
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Kansas City Chiefs Defense,Yes,,850
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Brenen Thompson,Yes,,900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Justin Watson,Yes,,1000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Brashard Smith,Yes,,1600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Theo Wease Jr.,Yes,,1600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,KeAndre Lambert-Smith,Yes,,1600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Nikko Remigio,Yes,,1700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Jake Briningstool,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Jared Wiley,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Derius Davis,Yes,,2500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Hayden Rucci,Yes,,2700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Scott Matlock,Yes,,3300
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_anytime_td,Ben VanSumeren,Yes,,5000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_pass_tds,Patrick Mahomes,Over,1.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_pass_tds,Patrick Mahomes,Under,1.5,-108
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_pass_tds,Justin Herbert,Over,0.5,-215
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_pass_tds,Justin Herbert,Under,0.5,162
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_pass_yds,Justin Herbert,Over,192.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_pass_yds,Justin Herbert,Under,192.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_pass_yds,Patrick Mahomes,Over,223.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_pass_yds,Patrick Mahomes,Under,223.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Ladd McConkey,Over,41.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Ladd McConkey,Under,41.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Quentin Johnston,Over,36.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Quentin Johnston,Under,36.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Emmett Johnson,Over,5.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Emmett Johnson,Under,5.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Jalen Royals,Over,24.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Jalen Royals,Under,24.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Noah Gray,Over,14.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Noah Gray,Under,14.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Kimani Vidal,Over,8.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Kimani Vidal,Under,8.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Xavier Worthy,Over,48.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Xavier Worthy,Under,48.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Travis Kelce,Over,53.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Travis Kelce,Under,53.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Cyrus Allen,Over,11.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Cyrus Allen,Under,11.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Oronde Gadsden II,Over,15.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Oronde Gadsden II,Under,15.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Omarion Hampton,Over,5.5,-102
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Omarion Hampton,Under,5.5,-125
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Keaton Mitchell,Over,15.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Keaton Mitchell,Under,15.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Charlie Kolar,Over,22.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Charlie Kolar,Under,22.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Kenneth Walker III,Over,20.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_reception_yds,Kenneth Walker III,Under,20.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Emmett Johnson,Over,1.5,162
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Emmett Johnson,Under,1.5,-220
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Cyrus Allen,Over,1.5,154
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Cyrus Allen,Under,1.5,-210
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Jalen Royals,Over,2.5,134
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Jalen Royals,Under,2.5,-180
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Travis Kelce,Over,4.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Travis Kelce,Under,4.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Xavier Worthy,Over,4.5,-102
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Xavier Worthy,Under,4.5,-130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Noah Gray,Over,1.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Noah Gray,Under,1.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Keaton Mitchell,Over,2.5,116
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Keaton Mitchell,Under,2.5,-154
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Oronde Gadsden II,Over,1.5,-122
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Oronde Gadsden II,Under,1.5,-108
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Omarion Hampton,Over,1.5,168
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Omarion Hampton,Under,1.5,-230
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Kenneth Walker III,Over,3.5,134
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Kenneth Walker III,Under,3.5,-180
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Kimani Vidal,Over,1.5,-106
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Kimani Vidal,Under,1.5,-125
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Charlie Kolar,Over,2.5,120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Charlie Kolar,Under,2.5,-160
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Quentin Johnston,Over,2.5,-130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Quentin Johnston,Under,2.5,-102
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Ladd McConkey,Over,3.5,-102
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_receptions,Ladd McConkey,Under,3.5,-130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Omarion Hampton,Over,34.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Omarion Hampton,Under,34.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Justin Herbert,Over,24.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Justin Herbert,Under,24.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Patrick Mahomes,Over,14.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Patrick Mahomes,Under,14.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Kimani Vidal,Over,16.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Kimani Vidal,Under,16.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Emmett Johnson,Over,13.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Emmett Johnson,Under,13.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Keaton Mitchell,Over,17.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Keaton Mitchell,Under,17.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Kenneth Walker III,Over,91.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanduel,player_rush_yds,Kenneth Walker III,Under,91.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Noah Gray,Yes,,450
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Patrick Mahomes,Yes,,400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Derius Davis,Yes,,1700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Justin Herbert,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Travis Kelce,Yes,,120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Nikko Remigio,Yes,,1400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Jake Briningstool,Yes,,1400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Jalen Royals,Yes,,400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Brashard Smith,Yes,,900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Kimani Vidal,Yes,,400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Xavier Worthy,Yes,,150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Jared Wiley,Yes,,1400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Oronde Gadsden II,Yes,,550
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Ladd McConkey,Yes,,325
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Emmett Johnson,Yes,,650
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Omarion Hampton,Yes,,240
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Charlie Kolar,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Cyrus Allen,Yes,,700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Keaton Mitchell,Yes,,450
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Ben VanSumeren,Yes,,2900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Kenneth Walker III,Yes,,-167
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Hayden Rucci,Yes,,1900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Theo Wease Jr.,Yes,,1400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Quentin Johnston,Yes,,350
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_anytime_td,Brenen Thompson,Yes,,900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_pass_tds,Justin Herbert,Over,0.5,-213
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_pass_tds,Justin Herbert,Under,0.5,161
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_pass_tds,Patrick Mahomes,Over,1.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_pass_tds,Patrick Mahomes,Under,1.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_pass_yds,Justin Herbert,Over,192.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_pass_yds,Justin Herbert,Under,192.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_pass_yds,Patrick Mahomes,Over,223.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_pass_yds,Patrick Mahomes,Under,223.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Xavier Worthy,Over,48.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Xavier Worthy,Under,48.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Kenneth Walker III,Over,22.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Kenneth Walker III,Under,22.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Emmett Johnson,Over,6.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Emmett Johnson,Under,6.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Cyrus Allen,Over,12.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Cyrus Allen,Under,12.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Travis Kelce,Over,51.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Travis Kelce,Under,51.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Kimani Vidal,Over,8.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Kimani Vidal,Under,8.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Charlie Kolar,Over,21.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Charlie Kolar,Under,21.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Ladd McConkey,Over,41.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Ladd McConkey,Under,41.5,-108
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Quentin Johnston,Over,36.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Quentin Johnston,Under,36.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Omarion Hampton,Over,4.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Omarion Hampton,Under,4.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Jalen Royals,Over,25.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Jalen Royals,Under,25.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Noah Gray,Over,14.5,-123
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Noah Gray,Under,14.5,-105
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Oronde Gadsden II,Over,14.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Oronde Gadsden II,Under,14.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Keaton Mitchell,Over,13.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_reception_yds,Keaton Mitchell,Under,13.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Kenneth Walker III,Over,3.5,122
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Kenneth Walker III,Under,3.5,-159
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Travis Kelce,Over,4.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Travis Kelce,Under,4.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Xavier Worthy,Over,4.5,100
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Xavier Worthy,Under,4.5,-130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Emmett Johnson,Over,1.5,167
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Emmett Johnson,Under,1.5,-222
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Cyrus Allen,Over,1.5,135
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Cyrus Allen,Under,1.5,-175
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Keaton Mitchell,Over,2.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Keaton Mitchell,Under,2.5,-143
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Omarion Hampton,Over,1.5,161
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Omarion Hampton,Under,1.5,-213
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Jalen Royals,Over,2.5,139
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Jalen Royals,Under,2.5,-182
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Kimani Vidal,Over,1.5,-101
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Kimani Vidal,Under,1.5,-128
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Oronde Gadsden II,Over,1.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Oronde Gadsden II,Under,1.5,-108
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Charlie Kolar,Over,2.5,117
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Charlie Kolar,Under,2.5,-152
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Noah Gray,Over,1.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Noah Gray,Under,1.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Quentin Johnston,Over,2.5,-127
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Quentin Johnston,Under,2.5,-102
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Ladd McConkey,Over,3.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_receptions,Ladd McConkey,Under,3.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Keaton Mitchell,Over,18.5,-123
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Keaton Mitchell,Under,18.5,-105
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Patrick Mahomes,Over,14.5,-116
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Patrick Mahomes,Under,14.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Kimani Vidal,Over,16.5,-119
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Kimani Vidal,Under,16.5,-109
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Omarion Hampton,Over,32.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Omarion Hampton,Under,32.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Emmett Johnson,Over,13.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Emmett Johnson,Under,13.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Kenneth Walker III,Over,91.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Kenneth Walker III,Under,91.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Justin Herbert,Over,25.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betonlineag,player_rush_yds,Justin Herbert,Under,25.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Ladd McConkey,Yes,,320
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Derius Davis,Yes,,1600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Omarion Hampton,Yes,,295
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Charlie Kolar,Yes,,440
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Scott Matlock,Yes,,2500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Keaton Mitchell,Yes,,375
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Oronde Gadsden II,Yes,,700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Kimani Vidal,Yes,,460
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,KeAndre Lambert-Smith,Yes,,1400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Xavier Worthy,Yes,,160
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Ben VanSumeren,Yes,,2900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Justin Herbert,Yes,,480
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Kenneth Walker III,Yes,,-186
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Noah Gray,Yes,,340
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Jalen Royals,Yes,,370
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Nikko Remigio,Yes,,1600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Theo Wease Jr.,Yes,,1500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Patrick Mahomes,Yes,,430
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Jared Wiley,Yes,,1200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Travis Kelce,Yes,,155
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Cyrus Allen,Yes,,750
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Emmett Johnson,Yes,,540
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Brashard Smith,Yes,,1050
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Jake Briningstool,Yes,,1150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Hayden Rucci,Yes,,1900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Quentin Johnston,Yes,,335
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_anytime_td,Brenen Thompson,Yes,,1000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_pass_tds,Patrick Mahomes,Over,1.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_pass_tds,Patrick Mahomes,Under,1.5,-117
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_pass_tds,Justin Herbert,Over,0.5,-230
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_pass_tds,Justin Herbert,Under,0.5,165
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_pass_yds,Justin Herbert,Over,194.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_pass_yds,Justin Herbert,Under,194.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_pass_yds,Patrick Mahomes,Over,224.5,-117
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_pass_yds,Patrick Mahomes,Under,224.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Omarion Hampton,Over,5.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Omarion Hampton,Under,5.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Keaton Mitchell,Over,15.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Keaton Mitchell,Under,15.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Cyrus Allen,Over,13.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Cyrus Allen,Under,13.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Jalen Royals,Over,25.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Jalen Royals,Under,25.5,-117
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Quentin Johnston,Over,33.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Quentin Johnston,Under,33.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Ladd McConkey,Over,42.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Ladd McConkey,Under,42.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Oronde Gadsden II,Over,14.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Oronde Gadsden II,Under,14.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Kenneth Walker III,Over,21.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Kenneth Walker III,Under,21.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Noah Gray,Over,14.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Noah Gray,Under,14.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Charlie Kolar,Over,23.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Charlie Kolar,Under,23.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Xavier Worthy,Over,48.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Xavier Worthy,Under,48.5,-117
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Travis Kelce,Over,53.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_reception_yds,Travis Kelce,Under,53.5,-117
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Keaton Mitchell,Over,2.5,115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Oronde Gadsden II,Over,1.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Jalen Royals,Over,2.5,130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Charlie Kolar,Over,2.5,102
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Travis Kelce,Over,4.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Cyrus Allen,Over,1.5,130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Xavier Worthy,Over,4.5,-108
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Quentin Johnston,Over,2.5,-127
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Noah Gray,Over,1.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Ladd McConkey,Over,3.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Kenneth Walker III,Over,3.5,125
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_receptions,Omarion Hampton,Over,1.5,165
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Emmett Johnson,Over,13.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Emmett Johnson,Under,13.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Omarion Hampton,Over,30.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Omarion Hampton,Under,30.5,-112
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Patrick Mahomes,Over,12.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Patrick Mahomes,Under,12.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Kenneth Walker III,Over,90.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Kenneth Walker III,Under,90.5,-113
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Justin Herbert,Over,24.5,-114
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betrivers,player_rush_yds,Justin Herbert,Under,24.5,-117
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Emmett Johnson,Yes,,375
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Cyrus Allen,Yes,,650
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Theo Wease Jr.,Yes,,1300
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Oronde Gadsden II,Yes,,700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Charlie Kolar,Yes,,600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Los Angeles Chargers D/ST,Yes,,700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Omarion Hampton,Yes,,230
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Jalen Royals,Yes,,390
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Noah Gray,Yes,,475
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Brashard Smith,Yes,,950
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Travis Kelce,Yes,,160
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Nikko Remigio,Yes,,1750
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Kansas City Chiefs D/ST,Yes,,525
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Jake Briningstool,Yes,,1700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Ben VanSumeren,Yes,,3000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Kenneth Walker III,Yes,,-190
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Keaton Mitchell,Yes,,350
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Xavier Worthy,Yes,,155
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Ladd McConkey,Yes,,310
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Kimani Vidal,Yes,,375
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Patrick Mahomes,Yes,,425
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Justin Herbert,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Derius Davis,Yes,,1900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Quentin Johnston,Yes,,350
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Hayden Rucci,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Jared Wiley,Yes,,2800
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,KeAndre Lambert-Smith,Yes,,1050
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_anytime_td,Justin Watson,Yes,,1150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_pass_tds,Justin Herbert,Over,0.5,-220
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_pass_tds,Justin Herbert,Under,0.5,160
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_pass_tds,Patrick Mahomes,Over,1.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_pass_tds,Patrick Mahomes,Under,1.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_pass_yds,Justin Herbert,Over,189.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_pass_yds,Justin Herbert,Under,189.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_pass_yds,Patrick Mahomes,Over,225.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_pass_yds,Patrick Mahomes,Under,225.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Kenneth Walker III,Over,22.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Kenneth Walker III,Under,22.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Travis Kelce,Over,52.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Travis Kelce,Under,52.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Noah Gray,Over,13.5,-125
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Noah Gray,Under,13.5,-105
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Emmett Johnson,Over,6.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Emmett Johnson,Under,6.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Jalen Royals,Over,25.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Jalen Royals,Under,25.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Cyrus Allen,Over,13.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Cyrus Allen,Under,13.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Keaton Mitchell,Over,13.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Keaton Mitchell,Under,13.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Kimani Vidal,Over,7.5,-135
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Kimani Vidal,Under,7.5,100
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Charlie Kolar,Over,21.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Charlie Kolar,Under,21.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Oronde Gadsden II,Over,14.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Oronde Gadsden II,Under,14.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Quentin Johnston,Over,34.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Quentin Johnston,Under,34.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Omarion Hampton,Over,4.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Omarion Hampton,Under,4.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Ladd McConkey,Over,42.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Ladd McConkey,Under,42.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Xavier Worthy,Over,48.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_reception_yds,Xavier Worthy,Under,48.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Kenneth Walker III,Over,2.5,-190
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Kenneth Walker III,Under,2.5,140
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Travis Kelce,Over,4.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Travis Kelce,Under,4.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Xavier Worthy,Over,4.5,-105
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Xavier Worthy,Under,4.5,-125
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Emmett Johnson,Over,1.5,180
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Emmett Johnson,Under,1.5,-250
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Noah Gray,Over,1.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Noah Gray,Under,1.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Jalen Royals,Over,2.5,145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Jalen Royals,Under,2.5,-200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Cyrus Allen,Over,1.5,130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Cyrus Allen,Under,1.5,-175
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Keaton Mitchell,Over,2.5,105
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Keaton Mitchell,Under,2.5,-145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Kimani Vidal,Over,1.5,105
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Kimani Vidal,Under,1.5,-140
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Quentin Johnston,Over,2.5,-135
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Quentin Johnston,Under,2.5,100
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Omarion Hampton,Over,1.5,175
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Omarion Hampton,Under,1.5,-235
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Ladd McConkey,Over,3.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_receptions,Ladd McConkey,Under,3.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Patrick Mahomes,Over,14.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Patrick Mahomes,Under,14.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Kimani Vidal,Over,16.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Kimani Vidal,Under,16.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Keaton Mitchell,Over,18.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Keaton Mitchell,Under,18.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Omarion Hampton,Over,33.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Omarion Hampton,Under,33.5,-118
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Justin Herbert,Over,22.5,-111
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Justin Herbert,Under,22.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Kenneth Walker III,Over,91.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Kenneth Walker III,Under,91.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Emmett Johnson,Over,13.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,betmgm,player_rush_yds,Emmett Johnson,Under,13.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Noah Gray,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Ladd McConkey,Yes,,380
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Oronde Gadsden II,Yes,,700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Cyrus Allen,Yes,,725
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Charlie Kolar,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Quentin Johnston,Yes,,400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Scott Matlock,Yes,,3000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,KeAndre Lambert-Smith,Yes,,1600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Derius Davis,Yes,,2500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Nikko Remigio,Yes,,1700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Jake Briningstool,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Jared Wiley,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Jalen Royals,Yes,,460
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Hayden Rucci,Yes,,2500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Brashard Smith,Yes,,1600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Theo Wease Jr.,Yes,,1600
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Travis Kelce,Yes,,135
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Kenneth Walker III,Yes,,-168
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Xavier Worthy,Yes,,155
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Brenen Thompson,Yes,,900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Patrick Mahomes,Yes,,400
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Emmett Johnson,Yes,,700
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Omarion Hampton,Yes,,270
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Justin Herbert,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Keaton Mitchell,Yes,,525
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Kimani Vidal,Yes,,500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Kansas City Chiefs D/ST,Yes,,825
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Los Angeles Chargers D/ST,Yes,,625
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_anytime_td,Justin Watson,Yes,,1000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_tds,Justin Herbert,Over,0.5,-215
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_tds,Justin Herbert,Under,0.5,160
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_tds,Patrick Mahomes,Over,1.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_tds,Patrick Mahomes,Under,1.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Over,160.5,-250
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Under,160.5,185
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Over,170.5,-190
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Under,170.5,145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Over,180.5,-145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Under,180.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Over,190.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Under,190.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Over,200.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Under,200.5,-145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Over,210.5,140
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Under,210.5,-185
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Over,220.5,175
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Justin Herbert,Under,220.5,-240
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Over,193.5,-250
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Under,193.5,185
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Over,203.5,-190
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Under,203.5,145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Over,213.5,-145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Under,213.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Over,223.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Under,223.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Over,233.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Under,233.5,-145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Over,243.5,140
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Under,243.5,-185
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Over,253.5,175
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_pass_yds,Patrick Mahomes,Under,253.5,-240
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Charlie Kolar,Over,21.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Charlie Kolar,Under,21.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Cyrus Allen,Over,13.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Cyrus Allen,Under,13.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Emmett Johnson,Over,6.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Emmett Johnson,Under,6.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Jalen Royals,Over,25.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Jalen Royals,Under,25.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Keaton Mitchell,Over,13.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Keaton Mitchell,Under,13.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Kenneth Walker III,Over,22.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Kenneth Walker III,Under,22.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Kimani Vidal,Over,7.5,-130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Kimani Vidal,Under,7.5,100
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Over,32.5,-210
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Under,32.5,155
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Over,37.5,-150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Under,37.5,115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Over,42.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Under,42.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Over,47.5,115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Under,47.5,-150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Over,52.5,145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Ladd McConkey,Under,52.5,-190
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Omarion Hampton,Over,4.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Omarion Hampton,Under,4.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Oronde Gadsden II,Over,14.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Oronde Gadsden II,Under,14.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Over,24.5,-230
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Under,24.5,170
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Over,29.5,-160
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Under,29.5,120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Over,34.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Under,34.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Over,39.5,115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Under,39.5,-150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Over,44.5,150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Quentin Johnston,Under,44.5,-200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Over,42.5,-190
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Under,42.5,145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Over,47.5,-145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Under,47.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Over,52.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Under,52.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Over,57.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Under,57.5,-145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Over,62.5,135
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Travis Kelce,Under,62.5,-180
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Over,38.5,-200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Under,38.5,150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Over,43.5,-150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Under,43.5,115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Over,48.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Under,48.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Over,53.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Under,53.5,-145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Over,58.5,140
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_reception_yds,Xavier Worthy,Under,58.5,-185
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Cyrus Allen,Over,1.5,130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Cyrus Allen,Under,1.5,-170
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Emmett Johnson,Over,1.5,185
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Emmett Johnson,Under,1.5,-250
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Jalen Royals,Over,2.5,150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Jalen Royals,Under,2.5,-200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Keaton Mitchell,Over,2.5,110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Keaton Mitchell,Under,2.5,-145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Kenneth Walker III,Over,2.5,-185
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Kenneth Walker III,Under,2.5,140
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Kimani Vidal,Over,1.5,105
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Kimani Vidal,Under,1.5,-135
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Ladd McConkey,Over,3.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Ladd McConkey,Under,3.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Noah Gray,Over,1.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Noah Gray,Under,1.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Omarion Hampton,Over,1.5,175
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Omarion Hampton,Under,1.5,-240
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Quentin Johnston,Over,2.5,-130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Quentin Johnston,Under,2.5,100
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Travis Kelce,Over,4.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_receptions,Travis Kelce,Under,4.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Emmett Johnson,Over,13.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Emmett Johnson,Under,13.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Justin Herbert,Over,22.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Justin Herbert,Under,22.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Keaton Mitchell,Over,18.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Keaton Mitchell,Under,18.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Over,71.5,-330
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Under,71.5,235
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Over,81.5,-190
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Under,81.5,145
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Over,91.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Under,91.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Over,101.5,130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Under,101.5,-170
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Over,111.5,190
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kenneth Walker III,Under,111.5,-260
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kimani Vidal,Over,16.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Kimani Vidal,Under,16.5,-115
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Over,23.5,-260
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Under,23.5,190
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Over,28.5,-160
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Under,28.5,120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Over,33.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Under,33.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Over,38.5,130
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Under,38.5,-170
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Over,43.5,175
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Omarion Hampton,Under,43.5,-240
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Patrick Mahomes,Over,14.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,bovada,player_rush_yds,Patrick Mahomes,Under,14.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Patrick Mahomes,Yes,,350
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Travis Kelce,Yes,,125
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Noah Gray,Yes,,450
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Kenneth Walker III,Yes,,-170
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Nikko Remigio,Yes,,1500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Ben VanSumeren,Yes,,4000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Jared Wiley,Yes,,2000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Xavier Worthy,Yes,,150
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Brashard Smith,Yes,,1300
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Jalen Royals,Yes,,450
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Jake Briningstool,Yes,,2000
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Emmett Johnson,Yes,,650
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Cyrus Allen,Yes,,750
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Kansas City Chiefs D/ST,Yes,,430
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Justin Herbert,Yes,,430
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Charlie Kolar,Yes,,450
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Keaton Mitchell,Yes,,525
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Quentin Johnston,Yes,,350
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Derius Davis,Yes,,2200
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Scott Matlock,Yes,,2500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Hayden Rucci,Yes,,1900
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Ladd McConkey,Yes,,350
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Kimani Vidal,Yes,,525
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Omarion Hampton,Yes,,235
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Oronde Gadsden II,Yes,,650
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Theo Wease Jr.,Yes,,1300
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Brenen Thompson,Yes,,750
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Los Angeles Chargers D/ST,Yes,,525
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,KeAndre Lambert-Smith,Yes,,1500
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_anytime_td,Justin Watson,Yes,,850
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_pass_tds,Justin Herbert,Over,0.5,-245
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_pass_tds,Justin Herbert,Under,0.5,180
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_pass_yds,Patrick Mahomes,Over,220.5,-125
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_pass_yds,Patrick Mahomes,Under,220.5,-110
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_reception_yds,Kenneth Walker III,Over,20.5,-125
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_reception_yds,Kenneth Walker III,Under,20.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_receptions,Xavier Worthy,Over,4.5,-105
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_receptions,Xavier Worthy,Under,4.5,-140
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_rush_yds,Kenneth Walker III,Over,90.5,-120
+Los Angeles Chargers,Kansas City Chiefs,2026-10-18T16:17:56Z,fanatics,player_rush_yds,Kenneth Walker III,Under,90.5,-125

@@ -1,0 +1,539 @@
+away,home,snapshot,book,market,player,side,point,price
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Josh Jacobs,Yes,,-200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Emanuel Wilson,Yes,,-160
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Romeo Doubs,Yes,,160
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Tucker Kraft,Yes,,175
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Trey McBride,Yes,,190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Matthew Golden,Yes,,190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Marvin Harrison Jr.,Yes,,220
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Chris Brooks,Yes,,275
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Zonovan Knight,Yes,,280
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Dontayvion Wicks,Yes,,340
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Michael Wilson,Yes,,360
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Michael Carter,Yes,,360
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Zay Jones,Yes,,450
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Green Bay Packers D/ST,Yes,,475
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Pierre Strong Jr.,Yes,,475
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Arizona Cardinals D/ST,Yes,,500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Greg Dortch,Yes,,750
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Elijah Higgins,Yes,,850
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Luke Musgrave,Yes,,950
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Jacoby Brissett,Yes,,1000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Jordan Love,Yes,,1100
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Savion Williams,Yes,,1200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Simi Fehoko,Yes,,1500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Xavier Weaver,Yes,,1500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Malik Heath,Yes,,1500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,John FitzPatrick,Yes,,1500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Ben Sims,Yes,,2500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Josiah Deguara,Yes,,3500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_pass_tds,Jordan Love,Over,1.5,-155
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_pass_tds,Jordan Love,Under,1.5,121
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_pass_tds,Jacoby Brissett,Over,1.5,155
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_pass_tds,Jacoby Brissett,Under,1.5,-200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_pass_yds,Jordan Love,Over,239.5,-111
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_pass_yds,Jordan Love,Under,239.5,-113
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_pass_yds,Jacoby Brissett,Over,214.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_pass_yds,Jacoby Brissett,Under,214.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Trey McBride,Over,61.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Trey McBride,Under,61.5,-109
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Over,51.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Under,51.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Romeo Doubs,Over,50.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Romeo Doubs,Under,50.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Tucker Kraft,Over,46.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Tucker Kraft,Under,46.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Matthew Golden,Over,44.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Matthew Golden,Under,44.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Michael Wilson,Over,22.5,-111
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Michael Wilson,Under,22.5,-113
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Michael Carter,Over,16.5,-116
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Michael Carter,Under,16.5,-108
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Trey McBride,Over,6.5,-121
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Trey McBride,Under,6.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Romeo Doubs,Over,4.5,123
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Romeo Doubs,Under,4.5,-157
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Marvin Harrison Jr.,Over,3.5,-155
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Marvin Harrison Jr.,Under,3.5,121
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Tucker Kraft,Over,3.5,-124
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Tucker Kraft,Under,3.5,-103
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Matthew Golden,Over,3.5,114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Matthew Golden,Under,3.5,-145
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Michael Carter,Over,2.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Michael Carter,Under,2.5,-102
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Michael Wilson,Over,2.5,104
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_receptions,Michael Wilson,Under,2.5,-133
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Michael Carter,Over,26.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Michael Carter,Under,26.5,-108
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Jacoby Brissett,Over,11.5,-119
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Jacoby Brissett,Under,11.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Jordan Love,Over,10.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Jordan Love,Under,10.5,-107
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Matthew Golden,Over,5.5,-129
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Matthew Golden,Under,5.5,103
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Josh Jacobs,Yes,,-200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Emanuel Wilson,Yes,,-165
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Romeo Doubs,Yes,,165
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Tucker Kraft,Yes,,170
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Matthew Golden,Yes,,180
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Trey McBride,Yes,,185
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Marvin Harrison Jr.,Yes,,205
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Zonovan Knight,Yes,,215
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Chris Brooks,Yes,,225
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Michael Carter,Yes,,295
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Pierre Strong Jr.,Yes,,320
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Dontayvion Wicks,Yes,,330
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Michael Wilson,Yes,,360
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Zay Jones,Yes,,390
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Greg Dortch,Yes,,675
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Jacoby Brissett,Yes,,800
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Elijah Higgins,Yes,,850
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Jordan Love,Yes,,850
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Luke Musgrave,Yes,,900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Savion Williams,Yes,,1000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Simi Fehoko,Yes,,1200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,John FitzPatrick,Yes,,1300
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Malik Heath,Yes,,1300
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Xavier Weaver,Yes,,1300
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Josiah Deguara,Yes,,2600
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Ben Sims,Yes,,2900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_pass_tds,Jordan Love,Over,1.5,-150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_pass_tds,Jordan Love,Under,1.5,110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_pass_tds,Jacoby Brissett,Over,1.5,150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_pass_tds,Jacoby Brissett,Under,1.5,-209
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_pass_yds,Jordan Love,Over,241.5,-122
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_pass_yds,Jordan Love,Under,241.5,-111
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_pass_yds,Jacoby Brissett,Over,218.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_pass_yds,Jacoby Brissett,Under,218.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Michael Wilson,Over,21.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Michael Wilson,Under,21.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Tucker Kraft,Over,47.5,-113
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Tucker Kraft,Under,47.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Marvin Harrison Jr.,Over,52.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Marvin Harrison Jr.,Under,52.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Romeo Doubs,Over,49.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Romeo Doubs,Under,49.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Michael Carter,Over,16.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Michael Carter,Under,16.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Trey McBride,Over,62.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Trey McBride,Under,62.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Matthew Golden,Over,46.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Matthew Golden,Under,46.5,-128
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Marvin Harrison Jr.,Over,3.5,-154
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Marvin Harrison Jr.,Under,3.5,110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Trey McBride,Over,6.5,-124
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Trey McBride,Under,6.5,-109
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Michael Carter,Over,2.5,-134
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Michael Carter,Under,2.5,-102
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Michael Wilson,Over,2.5,105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Michael Wilson,Under,2.5,-141
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Tucker Kraft,Over,3.5,-132
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Tucker Kraft,Under,3.5,-102
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Romeo Doubs,Over,4.5,110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Romeo Doubs,Under,4.5,-150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Matthew Golden,Over,3.5,107
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Matthew Golden,Under,3.5,-150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Jordan Love,Over,10.5,-121
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Jordan Love,Under,10.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Jacoby Brissett,Over,12.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Jacoby Brissett,Under,12.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Michael Carter,Over,29.5,-113
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Michael Carter,Under,29.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Matthew Golden,Over,5.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Matthew Golden,Under,5.5,-113
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Josh Jacobs,Yes,,-185
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Emanuel Wilson,Yes,,-185
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Romeo Doubs,Yes,,165
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Tucker Kraft,Yes,,175
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Trey McBride,Yes,,180
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Matthew Golden,Yes,,190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Chris Brooks,Yes,,190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Bam Knight,Yes,,210
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Marvin Harrison Jr.,Yes,,210
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Pierre Strong Jr.,Yes,,270
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Michael Carter,Yes,,320
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Dontayvion Wicks,Yes,,340
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Michael Wilson,Yes,,360
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Zay Jones,Yes,,360
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Green Bay Packers Defense,Yes,,500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Greg Dortch,Yes,,700
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Arizona Cardinals Defense,Yes,,850
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Elijah Higgins,Yes,,850
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Luke Musgrave,Yes,,900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Jacoby Brissett,Yes,,900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Jordan Love,Yes,,1000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Savion Williams,Yes,,1200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,John FitzPatrick,Yes,,1300
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Xavier Weaver,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Simi Fehoko,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Malik Heath,Yes,,1600
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Josiah Deguara,Yes,,3000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Ben Sims,Yes,,3500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_pass_tds,Jacoby Brissett,Over,1.5,162
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_pass_tds,Jacoby Brissett,Under,1.5,-210
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_pass_tds,Jordan Love,Over,1.5,-154
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_pass_tds,Jordan Love,Under,1.5,120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_pass_yds,Jacoby Brissett,Over,217.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_pass_yds,Jacoby Brissett,Under,217.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_pass_yds,Jordan Love,Over,238.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_pass_yds,Jordan Love,Under,238.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Matthew Golden,Over,47.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Matthew Golden,Under,47.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Trey McBride,Over,63.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Trey McBride,Under,63.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Romeo Doubs,Over,49.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Romeo Doubs,Under,49.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Over,52.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Under,52.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Tucker Kraft,Over,46.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Tucker Kraft,Under,46.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Tucker Kraft,Over,3.5,-126
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Tucker Kraft,Under,3.5,-102
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Michael Wilson,Over,2.5,108
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Michael Wilson,Under,2.5,-136
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Michael Carter,Over,2.5,-134
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Michael Carter,Under,2.5,106
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Trey McBride,Over,6.5,-126
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Trey McBride,Under,6.5,-102
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Matthew Golden,Over,3.5,120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Matthew Golden,Under,3.5,-154
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Romeo Doubs,Over,4.5,116
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Romeo Doubs,Under,4.5,-148
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Marvin Harrison Jr.,Over,3.5,-148
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_receptions,Marvin Harrison Jr.,Under,3.5,116
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Bam Knight,Over,35.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Bam Knight,Under,35.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Matthew Golden,Over,5.5,-126
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Matthew Golden,Under,5.5,-102
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Jordan Love,Over,10.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Jordan Love,Under,10.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Josh Jacobs,Yes,,-200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Jordan Love,Yes,,1000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Tucker Kraft,Yes,,170
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Matthew Golden,Yes,,190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Dontayvion Wicks,Yes,,325
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Romeo Doubs,Yes,,160
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Emanuel Wilson,Yes,,-200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Chris Brooks,Yes,,190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Savion Williams,Yes,,1100
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,John FitzPatrick,Yes,,1300
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Luke Musgrave,Yes,,900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Malik Heath,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Ben Sims,Yes,,2400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Zonovan Knight,Yes,,280
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Trey McBride,Yes,,180
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Michael Carter,Yes,,300
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Michael Wilson,Yes,,350
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Xavier Weaver,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Simi Fehoko,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Greg Dortch,Yes,,700
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Marvin Harrison Jr.,Yes,,210
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Elijah Higgins,Yes,,800
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Josiah Deguara,Yes,,2400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Zay Jones,Yes,,350
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_pass_tds,Jordan Love,Over,1.5,-152
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_pass_tds,Jordan Love,Under,1.5,116
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_pass_yds,Jordan Love,Under,239.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_pass_yds,Jordan Love,Over,239.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Tucker Kraft,Under,46.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Tucker Kraft,Over,46.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Matthew Golden,Over,46.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Matthew Golden,Under,46.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Romeo Doubs,Under,49.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Romeo Doubs,Over,49.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Josh Jacobs,Over,20.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Josh Jacobs,Under,20.5,-108
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Over,52.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Under,52.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Trey McBride,Under,61.5,-111
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Trey McBride,Over,61.5,-116
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Michael Carter,Over,16.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Michael Carter,Under,16.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Michael Wilson,Over,22.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Michael Wilson,Under,22.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Tucker Kraft,Over,3.5,-127
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Tucker Kraft,Under,3.5,-102
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Romeo Doubs,Under,4.5,-147
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Romeo Doubs,Over,4.5,113
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Josh Jacobs,Over,2.5,-167
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Josh Jacobs,Under,2.5,127
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Matthew Golden,Over,3.5,110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Matthew Golden,Under,3.5,-143
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Trey McBride,Under,6.5,100
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Trey McBride,Over,6.5,-130
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Marvin Harrison Jr.,Under,3.5,119
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Marvin Harrison Jr.,Over,3.5,-154
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Michael Carter,Over,2.5,-135
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Michael Carter,Under,2.5,104
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Michael Wilson,Over,2.5,106
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_receptions,Michael Wilson,Under,2.5,-137
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Jordan Love,Under,10.5,-111
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Jordan Love,Over,10.5,-116
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Michael Carter,Over,27.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Michael Carter,Under,27.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Matthew Golden,Over,6.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Matthew Golden,Under,6.5,-103
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Romeo Doubs,Yes,,185
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Zonovan Knight,Yes,,180
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Zay Jones,Yes,,550
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Michael Carter,Yes,,235
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Emanuel Wilson,Yes,,-104
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Elijah Higgins,Yes,,1150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Luke Musgrave,Yes,,1200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,John FitzPatrick,Yes,,2900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Michael Wilson,Yes,,335
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Chris Brooks,Yes,,400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Trey McBride,Yes,,195
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Jacoby Brissett,Yes,,650
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Matthew Golden,Yes,,180
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Malik Heath,Yes,,1500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Greg Dortch,Yes,,600
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Tucker Kraft,Yes,,195
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Simi Fehoko,Yes,,1150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Ben Sims,Yes,,1800
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Dontayvion Wicks,Yes,,360
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Jordan Love,Yes,,1050
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Marvin Harrison Jr.,Yes,,225
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Xavier Weaver,Yes,,1300
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Josh Jacobs,Yes,,-162
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Savion Williams,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_pass_tds,Jacoby Brissett,Over,1.5,160
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_pass_tds,Jacoby Brissett,Under,1.5,-220
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_pass_tds,Jordan Love,Over,1.5,-157
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_pass_tds,Jordan Love,Under,1.5,118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_pass_yds,Jacoby Brissett,Over,217.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_pass_yds,Jacoby Brissett,Under,217.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_pass_yds,Jordan Love,Over,238.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_pass_yds,Jordan Love,Under,238.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Matthew Golden,Over,48.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Matthew Golden,Under,48.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Tucker Kraft,Over,45.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Tucker Kraft,Under,45.5,-113
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Trey McBride,Over,63.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Trey McBride,Under,63.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Over,53.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Under,53.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Romeo Doubs,Over,50.5,-114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Romeo Doubs,Under,50.5,-117
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Matthew Golden,Over,3.5,100
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Matthew Golden,Under,3.5,-132
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Tucker Kraft,Over,3.5,-152
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Tucker Kraft,Under,3.5,114
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Romeo Doubs,Over,4.5,110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Romeo Doubs,Under,4.5,-143
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Trey McBride,Over,6.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Trey McBride,Under,6.5,-113
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Marvin Harrison Jr.,Over,3.5,-159
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_receptions,Marvin Harrison Jr.,Under,3.5,118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Jordan Love,Over,9.5,-112
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Jordan Love,Under,9.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Jacoby Brissett,Over,12.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Jacoby Brissett,Under,12.5,-121
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Michael Carter,Over,27.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Michael Carter,Under,27.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,No Scorer,Yes,,4000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Zay Jones,Yes,,380
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Jacoby Brissett,Yes,,740
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Greg Dortch,Yes,,600
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Michael Carter,Yes,,285
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Simi Fehoko,Yes,,1050
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Zonovan Knight,Yes,,215
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Trey McBride,Yes,,190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Elijah Higgins,Yes,,700
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Travis Vokolek,Yes,,1700
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Michael Wilson,Yes,,345
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Marvin Harrison Jr.,Yes,,215
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Xavier Weaver,Yes,,1050
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Arizona Cardinals D/ST,Yes,,500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Josh Jacobs,Yes,,-195
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Romeo Doubs,Yes,,165
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,John FitzPatrick,Yes,,1050
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Chris Brooks,Yes,,225
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Ben Sims,Yes,,1900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Dontayvion Wicks,Yes,,345
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Malik Heath,Yes,,1200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Emanuel Wilson,Yes,,-170
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Tucker Kraft,Yes,,175
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Luke Musgrave,Yes,,850
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Savion Williams,Yes,,800
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Matthew Golden,Yes,,205
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Green Bay Packers D/ST,Yes,,470
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Jordan Love,Yes,,740
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Pierre Strong Jr.,Yes,,315
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_pass_tds,Jordan Love,Over,1.5,-150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_pass_tds,Jordan Love,Under,1.5,110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_pass_tds,Jacoby Brissett,Over,1.5,145
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_pass_tds,Jacoby Brissett,Under,1.5,-205
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_pass_yds,Jordan Love,Over,240.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_pass_yds,Jordan Love,Under,240.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_pass_yds,Jacoby Brissett,Over,215.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_pass_yds,Jacoby Brissett,Under,215.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Tucker Kraft,Over,45.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Tucker Kraft,Under,45.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Trey McBride,Over,60.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Trey McBride,Under,60.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Romeo Doubs,Over,50.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Romeo Doubs,Under,50.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Matthew Golden,Over,45.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Matthew Golden,Under,45.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Michael Carter,Over,15.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Michael Carter,Under,15.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Marvin Harrison Jr.,Over,50.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Marvin Harrison Jr.,Under,50.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Michael Wilson,Over,20.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Michael Wilson,Under,20.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Matthew Golden,Over,3.5,115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Matthew Golden,Under,3.5,-155
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Romeo Doubs,Over,4.5,110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Romeo Doubs,Under,4.5,-150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Tucker Kraft,Over,3.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Tucker Kraft,Under,3.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Marvin Harrison Jr.,Over,4.5,145
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Marvin Harrison Jr.,Under,4.5,-205
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Trey McBride,Over,6.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Trey McBride,Under,6.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Michael Carter,Over,2.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Michael Carter,Under,2.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Michael Wilson,Over,2.5,100
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_receptions,Michael Wilson,Under,2.5,-135
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Jordan Love,Over,10.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Jordan Love,Under,10.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Zonovan Knight,Over,35.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Zonovan Knight,Under,35.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Michael Carter,Over,30.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Michael Carter,Under,30.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Josh Jacobs,Yes,,-225
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Emanuel Wilson,Yes,,-150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Romeo Doubs,Yes,,160
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Trey McBride,Yes,,175
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Tucker Kraft,Yes,,175
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Matthew Golden,Yes,,190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Zonovan Knight,Yes,,195
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Marvin Harrison Jr.,Yes,,220
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Chris Brooks,Yes,,275
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Michael Carter,Yes,,275
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Dontayvion Wicks,Yes,,350
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Michael Wilson,Yes,,375
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Zay Jones,Yes,,450
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Green Bay Packers D/ST,Yes,,475
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Arizona Cardinals D/ST,Yes,,525
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Greg Dortch,Yes,,575
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Jordan Love,Yes,,825
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Elijah Higgins,Yes,,900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Jacoby Brissett,Yes,,900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Luke Musgrave,Yes,,1000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Savion Williams,Yes,,1000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Xavier Weaver,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,John FitzPatrick,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Malik Heath,Yes,,1500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Simi Fehoko,Yes,,1600
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Josiah Deguara,Yes,,2500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Ben Sims,Yes,,3500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_anytime_td,No Touchdown,Yes,,10000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_pass_tds,Jordan Love,Over,1.5,-140
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_pass_tds,Jordan Love,Under,1.5,105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_pass_tds,Jacoby Brissett,Over,1.5,145
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_pass_tds,Jacoby Brissett,Under,1.5,-190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_pass_yds,Jacoby Brissett,Over,223.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_pass_yds,Jacoby Brissett,Under,223.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_pass_yds,Jordan Love,Over,246.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_pass_yds,Jordan Love,Under,246.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Trey McBride,Over,62.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Trey McBride,Under,62.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Matthew Golden,Over,46.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Matthew Golden,Under,46.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Tucker Kraft,Over,48.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Tucker Kraft,Under,48.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Over,52.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Under,52.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Romeo Doubs,Over,53.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Romeo Doubs,Under,53.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Michael Carter,Over,16.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Michael Carter,Under,16.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Michael Wilson,Over,22.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Michael Wilson,Under,22.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Trey McBride,Over,6.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Trey McBride,Under,6.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Matthew Golden,Over,3.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Matthew Golden,Under,3.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Romeo Doubs,Over,4.5,105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Romeo Doubs,Under,4.5,-140
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Marvin Harrison Jr.,Over,3.5,-150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Marvin Harrison Jr.,Under,3.5,115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Michael Carter,Over,2.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Michael Carter,Under,2.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Tucker Kraft,Over,4.5,145
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Tucker Kraft,Under,4.5,-200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Michael Wilson,Over,2.5,110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_receptions,Michael Wilson,Under,2.5,-145
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Jordan Love,Over,11.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Jordan Love,Under,11.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Matthew Golden,Over,5.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Matthew Golden,Under,5.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Zonovan Knight,Over,35.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Zonovan Knight,Under,35.5,-118
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Michael Carter,Over,30.5,105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Michael Carter,Under,30.5,-140
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Jacoby Brissett,Over,12.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Jacoby Brissett,Under,12.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Xavier Weaver,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Green Bay Packers Defense,Yes,,500
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Trey McBride,Yes,,180
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Arizona Cardinals D/ST,Yes,,825
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Matthew Golden,Yes,,185
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Michael Carter,Yes,,320
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Dontayvion Wicks,Yes,,330
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,John FitzPatrick,Yes,,1300
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Romeo Doubs,Yes,,170
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Jordan Love,Yes,,1000
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Zonovan Knight,Yes,,210
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Jacoby Brissett,Yes,,900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Simi Fehoko,Yes,,1400
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Ben Sims,Yes,,3300
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Josh Jacobs,Yes,,-190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Emanuel Wilson,Yes,,-190
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Greg Dortch,Yes,,700
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Savion Williams,Yes,,1200
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Elijah Higgins,Yes,,825
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Tucker Kraft,Yes,,175
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Josiah Deguara,Yes,,2800
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Malik Heath,Yes,,1600
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Chris Brooks,Yes,,185
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Michael Wilson,Yes,,350
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Luke Musgrave,Yes,,900
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Zay Jones,Yes,,350
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_anytime_td,Marvin Harrison Jr.,Yes,,210
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_pass_tds,Jordan Love,Over,1.5,-145
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_pass_tds,Jordan Love,Under,1.5,110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_pass_yds,Jacoby Brissett,Over,210.5,-135
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_pass_yds,Jacoby Brissett,Under,210.5,105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_pass_yds,Jordan Love,Over,234.5,-150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_pass_yds,Jordan Love,Under,234.5,115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Marvin Harrison Jr.,Over,51.5,-120
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Marvin Harrison Jr.,Under,51.5,-110
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Matthew Golden,Over,46.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Matthew Golden,Under,46.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Romeo Doubs,Over,49.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Romeo Doubs,Under,49.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Trey McBride,Over,61.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Trey McBride,Under,61.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Tucker Kraft,Over,44.5,-130
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_reception_yds,Tucker Kraft,Under,44.5,100
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Marvin Harrison Jr.,Over,3.5,-165
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Marvin Harrison Jr.,Under,3.5,125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Matthew Golden,Over,3.5,105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Matthew Golden,Under,3.5,-135
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Romeo Doubs,Over,4.5,115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Romeo Doubs,Under,4.5,-150
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Trey McBride,Over,6.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Trey McBride,Under,6.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Tucker Kraft,Over,3.5,-130
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_receptions,Tucker Kraft,Under,3.5,100
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_rush_yds,Bam Knight,Over,34.5,-135
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_rush_yds,Bam Knight,Under,34.5,105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_rush_yds,Jordan Love,Over,10.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_rush_yds,Jordan Love,Under,10.5,-115
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_rush_yds,Matthew Golden,Over,5.5,-125
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_rush_yds,Matthew Golden,Under,5.5,-105
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_rush_yds,Michael Carter,Over,29.5,100
+Green Bay Packers,Arizona Cardinals,2025-10-19T16:35:40Z,bovada,player_rush_yds,Michael Carter,Under,29.5,-130

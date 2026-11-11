@@ -1,0 +1,701 @@
+away,home,snapshot,book,market,player,side,point,price
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Rhamondre Stevenson,Yes,,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Ashton Jeanty,Yes,,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Brock Bowers,Yes,,145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,TreVeyon Henderson,Yes,,155
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Hunter Henry,Yes,,170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Mike Washington Jr.,Yes,,170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Romeo Doubs,Yes,,180
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Tre Tucker,Yes,,245
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,DeMario Douglas,Yes,,330
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Michael Mayer,Yes,,350
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Drake Maye,Yes,,370
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Efton Chism III,Yes,,475
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Cody White,Yes,,500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Kyle Williams,Yes,,550
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Eli Raridon,Yes,,550
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,New England Patriots D/ST,Yes,,550
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Las Vegas Raiders D/ST,Yes,,600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Malik Benson,Yes,,1000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Connor Heyward,Yes,,1200
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Corey Kiner,Yes,,1500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Cameron Latu,Yes,,1500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Dylan Laube,Yes,,1700
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Kirk Cousins,Yes,,1800
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Dareke Young,Yes,,1900
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Deven Thompkins,Yes,,2000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Ian Thomas,Yes,,2500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_anytime_td,Tanner Arkin,Yes,,3000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_pass_tds,Drake Maye,Over,1.5,-127
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_pass_tds,Drake Maye,Under,1.5,-101
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_pass_tds,Kirk Cousins,Over,1.5,103
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_pass_tds,Kirk Cousins,Under,1.5,-131
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_pass_yds,Kirk Cousins,Over,232.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_pass_yds,Kirk Cousins,Under,232.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_pass_yds,Drake Maye,Over,229.5,-112
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_pass_yds,Drake Maye,Under,229.5,-112
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Brock Bowers,Over,72.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Brock Bowers,Under,72.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Romeo Doubs,Over,48.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Romeo Doubs,Under,48.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Tre Tucker,Over,41.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Tre Tucker,Under,41.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Hunter Henry,Over,38.5,-109
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Hunter Henry,Under,38.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Michael Mayer,Over,30.5,-112
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Michael Mayer,Under,30.5,-112
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Efton Chism III,Over,26.5,-109
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Efton Chism III,Under,26.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,DeMario Douglas,Over,25.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,DeMario Douglas,Under,25.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Ashton Jeanty,Over,24.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Ashton Jeanty,Under,24.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Cody White,Over,22.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Cody White,Under,22.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Rhamondre Stevenson,Over,15.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Rhamondre Stevenson,Under,15.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Kyle Williams,Over,13.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Kyle Williams,Under,13.5,-109
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Eli Raridon,Over,10.5,-116
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Eli Raridon,Under,10.5,-108
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,TreVeyon Henderson,Over,7.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,TreVeyon Henderson,Under,7.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Dareke Young,Over,6.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Dareke Young,Under,6.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Mike Washington Jr.,Over,3.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_reception_yds,Mike Washington Jr.,Under,3.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Brock Bowers,Over,6.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Brock Bowers,Under,6.5,-102
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Romeo Doubs,Over,3.5,-131
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Romeo Doubs,Under,3.5,103
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Michael Mayer,Over,3.5,-107
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Michael Mayer,Under,3.5,-119
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Tre Tucker,Over,3.5,-107
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Tre Tucker,Under,3.5,-119
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Hunter Henry,Over,3.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Hunter Henry,Under,3.5,-121
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Ashton Jeanty,Over,3.5,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Ashton Jeanty,Under,3.5,-133
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Rhamondre Stevenson,Over,2.5,-122
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Rhamondre Stevenson,Under,2.5,-104
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,DeMario Douglas,Over,2.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,DeMario Douglas,Under,2.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Cody White,Over,2.5,147
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Cody White,Under,2.5,-189
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Efton Chism III,Over,1.5,-184
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Efton Chism III,Under,1.5,143
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,TreVeyon Henderson,Over,1.5,125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,TreVeyon Henderson,Under,1.5,-159
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Eli Raridon,Over,1.5,128
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Eli Raridon,Under,1.5,-164
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Kyle Williams,Over,1.5,164
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Kyle Williams,Under,1.5,-211
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Mike Washington Jr.,Over,0.5,-150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_receptions,Mike Washington Jr.,Under,0.5,117
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,TreVeyon Henderson,Over,46.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,TreVeyon Henderson,Under,46.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Ashton Jeanty,Over,45.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Ashton Jeanty,Under,45.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Rhamondre Stevenson,Over,37.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Rhamondre Stevenson,Under,37.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Drake Maye,Over,32.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Drake Maye,Under,32.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Mike Washington Jr.,Over,31.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Mike Washington Jr.,Under,31.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Kirk Cousins,Over,0.5,-106
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,draftkings,player_rush_yds,Kirk Cousins,Under,0.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Ashton Jeanty,Yes,,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Rhamondre Stevenson,Yes,,116
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Brock Bowers,Yes,,130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,TreVeyon Henderson,Yes,,153
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Romeo Doubs,Yes,,166
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Hunter Henry,Yes,,179
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Mike Washington Jr.,Yes,,180
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Tre Tucker,Yes,,275
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,DeMario Douglas,Yes,,325
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Michael Mayer,Yes,,340
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Drake Maye,Yes,,350
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Cody White,Yes,,475
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Efton Chism III,Yes,,475
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Eli Raridon,Yes,,500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Kyle Williams,Yes,,600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Malik Benson,Yes,,950
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Connor Heyward,Yes,,1100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Corey Kiner,Yes,,1300
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Dylan Laube,Yes,,1500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Tanner Arkin,Yes,,1600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Cameron Latu,Yes,,1700
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Kirk Cousins,Yes,,1800
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Ian Thomas,Yes,,1800
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Dareke Young,Yes,,2000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,williamhill_us,player_anytime_td,Deven Thompkins,Yes,,2100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Ashton Jeanty,Yes,,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Rhamondre Stevenson,Yes,,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Brock Bowers,Yes,,125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,TreVeyon Henderson,Yes,,160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Romeo Doubs,Yes,,175
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Hunter Henry,Yes,,185
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,DeMario Douglas,Yes,,330
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Tre Tucker,Yes,,350
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Michael Mayer,Yes,,360
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Drake Maye,Yes,,370
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Mike Washington Jr.,Yes,,460
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Cody White,Yes,,500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Efton Chism III,Yes,,550
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Eli Raridon,Yes,,600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,New England Patriots Defense,Yes,,650
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Las Vegas Raiders Defense,Yes,,700
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Kyle Williams,Yes,,700
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Malik Benson,Yes,,1000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Connor Heyward,Yes,,1300
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Corey Kiner,Yes,,1400
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Dylan Laube,Yes,,1600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Ian Thomas,Yes,,1700
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Tanner Arkin,Yes,,1800
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Kirk Cousins,Yes,,2000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Cameron Latu,Yes,,2200
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Dareke Young,Yes,,2500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_anytime_td,Deven Thompkins,Yes,,2500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_pass_tds,Kirk Cousins,Over,1.5,110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_pass_tds,Kirk Cousins,Under,1.5,-144
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_pass_tds,Drake Maye,Over,1.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_pass_tds,Drake Maye,Under,1.5,-108
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_pass_yds,Kirk Cousins,Over,231.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_pass_yds,Kirk Cousins,Under,231.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_pass_yds,Drake Maye,Over,225.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_pass_yds,Drake Maye,Under,225.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,DeMario Douglas,Over,25.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,DeMario Douglas,Under,25.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Michael Mayer,Over,28.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Michael Mayer,Under,28.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Romeo Doubs,Over,49.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Romeo Doubs,Under,49.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,TreVeyon Henderson,Over,7.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,TreVeyon Henderson,Under,7.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Cody White,Over,21.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Cody White,Under,21.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Tre Tucker,Over,41.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Tre Tucker,Under,41.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Efton Chism III,Over,24.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Efton Chism III,Under,24.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Brock Bowers,Over,73.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Brock Bowers,Under,73.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Eli Raridon,Over,10.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Eli Raridon,Under,10.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Ashton Jeanty,Over,24.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Ashton Jeanty,Under,24.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Rhamondre Stevenson,Over,15.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Rhamondre Stevenson,Under,15.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Hunter Henry,Over,37.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_reception_yds,Hunter Henry,Under,37.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Rhamondre Stevenson,Over,2.5,-132
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Rhamondre Stevenson,Under,2.5,100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Cody White,Over,1.5,-180
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Cody White,Under,1.5,134
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,DeMario Douglas,Over,2.5,-122
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,DeMario Douglas,Under,2.5,-106
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,TreVeyon Henderson,Over,1.5,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,TreVeyon Henderson,Under,1.5,-160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Tre Tucker,Over,3.5,-106
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Tre Tucker,Under,3.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Brock Bowers,Over,6.5,-130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Brock Bowers,Under,6.5,-102
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Ashton Jeanty,Over,3.5,-102
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Ashton Jeanty,Under,3.5,-130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Romeo Doubs,Over,3.5,-136
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Romeo Doubs,Under,3.5,102
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Eli Raridon,Over,1.5,144
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Eli Raridon,Under,1.5,-194
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Efton Chism III,Over,1.5,-172
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Efton Chism III,Under,1.5,128
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Hunter Henry,Over,3.5,-102
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Hunter Henry,Under,3.5,-130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Michael Mayer,Over,3.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_receptions,Michael Mayer,Under,3.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Drake Maye,Over,31.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Drake Maye,Under,31.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Mike Washington Jr.,Over,30.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Mike Washington Jr.,Under,30.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Ashton Jeanty,Over,45.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Ashton Jeanty,Under,45.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,TreVeyon Henderson,Over,46.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,TreVeyon Henderson,Under,46.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Rhamondre Stevenson,Over,37.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Rhamondre Stevenson,Under,37.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Kirk Cousins,Over,0.5,-102
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanduel,player_rush_yds,Kirk Cousins,Under,0.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Ashton Jeanty,Yes,,100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Rhamondre Stevenson,Yes,,110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Romeo Doubs,Yes,,170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,TreVeyon Henderson,Yes,,150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Brock Bowers,Yes,,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Ian Thomas,Yes,,1700
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Dareke Young,Yes,,1900
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Kirk Cousins,Yes,,1700
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Malik Benson,Yes,,1000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Efton Chism III,Yes,,450
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Kyle Williams,Yes,,600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Mike Washington Jr.,Yes,,170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Drake Maye,Yes,,300
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,DeMario Douglas,Yes,,300
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Tre Tucker,Yes,,240
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Michael Mayer,Yes,,350
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Hunter Henry,Yes,,180
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Eli Raridon,Yes,,450
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Tanner Arkin,Yes,,1400
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Corey Kiner,Yes,,1300
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Cameron Latu,Yes,,1400
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Connor Heyward,Yes,,1100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Dylan Laube,Yes,,1000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_anytime_td,Cody White,Yes,,450
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_pass_tds,Drake Maye,Over,1.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_pass_tds,Drake Maye,Under,1.5,-103
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_pass_tds,Kirk Cousins,Over,1.5,100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_pass_tds,Kirk Cousins,Under,1.5,-130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_pass_yds,Drake Maye,Over,227.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_pass_yds,Drake Maye,Under,227.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_pass_yds,Kirk Cousins,Over,231.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_pass_yds,Kirk Cousins,Under,231.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Hunter Henry,Over,37.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Hunter Henry,Under,37.5,-112
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Tre Tucker,Over,41.5,-116
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Tre Tucker,Under,41.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Brock Bowers,Over,73.5,-119
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Brock Bowers,Under,73.5,-109
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Ashton Jeanty,Over,24.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Ashton Jeanty,Under,24.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Efton Chism III,Over,25.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Efton Chism III,Under,25.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Eli Raridon,Over,10.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Eli Raridon,Under,10.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Michael Mayer,Over,28.5,-119
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Michael Mayer,Under,28.5,-109
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,DeMario Douglas,Over,26.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,DeMario Douglas,Under,26.5,-116
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Romeo Doubs,Over,48.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Romeo Doubs,Under,48.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Kyle Williams,Over,13.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Kyle Williams,Under,13.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Rhamondre Stevenson,Over,15.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Rhamondre Stevenson,Under,15.5,-112
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Cody White,Over,22.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,Cody White,Under,22.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,TreVeyon Henderson,Over,7.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_reception_yds,TreVeyon Henderson,Under,7.5,-112
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Michael Mayer,Over,3.5,-106
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Michael Mayer,Under,3.5,-122
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Ashton Jeanty,Over,3.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Ashton Jeanty,Under,3.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Hunter Henry,Over,3.5,100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Hunter Henry,Under,3.5,-130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Romeo Doubs,Over,3.5,-130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Romeo Doubs,Under,3.5,101
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Tre Tucker,Over,3.5,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Tre Tucker,Under,3.5,-149
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Brock Bowers,Over,6.5,-108
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Brock Bowers,Under,6.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Cody White,Over,1.5,-182
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Cody White,Under,1.5,138
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,DeMario Douglas,Over,2.5,-123
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,DeMario Douglas,Under,2.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Eli Raridon,Over,1.5,145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Eli Raridon,Under,1.5,-192
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Efton Chism III,Over,1.5,-175
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Efton Chism III,Under,1.5,135
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Rhamondre Stevenson,Over,2.5,-123
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,Rhamondre Stevenson,Under,2.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,TreVeyon Henderson,Over,1.5,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_receptions,TreVeyon Henderson,Under,1.5,-156
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,Drake Maye,Over,31.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,Drake Maye,Under,31.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,Rhamondre Stevenson,Over,37.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,Rhamondre Stevenson,Under,37.5,-112
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,TreVeyon Henderson,Over,46.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,TreVeyon Henderson,Under,46.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,Ashton Jeanty,Over,45.5,-116
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,Ashton Jeanty,Under,45.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,Mike Washington Jr.,Over,30.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betonlineag,player_rush_yds,Mike Washington Jr.,Under,30.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Dareke Young,Yes,,1900
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Romeo Doubs,Yes,,175
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Kyle Williams,Yes,,650
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Ashton Jeanty,Yes,,102
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Michael Mayer,Yes,,360
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Brock Bowers,Yes,,123
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Kirk Cousins,Yes,,2000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Cameron Latu,Yes,,1500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Dylan Laube,Yes,,1500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Malik Benson,Yes,,575
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Efton Chism III,Yes,,370
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Hunter Henry,Yes,,190
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Rhamondre Stevenson,Yes,,138
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Ian Thomas,Yes,,1600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,TreVeyon Henderson,Yes,,138
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Cody White,Yes,,410
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Connor Heyward,Yes,,1150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Deven Thompkins,Yes,,1700
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Tanner Arkin,Yes,,2500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Corey Kiner,Yes,,510
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Eli Raridon,Yes,,540
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Mike Washington Jr.,Yes,,340
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,DeMario Douglas,Yes,,320
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Tre Tucker,Yes,,295
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_anytime_td,Drake Maye,Yes,,390
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_pass_tds,Drake Maye,Over,1.5,-121
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_pass_tds,Drake Maye,Under,1.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_pass_tds,Kirk Cousins,Over,1.5,108
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_pass_tds,Kirk Cousins,Under,1.5,-143
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_pass_yds,Kirk Cousins,Over,236.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_pass_yds,Kirk Cousins,Under,236.5,-117
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_pass_yds,Drake Maye,Over,223.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_pass_yds,Drake Maye,Under,223.5,-117
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Eli Raridon,Over,9.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Eli Raridon,Under,9.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Efton Chism III,Over,26.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Efton Chism III,Under,26.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Ashton Jeanty,Over,23.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Ashton Jeanty,Under,23.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Hunter Henry,Over,37.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Hunter Henry,Under,37.5,-117
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,DeMario Douglas,Over,26.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,DeMario Douglas,Under,26.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Cody White,Over,21.5,-117
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Cody White,Under,21.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Tre Tucker,Over,39.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Tre Tucker,Under,39.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Rhamondre Stevenson,Over,16.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Rhamondre Stevenson,Under,16.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Brock Bowers,Over,75.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Brock Bowers,Under,75.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Romeo Doubs,Over,50.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Romeo Doubs,Under,50.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Michael Mayer,Over,30.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_reception_yds,Michael Mayer,Under,30.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Romeo Doubs,Over,3.5,-152
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Hunter Henry,Over,3.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,DeMario Douglas,Over,2.5,-122
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Cody White,Over,1.5,-182
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Eli Raridon,Over,1.5,140
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Tre Tucker,Over,3.5,102
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Ashton Jeanty,Over,3.5,-103
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Brock Bowers,Over,6.5,-139
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Michael Mayer,Over,3.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Rhamondre Stevenson,Over,2.5,-132
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_receptions,Efton Chism III,Over,2.5,145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_rush_yds,Rhamondre Stevenson,Over,37.5,-117
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_rush_yds,Rhamondre Stevenson,Under,37.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_rush_yds,TreVeyon Henderson,Over,48.5,-117
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_rush_yds,TreVeyon Henderson,Under,48.5,-114
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_rush_yds,Mike Washington Jr.,Over,27.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_rush_yds,Mike Washington Jr.,Under,27.5,-113
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_rush_yds,Drake Maye,Over,31.5,-112
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betrivers,player_rush_yds,Drake Maye,Under,31.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,DeMario Douglas,Yes,,360
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Romeo Doubs,Yes,,175
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Rhamondre Stevenson,Yes,,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,TreVeyon Henderson,Yes,,160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Efton Chism III,Yes,,360
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Ian Thomas,Yes,,1450
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Ashton Jeanty,Yes,,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Kyle Williams,Yes,,525
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,New England Patriots D/ST,Yes,,525
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Michael Mayer,Yes,,360
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Cody White,Yes,,500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Hunter Henry,Yes,,200
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Brock Bowers,Yes,,140
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Tre Tucker,Yes,,270
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Mike Washington Jr.,Yes,,450
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Dylan Laube,Yes,,1200
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Las Vegas Raiders D/ST,Yes,,525
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Kirk Cousins,Yes,,1350
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Malik Benson,Yes,,850
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Dareke Young,Yes,,1600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Eli Raridon,Yes,,600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Connor Heyward,Yes,,650
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Drake Maye,Yes,,310
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Corey Kiner,Yes,,1400
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_anytime_td,Cameron Latu,Yes,,2000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_pass_tds,Drake Maye,Over,1.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_pass_tds,Drake Maye,Under,1.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_pass_tds,Kirk Cousins,Over,1.5,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_pass_tds,Kirk Cousins,Under,1.5,-155
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_pass_yds,Drake Maye,Over,227.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_pass_yds,Drake Maye,Under,227.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_pass_yds,Kirk Cousins,Over,236.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_pass_yds,Kirk Cousins,Under,236.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Romeo Doubs,Over,49.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Romeo Doubs,Under,49.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Tre Tucker,Over,42.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Tre Tucker,Under,42.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,DeMario Douglas,Over,27.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,DeMario Douglas,Under,27.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Eli Raridon,Over,11.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Eli Raridon,Under,11.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Efton Chism III,Over,25.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Efton Chism III,Under,25.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Hunter Henry,Over,36.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Hunter Henry,Under,36.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Brock Bowers,Over,74.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Brock Bowers,Under,74.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Rhamondre Stevenson,Over,18.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Rhamondre Stevenson,Under,18.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Cody White,Over,23.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Cody White,Under,23.5,-118
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Michael Mayer,Over,28.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Michael Mayer,Under,28.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Ashton Jeanty,Over,21.5,-140
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_reception_yds,Ashton Jeanty,Under,21.5,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,DeMario Douglas,Over,2.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,DeMario Douglas,Under,2.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Eli Raridon,Over,1.5,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Eli Raridon,Under,1.5,-160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Efton Chism III,Over,2.5,165
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Efton Chism III,Under,2.5,-220
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Cody White,Over,1.5,-190
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Cody White,Under,1.5,140
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Romeo Doubs,Over,3.5,-155
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Romeo Doubs,Under,3.5,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Brock Bowers,Over,6.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Brock Bowers,Under,6.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Michael Mayer,Over,3.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Michael Mayer,Under,3.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Ashton Jeanty,Over,3.5,110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Ashton Jeanty,Under,3.5,-150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Hunter Henry,Over,3.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Hunter Henry,Under,3.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Tre Tucker,Over,3.5,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Tre Tucker,Under,3.5,-140
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Rhamondre Stevenson,Over,2.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_receptions,Rhamondre Stevenson,Under,2.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,Drake Maye,Over,29.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,Drake Maye,Under,29.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,Rhamondre Stevenson,Over,39.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,Rhamondre Stevenson,Under,39.5,-111
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,TreVeyon Henderson,Over,48.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,TreVeyon Henderson,Under,48.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,Mike Washington Jr.,Over,31.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,Mike Washington Jr.,Under,31.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,Ashton Jeanty,Over,47.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,betmgm,player_rush_yds,Ashton Jeanty,Under,47.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Dylan Laube,Yes,,1700
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Connor Heyward,Yes,,1200
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Eli Raridon,Yes,,460
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Drake Maye,Yes,,370
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,New England Patriots D/ST,Yes,,525
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Las Vegas Raiders D/ST,Yes,,600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Kyle Williams,Yes,,600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,DeMario Douglas,Yes,,350
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Hunter Henry,Yes,,180
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Efton Chism III,Yes,,500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Mike Washington Jr.,Yes,,170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Cody White,Yes,,500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Ian Thomas,Yes,,2500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Kirk Cousins,Yes,,1800
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Dareke Young,Yes,,1900
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Malik Benson,Yes,,1000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,TreVeyon Henderson,Yes,,155
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Rhamondre Stevenson,Yes,,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Romeo Doubs,Yes,,170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Michael Mayer,Yes,,350
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Tre Tucker,Yes,,245
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Ashton Jeanty,Yes,,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Brock Bowers,Yes,,145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Deven Thompkins,Yes,,2000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Corey Kiner,Yes,,1500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Tanner Arkin,Yes,,1600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_anytime_td,Cameron Latu,Yes,,1600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_tds,Drake Maye,Over,1.5,-130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_tds,Drake Maye,Under,1.5,100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_tds,Kirk Cousins,Over,1.5,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_tds,Kirk Cousins,Under,1.5,-135
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Over,199.5,-250
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Under,199.5,185
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Over,209.5,-190
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Under,209.5,145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Over,219.5,-145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Under,219.5,110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Over,229.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Under,229.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Over,239.5,110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Under,239.5,-145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Over,249.5,140
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Under,249.5,-185
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Over,259.5,170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Drake Maye,Under,259.5,-230
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,202.5,-250
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,202.5,185
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,212.5,-190
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,212.5,145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,222.5,-145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,222.5,110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,232.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,232.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,242.5,110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,242.5,-145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,252.5,140
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,252.5,-185
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,262.5,175
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,262.5,-240
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Ashton Jeanty,Over,24.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Ashton Jeanty,Under,24.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Over,62.5,-180
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Under,62.5,135
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Over,67.5,-145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Under,67.5,110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Over,72.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Under,72.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Over,77.5,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Under,77.5,-135
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Over,82.5,130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Brock Bowers,Under,82.5,-170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Cody White,Over,22.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Cody White,Under,22.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Dareke Young,Over,6.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Dareke Young,Under,6.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,DeMario Douglas,Over,25.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,DeMario Douglas,Under,25.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Efton Chism III,Over,25.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Efton Chism III,Under,25.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Eli Raridon,Over,11.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Eli Raridon,Under,11.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Over,27.5,-220
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Under,27.5,165
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Over,32.5,-160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Under,32.5,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Over,37.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Under,37.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Over,42.5,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Under,42.5,-150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Over,47.5,150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Hunter Henry,Under,47.5,-200
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Kyle Williams,Over,13.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Kyle Williams,Under,13.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Over,30.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Under,30.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Mike Washington Jr.,Over,3.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Mike Washington Jr.,Under,3.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Rhamondre Stevenson,Over,15.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Rhamondre Stevenson,Under,15.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Over,39.5,-200
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Under,39.5,150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Over,44.5,-150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Under,44.5,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Over,49.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Under,49.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Over,54.5,110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Under,54.5,-145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Over,59.5,140
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Romeo Doubs,Under,59.5,-185
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,31.5,-210
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,31.5,155
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,36.5,-150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,36.5,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,41.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,41.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,46.5,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,46.5,-150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,51.5,145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,51.5,-190
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,TreVeyon Henderson,Over,7.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_reception_yds,TreVeyon Henderson,Under,7.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Ashton Jeanty,Over,3.5,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Ashton Jeanty,Under,3.5,-135
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Brock Bowers,Over,6.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Brock Bowers,Under,6.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Cody White,Over,2.5,145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Cody White,Under,2.5,-190
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,DeMario Douglas,Over,2.5,100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,DeMario Douglas,Under,2.5,-130
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Efton Chism III,Over,1.5,-185
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Efton Chism III,Under,1.5,140
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Eli Raridon,Over,1.5,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Eli Raridon,Under,1.5,-160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Hunter Henry,Over,3.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Hunter Henry,Under,3.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Kyle Williams,Over,1.5,160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Kyle Williams,Under,1.5,-215
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Michael Mayer,Over,3.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Michael Mayer,Under,3.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Mike Washington Jr.,Over,0.5,-150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Mike Washington Jr.,Under,0.5,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Rhamondre Stevenson,Over,2.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Rhamondre Stevenson,Under,2.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Romeo Doubs,Over,3.5,-135
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Romeo Doubs,Under,3.5,105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Tre Tucker,Over,3.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,Tre Tucker,Under,3.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,TreVeyon Henderson,Over,1.5,125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_receptions,TreVeyon Henderson,Under,1.5,-165
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Over,45.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Under,45.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Over,22.5,-290
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Under,22.5,210
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Over,27.5,-180
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Under,27.5,135
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Over,32.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Under,32.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Over,37.5,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Under,37.5,-160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Over,42.5,165
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Drake Maye,Under,42.5,-220
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Kirk Cousins,Over,0.5,-110
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Kirk Cousins,Under,0.5,-120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Mike Washington Jr.,Over,31.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Mike Washington Jr.,Under,31.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Over,27.5,-250
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Under,27.5,185
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Over,32.5,-165
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Under,32.5,125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Over,37.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Under,37.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Over,42.5,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Under,42.5,-160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Over,47.5,165
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,Rhamondre Stevenson,Under,47.5,-220
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Over,36.5,-230
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Under,36.5,170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Over,41.5,-160
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Under,41.5,120
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Over,46.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Under,46.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Over,51.5,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Under,51.5,-150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Over,56.5,155
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,bovada,player_rush_yds,TreVeyon Henderson,Under,56.5,-210
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Hunter Henry,Yes,,170
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Rhamondre Stevenson,Yes,,115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Romeo Doubs,Yes,,165
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,DeMario Douglas,Yes,,290
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Cameron Latu,Yes,,1500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Drake Maye,Yes,,340
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,TreVeyon Henderson,Yes,,150
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Efton Chism III,Yes,,450
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Kyle Williams,Yes,,575
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Corey Kiner,Yes,,1300
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Eli Raridon,Yes,,500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Tanner Arkin,Yes,,1500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,New England Patriots D/ST,Yes,,410
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Kirk Cousins,Yes,,1600
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Ian Thomas,Yes,,1500
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Cody White,Yes,,430
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Connor Heyward,Yes,,1100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Dareke Young,Yes,,1900
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Michael Mayer,Yes,,325
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Tre Tucker,Yes,,290
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Dylan Laube,Yes,,1400
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Brock Bowers,Yes,,135
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Ashton Jeanty,Yes,,100
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Mike Washington Jr.,Yes,,275
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Malik Benson,Yes,,850
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Las Vegas Raiders D/ST,Yes,,475
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_anytime_td,Deven Thompkins,Yes,,2000
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_pass_tds,Drake Maye,Over,1.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_pass_tds,Drake Maye,Under,1.5,-105
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_pass_yds,Drake Maye,Over,225.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_pass_yds,Drake Maye,Under,225.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_reception_yds,Tre Tucker,Over,40.5,-115
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_reception_yds,Tre Tucker,Under,40.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_receptions,Romeo Doubs,Over,4.5,145
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_receptions,Romeo Doubs,Under,4.5,-235
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_rush_yds,Drake Maye,Over,30.5,-125
+Las Vegas Raiders,New England Patriots,2026-10-11T16:40:36Z,fanatics,player_rush_yds,Drake Maye,Under,30.5,-120

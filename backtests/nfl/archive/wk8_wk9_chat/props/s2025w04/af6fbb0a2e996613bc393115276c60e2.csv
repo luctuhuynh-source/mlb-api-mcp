@@ -1,0 +1,583 @@
+away,home,snapshot,book,market,player,side,point,price
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Ashton Jeanty,Yes,,-145
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,D'Andre Swift,Yes,,135
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Rome Odunze,Yes,,145
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Jakobi Meyers,Yes,,160
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Brock Bowers,Yes,,165
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Tre Tucker,Yes,,210
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,DJ Moore,Yes,,210
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Cole Kmet,Yes,,295
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Kyle Monangai,Yes,,360
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Dont'e Thornton Jr.,Yes,,400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Caleb Williams,Yes,,425
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Olamide Zaccheaus,Yes,,450
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Las Vegas Raiders D/ST,Yes,,550
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Chicago Bears D/ST,Yes,,550
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Luther Burden III,Yes,,600
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Geno Smith,Yes,,700
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Zamir White,Yes,,850
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Ian Thomas,Yes,,1000
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Durham Smythe,Yes,,1100
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Jack Bech,Yes,,1200
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Roschon Johnson,Yes,,1200
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Raheem Mostert,Yes,,1300
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Dylan Laube,Yes,,2000
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Devin Duvernay,Yes,,2200
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Stephen Carlson,Yes,,2200
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Alex Bachman,Yes,,2800
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_anytime_td,Justin Shorter,Yes,,2800
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_pass_tds,Geno Smith,Over,1.5,-135
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_pass_tds,Geno Smith,Under,1.5,106
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_pass_tds,Caleb Williams,Over,1.5,-102
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_pass_tds,Caleb Williams,Under,1.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_pass_yds,Geno Smith,Over,252.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_pass_yds,Geno Smith,Under,252.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_pass_yds,Caleb Williams,Over,228.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_pass_yds,Caleb Williams,Under,228.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Jakobi Meyers,Over,65.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Jakobi Meyers,Under,65.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Rome Odunze,Over,63.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Rome Odunze,Under,63.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Brock Bowers,Over,59.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Brock Bowers,Under,59.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,DJ Moore,Over,45.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,DJ Moore,Under,45.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Tre Tucker,Over,42.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Tre Tucker,Under,42.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Dont'e Thornton Jr.,Over,28.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Dont'e Thornton Jr.,Under,28.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Olamide Zaccheaus,Over,26.5,-109
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Olamide Zaccheaus,Under,26.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Cole Kmet,Over,23.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Cole Kmet,Under,23.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,D'Andre Swift,Over,18.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,D'Andre Swift,Under,18.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Luther Burden III,Over,14.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Luther Burden III,Under,14.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Ashton Jeanty,Over,13.5,-109
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_reception_yds,Ashton Jeanty,Under,13.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Jakobi Meyers,Over,5.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Jakobi Meyers,Under,5.5,-102
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Brock Bowers,Over,5.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Brock Bowers,Under,5.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Rome Odunze,Over,4.5,-156
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Rome Odunze,Under,4.5,122
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,DJ Moore,Over,4.5,102
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,DJ Moore,Under,4.5,-130
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Tre Tucker,Over,3.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Tre Tucker,Under,3.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,D'Andre Swift,Over,3.5,133
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,D'Andre Swift,Under,3.5,-170
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Olamide Zaccheaus,Over,2.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Olamide Zaccheaus,Under,2.5,-108
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Cole Kmet,Over,2.5,-101
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Cole Kmet,Under,2.5,-126
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Ashton Jeanty,Over,2.5,102
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Ashton Jeanty,Under,2.5,-131
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Dont'e Thornton Jr.,Over,2.5,127
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_receptions,Dont'e Thornton Jr.,Under,2.5,-163
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_rush_yds,Ashton Jeanty,Over,68.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_rush_yds,Ashton Jeanty,Under,68.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_rush_yds,D'Andre Swift,Over,47.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_rush_yds,D'Andre Swift,Under,47.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_rush_yds,Caleb Williams,Over,24.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_rush_yds,Caleb Williams,Under,24.5,-108
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_rush_yds,Geno Smith,Over,9.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,draftkings,player_rush_yds,Geno Smith,Under,9.5,-108
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Ashton Jeanty,Yes,,-150
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,D'Andre Swift,Yes,,125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Rome Odunze,Yes,,140
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Jakobi Meyers,Yes,,155
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Brock Bowers,Yes,,155
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,DJ Moore,Yes,,190
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Tre Tucker,Yes,,205
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Cole Kmet,Yes,,285
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Kyle Monangai,Yes,,310
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Dont'e Thornton Jr.,Yes,,360
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Caleb Williams,Yes,,360
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Olamide Zaccheaus,Yes,,400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Luther Burden III,Yes,,550
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Geno Smith,Yes,,600
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Zamir White,Yes,,750
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Roschon Johnson,Yes,,900
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Jack Bech,Yes,,950
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Ian Thomas,Yes,,1000
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Durham Smythe,Yes,,1100
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Dylan Laube,Yes,,1300
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Devin Duvernay,Yes,,1600
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Stephen Carlson,Yes,,1800
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Justin Shorter,Yes,,1900
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_anytime_td,Alex Bachman,Yes,,2900
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_pass_tds,Geno Smith,Over,1.5,-136
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_pass_tds,Geno Smith,Under,1.5,100
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_pass_tds,Caleb Williams,Over,1.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_pass_tds,Caleb Williams,Under,1.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_pass_yds,Geno Smith,Over,254.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_pass_yds,Geno Smith,Under,254.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_pass_yds,Caleb Williams,Over,228.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_pass_yds,Caleb Williams,Under,228.5,-121
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Dont'e Thornton Jr.,Over,30.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Dont'e Thornton Jr.,Under,30.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,DJ Moore,Over,45.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,DJ Moore,Under,45.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Cole Kmet,Over,23.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Cole Kmet,Under,23.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Rome Odunze,Over,63.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Rome Odunze,Under,63.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Brock Bowers,Over,59.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Brock Bowers,Under,59.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Ashton Jeanty,Over,13.5,-109
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Ashton Jeanty,Under,13.5,-122
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Luther Burden III,Over,14.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Luther Burden III,Under,14.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Olamide Zaccheaus,Over,26.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Olamide Zaccheaus,Under,26.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Tre Tucker,Over,45.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Tre Tucker,Under,45.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Jakobi Meyers,Over,66.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,Jakobi Meyers,Under,66.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,D'Andre Swift,Over,18.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_reception_yds,D'Andre Swift,Under,18.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Jakobi Meyers,Over,5.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Jakobi Meyers,Under,5.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,DJ Moore,Over,4.5,105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,DJ Moore,Under,4.5,-141
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Olamide Zaccheaus,Over,2.5,-121
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Olamide Zaccheaus,Under,2.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Cole Kmet,Over,2.5,-108
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Cole Kmet,Under,2.5,-127
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Brock Bowers,Over,5.5,-121
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Brock Bowers,Under,5.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Ashton Jeanty,Over,2.5,105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Ashton Jeanty,Under,2.5,-141
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Tre Tucker,Over,3.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Tre Tucker,Under,3.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Dont'e Thornton Jr.,Over,2.5,125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Dont'e Thornton Jr.,Under,2.5,-173
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,D'Andre Swift,Over,2.5,-170
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,D'Andre Swift,Under,2.5,125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Rome Odunze,Over,4.5,-152
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_receptions,Rome Odunze,Under,4.5,110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_rush_yds,Geno Smith,Over,9.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_rush_yds,Geno Smith,Under,9.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_rush_yds,Caleb Williams,Over,25.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_rush_yds,Caleb Williams,Under,25.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_rush_yds,D'Andre Swift,Over,47.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_rush_yds,D'Andre Swift,Under,47.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_rush_yds,Ashton Jeanty,Over,69.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,williamhill_us,player_rush_yds,Ashton Jeanty,Under,69.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Ashton Jeanty,Yes,,-148
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,D'Andre Swift,Yes,,134
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Rome Odunze,Yes,,148
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Brock Bowers,Yes,,164
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Jakobi Meyers,Yes,,172
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,DJ Moore,Yes,,196
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Tre Tucker,Yes,,210
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Cole Kmet,Yes,,300
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Kyle Monangai,Yes,,330
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Caleb Williams,Yes,,350
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Olamide Zaccheaus,Yes,,400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Dont'e Thornton Jr.,Yes,,420
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Luther Burden III,Yes,,560
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Geno Smith,Yes,,560
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Las Vegas Raiders Defense,Yes,,600
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Chicago Bears Defense,Yes,,750
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Ian Thomas,Yes,,800
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Roschon Johnson,Yes,,830
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Zamir White,Yes,,900
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Durham Smythe,Yes,,1000
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Jack Bech,Yes,,1060
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Dylan Laube,Yes,,1400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Devin Duvernay,Yes,,1500
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Stephen Carlson,Yes,,1500
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_anytime_td,Justin Shorter,Yes,,1700
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_pass_tds,Caleb Williams,Over,1.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_pass_tds,Caleb Williams,Under,1.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_pass_tds,Geno Smith,Over,1.5,-128
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_pass_tds,Geno Smith,Under,1.5,100
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_pass_yds,Caleb Williams,Over,227.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_pass_yds,Caleb Williams,Under,227.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_pass_yds,Geno Smith,Over,256.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_pass_yds,Geno Smith,Under,256.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Brock Bowers,Over,59.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Brock Bowers,Under,59.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Ashton Jeanty,Over,12.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Ashton Jeanty,Under,12.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Tre Tucker,Over,45.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Tre Tucker,Under,45.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Olamide Zaccheaus,Over,27.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Olamide Zaccheaus,Under,27.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Dont'e Thornton Jr.,Over,30.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Dont'e Thornton Jr.,Under,30.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,DJ Moore,Over,45.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,DJ Moore,Under,45.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Rome Odunze,Over,62.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Rome Odunze,Under,62.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Jakobi Meyers,Over,67.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Jakobi Meyers,Under,67.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,D'Andre Swift,Over,16.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,D'Andre Swift,Under,16.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Luther Burden III,Over,14.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_reception_yds,Luther Burden III,Under,14.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Brock Bowers,Over,5.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Brock Bowers,Under,5.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Olamide Zaccheaus,Over,2.5,-108
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Olamide Zaccheaus,Under,2.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Tre Tucker,Over,3.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Tre Tucker,Under,3.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,DJ Moore,Over,4.5,112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,DJ Moore,Under,4.5,-142
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Rome Odunze,Over,4.5,-144
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Rome Odunze,Under,4.5,114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,D'Andre Swift,Over,2.5,-142
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,D'Andre Swift,Under,2.5,112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Ashton Jeanty,Over,2.5,116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Ashton Jeanty,Under,2.5,-148
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Jakobi Meyers,Over,5.5,-106
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Jakobi Meyers,Under,5.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Dont'e Thornton Jr.,Over,2.5,162
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_receptions,Dont'e Thornton Jr.,Under,2.5,-210
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_rush_yds,Caleb Williams,Over,25.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_rush_yds,Caleb Williams,Under,25.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_rush_yds,Ashton Jeanty,Over,68.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_rush_yds,Ashton Jeanty,Under,68.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_rush_yds,D'Andre Swift,Over,45.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_rush_yds,D'Andre Swift,Under,45.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_rush_yds,Geno Smith,Over,9.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanduel,player_rush_yds,Geno Smith,Under,9.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,DJ Moore,Yes,,190
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Jakobi Meyers,Yes,,160
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Cole Kmet,Yes,,290
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Zamir White,Yes,,800
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Tre Tucker,Yes,,210
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Brock Bowers,Yes,,160
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Roschon Johnson,Yes,,800
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,D'Andre Swift,Yes,,130
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Dylan Laube,Yes,,1400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Rome Odunze,Yes,,140
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Justin Shorter,Yes,,1700
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Durham Smythe,Yes,,1000
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Caleb Williams,Yes,,350
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Geno Smith,Yes,,550
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Raheem Mostert,Yes,,1300
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Olamide Zaccheaus,Yes,,400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Dont'e Thornton Jr.,Yes,,400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Kyle Monangai,Yes,,325
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Ian Thomas,Yes,,800
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Luther Burden III,Yes,,550
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Devin Duvernay,Yes,,1400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Jack Bech,Yes,,1000
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_anytime_td,Ashton Jeanty,Yes,,-167
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_pass_tds,Caleb Williams,Under,1.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_pass_tds,Caleb Williams,Over,1.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_pass_tds,Geno Smith,Under,1.5,102
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_pass_tds,Geno Smith,Over,1.5,-132
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_pass_yds,Caleb Williams,Over,229.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_pass_yds,Caleb Williams,Under,229.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_pass_yds,Geno Smith,Under,256.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_pass_yds,Geno Smith,Over,256.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Ashton Jeanty,Over,13.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Ashton Jeanty,Under,13.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,DJ Moore,Under,45.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,DJ Moore,Over,45.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Rome Odunze,Under,63.5,-106
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Rome Odunze,Over,63.5,-122
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Jakobi Meyers,Over,65.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Jakobi Meyers,Under,65.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Olamide Zaccheaus,Over,26.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Olamide Zaccheaus,Under,26.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Brock Bowers,Over,60.5,-122
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Brock Bowers,Under,60.5,-106
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Tre Tucker,Over,45.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Tre Tucker,Under,45.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Dont'e Thornton Jr.,Under,30.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Dont'e Thornton Jr.,Over,30.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Cole Kmet,Over,23.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Cole Kmet,Under,23.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,D'Andre Swift,Under,18.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,D'Andre Swift,Over,18.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Luther Burden III,Over,14.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_reception_yds,Luther Burden III,Under,14.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Jakobi Meyers,Over,5.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Jakobi Meyers,Under,5.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Brock Bowers,Under,5.5,-109
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Brock Bowers,Over,5.5,-119
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Rome Odunze,Under,4.5,128
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Rome Odunze,Over,4.5,-167
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,DJ Moore,Over,4.5,109
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,DJ Moore,Under,4.5,-141
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Tre Tucker,Over,3.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Tre Tucker,Under,3.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Ashton Jeanty,Under,2.5,-149
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Ashton Jeanty,Over,2.5,115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Cole Kmet,Under,2.5,-122
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Cole Kmet,Over,2.5,-106
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Dont'e Thornton Jr.,Over,2.5,130
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Dont'e Thornton Jr.,Under,2.5,-169
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Olamide Zaccheaus,Under,2.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,Olamide Zaccheaus,Over,2.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,D'Andre Swift,Under,2.5,115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_receptions,D'Andre Swift,Over,2.5,-149
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_rush_yds,Caleb Williams,Under,25.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_rush_yds,Caleb Williams,Over,25.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_rush_yds,Geno Smith,Over,9.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_rush_yds,Geno Smith,Under,9.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_rush_yds,D'Andre Swift,Over,47.5,-116
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_rush_yds,D'Andre Swift,Under,47.5,-111
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_rush_yds,Ashton Jeanty,Over,69.5,-123
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betonlineag,player_rush_yds,Ashton Jeanty,Under,69.5,-105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,D'Andre Swift,Yes,,117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Dont'e Thornton Jr.,Yes,,300
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,DJ Moore,Yes,,185
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Jakobi Meyers,Yes,,160
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Durham Smythe,Yes,,1200
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Geno Smith,Yes,,650
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Ian Thomas,Yes,,600
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Olamide Zaccheaus,Yes,,400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Tre Tucker,Yes,,215
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Caleb Williams,Yes,,320
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Dylan Laube,Yes,,1300
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Cole Kmet,Yes,,295
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Justin Shorter,Yes,,1150
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Ashton Jeanty,Yes,,-155
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Rome Odunze,Yes,,145
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Kyle Monangai,Yes,,310
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Roschon Johnson,Yes,,1050
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Devin Duvernay,Yes,,1300
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Brock Bowers,Yes,,148
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Zamir White,Yes,,700
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Luther Burden III,Yes,,400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_anytime_td,Jack Bech,Yes,,950
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_pass_tds,Geno Smith,Over,1.5,-139
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_pass_tds,Geno Smith,Under,1.5,105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_pass_tds,Caleb Williams,Over,1.5,100
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_pass_tds,Caleb Williams,Under,1.5,-132
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_pass_yds,Geno Smith,Over,255.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_pass_yds,Geno Smith,Under,255.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_pass_yds,Caleb Williams,Over,223.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_pass_yds,Caleb Williams,Under,223.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,D'Andre Swift,Over,18.5,-109
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,D'Andre Swift,Under,18.5,-121
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Brock Bowers,Over,58.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Brock Bowers,Under,58.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Olamide Zaccheaus,Over,27.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Olamide Zaccheaus,Under,27.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,DJ Moore,Over,45.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,DJ Moore,Under,45.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Tre Tucker,Over,46.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Tre Tucker,Under,46.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Cole Kmet,Over,22.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Cole Kmet,Under,22.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Rome Odunze,Over,64.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Rome Odunze,Under,64.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Jakobi Meyers,Over,65.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Jakobi Meyers,Under,65.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Ashton Jeanty,Over,13.5,-114
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Ashton Jeanty,Under,13.5,-117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Dont'e Thornton Jr.,Over,29.5,-113
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Dont'e Thornton Jr.,Under,29.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Luther Burden III,Over,14.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_reception_yds,Luther Burden III,Under,14.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Rome Odunze,Over,5.5,115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Rome Odunze,Under,5.5,-152
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,DJ Moore,Over,4.5,117
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,DJ Moore,Under,4.5,-157
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Olamide Zaccheaus,Over,2.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Olamide Zaccheaus,Under,2.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,D'Andre Swift,Over,2.5,-165
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,D'Andre Swift,Under,2.5,123
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Tre Tucker,Over,3.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Tre Tucker,Under,3.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Jakobi Meyers,Over,5.5,-109
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Jakobi Meyers,Under,5.5,-122
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Brock Bowers,Over,5.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Brock Bowers,Under,5.5,-106
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Dont'e Thornton Jr.,Over,2.5,128
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Dont'e Thornton Jr.,Under,2.5,-175
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Ashton Jeanty,Over,2.5,112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Ashton Jeanty,Under,2.5,-148
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Cole Kmet,Over,2.5,102
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_receptions,Cole Kmet,Under,2.5,-137
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_rush_yds,Caleb Williams,Over,24.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_rush_yds,Caleb Williams,Under,24.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_rush_yds,Ashton Jeanty,Over,70.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_rush_yds,Ashton Jeanty,Under,70.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_rush_yds,D'Andre Swift,Over,49.5,-112
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_rush_yds,D'Andre Swift,Under,49.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_rush_yds,Geno Smith,Over,7.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betrivers,player_rush_yds,Geno Smith,Under,7.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,No Scorer,Yes,,4500
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Geno Smith,Yes,,550
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Ian Thomas,Yes,,740
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Alex Bachman,Yes,,2500
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Jakobi Meyers,Yes,,145
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Zamir White,Yes,,700
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Justin Shorter,Yes,,1900
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Tre Tucker,Yes,,195
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Brock Bowers,Yes,,140
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Ashton Jeanty,Yes,,-160
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Dont'e Thornton Jr.,Yes,,325
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Jack Bech,Yes,,740
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Durham Smythe,Yes,,1050
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,DJ Moore,Yes,,170
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Olamide Zaccheaus,Yes,,360
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Devin Duvernay,Yes,,1600
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,D'Andre Swift,Yes,,110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Cole Kmet,Yes,,270
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Rome Odunze,Yes,,120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Caleb Williams,Yes,,305
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Kyle Monangai,Yes,,270
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_anytime_td,Luther Burden III,Yes,,470
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_pass_tds,Geno Smith,Over,1.5,-145
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_pass_tds,Geno Smith,Under,1.5,110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_pass_tds,Caleb Williams,Over,1.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_pass_tds,Caleb Williams,Under,1.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_pass_yds,Geno Smith,Over,255.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_pass_yds,Geno Smith,Under,255.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_pass_yds,Caleb Williams,Over,235.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_pass_yds,Caleb Williams,Under,235.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Jakobi Meyers,Over,65.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Jakobi Meyers,Under,65.5,-105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Rome Odunze,Over,65.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Rome Odunze,Under,65.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Dont'e Thornton Jr.,Over,30.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Dont'e Thornton Jr.,Under,30.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Brock Bowers,Over,55.5,-140
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Brock Bowers,Under,55.5,105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,DJ Moore,Over,45.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,DJ Moore,Under,45.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Tre Tucker,Over,45.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Tre Tucker,Under,45.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Cole Kmet,Over,20.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Cole Kmet,Under,20.5,-105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Ashton Jeanty,Over,10.5,-150
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Ashton Jeanty,Under,10.5,115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Olamide Zaccheaus,Over,25.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Olamide Zaccheaus,Under,25.5,-105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,D'Andre Swift,Over,20.5,-105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,D'Andre Swift,Under,20.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Luther Burden III,Over,10.5,-140
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_reception_yds,Luther Burden III,Under,10.5,105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Jakobi Meyers,Over,5.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Jakobi Meyers,Under,5.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Rome Odunze,Over,5.5,120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Rome Odunze,Under,5.5,-160
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Dont'e Thornton Jr.,Over,2.5,140
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Dont'e Thornton Jr.,Under,2.5,-180
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,DJ Moore,Over,4.5,100
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,DJ Moore,Under,4.5,-130
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Brock Bowers,Over,5.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Brock Bowers,Under,5.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Tre Tucker,Over,3.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Tre Tucker,Under,3.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Cole Kmet,Over,2.5,110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Cole Kmet,Under,2.5,-145
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Olamide Zaccheaus,Over,2.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Olamide Zaccheaus,Under,2.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Ashton Jeanty,Over,2.5,120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_receptions,Ashton Jeanty,Under,2.5,-160
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,Ashton Jeanty,Over,65.5,-135
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,Ashton Jeanty,Under,65.5,105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,Caleb Williams,Over,25.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,Caleb Williams,Under,25.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,D'Andre Swift,Over,45.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,D'Andre Swift,Under,45.5,-105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,Geno Smith,Over,10.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,Geno Smith,Under,10.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,Zamir White,Over,10.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,fanatics,player_rush_yds,Zamir White,Under,10.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Ashton Jeanty,Yes,,-140
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,D'Andre Swift,Yes,,115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Rome Odunze,Yes,,145
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Jakobi Meyers,Yes,,150
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Brock Bowers,Yes,,150
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,DJ Moore,Yes,,200
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Tre Tucker,Yes,,210
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Kyle Monangai,Yes,,290
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Cole Kmet,Yes,,300
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Dont'e Thornton Jr.,Yes,,350
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Michael Mayer,Yes,,400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Caleb Williams,Yes,,400
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Olamide Zaccheaus,Yes,,450
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Luther Burden III,Yes,,550
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Las Vegas Raiders D/ST,Yes,,550
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Chicago Bears D/ST,Yes,,550
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Geno Smith,Yes,,650
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Zamir White,Yes,,750
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Jack Bech,Yes,,800
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Roschon Johnson,Yes,,900
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Dylan Laube,Yes,,1200
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Ian Thomas,Yes,,1300
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Justin Shorter,Yes,,1500
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Raheem Mostert,Yes,,1500
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Devin Duvernay,Yes,,1500
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,Durham Smythe,Yes,,1800
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_anytime_td,No Touchdown,Yes,,10000
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_pass_tds,Caleb Williams,Over,1.5,-105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_pass_tds,Caleb Williams,Under,1.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_pass_tds,Geno Smith,Over,1.5,-130
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_pass_tds,Geno Smith,Under,1.5,100
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_pass_yds,Geno Smith,Over,256.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_pass_yds,Geno Smith,Under,256.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_pass_yds,Caleb Williams,Over,229.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_pass_yds,Caleb Williams,Under,229.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Ashton Jeanty,Over,13.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Ashton Jeanty,Under,13.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Rome Odunze,Over,63.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Rome Odunze,Under,63.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,DJ Moore,Over,43.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,DJ Moore,Under,43.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Dont'e Thornton Jr.,Over,32.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Dont'e Thornton Jr.,Under,32.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Jakobi Meyers,Over,64.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Jakobi Meyers,Under,64.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Cole Kmet,Over,21.5,-135
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Cole Kmet,Under,21.5,105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Olamide Zaccheaus,Over,24.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Olamide Zaccheaus,Under,24.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Brock Bowers,Over,58.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Brock Bowers,Under,58.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Tre Tucker,Over,44.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Tre Tucker,Under,44.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Zamir White,Over,4.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Zamir White,Under,4.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Luther Burden III,Over,13.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,Luther Burden III,Under,13.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,D'Andre Swift,Over,17.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_reception_yds,D'Andre Swift,Under,17.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Jakobi Meyers,Over,5.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Jakobi Meyers,Under,5.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,DJ Moore,Over,4.5,115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,DJ Moore,Under,4.5,-150
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Rome Odunze,Over,4.5,-145
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Rome Odunze,Under,4.5,110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Cole Kmet,Over,2.5,-105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Cole Kmet,Under,2.5,-125
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Olamide Zaccheaus,Over,2.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Olamide Zaccheaus,Under,2.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Brock Bowers,Over,5.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Brock Bowers,Under,5.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Tre Tucker,Over,3.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Tre Tucker,Under,3.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Dont'e Thornton Jr.,Over,2.5,140
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Dont'e Thornton Jr.,Under,2.5,-190
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Ashton Jeanty,Over,2.5,105
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Ashton Jeanty,Under,2.5,-135
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,D'Andre Swift,Over,3.5,130
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,D'Andre Swift,Under,3.5,-175
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Luther Burden III,Over,1.5,115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_receptions,Luther Burden III,Under,1.5,-150
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Geno Smith,Over,8.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Geno Smith,Under,8.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,D'Andre Swift,Over,47.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,D'Andre Swift,Under,47.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Ashton Jeanty,Over,66.5,-135
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Ashton Jeanty,Under,66.5,100
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Zamir White,Over,11.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Zamir White,Under,11.5,-115
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Kyle Monangai,Over,18.5,-118
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Kyle Monangai,Under,18.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,DJ Moore,Over,2.5,-120
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,DJ Moore,Under,2.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Caleb Williams,Over,25.5,-110
+Chicago Bears,Las Vegas Raiders,2025-09-28T16:35:38Z,betmgm,player_rush_yds,Caleb Williams,Under,25.5,-120

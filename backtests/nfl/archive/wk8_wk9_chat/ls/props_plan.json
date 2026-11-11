@@ -1,0 +1,169 @@
+{
+ "s2025w06": {
+  "snap": "2025-10-12T16:40:00Z",
+  "games": [
+   "ARI@IND",
+   "CIN@GB",
+   "CLE@PIT",
+   "DAL@CAR",
+   "LAC@MIA",
+   "LAR@BAL",
+   "NE@NO",
+   "SEA@JAX",
+   "SF@TB",
+   "TEN@LV"
+  ],
+  "n": 10
+ },
+ "s2025w11": {
+  "snap": "2025-11-16T17:40:00Z",
+  "games": [
+   "BAL@CLE",
+   "CAR@ATL",
+   "CHI@MIN",
+   "CIN@PIT",
+   "GB@NYG",
+   "HOU@TEN",
+   "KC@DEN",
+   "LAC@JAX",
+   "SEA@LAR",
+   "SF@ARI",
+   "TB@BUF"
+  ],
+  "n": 11
+ },
+ "s2025w08": {
+  "snap": "2025-10-26T16:40:00Z",
+  "games": [
+   "BUF@CAR",
+   "CHI@BAL",
+   "CLE@NE",
+   "DAL@DEN",
+   "MIA@ATL",
+   "NYG@PHI",
+   "NYJ@CIN",
+   "SF@HOU",
+   "TB@NO",
+   "TEN@IND"
+  ],
+  "n": 10
+ },
+ "s2025w12": {
+  "snap": "2025-11-23T17:40:00Z",
+  "games": [
+   "ATL@NO",
+   "CLE@LV",
+   "IND@KC",
+   "JAX@ARI",
+   "MIN@GB",
+   "NE@CIN",
+   "NYG@DET",
+   "NYJ@BAL",
+   "PHI@DAL",
+   "PIT@CHI",
+   "SEA@TEN"
+  ],
+  "n": 11
+ },
+ "s2025w05": {
+  "snap": "2025-10-05T16:40:00Z",
+  "games": [
+   "DAL@NYJ",
+   "DEN@PHI",
+   "DET@CIN",
+   "HOU@BAL",
+   "LV@IND",
+   "MIA@CAR",
+   "NYG@NO",
+   "TB@SEA",
+   "TEN@ARI",
+   "WAS@LAC"
+  ],
+  "n": 10
+ },
+ "s2025w10": {
+  "snap": "2025-11-09T17:40:00Z",
+  "games": [
+   "ARI@SEA",
+   "BAL@MIN",
+   "BUF@MIA",
+   "CLE@NYJ",
+   "DET@WAS",
+   "JAX@HOU",
+   "LAR@SF",
+   "NE@TB",
+   "NO@CAR",
+   "NYG@CHI"
+  ],
+  "n": 10
+ },
+ "s2025w04": {
+  "snap": "2025-09-28T16:40:00Z",
+  "games": [
+   "BAL@KC",
+   "CAR@NE",
+   "CHI@LV",
+   "CLE@DET",
+   "IND@LAR",
+   "JAX@SF",
+   "LAC@NYG",
+   "NO@BUF",
+   "PHI@TB",
+   "TEN@HOU",
+   "WAS@ATL"
+  ],
+  "n": 11
+ },
+ "s2025w03": {
+  "snap": "2025-09-21T16:40:00Z",
+  "games": [
+   "ARI@SF",
+   "ATL@CAR",
+   "CIN@MIN",
+   "DAL@CHI",
+   "DEN@LAC",
+   "GB@CLE",
+   "HOU@JAX",
+   "IND@TEN",
+   "LAR@PHI",
+   "LV@WAS",
+   "NO@SEA",
+   "NYJ@TB",
+   "PIT@NE"
+  ],
+  "n": 13
+ },
+ "s2025w09": {
+  "snap": "2025-11-02T17:40:00Z",
+  "games": [
+   "ATL@NE",
+   "CAR@GB",
+   "CHI@CIN",
+   "DEN@HOU",
+   "IND@PIT",
+   "JAX@LV",
+   "KC@BUF",
+   "LAC@TEN",
+   "MIN@DET",
+   "NO@LAR",
+   "SF@NYG"
+  ],
+  "n": 11
+ },
+ "s2025w07": {
+  "snap": "2025-10-19T16:40:00Z",
+  "games": [
+   "CAR@NYJ",
+   "GB@ARI",
+   "IND@LAC",
+   "LV@KC",
+   "MIA@CLE",
+   "NE@TEN",
+   "NO@CHI",
+   "NYG@DEN",
+   "PHI@MIN",
+   "WAS@DAL"
+  ],
+  "n": 10
+ }
+}

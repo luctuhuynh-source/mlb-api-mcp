@@ -1,0 +1,696 @@
+away,home,snapshot,book,market,player,side,point,price
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Trey McBride,Yes,,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Travis Etienne Jr.,Yes,,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Zonovan Knight,Yes,,150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Bhayshul Tuten,Yes,,155
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jakobi Meyers,Yes,,190
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Michael Wilson,Yes,,210
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Parker Washington,Yes,,255
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Michael Carter,Yes,,270
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Trevor Lawrence,Yes,,270
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Brenton Strange,Yes,,300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Greg Dortch,Yes,,360
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Elijah Higgins,Yes,,425
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Xavier Weaver,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Tim Patrick,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Arizona Cardinals D/ST,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jacoby Brissett,Yes,,550
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Johnny Mundt,Yes,,1000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Dyami Brown,Yes,,1300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jermar Jefferson,Yes,,1300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Cody Schrader,Yes,,1500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Andre Baccellia,Yes,,1600
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Quintin Morris,Yes,,1600
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,LeQuint Allen Jr.,Yes,,1600
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Josiah Deguara,Yes,,1800
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Austin Trammell,Yes,,2500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Jacoby Brissett,Over,1.5,-127
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Jacoby Brissett,Under,1.5,-101
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Trevor Lawrence,Over,1.5,117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Trevor Lawrence,Under,1.5,-150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Jacoby Brissett,Over,249.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Jacoby Brissett,Under,249.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Trevor Lawrence,Over,217.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Trevor Lawrence,Under,217.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Trey McBride,Over,76.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Trey McBride,Under,76.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Michael Wilson,Over,60.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Michael Wilson,Under,60.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jakobi Meyers,Over,55.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jakobi Meyers,Under,55.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Parker Washington,Over,43.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Parker Washington,Under,43.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Greg Dortch,Over,29.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Greg Dortch,Under,29.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Brenton Strange,Over,26.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Brenton Strange,Under,26.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Tim Patrick,Over,20.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Tim Patrick,Under,20.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Travis Etienne Jr.,Over,13.5,-116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Travis Etienne Jr.,Under,13.5,-108
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Elijah Higgins,Over,12.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Elijah Higgins,Under,12.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Zonovan Knight,Over,11.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Zonovan Knight,Under,11.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Trey McBride,Over,7.5,-121
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Trey McBride,Under,7.5,-106
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Michael Wilson,Over,5.5,115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Michael Wilson,Under,5.5,-147
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Jakobi Meyers,Over,4.5,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Jakobi Meyers,Under,4.5,-102
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Parker Washington,Over,3.5,-149
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Parker Washington,Under,3.5,117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Greg Dortch,Over,3.5,-142
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Greg Dortch,Under,3.5,111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Brenton Strange,Over,2.5,-151
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Brenton Strange,Under,2.5,118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Travis Etienne Jr.,Over,2.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Travis Etienne Jr.,Under,2.5,-122
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Tim Patrick,Over,2.5,139
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Tim Patrick,Under,2.5,-178
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Zonovan Knight,Over,1.5,-180
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Zonovan Knight,Under,1.5,140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Elijah Higgins,Over,1.5,-121
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_receptions,Elijah Higgins,Under,1.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Travis Etienne Jr.,Over,47.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Travis Etienne Jr.,Under,47.5,-109
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Bhayshul Tuten,Over,47.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Bhayshul Tuten,Under,47.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Zonovan Knight,Over,42.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Zonovan Knight,Under,42.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Michael Carter,Over,19.5,-108
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Michael Carter,Under,19.5,-116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Trevor Lawrence,Over,16.5,-107
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Trevor Lawrence,Under,16.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jacoby Brissett,Over,12.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jacoby Brissett,Under,12.5,-107
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Travis Etienne Jr.,Yes,,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Trey McBride,Yes,,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Bhayshul Tuten,Yes,,121
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Zonovan Knight,Yes,,135
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jakobi Meyers,Yes,,185
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Michael Wilson,Yes,,210
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Parker Washington,Yes,,245
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Trevor Lawrence,Yes,,260
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Michael Carter,Yes,,270
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Brenton Strange,Yes,,325
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Greg Dortch,Yes,,340
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Elijah Higgins,Yes,,420
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Tim Patrick,Yes,,525
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jacoby Brissett,Yes,,525
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Xavier Weaver,Yes,,550
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,LeQuint Allen Jr.,Yes,,650
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Johnny Mundt,Yes,,950
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Dyami Brown,Yes,,1000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Quintin Morris,Yes,,1100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Andre Baccellia,Yes,,1300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Cody Schrader,Yes,,1400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jermar Jefferson,Yes,,1400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Josiah Deguara,Yes,,1750
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Austin Trammell,Yes,,1800
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Jacoby Brissett,Over,1.5,-121
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Jacoby Brissett,Under,1.5,-109
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Trevor Lawrence,Over,1.5,117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Trevor Lawrence,Under,1.5,-157
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Trevor Lawrence,Over,216.5,-121
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Trevor Lawrence,Under,216.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Jacoby Brissett,Over,248.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Jacoby Brissett,Under,248.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Zonovan Knight,Over,11.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Zonovan Knight,Under,11.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Elijah Higgins,Over,12.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Elijah Higgins,Under,12.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Tim Patrick,Over,20.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Tim Patrick,Under,20.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Brenton Strange,Over,28.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Brenton Strange,Under,28.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Trey McBride,Over,75.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Trey McBride,Under,75.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jakobi Meyers,Over,54.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jakobi Meyers,Under,54.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Michael Wilson,Over,59.5,-108
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Michael Wilson,Under,59.5,-127
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Travis Etienne Jr.,Over,13.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Travis Etienne Jr.,Under,13.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Greg Dortch,Over,28.5,-127
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Greg Dortch,Under,28.5,-107
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Parker Washington,Over,43.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Parker Washington,Under,43.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Trey McBride,Over,7.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Trey McBride,Under,7.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Travis Etienne Jr.,Over,2.5,-108
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Travis Etienne Jr.,Under,2.5,-127
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Elijah Higgins,Over,1.5,-127
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Elijah Higgins,Under,1.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jakobi Meyers,Over,4.5,-129
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jakobi Meyers,Under,4.5,-104
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Zonovan Knight,Over,1.5,-179
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Zonovan Knight,Under,1.5,134
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Brenton Strange,Over,2.5,-138
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Brenton Strange,Under,2.5,110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Tim Patrick,Over,2.5,137
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Tim Patrick,Under,2.5,-190
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Parker Washington,Over,3.5,-152
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Parker Washington,Under,3.5,113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Greg Dortch,Over,3.5,-160
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Greg Dortch,Under,3.5,112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Michael Wilson,Over,5.5,127
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Michael Wilson,Under,5.5,-185
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Jacoby Brissett,Over,12.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Jacoby Brissett,Under,12.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Travis Etienne Jr.,Over,47.5,-108
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Travis Etienne Jr.,Under,47.5,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Michael Carter,Over,19.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Michael Carter,Under,19.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Bhayshul Tuten,Over,46.5,-128
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Bhayshul Tuten,Under,46.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Trevor Lawrence,Over,16.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Trevor Lawrence,Under,16.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Zonovan Knight,Over,43.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Zonovan Knight,Under,43.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Trey McBride,Yes,,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Travis Etienne Jr.,Yes,,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Bam Knight,Yes,,145
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Bhayshul Tuten,Yes,,160
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jakobi Meyers,Yes,,190
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Michael Wilson,Yes,,220
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Parker Washington,Yes,,260
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Trevor Lawrence,Yes,,290
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Michael Carter,Yes,,300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Brenton Strange,Yes,,300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Greg Dortch,Yes,,350
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Xavier Weaver,Yes,,480
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Tim Patrick,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Elijah Higgins,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jacoby Brissett,Yes,,550
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jacksonville Jaguars Defense,Yes,,950
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Johnny Mundt,Yes,,1000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Arizona Cardinals Defense,Yes,,1000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Dyami Brown,Yes,,1100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Cody Schrader,Yes,,1400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Quintin Morris,Yes,,1400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,LeQuint Allen Jr.,Yes,,1400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Andre Baccellia,Yes,,1600
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jermar Jefferson,Yes,,1800
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Josiah Deguara,Yes,,2000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Austin Trammell,Yes,,2500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Pharaoh Brown,Yes,,3000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Jacoby Brissett,Over,1.5,-116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Jacoby Brissett,Under,1.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Trevor Lawrence,Over,1.5,116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Trevor Lawrence,Under,1.5,-148
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Trevor Lawrence,Over,215.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Trevor Lawrence,Under,215.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Jacoby Brissett,Over,247.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Jacoby Brissett,Under,247.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Tim Patrick,Over,19.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Tim Patrick,Under,19.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Elijah Higgins,Over,12.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Elijah Higgins,Under,12.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Travis Etienne Jr.,Over,13.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Travis Etienne Jr.,Under,13.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Brenton Strange,Over,28.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Brenton Strange,Under,28.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Bam Knight,Over,11.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Bam Knight,Under,11.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Trey McBride,Over,75.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Trey McBride,Under,75.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jakobi Meyers,Over,54.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jakobi Meyers,Under,54.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Greg Dortch,Over,28.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Greg Dortch,Under,28.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Michael Wilson,Over,60.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Michael Wilson,Under,60.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Parker Washington,Over,43.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Parker Washington,Under,43.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Tim Patrick,Over,2.5,136
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Tim Patrick,Under,2.5,-174
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Greg Dortch,Over,3.5,-134
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Greg Dortch,Under,3.5,106
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Elijah Higgins,Over,1.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Elijah Higgins,Under,1.5,-106
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Michael Wilson,Over,5.5,116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Michael Wilson,Under,5.5,-146
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Travis Etienne Jr.,Over,2.5,-108
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Travis Etienne Jr.,Under,2.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Bam Knight,Over,1.5,-176
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Bam Knight,Under,1.5,138
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Brenton Strange,Over,2.5,-152
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Brenton Strange,Under,2.5,120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Trey McBride,Over,7.5,-126
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Trey McBride,Under,7.5,-102
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Parker Washington,Over,3.5,-164
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Parker Washington,Under,3.5,128
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Jakobi Meyers,Over,4.5,-126
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_receptions,Jakobi Meyers,Under,4.5,-102
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Travis Etienne Jr.,Over,46.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Travis Etienne Jr.,Under,46.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jacoby Brissett,Over,12.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jacoby Brissett,Under,12.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Michael Carter,Over,18.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Michael Carter,Under,18.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Trevor Lawrence,Over,16.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Trevor Lawrence,Under,16.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Bhayshul Tuten,Over,45.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Bhayshul Tuten,Under,45.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Bam Knight,Over,42.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Bam Knight,Under,42.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Trey McBride,Yes,,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Michael Wilson,Yes,,210
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jacoby Brissett,Yes,,550
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Greg Dortch,Yes,,350
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Trevor Lawrence,Yes,,270
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Bhayshul Tuten,Yes,,150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jakobi Meyers,Yes,,190
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Travis Etienne Jr.,Yes,,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Zonovan Knight,Yes,,140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,LeQuint Allen Jr.,Yes,,1400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Michael Carter,Yes,,270
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Parker Washington,Yes,,250
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Tim Patrick,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Elijah Higgins,Yes,,400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Johnny Mundt,Yes,,1000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Quintin Morris,Yes,,1400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Xavier Weaver,Yes,,450
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Austin Trammell,Yes,,2400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Josiah Deguara,Yes,,1700
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Andre Baccellia,Yes,,1400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Brenton Strange,Yes,,300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Dyami Brown,Yes,,1100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Jacoby Brissett,Over,1.5,-130
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Jacoby Brissett,Under,1.5,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Trevor Lawrence,Over,1.5,117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Trevor Lawrence,Under,1.5,-152
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Trevor Lawrence,Over,219.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Trevor Lawrence,Under,219.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Jacoby Brissett,Over,249.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Jacoby Brissett,Under,249.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Trey McBride,Over,78.5,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Trey McBride,Under,78.5,-103
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Michael Wilson,Over,61.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Michael Wilson,Under,61.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jakobi Meyers,Over,53.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jakobi Meyers,Under,53.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Greg Dortch,Over,29.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Greg Dortch,Under,29.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Tim Patrick,Over,22.5,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Tim Patrick,Under,22.5,-130
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Zonovan Knight,Over,11.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Zonovan Knight,Under,11.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Travis Etienne Jr.,Over,13.5,-116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Travis Etienne Jr.,Under,13.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Parker Washington,Over,42.5,-119
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Parker Washington,Under,42.5,-109
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Elijah Higgins,Over,12.5,-116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Elijah Higgins,Under,12.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Brenton Strange,Over,28.5,-116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Brenton Strange,Under,28.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Trey McBride,Over,7.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Trey McBride,Under,7.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Greg Dortch,Over,3.5,-135
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Greg Dortch,Under,3.5,105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Michael Wilson,Over,5.5,120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Michael Wilson,Under,5.5,-156
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jakobi Meyers,Over,4.5,-123
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jakobi Meyers,Under,4.5,-104
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Parker Washington,Over,3.5,-152
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Parker Washington,Under,3.5,116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Zonovan Knight,Over,1.5,-182
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Zonovan Knight,Under,1.5,138
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Travis Etienne Jr.,Over,2.5,-102
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Travis Etienne Jr.,Under,2.5,-127
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Brenton Strange,Over,2.5,-152
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Brenton Strange,Under,2.5,117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Elijah Higgins,Over,1.5,-123
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_receptions,Elijah Higgins,Under,1.5,-104
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Trevor Lawrence,Over,16.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Trevor Lawrence,Under,16.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Jacoby Brissett,Over,12.5,-116
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Jacoby Brissett,Under,12.5,-111
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Bhayshul Tuten,Over,45.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Bhayshul Tuten,Under,45.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Michael Carter,Over,18.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Michael Carter,Under,18.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Zonovan Knight,Over,42.5,-122
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Zonovan Knight,Under,42.5,-106
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Travis Etienne Jr.,Over,46.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Travis Etienne Jr.,Under,46.5,-108
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Quintin Morris,Yes,,650
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Trey McBride,Yes,,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Travis Etienne Jr.,Yes,,-108
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Xavier Weaver,Yes,,510
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Michael Wilson,Yes,,225
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Trent Sherfield Sr.,Yes,,2000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Greg Dortch,Yes,,360
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Parker Washington,Yes,,260
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Josiah Deguara,Yes,,1400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Bhayshul Tuten,Yes,,138
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Cody Schrader,Yes,,2200
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Johnny Mundt,Yes,,1000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Dyami Brown,Yes,,950
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Tim Patrick,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Brenton Strange,Yes,,330
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jermar Jefferson,Yes,,1700
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Austin Trammell,Yes,,1800
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jacoby Brissett,Yes,,525
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Trevor Lawrence,Yes,,250
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,LeQuint Allen Jr.,Yes,,1000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Andre Baccellia,Yes,,1600
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Michael Carter,Yes,,225
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jakobi Meyers,Yes,,210
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Zonovan Knight,Yes,,130
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Elijah Higgins,Yes,,475
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Trevor Lawrence,Over,1.5,114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Trevor Lawrence,Under,1.5,-150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Jacoby Brissett,Over,1.5,-122
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Jacoby Brissett,Under,1.5,-109
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Jacoby Brissett,Over,249.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Jacoby Brissett,Under,249.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Trevor Lawrence,Over,213.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Trevor Lawrence,Under,213.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jakobi Meyers,Over,56.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jakobi Meyers,Under,56.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Brenton Strange,Over,28.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Brenton Strange,Under,28.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Travis Etienne Jr.,Over,13.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Travis Etienne Jr.,Under,13.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Tim Patrick,Over,20.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Tim Patrick,Under,20.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Parker Washington,Over,46.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Parker Washington,Under,46.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Greg Dortch,Over,28.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Greg Dortch,Under,28.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Zonovan Knight,Over,12.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Zonovan Knight,Under,12.5,-121
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Trey McBride,Over,76.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Trey McBride,Under,76.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Michael Wilson,Over,60.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Michael Wilson,Under,60.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Elijah Higgins,Over,13.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Elijah Higgins,Under,13.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Tim Patrick,Over,2.5,133
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Tim Patrick,Under,2.5,-177
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Jakobi Meyers,Over,4.5,-137
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Jakobi Meyers,Under,4.5,104
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Elijah Higgins,Over,1.5,-104
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Elijah Higgins,Under,1.5,-129
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Parker Washington,Over,3.5,-159
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Parker Washington,Under,3.5,118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Travis Etienne Jr.,Over,2.5,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Travis Etienne Jr.,Under,2.5,-134
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Zonovan Knight,Over,1.5,-162
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Zonovan Knight,Under,1.5,120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Trey McBride,Over,7.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Trey McBride,Under,7.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Greg Dortch,Over,3.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Greg Dortch,Under,3.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Michael Wilson,Over,5.5,123
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Michael Wilson,Under,5.5,-162
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Brenton Strange,Over,2.5,-152
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_receptions,Brenton Strange,Under,2.5,115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Bhayshul Tuten,Over,45.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Bhayshul Tuten,Under,45.5,-113
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Travis Etienne Jr.,Over,48.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Travis Etienne Jr.,Under,48.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Jacoby Brissett,Over,13.5,-112
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Jacoby Brissett,Under,13.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Michael Carter,Over,20.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Michael Carter,Under,20.5,-121
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Zonovan Knight,Over,44.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Zonovan Knight,Under,44.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Trevor Lawrence,Over,16.5,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Trevor Lawrence,Under,16.5,-114
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jacoby Brissett,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Greg Dortch,Yes,,345
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Josiah Deguara,Yes,,1300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Andre Baccellia,Yes,,900
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Michael Carter,Yes,,285
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Bam Knight,Yes,,140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Trey McBride,Yes,,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Xavier Weaver,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Arizona Cardinals D/ST,Yes,,450
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Johnny Mundt,Yes,,740
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jakobi Meyers,Yes,,190
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Trevor Lawrence,Yes,,225
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Travis Etienne Jr.,Yes,,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Quintin Morris,Yes,,1200
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Parker Washington,Yes,,240
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,LeQuint Allen Jr.,Yes,,1050
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Bhayshul Tuten,Yes,,145
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,450
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Elijah Higgins,Yes,,400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Michael Wilson,Yes,,205
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Tim Patrick,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Austin Trammell,Yes,,1500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Cody Schrader,Yes,,1050
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jermar Jefferson,Yes,,1050
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Brenton Strange,Yes,,305
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Trevor Lawrence,Over,1.5,120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Trevor Lawrence,Under,1.5,-160
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Jacoby Brissett,Over,1.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Jacoby Brissett,Under,1.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Trevor Lawrence,Over,215.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Trevor Lawrence,Under,215.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Jacoby Brissett,Over,245.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Jacoby Brissett,Under,245.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Trey McBride,Over,75.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Trey McBride,Under,75.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Michael Wilson,Over,60.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Michael Wilson,Under,60.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jakobi Meyers,Over,55.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jakobi Meyers,Under,55.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Greg Dortch,Over,30.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Greg Dortch,Under,30.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Travis Etienne Jr.,Over,15.5,105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Travis Etienne Jr.,Under,15.5,-140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Parker Washington,Over,40.5,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Parker Washington,Under,40.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Bam Knight,Over,10.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Bam Knight,Under,10.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Tim Patrick,Over,20.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Tim Patrick,Under,20.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Brenton Strange,Over,25.5,-140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Brenton Strange,Under,25.5,105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Elijah Higgins,Over,10.5,-150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Elijah Higgins,Under,10.5,110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Michael Wilson,Over,5.5,110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Michael Wilson,Under,5.5,-150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Greg Dortch,Over,3.5,-140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Greg Dortch,Under,3.5,105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Trey McBride,Over,7.5,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Trey McBride,Under,7.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Parker Washington,Over,4.5,145
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Parker Washington,Under,4.5,-205
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Travis Etienne Jr.,Over,2.5,105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Travis Etienne Jr.,Under,2.5,-140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Bam Knight,Over,2.5,175
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Bam Knight,Under,2.5,-255
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Tim Patrick,Over,2.5,140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Tim Patrick,Under,2.5,-195
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Jakobi Meyers,Over,4.5,-135
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Jakobi Meyers,Under,4.5,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Brenton Strange,Over,3.5,155
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Brenton Strange,Under,3.5,-220
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Elijah Higgins,Over,1.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_receptions,Elijah Higgins,Under,1.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Trevor Lawrence,Over,15.5,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Trevor Lawrence,Under,15.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Bam Knight,Over,40.5,-135
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Bam Knight,Under,40.5,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Michael Carter,Over,20.5,110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Michael Carter,Under,20.5,-150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Travis Etienne Jr.,Over,45.5,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Travis Etienne Jr.,Under,45.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Jacoby Brissett,Over,15.5,115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Jacoby Brissett,Under,15.5,-155
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Bhayshul Tuten,Over,45.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Bhayshul Tuten,Under,45.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Travis Etienne Jr.,Yes,,-155
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Trey McBride,Yes,,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Bhayshul Tuten,Yes,,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Zonovan Knight,Yes,,140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jakobi Meyers,Yes,,170
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Michael Wilson,Yes,,240
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Parker Washington,Yes,,240
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Michael Carter,Yes,,250
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Trevor Lawrence,Yes,,250
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,LeQuint Allen Jr.,Yes,,280
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Greg Dortch,Yes,,333
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Elijah Higgins,Yes,,400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Brenton Strange,Yes,,400
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,525
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Tim Patrick,Yes,,550
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jacoby Brissett,Yes,,575
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Arizona Cardinals D/ST,Yes,,575
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Quintin Morris,Yes,,600
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Xavier Weaver,Yes,,750
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Johnny Mundt,Yes,,900
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Dyami Brown,Yes,,900
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Andre Baccellia,Yes,,1300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Austin Trammell,Yes,,1500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Cody Schrader,Yes,,1800
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Josiah Deguara,Yes,,1900
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_anytime_td,No Touchdown,Yes,,10000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Jacoby Brissett,Over,1.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Jacoby Brissett,Under,1.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Trevor Lawrence,Over,1.5,120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Trevor Lawrence,Under,1.5,-160
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Trevor Lawrence,Over,216.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Trevor Lawrence,Under,216.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Jacoby Brissett,Over,249.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Jacoby Brissett,Under,249.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Trey McBride,Over,80.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Trey McBride,Under,80.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Michael Wilson,Over,58.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Michael Wilson,Under,58.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Zonovan Knight,Over,12.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Zonovan Knight,Under,12.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Travis Etienne Jr.,Over,12.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Travis Etienne Jr.,Under,12.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Greg Dortch,Over,27.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Greg Dortch,Under,27.5,-130
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Parker Washington,Over,42.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Parker Washington,Under,42.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Bhayshul Tuten,Over,5.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Bhayshul Tuten,Under,5.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Brenton Strange,Over,29.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Brenton Strange,Under,29.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Tim Patrick,Over,22.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Tim Patrick,Under,22.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Xavier Weaver,Over,13.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Xavier Weaver,Under,13.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jakobi Meyers,Over,54.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jakobi Meyers,Under,54.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Dyami Brown,Over,7.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Dyami Brown,Under,7.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Elijah Higgins,Over,13.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Elijah Higgins,Under,13.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Michael Carter,Over,11.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Michael Carter,Under,11.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Johnny Mundt,Over,3.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Johnny Mundt,Under,3.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Michael Wilson,Over,4.5,-150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Michael Wilson,Under,4.5,115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Trey McBride,Over,7.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Trey McBride,Under,7.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Greg Dortch,Over,3.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Greg Dortch,Under,3.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Travis Etienne Jr.,Over,2.5,115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Travis Etienne Jr.,Under,2.5,-155
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Brenton Strange,Over,3.5,120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Brenton Strange,Under,3.5,-160
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Jakobi Meyers,Over,4.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Jakobi Meyers,Under,4.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Michael Carter,Over,1.5,-200
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Michael Carter,Under,1.5,145
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Parker Washington,Over,3.5,-150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Parker Washington,Under,3.5,115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Bhayshul Tuten,Over,1.5,130
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Bhayshul Tuten,Under,1.5,-175
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Tim Patrick,Over,2.5,145
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Tim Patrick,Under,2.5,-190
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Elijah Higgins,Over,1.5,-135
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Elijah Higgins,Under,1.5,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Xavier Weaver,Over,1.5,105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Xavier Weaver,Under,1.5,-140
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Dyami Brown,Over,0.5,-250
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Dyami Brown,Under,0.5,180
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Zonovan Knight,Over,1.5,-200
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Zonovan Knight,Under,1.5,145
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Johnny Mundt,Over,0.5,-155
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_receptions,Johnny Mundt,Under,0.5,115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Zonovan Knight,Over,43.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Zonovan Knight,Under,43.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jacoby Brissett,Over,11.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jacoby Brissett,Under,11.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Trevor Lawrence,Over,16.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Trevor Lawrence,Under,16.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Michael Carter,Over,20.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Michael Carter,Under,20.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Travis Etienne Jr.,Over,50.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Travis Etienne Jr.,Under,50.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Bhayshul Tuten,Over,45.5,-118
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Bhayshul Tuten,Under,45.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Dyami Brown,Yes,,1300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jacoby Brissett,Yes,,525
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Tim Patrick,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Josiah Deguara,Yes,,1800
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Michael Carter,Yes,,270
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Parker Washington,Yes,,255
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Andre Baccellia,Yes,,1600
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,LeQuint Allen Jr.,Yes,,1600
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Michael Wilson,Yes,,210
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Austin Trammell,Yes,,2500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Johnny Mundt,Yes,,1000
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Elijah Higgins,Yes,,420
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Trevor Lawrence,Yes,,270
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Trey McBride,Yes,,-117
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Cody Schrader,Yes,,1500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Xavier Weaver,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Quintin Morris,Yes,,1600
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Bhayshul Tuten,Yes,,155
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Travis Etienne Jr.,Yes,,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Greg Dortch,Yes,,360
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jakobi Meyers,Yes,,190
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Bam Knight,Yes,,150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jermar Jefferson,Yes,,1300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Arizona Cardinals D/ST,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,500
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_anytime_td,Brenton Strange,Yes,,300
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_pass_tds,Jacoby Brissett,Over,1.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_pass_tds,Jacoby Brissett,Under,1.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_pass_tds,Trevor Lawrence,Over,1.5,120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_pass_tds,Trevor Lawrence,Under,1.5,-160
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_pass_yds,Jacoby Brissett,Over,247.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_pass_yds,Jacoby Brissett,Under,247.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_pass_yds,Trevor Lawrence,Over,215.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_pass_yds,Trevor Lawrence,Under,215.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Brenton Strange,Over,24.5,-130
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Brenton Strange,Under,24.5,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Greg Dortch,Over,28.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Greg Dortch,Under,28.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jakobi Meyers,Over,56.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jakobi Meyers,Under,56.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Michael Wilson,Over,61.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Michael Wilson,Under,61.5,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Parker Washington,Over,42.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Parker Washington,Under,42.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Tim Patrick,Over,20.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Tim Patrick,Under,20.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Travis Etienne Jr.,Over,13.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Travis Etienne Jr.,Under,13.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Trey McBride,Over,74.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Trey McBride,Under,74.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Zonovan Knight,Over,11.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_reception_yds,Zonovan Knight,Under,11.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Brenton Strange,Over,2.5,-150
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Brenton Strange,Under,2.5,115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Greg Dortch,Over,3.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Greg Dortch,Under,3.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Jakobi Meyers,Over,4.5,-130
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Jakobi Meyers,Under,4.5,100
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Michael Wilson,Over,5.5,125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Michael Wilson,Under,5.5,-165
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Parker Washington,Over,3.5,-145
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Parker Washington,Under,3.5,110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Tim Patrick,Over,2.5,135
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Tim Patrick,Under,2.5,-180
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Travis Etienne Jr.,Over,2.5,105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Travis Etienne Jr.,Under,2.5,-135
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Trey McBride,Over,7.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Trey McBride,Under,7.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Zonovan Knight,Over,1.5,-180
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_receptions,Zonovan Knight,Under,1.5,135
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Bhayshul Tuten,Over,44.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Bhayshul Tuten,Under,44.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Jacoby Brissett,Over,12.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Jacoby Brissett,Under,12.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Michael Carter,Over,18.5,-120
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Michael Carter,Under,18.5,-110
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Travis Etienne Jr.,Over,46.5,-125
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Travis Etienne Jr.,Under,46.5,-105
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Trevor Lawrence,Over,16.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Trevor Lawrence,Under,16.5,-115
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Zonovan Knight,Over,42.5,-130
+Jacksonville Jaguars,Arizona Cardinals,2025-11-23T17:35:37Z,bovada,player_rush_yds,Zonovan Knight,Under,42.5,100

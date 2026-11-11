@@ -1,0 +1,632 @@
+away,home,snapshot,book,market,player,side,point,price
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Quinshon Judkins,Yes,,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,De'Von Achane,Yes,,120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Jaylen Waddle,Yes,,195
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Jerry Jeudy,Yes,,245
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Darren Waller,Yes,,285
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Harold Fannin Jr.,Yes,,310
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Isaiah Bond,Yes,,390
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Cleveland Browns D/ST,Yes,,450
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Miami Dolphins D/ST,Yes,,450
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Jerome Ford,Yes,,600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Malik Washington,Yes,,600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Ollie Gordon II,Yes,,600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Dillon Gabriel,Yes,,950
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Jamari Thrash,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Dylan Sampson,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Blake Whiteheart,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Nick Westbrook-Ikhine,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Julian Hill,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Gage Larvadain,Yes,,2000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Malachi Corley,Yes,,2500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Tanner Conner,Yes,,2800
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Dee Eskridge,Yes,,3000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Alec Ingold,Yes,,3000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Jaylen Wright,Yes,,3500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_anytime_td,Tua Tagovailoa,Yes,,4000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_pass_tds,Tua Tagovailoa,Over,1.5,171
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_pass_tds,Tua Tagovailoa,Under,1.5,-222
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_pass_tds,Dillon Gabriel,Over,0.5,-209
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_pass_tds,Dillon Gabriel,Under,0.5,162
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_pass_yds,Tua Tagovailoa,Over,190.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_pass_yds,Tua Tagovailoa,Under,190.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_pass_yds,Dillon Gabriel,Over,171.5,-111
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_pass_yds,Dillon Gabriel,Under,171.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Jaylen Waddle,Over,55.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Jaylen Waddle,Under,55.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Harold Fannin Jr.,Over,39.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Harold Fannin Jr.,Under,39.5,-109
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Jerry Jeudy,Over,35.5,-109
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Jerry Jeudy,Under,35.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Darren Waller,Over,31.5,-109
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Darren Waller,Under,31.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,De'Von Achane,Over,28.5,-108
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,De'Von Achane,Under,28.5,-116
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Isaiah Bond,Over,24.5,-111
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Isaiah Bond,Under,24.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Malik Washington,Over,17.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Malik Washington,Under,17.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Julian Hill,Over,10.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Julian Hill,Under,10.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Quinshon Judkins,Over,9.5,-109
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_reception_yds,Quinshon Judkins,Under,9.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Jaylen Waddle,Over,4.5,-131
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Jaylen Waddle,Under,4.5,103
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Harold Fannin Jr.,Over,4.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Harold Fannin Jr.,Under,4.5,-102
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,De'Von Achane,Over,4.5,-111
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,De'Von Achane,Under,4.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Darren Waller,Over,3.5,-107
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Darren Waller,Under,3.5,-119
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Jerry Jeudy,Over,3.5,114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Jerry Jeudy,Under,3.5,-146
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Isaiah Bond,Over,2.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Isaiah Bond,Under,2.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Malik Washington,Over,2.5,-108
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Malik Washington,Under,2.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Quinshon Judkins,Over,1.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Quinshon Judkins,Under,1.5,106
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Julian Hill,Over,1.5,-107
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_receptions,Julian Hill,Under,1.5,-119
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Quinshon Judkins,Over,93.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Quinshon Judkins,Under,93.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,De'Von Achane,Over,63.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,De'Von Achane,Under,63.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Ollie Gordon II,Over,17.5,-111
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Ollie Gordon II,Under,17.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Malik Washington,Over,8.5,-109
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Malik Washington,Under,8.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Dillon Gabriel,Over,4.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Dillon Gabriel,Under,4.5,-107
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Tua Tagovailoa,Over,3.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,draftkings,player_rush_yds,Tua Tagovailoa,Under,3.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Quinshon Judkins,Yes,,-150
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,De'Von Achane,Yes,,115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Jaylen Waddle,Yes,,190
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Jerry Jeudy,Yes,,230
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Darren Waller,Yes,,250
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Harold Fannin Jr.,Yes,,295
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Isaiah Bond,Yes,,390
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Malik Washington,Yes,,500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Jerome Ford,Yes,,525
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Ollie Gordon II,Yes,,525
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Dillon Gabriel,Yes,,750
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Nick Westbrook-Ikhine,Yes,,900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Blake Whiteheart,Yes,,1000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Julian Hill,Yes,,1000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Jamari Thrash,Yes,,1000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Dylan Sampson,Yes,,1000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Gage Larvadain,Yes,,1500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Malachi Corley,Yes,,1750
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Alec Ingold,Yes,,1900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Tanner Conner,Yes,,2200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Dee Eskridge,Yes,,2300
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Tua Tagovailoa,Yes,,2300
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_anytime_td,Jaylen Wright,Yes,,2600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_pass_tds,Tua Tagovailoa,Over,1.5,175
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_pass_tds,Tua Tagovailoa,Under,1.5,-245
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_pass_tds,Dillon Gabriel,Over,0.5,-195
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_pass_tds,Dillon Gabriel,Under,0.5,135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_pass_yds,Tua Tagovailoa,Over,190.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_pass_yds,Tua Tagovailoa,Under,190.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_pass_yds,Dillon Gabriel,Over,173.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_pass_yds,Dillon Gabriel,Under,173.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Malik Washington,Over,16.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Malik Washington,Under,16.5,102
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Jerome Ford,Over,10.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Jerome Ford,Under,10.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Julian Hill,Over,10.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Julian Hill,Under,10.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Jaylen Waddle,Over,55.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Jaylen Waddle,Under,55.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Jerry Jeudy,Over,36.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Jerry Jeudy,Under,36.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Quinshon Judkins,Over,9.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Quinshon Judkins,Under,9.5,-121
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Isaiah Bond,Over,24.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Isaiah Bond,Under,24.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,De'Von Achane,Over,29.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,De'Von Achane,Under,29.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Darren Waller,Over,32.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Darren Waller,Under,32.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Harold Fannin Jr.,Over,40.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_reception_yds,Harold Fannin Jr.,Under,40.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Julian Hill,Over,1.5,-106
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Julian Hill,Under,1.5,-129
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Jerry Jeudy,Over,3.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Jerry Jeudy,Under,3.5,-139
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Harold Fannin Jr.,Over,4.5,-130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Harold Fannin Jr.,Under,4.5,-104
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Quinshon Judkins,Over,1.5,-127
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Quinshon Judkins,Under,1.5,-108
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Malik Washington,Over,2.5,-130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Malik Washington,Under,2.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Jaylen Waddle,Over,4.5,-137
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Jaylen Waddle,Under,4.5,102
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Isaiah Bond,Over,2.5,-122
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Isaiah Bond,Under,2.5,-109
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Darren Waller,Over,3.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,Darren Waller,Under,3.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,De'Von Achane,Over,4.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_receptions,De'Von Achane,Under,4.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Ollie Gordon II,Over,17.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Ollie Gordon II,Under,17.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,De'Von Achane,Over,65.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,De'Von Achane,Under,65.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Dillon Gabriel,Over,4.5,-127
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Dillon Gabriel,Under,4.5,-107
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Malik Washington,Over,8.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Malik Washington,Under,8.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Quinshon Judkins,Over,92.5,-130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,williamhill_us,player_rush_yds,Quinshon Judkins,Under,92.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Quinshon Judkins,Yes,,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,De'Von Achane,Yes,,135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Jaylen Waddle,Yes,,200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Jerry Jeudy,Yes,,240
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Darren Waller,Yes,,270
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Harold Fannin Jr.,Yes,,340
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Isaiah Bond,Yes,,410
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Malik Washington,Yes,,500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Ollie Gordon II,Yes,,650
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Jerome Ford,Yes,,650
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Cleveland Browns Defense,Yes,,750
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Dillon Gabriel,Yes,,800
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Nick Westbrook-Ikhine,Yes,,950
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Dylan Sampson,Yes,,1000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Miami Dolphins Defense,Yes,,1100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Jamari Thrash,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Blake Whiteheart,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Julian Hill,Yes,,1400
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Gage Larvadain,Yes,,1800
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Alec Ingold,Yes,,2200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Malachi Corley,Yes,,2700
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Tanner Conner,Yes,,3000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Dee Eskridge,Yes,,3000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Jaylen Wright,Yes,,3300
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_anytime_td,Tua Tagovailoa,Yes,,3500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_pass_tds,Dillon Gabriel,Over,1.5,250
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_pass_tds,Dillon Gabriel,Under,1.5,-350
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_pass_tds,Tua Tagovailoa,Over,1.5,176
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_pass_tds,Tua Tagovailoa,Under,1.5,-230
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_pass_yds,Dillon Gabriel,Over,173.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_pass_yds,Dillon Gabriel,Under,173.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_pass_yds,Tua Tagovailoa,Over,191.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_pass_yds,Tua Tagovailoa,Under,191.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Isaiah Bond,Over,23.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Isaiah Bond,Under,23.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Malik Washington,Over,16.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Malik Washington,Under,16.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Darren Waller,Over,32.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Darren Waller,Under,32.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Jaylen Waddle,Over,53.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Jaylen Waddle,Under,53.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,De'Von Achane,Over,29.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,De'Von Achane,Under,29.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Quinshon Judkins,Over,8.5,-126
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Quinshon Judkins,Under,8.5,-102
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Harold Fannin Jr.,Over,39.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Harold Fannin Jr.,Under,39.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Jerry Jeudy,Over,35.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Jerry Jeudy,Under,35.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Julian Hill,Over,9.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Julian Hill,Under,9.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Jerome Ford,Over,9.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Jerome Ford,Under,9.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Nick Westbrook-Ikhine,Over,8.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_reception_yds,Nick Westbrook-Ikhine,Under,8.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Isaiah Bond,Over,2.5,-122
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Isaiah Bond,Under,2.5,-104
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Malik Washington,Over,2.5,-116
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Malik Washington,Under,2.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Darren Waller,Over,3.5,-116
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Darren Waller,Under,3.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,De'Von Achane,Over,4.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,De'Von Achane,Under,4.5,-116
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Quinshon Judkins,Over,1.5,-126
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Quinshon Judkins,Under,1.5,-102
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Harold Fannin Jr.,Over,4.5,-126
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Harold Fannin Jr.,Under,4.5,-102
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Julian Hill,Over,1.5,-108
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Julian Hill,Under,1.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Jaylen Waddle,Over,4.5,-134
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Jaylen Waddle,Under,4.5,106
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Jerry Jeudy,Over,3.5,108
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_receptions,Jerry Jeudy,Under,3.5,-138
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,De'Von Achane,Over,64.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,De'Von Achane,Under,64.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Malik Washington,Over,8.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Malik Washington,Under,8.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Ollie Gordon II,Over,17.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Ollie Gordon II,Under,17.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Quinshon Judkins,Over,91.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Quinshon Judkins,Under,91.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Tua Tagovailoa,Over,2.5,-126
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Tua Tagovailoa,Under,2.5,-102
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Dillon Gabriel,Over,4.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanduel,player_rush_yds,Dillon Gabriel,Under,4.5,-108
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Jerry Jeudy,Yes,,240
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,De'Von Achane,Yes,,120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Jaylen Waddle,Yes,,190
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Quinshon Judkins,Yes,,-167
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Dillon Gabriel,Yes,,800
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Tua Tagovailoa,Yes,,3400
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Darren Waller,Yes,,270
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Harold Fannin Jr.,Yes,,260
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Nick Westbrook-Ikhine,Yes,,900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Isaiah Bond,Yes,,350
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Malik Washington,Yes,,500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Dylan Sampson,Yes,,1000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Jamari Thrash,Yes,,1100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Julian Hill,Yes,,1100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Ollie Gordon II,Yes,,600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Jerome Ford,Yes,,600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Malachi Corley,Yes,,2400
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Gage Larvadain,Yes,,1700
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Cedrick Wilson Jr.,Yes,,1000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Tahj Washington,Yes,,1700
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Dee Eskridge,Yes,,2900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Raheim Sanders,Yes,,900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Alec Ingold,Yes,,1900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Jaylen Wright,Yes,,2900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Blake Whiteheart,Yes,,1100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_anytime_td,Tanner Conner,Yes,,2400
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_pass_tds,Tua Tagovailoa,Under,1.5,-238
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_pass_tds,Tua Tagovailoa,Over,1.5,178
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_pass_tds,Dillon Gabriel,Over,0.5,-208
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_pass_tds,Dillon Gabriel,Under,0.5,157
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_pass_yds,Dillon Gabriel,Over,170.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_pass_yds,Dillon Gabriel,Under,170.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_pass_yds,Tua Tagovailoa,Under,185.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_pass_yds,Tua Tagovailoa,Over,185.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,De'Von Achane,Over,29.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,De'Von Achane,Under,29.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Isaiah Bond,Under,24.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Isaiah Bond,Over,24.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Jerry Jeudy,Under,37.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Jerry Jeudy,Over,37.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Darren Waller,Over,32.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Darren Waller,Under,32.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Harold Fannin Jr.,Over,40.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Harold Fannin Jr.,Under,40.5,-103
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Jaylen Waddle,Over,56.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Jaylen Waddle,Under,56.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Malik Washington,Under,16.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Malik Washington,Over,16.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Quinshon Judkins,Under,9.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Quinshon Judkins,Over,9.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Julian Hill,Over,9.5,-116
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Julian Hill,Under,9.5,-111
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Jerome Ford,Under,9.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Jerome Ford,Over,9.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Nick Westbrook-Ikhine,Under,8.5,-111
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_reception_yds,Nick Westbrook-Ikhine,Over,8.5,-116
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,De'Von Achane,Over,4.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,De'Von Achane,Under,4.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Darren Waller,Over,3.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Darren Waller,Under,3.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Isaiah Bond,Over,2.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Isaiah Bond,Under,2.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Jaylen Waddle,Over,4.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Jaylen Waddle,Under,4.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Jerry Jeudy,Under,3.5,-139
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Jerry Jeudy,Over,3.5,107
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Harold Fannin Jr.,Over,4.5,-143
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Harold Fannin Jr.,Under,4.5,110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Malik Washington,Under,2.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Malik Washington,Over,2.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Julian Hill,Over,1.5,-103
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Julian Hill,Under,1.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Quinshon Judkins,Under,1.5,104
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_receptions,Quinshon Judkins,Over,1.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,De'Von Achane,Under,62.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,De'Von Achane,Over,62.5,-108
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Quinshon Judkins,Over,96.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Quinshon Judkins,Under,96.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Ollie Gordon II,Under,17.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Ollie Gordon II,Over,17.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Malik Washington,Over,8.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betonlineag,player_rush_yds,Malik Washington,Under,8.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Nick Westbrook-Ikhine,Yes,,850
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Harold Fannin Jr.,Yes,,275
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Tanner Conner,Yes,,1400
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Malik Washington,Yes,,550
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Malachi Corley,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Gage Larvadain,Yes,,1900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Ollie Gordon II,Yes,,430
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Quinshon Judkins,Yes,,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Dillon Gabriel,Yes,,750
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Jerome Ford,Yes,,550
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Isaiah Bond,Yes,,335
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Blake Whiteheart,Yes,,1050
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Darren Waller,Yes,,310
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Dylan Sampson,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Julian Hill,Yes,,950
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Jaylen Waddle,Yes,,190
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Tua Tagovailoa,Yes,,1600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Jerry Jeudy,Yes,,225
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Alec Ingold,Yes,,1900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Dee Eskridge,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Jaylen Wright,Yes,,2500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,De'Von Achane,Yes,,115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_anytime_td,Jamari Thrash,Yes,,700
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_pass_tds,Tua Tagovailoa,Over,0.5,-286
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_pass_tds,Tua Tagovailoa,Under,0.5,205
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_pass_tds,Dillon Gabriel,Over,0.5,-240
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_pass_tds,Dillon Gabriel,Under,0.5,175
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_pass_yds,Tua Tagovailoa,Over,185.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_pass_yds,Tua Tagovailoa,Under,185.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_pass_yds,Dillon Gabriel,Over,172.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_pass_yds,Dillon Gabriel,Under,172.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Quinshon Judkins,Over,9.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Quinshon Judkins,Under,9.5,-121
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,De'Von Achane,Over,28.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,De'Von Achane,Under,28.5,-112
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Jaylen Waddle,Over,56.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Jaylen Waddle,Under,56.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Isaiah Bond,Over,23.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Isaiah Bond,Under,23.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Jerry Jeudy,Over,36.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Jerry Jeudy,Under,36.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Harold Fannin Jr.,Over,40.5,-113
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Harold Fannin Jr.,Under,40.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Darren Waller,Over,32.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Darren Waller,Under,32.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Malik Washington,Over,18.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_reception_yds,Malik Washington,Under,18.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Malik Washington,Over,2.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Malik Washington,Under,2.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Jaylen Waddle,Over,4.5,-137
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Jaylen Waddle,Under,4.5,104
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Isaiah Bond,Over,2.5,-127
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Isaiah Bond,Under,2.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,De'Von Achane,Over,4.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,De'Von Achane,Under,4.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Jerry Jeudy,Over,3.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Jerry Jeudy,Under,3.5,-139
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Harold Fannin Jr.,Over,4.5,-134
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Harold Fannin Jr.,Under,4.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Darren Waller,Over,3.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_receptions,Darren Waller,Under,3.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Quinshon Judkins,Over,89.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Quinshon Judkins,Under,89.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,De'Von Achane,Over,63.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,De'Von Achane,Under,63.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Tua Tagovailoa,Over,2.5,-114
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Tua Tagovailoa,Under,2.5,-117
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Ollie Gordon II,Over,16.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Ollie Gordon II,Under,16.5,-121
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Dillon Gabriel,Over,3.5,-121
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betrivers,player_rush_yds,Dillon Gabriel,Under,3.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Jaylen Waddle,Yes,,200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Cleveland Browns Defense,Yes,,625
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Jaylen Wright,Yes,,2800
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Alec Ingold,Yes,,2000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Jerry Jeudy,Yes,,240
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Miami Dolphins Defense,Yes,,900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Harold Fannin Jr.,Yes,,330
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Julian Hill,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Dillon Gabriel,Yes,,725
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Gage Larvadain,Yes,,1600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Jerome Ford,Yes,,600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Ollie Gordon II,Yes,,600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Jamari Thrash,Yes,,1100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Nick Westbrook-Ikhine,Yes,,825
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Dylan Sampson,Yes,,825
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Quinshon Judkins,Yes,,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Malachi Corley,Yes,,2200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Dee Eskridge,Yes,,2500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Darren Waller,Yes,,260
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Blake Whiteheart,Yes,,1000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Tanner Conner,Yes,,2500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Tua Tagovailoa,Yes,,3300
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Malik Washington,Yes,,440
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,Isaiah Bond,Yes,,400
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_anytime_td,De'Von Achane,Yes,,130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_pass_tds,Dillon Gabriel,Over,0.5,-200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_pass_tds,Dillon Gabriel,Under,0.5,150
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_pass_tds,Tua Tagovailoa,Over,1.5,175
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_pass_tds,Tua Tagovailoa,Under,1.5,-240
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_pass_yds,Dillon Gabriel,Over,176.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_pass_yds,Dillon Gabriel,Under,176.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_pass_yds,Tua Tagovailoa,Over,190.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_pass_yds,Tua Tagovailoa,Under,190.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Darren Waller,Over,32.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Darren Waller,Under,32.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,De'Von Achane,Over,30.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,De'Von Achane,Under,30.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Isaiah Bond,Over,23.5,-130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Isaiah Bond,Under,23.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Jaylen Waddle,Over,59.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Jaylen Waddle,Under,59.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Jerry Jeudy,Over,36.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Jerry Jeudy,Under,36.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Malik Washington,Over,16.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_reception_yds,Malik Washington,Under,16.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Darren Waller,Over,3.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Darren Waller,Under,3.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,De'Von Achane,Over,4.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,De'Von Achane,Under,4.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Harold Fannin Jr.,Over,4.5,-145
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Harold Fannin Jr.,Under,4.5,110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Isaiah Bond,Over,2.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Isaiah Bond,Under,2.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Jaylen Waddle,Over,5.5,145
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Jaylen Waddle,Under,5.5,-190
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Jerry Jeudy,Over,3.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Jerry Jeudy,Under,3.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Malik Washington,Over,2.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_receptions,Malik Washington,Under,2.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_rush_yds,De'Von Achane,Over,67.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_rush_yds,De'Von Achane,Under,67.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_rush_yds,Dillon Gabriel,Over,4.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_rush_yds,Dillon Gabriel,Under,4.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_rush_yds,Quinshon Judkins,Over,92.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,bovada,player_rush_yds,Quinshon Judkins,Under,92.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Quinshon Judkins,Yes,,-130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,De'Von Achane,Yes,,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Jaylen Waddle,Yes,,175
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Darren Waller,Yes,,190
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Jerry Jeudy,Yes,,190
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Harold Fannin Jr.,Yes,,260
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Isaiah Bond,Yes,,400
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Jerome Ford,Yes,,500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Malik Washington,Yes,,500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Ollie Gordon II,Yes,,500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Cleveland Browns D/ST,Yes,,525
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Dillon Gabriel,Yes,,525
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Miami Dolphins D/ST,Yes,,650
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Julian Hill,Yes,,900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Nick Westbrook-Ikhine,Yes,,900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Jamari Thrash,Yes,,950
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,No Touchdown,Yes,,1000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Blake Whiteheart,Yes,,1100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Dylan Sampson,Yes,,1100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Malachi Corley,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Cedrick Wilson Jr.,Yes,,1500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Gage Larvadain,Yes,,1500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Tua Tagovailoa,Yes,,1500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Raheim Sanders,Yes,,1600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Tanner Conner,Yes,,1800
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Alec Ingold,Yes,,2000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_anytime_td,Dee Eskridge,Yes,,2000
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_pass_tds,Tua Tagovailoa,Over,1.5,200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_pass_tds,Tua Tagovailoa,Under,1.5,-275
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_pass_tds,Dillon Gabriel,Over,0.5,-200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_pass_tds,Dillon Gabriel,Under,0.5,150
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_pass_yds,Tua Tagovailoa,Over,191.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_pass_yds,Tua Tagovailoa,Under,191.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_pass_yds,Dillon Gabriel,Over,176.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_pass_yds,Dillon Gabriel,Under,176.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,De'Von Achane,Over,29.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,De'Von Achane,Under,29.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Malik Washington,Over,17.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Malik Washington,Under,17.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Isaiah Bond,Over,24.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Isaiah Bond,Under,24.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Jerry Jeudy,Over,37.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Jerry Jeudy,Under,37.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Harold Fannin Jr.,Over,40.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Harold Fannin Jr.,Under,40.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Nick Westbrook-Ikhine,Over,11.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Nick Westbrook-Ikhine,Under,11.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Darren Waller,Over,30.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Darren Waller,Under,30.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Julian Hill,Over,10.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Julian Hill,Under,10.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Jaylen Waddle,Over,54.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Jaylen Waddle,Under,54.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Quinshon Judkins,Over,8.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Quinshon Judkins,Under,8.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Jerome Ford,Over,10.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Jerome Ford,Under,10.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Jamari Thrash,Over,5.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_reception_yds,Jamari Thrash,Under,5.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,De'Von Achane,Over,4.5,-130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,De'Von Achane,Under,4.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Darren Waller,Over,3.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Darren Waller,Under,3.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Jaylen Waddle,Over,4.5,-130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Jaylen Waddle,Under,4.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Isaiah Bond,Over,2.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Isaiah Bond,Under,2.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Jerry Jeudy,Over,3.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Jerry Jeudy,Under,3.5,-130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Harold Fannin Jr.,Over,4.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Harold Fannin Jr.,Under,4.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Quinshon Judkins,Over,1.5,-140
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Quinshon Judkins,Under,1.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Nick Westbrook-Ikhine,Over,1.5,145
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Nick Westbrook-Ikhine,Under,1.5,-190
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Malik Washington,Over,2.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Malik Washington,Under,2.5,-118
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Jerome Ford,Over,1.5,-165
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Jerome Ford,Under,1.5,130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Julian Hill,Over,1.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_receptions,Julian Hill,Under,1.5,-140
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Ollie Gordon II,Over,14.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Ollie Gordon II,Under,14.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Dillon Gabriel,Over,4.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Dillon Gabriel,Under,4.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Quinshon Judkins,Over,91.5,-130
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Quinshon Judkins,Under,91.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,De'Von Achane,Over,65.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,De'Von Achane,Under,65.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Tua Tagovailoa,Over,2.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Tua Tagovailoa,Under,2.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Malik Washington,Over,5.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,betmgm,player_rush_yds,Malik Washington,Under,5.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,No Scorer,Yes,,1300
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Jerry Jeudy,Yes,,225
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Quinshon Judkins,Yes,,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Cleveland Browns D/ST,Yes,,470
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Jaylen Waddle,Yes,,195
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,De'Von Achane,Yes,,115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Miami Dolphins D/ST,Yes,,470
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Jerome Ford,Yes,,470
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Blake Whiteheart,Yes,,900
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Jamari Thrash,Yes,,850
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Malachi Corley,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Dylan Sampson,Yes,,850
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Dillon Gabriel,Yes,,600
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Harold Fannin Jr.,Yes,,295
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Gage Larvadain,Yes,,1200
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Isaiah Bond,Yes,,360
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Darren Waller,Yes,,240
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Alec Ingold,Yes,,1700
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Nick Westbrook-Ikhine,Yes,,740
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Tua Tagovailoa,Yes,,1300
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Dee Eskridge,Yes,,1500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Tanner Conner,Yes,,1500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Julian Hill,Yes,,850
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Malik Washington,Yes,,500
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_anytime_td,Ollie Gordon II,Yes,,530
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_pass_tds,Tua Tagovailoa,Over,1.5,170
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_pass_tds,Tua Tagovailoa,Under,1.5,-245
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_pass_tds,Dillon Gabriel,Over,0.5,-220
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_pass_tds,Dillon Gabriel,Under,0.5,155
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_pass_yds,Tua Tagovailoa,Over,190.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_pass_yds,Tua Tagovailoa,Under,190.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_pass_yds,Dillon Gabriel,Over,170.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_pass_yds,Dillon Gabriel,Under,170.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,De'Von Achane,Over,30.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,De'Von Achane,Under,30.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Malik Washington,Over,15.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Malik Washington,Under,15.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Isaiah Bond,Over,25.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Isaiah Bond,Under,25.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Jerry Jeudy,Over,35.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Jerry Jeudy,Under,35.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Jaylen Waddle,Over,55.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Jaylen Waddle,Under,55.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Darren Waller,Over,30.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Darren Waller,Under,30.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Quinshon Judkins,Over,10.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Quinshon Judkins,Under,10.5,-140
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Harold Fannin Jr.,Over,40.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Harold Fannin Jr.,Under,40.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Julian Hill,Over,10.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_reception_yds,Julian Hill,Under,10.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,De'Von Achane,Over,4.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,De'Von Achane,Under,4.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Jerry Jeudy,Over,3.5,105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Jerry Jeudy,Under,3.5,-140
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Isaiah Bond,Over,2.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Isaiah Bond,Under,2.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Darren Waller,Over,3.5,-110
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Darren Waller,Under,3.5,-120
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Harold Fannin Jr.,Over,4.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Harold Fannin Jr.,Under,4.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Jaylen Waddle,Over,4.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Jaylen Waddle,Under,4.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Malik Washington,Over,2.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Malik Washington,Under,2.5,-115
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Quinshon Judkins,Over,2.5,240
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Quinshon Judkins,Under,2.5,-375
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Julian Hill,Over,1.5,-105
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_receptions,Julian Hill,Under,1.5,-125
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_rush_yds,De'Von Achane,Over,60.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_rush_yds,De'Von Achane,Under,60.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Ollie Gordon II,Over,15.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Ollie Gordon II,Under,15.5,100
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Quinshon Judkins,Over,90.5,-135
+Miami Dolphins,Cleveland Browns,2025-10-19T16:35:40Z,fanatics,player_rush_yds,Quinshon Judkins,Under,90.5,100

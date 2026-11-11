@@ -1,0 +1,583 @@
+away,home,snapshot,book,market,player,side,point,price
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Bijan Robinson,Yes,,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Rico Dowdle,Yes,,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Drake London,Yes,,115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Tyler Allgeier,Yes,,165
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Tetairoa McMillan,Yes,,200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Kyle Pitts,Yes,,270
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Darnell Mooney,Yes,,285
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Xavier Legette,Yes,,425
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Jalen Coker,Yes,,450
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Ja'Tavion Sanders,Yes,,475
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Atlanta Falcons D/ST,Yes,,500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Chuba Hubbard,Yes,,550
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,David Sills V,Yes,,700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Carolina Panthers D/ST,Yes,,700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Michael Penix Jr.,Yes,,950
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Bryce Young,Yes,,950
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Jimmy Horn Jr.,Yes,,1000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Tommy Tremble,Yes,,1000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Charlie Woerner,Yes,,1500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Jamal Agnew,Yes,,1800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Mitchell Evans,Yes,,1800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,KhaDarel Hodge,Yes,,2500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Trevor Etienne,Yes,,2800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Brycen Tremayne,Yes,,2800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Casey Washington,Yes,,3000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Teagan Quitoriano,Yes,,3500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Feleipe Franks,Yes,,4000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Nathan Carter,Yes,,5500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Michael Penix Jr.,Over,1.5,106
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Michael Penix Jr.,Under,1.5,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Bryce Young,Over,1.5,178
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Bryce Young,Under,1.5,-230
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Michael Penix Jr.,Over,225.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Michael Penix Jr.,Under,225.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Bryce Young,Over,172.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Bryce Young,Under,172.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Drake London,Over,77.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Drake London,Under,77.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Tetairoa McMillan,Over,56.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Tetairoa McMillan,Under,56.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Kyle Pitts,Over,47.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Kyle Pitts,Under,47.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Bijan Robinson,Over,38.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Bijan Robinson,Under,38.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Darnell Mooney,Over,33.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Darnell Mooney,Under,33.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Jalen Coker,Over,25.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Jalen Coker,Under,25.5,-109
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Xavier Legette,Over,18.5,-116
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Xavier Legette,Under,18.5,-109
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Ja'Tavion Sanders,Over,16.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Ja'Tavion Sanders,Under,16.5,-109
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Rico Dowdle,Over,15.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Rico Dowdle,Under,15.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Drake London,Over,6.5,119
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Drake London,Under,6.5,-151
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Tetairoa McMillan,Over,4.5,-123
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Tetairoa McMillan,Under,4.5,-104
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Bijan Robinson,Over,4.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Bijan Robinson,Under,4.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Kyle Pitts,Over,4.5,-103
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Kyle Pitts,Under,4.5,-124
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Darnell Mooney,Over,2.5,-139
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Darnell Mooney,Under,2.5,109
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Rico Dowdle,Over,2.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Rico Dowdle,Under,2.5,-116
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Jalen Coker,Over,2.5,-102
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Jalen Coker,Under,2.5,-126
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Ja'Tavion Sanders,Over,2.5,130
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Ja'Tavion Sanders,Under,2.5,-166
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Xavier Legette,Over,2.5,137
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_receptions,Xavier Legette,Under,2.5,-175
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Rico Dowdle,Over,84.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Rico Dowdle,Under,84.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Bijan Robinson,Over,77.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Bijan Robinson,Under,77.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Tyler Allgeier,Over,31.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Tyler Allgeier,Under,31.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Chuba Hubbard,Over,15.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Chuba Hubbard,Under,15.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Bryce Young,Over,9.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Bryce Young,Under,9.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Michael Penix Jr.,Over,6.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Michael Penix Jr.,Under,6.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Bijan Robinson,Yes,,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Rico Dowdle,Yes,,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Drake London,Yes,,112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Tyler Allgeier,Yes,,169
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Tetairoa McMillan,Yes,,200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Kyle Pitts,Yes,,260
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Darnell Mooney,Yes,,295
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Jalen Coker,Yes,,425
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Xavier Legette,Yes,,425
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Chuba Hubbard,Yes,,475
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Ja'Tavion Sanders,Yes,,475
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,David Sills V,Yes,,650
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Michael Penix Jr.,Yes,,800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Bryce Young,Yes,,800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Tommy Tremble,Yes,,950
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Jimmy Horn Jr.,Yes,,1000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Charlie Woerner,Yes,,1400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Mitchell Evans,Yes,,1500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Jamal Agnew,Yes,,1700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,KhaDarel Hodge,Yes,,1800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Casey Washington,Yes,,2000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Trevor Etienne,Yes,,2100
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Brycen Tremayne,Yes,,2400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Teagan Quitoriano,Yes,,2700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Nathan Carter,Yes,,3500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Feleipe Franks,Yes,,3500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Bryce Young,Over,1.5,150
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Bryce Young,Under,1.5,-215
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Michael Penix Jr.,Over,1.5,108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Michael Penix Jr.,Under,1.5,-143
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Bryce Young,Over,170.5,-130
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Bryce Young,Under,170.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Michael Penix Jr.,Over,225.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Michael Penix Jr.,Under,225.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Tetairoa McMillan,Over,56.5,-117
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Tetairoa McMillan,Under,56.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Darnell Mooney,Over,34.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Darnell Mooney,Under,34.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Kyle Pitts,Over,47.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Kyle Pitts,Under,47.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Xavier Legette,Over,17.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Xavier Legette,Under,17.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Drake London,Over,75.5,-127
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Drake London,Under,75.5,-108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Bijan Robinson,Over,37.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Bijan Robinson,Under,37.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Rico Dowdle,Over,15.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Rico Dowdle,Under,15.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Ja'Tavion Sanders,Over,16.5,-107
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Ja'Tavion Sanders,Under,16.5,-127
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Jalen Coker,Over,25.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Jalen Coker,Under,25.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Tetairoa McMillan,Over,4.5,-121
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Tetairoa McMillan,Under,4.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Ja'Tavion Sanders,Over,2.5,135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Ja'Tavion Sanders,Under,2.5,-185
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Xavier Legette,Over,2.5,128
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Xavier Legette,Under,2.5,-173
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Drake London,Over,6.5,112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Drake London,Under,6.5,-150
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Jalen Coker,Over,2.5,-106
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Jalen Coker,Under,2.5,-127
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Darnell Mooney,Over,2.5,-134
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Darnell Mooney,Under,2.5,101
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Rico Dowdle,Over,2.5,-109
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Rico Dowdle,Under,2.5,-122
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Bijan Robinson,Over,4.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Bijan Robinson,Under,4.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Kyle Pitts,Over,4.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Kyle Pitts,Under,4.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Michael Penix Jr.,Over,6.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Michael Penix Jr.,Under,6.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Chuba Hubbard,Over,14.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Chuba Hubbard,Under,14.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Tyler Allgeier,Over,31.5,-121
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Tyler Allgeier,Under,31.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Bijan Robinson,Over,75.5,-130
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Bijan Robinson,Under,75.5,-102
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Bryce Young,Over,8.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Bryce Young,Under,8.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Rico Dowdle,Over,84.5,100
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Rico Dowdle,Under,84.5,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Bijan Robinson,Yes,,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Rico Dowdle,Yes,,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Drake London,Yes,,120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Tyler Allgeier,Yes,,170
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Tetairoa McMillan,Yes,,200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Kyle Pitts,Yes,,280
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Darnell Mooney,Yes,,300
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Jalen Coker,Yes,,440
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Xavier Legette,Yes,,440
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Ja'Tavion Sanders,Yes,,460
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Chuba Hubbard,Yes,,500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,David Sills V,Yes,,700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Atlanta Falcons Defense,Yes,,750
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Michael Penix Jr.,Yes,,900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Bryce Young,Yes,,950
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Tommy Tremble,Yes,,950
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Jimmy Horn Jr.,Yes,,1000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Carolina Panthers Defense,Yes,,1100
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Mitchell Evans,Yes,,1500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Charlie Woerner,Yes,,1600
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Jamal Agnew,Yes,,1700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Trevor Etienne,Yes,,2500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,KhaDarel Hodge,Yes,,2500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Brycen Tremayne,Yes,,2700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Teagan Quitoriano,Yes,,3000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Casey Washington,Yes,,3000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Feleipe Franks,Yes,,4500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Nathan Carter,Yes,,4500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Michael Penix Jr.,Over,1.5,108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Michael Penix Jr.,Under,1.5,-138
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Bryce Young,Over,1.5,162
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Bryce Young,Under,1.5,-210
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Bryce Young,Over,169.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Bryce Young,Under,169.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Michael Penix Jr.,Over,225.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Michael Penix Jr.,Under,225.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Rico Dowdle,Over,15.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Rico Dowdle,Under,15.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Drake London,Over,75.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Drake London,Under,75.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Xavier Legette,Over,17.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Xavier Legette,Under,17.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Ja'Tavion Sanders,Over,16.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Ja'Tavion Sanders,Under,16.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Darnell Mooney,Over,33.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Darnell Mooney,Under,33.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Tetairoa McMillan,Over,56.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Tetairoa McMillan,Under,56.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Jalen Coker,Over,26.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Jalen Coker,Under,26.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Bijan Robinson,Over,36.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Bijan Robinson,Under,36.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Kyle Pitts,Over,48.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Kyle Pitts,Under,48.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Xavier Legette,Over,2.5,134
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Xavier Legette,Under,2.5,-172
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Jalen Coker,Over,2.5,-102
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Jalen Coker,Under,2.5,-124
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Tetairoa McMillan,Over,4.5,-116
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Tetairoa McMillan,Under,4.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Drake London,Over,6.5,116
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Drake London,Under,6.5,-148
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Ja'Tavion Sanders,Over,2.5,130
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Ja'Tavion Sanders,Under,2.5,-166
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Kyle Pitts,Over,4.5,-116
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Kyle Pitts,Under,4.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Bijan Robinson,Over,4.5,-108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Bijan Robinson,Under,4.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Rico Dowdle,Over,2.5,-106
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_receptions,Rico Dowdle,Under,2.5,-122
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Rico Dowdle,Over,83.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Rico Dowdle,Under,83.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Chuba Hubbard,Over,14.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Chuba Hubbard,Under,14.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Tyler Allgeier,Over,32.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Tyler Allgeier,Under,32.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Michael Penix Jr.,Over,6.5,-108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Michael Penix Jr.,Under,6.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Bryce Young,Over,8.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Bryce Young,Under,8.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Bijan Robinson,Over,74.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Bijan Robinson,Under,74.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Feleipe Franks,Yes,,3400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,KhaDarel Hodge,Yes,,2400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Tyler Allgeier,Yes,,160
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Bijan Robinson,Yes,,-143
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Kyle Pitts,Yes,,270
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Tommy Tremble,Yes,,900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Drake London,Yes,,110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Bryce Young,Yes,,900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Chuba Hubbard,Yes,,500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Charlie Woerner,Yes,,1400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Darnell Mooney,Yes,,280
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Jalen Coker,Yes,,400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Ja'Tavion Sanders,Yes,,450
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Casey Washington,Yes,,2900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Xavier Legette,Yes,,400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Michael Penix Jr.,Yes,,900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Jamal Agnew,Yes,,1700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Rico Dowdle,Yes,,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,James Mitchell,Yes,,1400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,David Sills V,Yes,,700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Nathan Carter,Yes,,3400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Hunter Renfrow,Yes,,2400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Brycen Tremayne,Yes,,2400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Teagan Quitoriano,Yes,,2900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Mitchell Evans,Yes,,1400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Trevor Etienne,Yes,,2400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Tetairoa McMillan,Yes,,200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Jimmy Horn Jr.,Yes,,1000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Bryce Young,Over,1.5,161
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Bryce Young,Under,1.5,-213
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Michael Penix Jr.,Over,1.5,110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Michael Penix Jr.,Under,1.5,-143
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Michael Penix Jr.,Over,225.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Michael Penix Jr.,Under,225.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Bryce Young,Over,170.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Bryce Young,Under,170.5,-103
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Tetairoa McMillan,Over,56.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Tetairoa McMillan,Under,56.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Kyle Pitts,Over,47.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Kyle Pitts,Under,47.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Bijan Robinson,Over,37.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Bijan Robinson,Under,37.5,-108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Rico Dowdle,Over,15.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Rico Dowdle,Under,15.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Jalen Coker,Over,26.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Jalen Coker,Under,26.5,-116
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Ja'Tavion Sanders,Over,17.5,-101
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Ja'Tavion Sanders,Under,17.5,-128
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Darnell Mooney,Over,33.5,-116
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Darnell Mooney,Under,33.5,-111
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Drake London,Over,78.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Drake London,Under,78.5,-108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Xavier Legette,Over,16.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Xavier Legette,Under,16.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Bijan Robinson,Over,4.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Bijan Robinson,Under,4.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Kyle Pitts,Over,4.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Kyle Pitts,Under,4.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Drake London,Over,6.5,118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Drake London,Under,6.5,-154
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Tetairoa McMillan,Over,4.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Tetairoa McMillan,Under,4.5,-108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Rico Dowdle,Over,2.5,-103
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Rico Dowdle,Under,2.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Xavier Legette,Over,2.5,136
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Xavier Legette,Under,2.5,-179
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Jalen Coker,Over,2.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Jalen Coker,Under,2.5,-123
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Ja'Tavion Sanders,Over,2.5,136
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Ja'Tavion Sanders,Under,2.5,-179
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Darnell Mooney,Over,2.5,-133
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_receptions,Darnell Mooney,Under,2.5,103
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Bryce Young,Over,8.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Bryce Young,Under,8.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Michael Penix Jr.,Over,6.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Michael Penix Jr.,Under,6.5,-108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Tyler Allgeier,Over,32.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Tyler Allgeier,Under,32.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Chuba Hubbard,Over,15.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Chuba Hubbard,Under,15.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Rico Dowdle,Over,81.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Rico Dowdle,Under,81.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Bijan Robinson,Over,78.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Bijan Robinson,Under,78.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Xavier Legette,Yes,,430
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Teagan Quitoriano,Yes,,2900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Mitchell Evans,Yes,,1500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Bryce Young,Yes,,800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Casey Washington,Yes,,1900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Brycen Tremayne,Yes,,2000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Rico Dowdle,Yes,,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Charlie Woerner,Yes,,1200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Tyler Allgeier,Yes,,180
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Chuba Hubbard,Yes,,450
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Jalen Coker,Yes,,350
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Trevor Etienne,Yes,,1900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Bijan Robinson,Yes,,-139
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Jimmy Horn Jr.,Yes,,575
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,David Sills V,Yes,,850
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Michael Penix Jr.,Yes,,950
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Kyle Pitts,Yes,,295
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Feleipe Franks,Yes,,2900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,KhaDarel Hodge,Yes,,1500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Drake London,Yes,,104
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Nathan Carter,Yes,,2200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Tetairoa McMillan,Yes,,195
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Ja'Tavion Sanders,Yes,,440
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Jamal Agnew,Yes,,2400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Darnell Mooney,Yes,,320
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Tommy Tremble,Yes,,1050
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Bryce Young,Over,1.5,190
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Bryce Young,Under,1.5,-265
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Michael Penix Jr.,Over,1.5,118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Michael Penix Jr.,Under,1.5,-159
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Bryce Young,Over,168.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Bryce Young,Under,168.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Michael Penix Jr.,Over,222.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Michael Penix Jr.,Under,222.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Kyle Pitts,Over,48.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Kyle Pitts,Under,48.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Ja'Tavion Sanders,Over,16.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Ja'Tavion Sanders,Under,16.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Darnell Mooney,Over,33.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Darnell Mooney,Under,33.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Rico Dowdle,Over,14.5,-121
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Rico Dowdle,Under,14.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Jalen Coker,Over,25.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Jalen Coker,Under,25.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Tetairoa McMillan,Over,56.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Tetairoa McMillan,Under,56.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Bijan Robinson,Over,37.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Bijan Robinson,Under,37.5,-117
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Drake London,Over,77.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Drake London,Under,77.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Xavier Legette,Over,18.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Xavier Legette,Under,18.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Kyle Pitts,Over,4.5,-106
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Kyle Pitts,Under,4.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Drake London,Over,6.5,104
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Drake London,Under,6.5,-137
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Xavier Legette,Over,2.5,130
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Xavier Legette,Under,2.5,-175
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Darnell Mooney,Over,2.5,-132
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Darnell Mooney,Under,2.5,-103
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Rico Dowdle,Over,2.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Rico Dowdle,Under,2.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Bijan Robinson,Over,4.5,-107
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Bijan Robinson,Under,4.5,-124
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Jalen Coker,Over,2.5,-108
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Jalen Coker,Under,2.5,-124
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Tetairoa McMillan,Over,4.5,-122
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Tetairoa McMillan,Under,4.5,-109
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Ja'Tavion Sanders,Over,2.5,128
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_receptions,Ja'Tavion Sanders,Under,2.5,-167
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Tyler Allgeier,Over,31.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Tyler Allgeier,Under,31.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Michael Penix Jr.,Over,6.5,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Michael Penix Jr.,Under,6.5,-117
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Bijan Robinson,Over,75.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Bijan Robinson,Under,75.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Rico Dowdle,Over,81.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Rico Dowdle,Under,81.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Chuba Hubbard,Over,15.5,-113
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Chuba Hubbard,Under,15.5,-118
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Bryce Young,Over,9.5,-112
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Bryce Young,Under,9.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,No Scorer,Yes,,2500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Drake London,Yes,,115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Bijan Robinson,Yes,,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Atlanta Falcons D/ST,Yes,,450
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Rico Dowdle,Yes,,100
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Tetairoa McMillan,Yes,,215
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Carolina Panthers D/ST,Yes,,450
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Jamal Agnew,Yes,,1300
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,KhaDarel Hodge,Yes,,1500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,David Sills V,Yes,,600
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Darnell Mooney,Yes,,285
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Charlie Woerner,Yes,,1050
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Feleipe Franks,Yes,,2500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Kyle Pitts,Yes,,285
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Teagan Quitoriano,Yes,,1900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Tyler Allgeier,Yes,,175
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Michael Penix Jr.,Yes,,740
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Casey Washington,Yes,,1900
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Tommy Tremble,Yes,,800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Chuba Hubbard,Yes,,500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Brycen Tremayne,Yes,,1600
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Bryce Young,Yes,,700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Xavier Legette,Yes,,450
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Jalen Coker,Yes,,420
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Ja'Tavion Sanders,Yes,,420
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Trevor Etienne,Yes,,1700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Jimmy Horn Jr.,Yes,,740
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Mitchell Evans,Yes,,1050
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Bryce Young,Over,1.5,165
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Bryce Young,Under,1.5,-225
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Michael Penix Jr.,Over,1.5,105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Michael Penix Jr.,Under,1.5,-140
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Michael Penix Jr.,Over,225.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Michael Penix Jr.,Under,225.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Bryce Young,Over,165.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Bryce Young,Under,165.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Bijan Robinson,Over,35.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Bijan Robinson,Under,35.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Drake London,Over,75.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Drake London,Under,75.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Kyle Pitts,Over,45.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Kyle Pitts,Under,45.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Tetairoa McMillan,Over,55.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Tetairoa McMillan,Under,55.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Rico Dowdle,Over,15.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Rico Dowdle,Under,15.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Jalen Coker,Over,25.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Jalen Coker,Under,25.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Xavier Legette,Over,15.5,-140
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Xavier Legette,Under,15.5,105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Ja'Tavion Sanders,Over,15.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Ja'Tavion Sanders,Under,15.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Darnell Mooney,Over,35.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Darnell Mooney,Under,35.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Bijan Robinson,Over,4.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Bijan Robinson,Under,4.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Kyle Pitts,Over,4.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Kyle Pitts,Under,4.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Drake London,Over,6.5,110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Drake London,Under,6.5,-150
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Tetairoa McMillan,Over,4.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Tetairoa McMillan,Under,4.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Xavier Legette,Over,2.5,125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Xavier Legette,Under,2.5,-170
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Darnell Mooney,Over,2.5,-140
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Darnell Mooney,Under,2.5,105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Rico Dowdle,Over,2.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Rico Dowdle,Under,2.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Ja'Tavion Sanders,Over,2.5,135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Ja'Tavion Sanders,Under,2.5,-185
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Jalen Coker,Over,2.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_receptions,Jalen Coker,Under,2.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Bijan Robinson,Over,75.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Bijan Robinson,Under,75.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Tyler Allgeier,Over,30.5,-140
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Tyler Allgeier,Under,30.5,105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Chuba Hubbard,Over,15.5,100
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Chuba Hubbard,Under,15.5,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Bryce Young,Over,10.5,115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Bryce Young,Under,10.5,-155
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Michael Penix Jr.,Over,5.5,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Michael Penix Jr.,Under,5.5,100
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Rico Dowdle,Over,80.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Rico Dowdle,Under,80.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Drake London,Yes,,120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Bijan Robinson,Yes,,-139
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,KhaDarel Hodge,Yes,,2000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Mitchell Evans,Yes,,1300
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Atlanta Falcons D/ST,Yes,,700
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Ja'Tavion Sanders,Yes,,400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Bryce Young,Yes,,825
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Charlie Woerner,Yes,,1400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Kyle Pitts,Yes,,275
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Michael Penix Jr.,Yes,,800
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Jimmy Horn Jr.,Yes,,825
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Chuba Hubbard,Yes,,500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Rico Dowdle,Yes,,-114
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Tyler Allgeier,Yes,,170
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Teagan Quitoriano,Yes,,2500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,David Sills V,Yes,,625
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Casey Washington,Yes,,2500
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Brycen Tremayne,Yes,,2200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Tommy Tremble,Yes,,825
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Nathan Carter,Yes,,4000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Trevor Etienne,Yes,,2200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Feleipe Franks,Yes,,4000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Darnell Mooney,Yes,,300
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Carolina Panthers D/ST,Yes,,1000
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Tetairoa McMillan,Yes,,200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Xavier Legette,Yes,,400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Jalen Coker,Yes,,400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_anytime_td,Jamal Agnew,Yes,,1400
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_pass_tds,Bryce Young,Over,1.5,155
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_pass_tds,Bryce Young,Under,1.5,-210
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_pass_tds,Michael Penix Jr.,Over,1.5,125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_pass_tds,Michael Penix Jr.,Under,1.5,-165
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_pass_yds,Bryce Young,Over,169.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_pass_yds,Bryce Young,Under,169.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_pass_yds,Michael Penix Jr.,Over,225.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_pass_yds,Michael Penix Jr.,Under,225.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Bijan Robinson,Over,36.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Bijan Robinson,Under,36.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Darnell Mooney,Over,31.5,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Darnell Mooney,Under,31.5,105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Drake London,Over,74.5,-130
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Drake London,Under,74.5,100
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Ja'Tavion Sanders,Over,17.5,105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Ja'Tavion Sanders,Under,17.5,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Jalen Coker,Over,26.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Jalen Coker,Under,26.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Kyle Pitts,Over,47.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Kyle Pitts,Under,47.5,-115
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Rico Dowdle,Over,15.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Rico Dowdle,Under,15.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Tetairoa McMillan,Over,56.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Tetairoa McMillan,Under,56.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Xavier Legette,Over,17.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_reception_yds,Xavier Legette,Under,17.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Bijan Robinson,Over,4.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Bijan Robinson,Under,4.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Darnell Mooney,Over,2.5,-135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Darnell Mooney,Under,2.5,105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Drake London,Over,6.5,110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Drake London,Under,6.5,-145
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Ja'Tavion Sanders,Over,2.5,150
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Ja'Tavion Sanders,Under,2.5,-200
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Jalen Coker,Over,2.5,100
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Jalen Coker,Under,2.5,-130
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Kyle Pitts,Over,4.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Kyle Pitts,Under,4.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Rico Dowdle,Over,2.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Rico Dowdle,Under,2.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Tetairoa McMillan,Over,4.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Tetairoa McMillan,Under,4.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Xavier Legette,Over,2.5,135
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_receptions,Xavier Legette,Under,2.5,-180
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Bijan Robinson,Over,74.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Bijan Robinson,Under,74.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Bryce Young,Over,8.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Bryce Young,Under,8.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Chuba Hubbard,Over,14.5,-110
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Chuba Hubbard,Under,14.5,-120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Michael Penix Jr.,Over,6.5,-125
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Michael Penix Jr.,Under,6.5,-105
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Rico Dowdle,Over,86.5,120
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Rico Dowdle,Under,86.5,-160
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Tyler Allgeier,Over,30.5,-130
+Carolina Panthers,Atlanta Falcons,2025-11-16T17:35:37Z,bovada,player_rush_yds,Tyler Allgeier,Under,30.5,100

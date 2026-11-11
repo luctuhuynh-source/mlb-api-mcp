@@ -1,0 +1,621 @@
+away,home,snapshot,book,market,player,side,point,price
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Omarion Hampton,Yes,,-165
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Ashton Jeanty,Yes,,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Quentin Johnston,Yes,,155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Michael Mayer,Yes,,230
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Tre Harris,Yes,,250
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Tre Tucker,Yes,,295
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,David Njoku,Yes,,330
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Keaton Mitchell,Yes,,450
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Justin Herbert,Yes,,450
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Los Angeles Chargers D/ST,Yes,,475
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Jalen Nailor,Yes,,475
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Las Vegas Raiders D/ST,Yes,,550
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Charlie Kolar,Yes,,600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Oronde Gadsden II,Yes,,600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Mike Washington Jr.,Yes,,600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Jack Bech,Yes,,650
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Kimani Vidal,Yes,,800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Brenen Thompson,Yes,,850
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Derius Davis,Yes,,850
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Malik Benson,Yes,,1000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Ian Thomas,Yes,,1500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Chris Myarick,Yes,,1500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Connor Heyward,Yes,,1700
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Kirk Cousins,Yes,,2000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Dylan Laube,Yes,,2000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Cody White,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Dareke Young,Yes,,2500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_anytime_td,Alec Ingold,Yes,,3000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_pass_tds,Justin Herbert,Over,1.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_pass_tds,Justin Herbert,Under,1.5,-106
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_pass_tds,Kirk Cousins,Over,1.5,198
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_pass_tds,Kirk Cousins,Under,1.5,-258
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_pass_yds,Justin Herbert,Over,225.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_pass_yds,Justin Herbert,Under,225.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_pass_yds,Kirk Cousins,Over,192.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_pass_yds,Kirk Cousins,Under,192.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Quentin Johnston,Over,46.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Quentin Johnston,Under,46.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Michael Mayer,Over,44.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Michael Mayer,Under,44.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Tre Tucker,Over,34.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Tre Tucker,Under,34.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Jalen Nailor,Over,32.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Jalen Nailor,Under,32.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Tre Harris,Over,31.5,-109
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Tre Harris,Under,31.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Ashton Jeanty,Over,26.5,-109
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Ashton Jeanty,Under,26.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,David Njoku,Over,22.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,David Njoku,Under,22.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Oronde Gadsden II,Over,12.5,-108
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Oronde Gadsden II,Under,12.5,-116
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Omarion Hampton,Over,11.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_reception_yds,Omarion Hampton,Under,11.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Michael Mayer,Over,5.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Michael Mayer,Under,5.5,-141
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Ashton Jeanty,Over,3.5,-160
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Ashton Jeanty,Under,3.5,125
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Quentin Johnston,Over,3.5,-129
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Quentin Johnston,Under,3.5,101
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Tre Tucker,Over,3.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Tre Tucker,Under,3.5,-147
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Jalen Nailor,Over,2.5,-156
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Jalen Nailor,Under,2.5,122
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Tre Harris,Over,2.5,-155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Tre Harris,Under,2.5,122
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,David Njoku,Over,2.5,-122
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,David Njoku,Under,2.5,-104
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Omarion Hampton,Over,2.5,139
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Omarion Hampton,Under,2.5,-179
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Oronde Gadsden II,Over,1.5,106
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_receptions,Oronde Gadsden II,Under,1.5,-135
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Ashton Jeanty,Over,64.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Ashton Jeanty,Under,64.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Omarion Hampton,Over,61.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Omarion Hampton,Under,61.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Keaton Mitchell,Over,22.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Keaton Mitchell,Under,22.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Justin Herbert,Over,19.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Justin Herbert,Under,19.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Mike Washington Jr.,Over,15.5,-116
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,draftkings,player_rush_yds,Mike Washington Jr.,Under,15.5,-108
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Omarion Hampton,Yes,,-164
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Ashton Jeanty,Yes,,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Quentin Johnston,Yes,,142
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Tre Harris,Yes,,230
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Michael Mayer,Yes,,235
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,David Njoku,Yes,,305
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Tre Tucker,Yes,,305
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Jalen Nailor,Yes,,425
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Keaton Mitchell,Yes,,450
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Justin Herbert,Yes,,450
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Charlie Kolar,Yes,,525
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Oronde Gadsden II,Yes,,525
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Mike Washington Jr.,Yes,,575
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Jack Bech,Yes,,675
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Kimani Vidal,Yes,,750
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Brenen Thompson,Yes,,800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Gary Jennings,Yes,,900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Derius Davis,Yes,,900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Malik Benson,Yes,,1000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Ian Thomas,Yes,,1400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Chris Myarick,Yes,,1500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Connor Heyward,Yes,,1600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Dylan Laube,Yes,,1900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Kirk Cousins,Yes,,2000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Cody White,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Alec Ingold,Yes,,2600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,williamhill_us,player_anytime_td,Dareke Young,Yes,,2700
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Derius Davis,Yes,,800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Michael Mayer,Yes,,230
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Quentin Johnston,Yes,,130
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Kimani Vidal,Yes,,750
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Dylan Laube,Yes,,1900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Ladd McConkey,Yes,,160
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Justin Herbert,Yes,,450
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Tre Tucker,Yes,,300
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Oronde Gadsden II,Yes,,500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Omarion Hampton,Yes,,-167
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Ian Thomas,Yes,,1400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Jack Bech,Yes,,650
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Ashton Jeanty,Yes,,-125
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Tre Harris,Yes,,210
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Charlie Kolar,Yes,,500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Dareke Young,Yes,,2400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Alec Ingold,Yes,,1900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Jalen Nailor,Yes,,400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Connor Heyward,Yes,,1400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Keaton Mitchell,Yes,,450
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Kirk Cousins,Yes,,1900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Malik Benson,Yes,,1000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Mike Washington Jr.,Yes,,550
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Brenen Thompson,Yes,,800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,David Njoku,Yes,,300
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_anytime_td,Gary Jennings,Yes,,750
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_pass_tds,Justin Herbert,Over,1.5,-122
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_pass_tds,Justin Herbert,Under,1.5,-106
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_pass_tds,Kirk Cousins,Over,1.5,190
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_pass_tds,Kirk Cousins,Under,1.5,-256
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_pass_yds,Kirk Cousins,Over,192.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_pass_yds,Kirk Cousins,Under,192.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_pass_yds,Justin Herbert,Over,225.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_pass_yds,Justin Herbert,Under,225.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Ashton Jeanty,Over,26.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Ashton Jeanty,Under,26.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Omarion Hampton,Over,11.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Omarion Hampton,Under,11.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Michael Mayer,Over,44.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Michael Mayer,Under,44.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Tre Tucker,Over,36.5,-116
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Tre Tucker,Under,36.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Jalen Nailor,Over,32.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Jalen Nailor,Under,32.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Oronde Gadsden II,Over,12.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Oronde Gadsden II,Under,12.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Tre Harris,Over,31.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Tre Harris,Under,31.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Quentin Johnston,Over,47.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,Quentin Johnston,Under,47.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,David Njoku,Over,23.5,-116
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_reception_yds,David Njoku,Under,23.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Omarion Hampton,Over,2.5,135
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Omarion Hampton,Under,2.5,-175
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Michael Mayer,Over,5.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Michael Mayer,Under,5.5,-143
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Quentin Johnston,Over,3.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Quentin Johnston,Under,3.5,111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Jalen Nailor,Over,2.5,-149
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Jalen Nailor,Under,2.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Oronde Gadsden II,Over,1.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Oronde Gadsden II,Under,1.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,David Njoku,Over,2.5,-135
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,David Njoku,Under,2.5,105
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Tre Tucker,Over,3.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Tre Tucker,Under,3.5,-143
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Tre Harris,Over,2.5,-154
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Tre Harris,Under,2.5,119
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Ashton Jeanty,Over,3.5,-156
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_receptions,Ashton Jeanty,Under,3.5,121
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Omarion Hampton,Over,64.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Omarion Hampton,Under,64.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Ashton Jeanty,Over,63.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Ashton Jeanty,Under,63.5,-108
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Justin Herbert,Over,19.5,-116
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Justin Herbert,Under,19.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Mike Washington Jr.,Over,18.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Mike Washington Jr.,Under,18.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Keaton Mitchell,Over,22.5,-116
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betonlineag,player_rush_yds,Keaton Mitchell,Under,22.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Omarion Hampton,Yes,,-155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Ashton Jeanty,Yes,,-105
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Quentin Johnston,Yes,,135
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Tre Harris,Yes,,230
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Michael Mayer,Yes,,240
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,David Njoku,Yes,,300
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Tre Tucker,Yes,,310
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Jalen Nailor,Yes,,400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Justin Herbert,Yes,,470
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Keaton Mitchell,Yes,,480
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Charlie Kolar,Yes,,500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Oronde Gadsden II,Yes,,500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Mike Washington Jr.,Yes,,600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Las Vegas Raiders Defense,Yes,,700
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Jack Bech,Yes,,750
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Kimani Vidal,Yes,,800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Brenen Thompson,Yes,,850
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Los Angeles Chargers Defense,Yes,,900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Malik Benson,Yes,,1000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Derius Davis,Yes,,1000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Gary Jennings,Yes,,1000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Ian Thomas,Yes,,1400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Chris Myarick,Yes,,1400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Connor Heyward,Yes,,1800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Dylan Laube,Yes,,2000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Kirk Cousins,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Cody White,Yes,,2500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_anytime_td,Alec Ingold,Yes,,3000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_pass_tds,Justin Herbert,Over,1.5,-122
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_pass_tds,Justin Herbert,Under,1.5,-106
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_pass_tds,Kirk Cousins,Over,1.5,192
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_pass_tds,Kirk Cousins,Under,1.5,-260
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_pass_yds,Kirk Cousins,Over,192.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_pass_yds,Kirk Cousins,Under,192.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_pass_yds,Justin Herbert,Over,223.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_pass_yds,Justin Herbert,Under,223.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,David Njoku,Over,23.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,David Njoku,Under,23.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Jalen Nailor,Over,32.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Jalen Nailor,Under,32.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Oronde Gadsden II,Over,14.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Oronde Gadsden II,Under,14.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Quentin Johnston,Over,47.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Quentin Johnston,Under,47.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Omarion Hampton,Over,10.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Omarion Hampton,Under,10.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Tre Harris,Over,30.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Tre Harris,Under,30.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Michael Mayer,Over,43.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Michael Mayer,Under,43.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Tre Tucker,Over,36.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Tre Tucker,Under,36.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Ashton Jeanty,Over,26.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_reception_yds,Ashton Jeanty,Under,26.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Omarion Hampton,Over,2.5,142
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Omarion Hampton,Under,2.5,-192
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,David Njoku,Over,2.5,-144
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,David Njoku,Under,2.5,108
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Oronde Gadsden II,Over,1.5,-118
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Oronde Gadsden II,Under,1.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Tre Harris,Over,2.5,-172
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Tre Harris,Under,2.5,128
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Quentin Johnston,Over,3.5,-140
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Quentin Johnston,Under,3.5,106
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Michael Mayer,Over,4.5,-172
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Michael Mayer,Under,4.5,128
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Ashton Jeanty,Over,4.5,130
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Ashton Jeanty,Under,4.5,-174
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Jalen Nailor,Over,2.5,-148
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Jalen Nailor,Under,2.5,112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Tre Tucker,Over,3.5,114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_receptions,Tre Tucker,Under,3.5,-152
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Mike Washington Jr.,Over,18.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Mike Washington Jr.,Under,18.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Justin Herbert,Over,19.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Justin Herbert,Under,19.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Keaton Mitchell,Over,23.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Keaton Mitchell,Under,23.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Kirk Cousins,Over,0.5,136
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Kirk Cousins,Under,0.5,-174
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Ashton Jeanty,Over,62.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Ashton Jeanty,Under,62.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Omarion Hampton,Over,62.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanduel,player_rush_yds,Omarion Hampton,Under,62.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Dareke Young,Yes,,5500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Ian Thomas,Yes,,2400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Michael Mayer,Yes,,230
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Jack Bech,Yes,,575
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Ashton Jeanty,Yes,,-143
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Kimani Vidal,Yes,,700
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Oronde Gadsden II,Yes,,700
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Justin Herbert,Yes,,540
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Brenen Thompson,Yes,,1100
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Quentin Johnston,Yes,,165
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Tre Harris,Yes,,235
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Ladd McConkey,Yes,,190
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Kirk Cousins,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Malik Benson,Yes,,700
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Connor Heyward,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Jalen Nailor,Yes,,390
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Derius Davis,Yes,,1000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Charlie Kolar,Yes,,525
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Alec Ingold,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Keaton Mitchell,Yes,,375
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Omarion Hampton,Yes,,-148
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,David Njoku,Yes,,340
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Tre Tucker,Yes,,400
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Mike Washington Jr.,Yes,,410
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Dylan Laube,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_anytime_td,Cody White,Yes,,1800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_pass_tds,Kirk Cousins,Over,0.5,-265
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_pass_tds,Kirk Cousins,Under,0.5,190
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_pass_tds,Justin Herbert,Over,1.5,-118
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_pass_tds,Justin Herbert,Under,1.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_pass_yds,Justin Herbert,Over,221.5,-117
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_pass_yds,Justin Herbert,Under,221.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_pass_yds,Kirk Cousins,Over,186.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_pass_yds,Kirk Cousins,Under,186.5,-117
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Omarion Hampton,Over,11.5,-118
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Omarion Hampton,Under,11.5,-113
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Oronde Gadsden II,Over,13.5,-117
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Oronde Gadsden II,Under,13.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Michael Mayer,Over,44.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Michael Mayer,Under,44.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Jalen Nailor,Over,32.5,-117
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Jalen Nailor,Under,32.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Quentin Johnston,Over,51.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Quentin Johnston,Under,51.5,-117
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,David Njoku,Over,26.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,David Njoku,Under,26.5,-117
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Tre Harris,Over,32.5,-117
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Tre Harris,Under,32.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Ashton Jeanty,Over,25.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Ashton Jeanty,Under,25.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Tre Tucker,Over,36.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_reception_yds,Tre Tucker,Under,36.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_receptions,Omarion Hampton,Over,1.5,-195
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_receptions,Ashton Jeanty,Over,4.5,123
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_receptions,Jalen Nailor,Over,2.5,-139
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_receptions,Tre Tucker,Over,3.5,120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_receptions,Michael Mayer,Over,5.5,114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_receptions,Oronde Gadsden II,Over,1.5,-103
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_receptions,David Njoku,Over,2.5,-157
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_receptions,Quentin Johnston,Over,3.5,-167
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_receptions,Tre Harris,Over,3.5,135
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_rush_yds,Mike Washington Jr.,Over,18.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_rush_yds,Mike Washington Jr.,Under,18.5,-112
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_rush_yds,Justin Herbert,Over,19.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_rush_yds,Justin Herbert,Under,19.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_rush_yds,Omarion Hampton,Over,63.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_rush_yds,Omarion Hampton,Under,63.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_rush_yds,Ashton Jeanty,Over,64.5,-114
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betrivers,player_rush_yds,Ashton Jeanty,Under,64.5,-117
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Las Vegas Raiders D/ST,Yes,,575
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Charlie Kolar,Yes,,625
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Ashton Jeanty,Yes,,-105
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Jalen Nailor,Yes,,360
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Kimani Vidal,Yes,,700
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,David Njoku,Yes,,310
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Ladd McConkey,Yes,,200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Connor Heyward,Yes,,800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Los Angeles Chargers D/ST,Yes,,475
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Malik Benson,Yes,,1250
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Oronde Gadsden II,Yes,,425
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Justin Herbert,Yes,,340
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Michael Mayer,Yes,,240
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Keaton Mitchell,Yes,,310
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Mike Washington Jr.,Yes,,500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Ian Thomas,Yes,,1550
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Brenen Thompson,Yes,,950
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Tre Tucker,Yes,,300
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Omarion Hampton,Yes,,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Jack Bech,Yes,,525
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Tre Harris,Yes,,300
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Kirk Cousins,Yes,,1500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Quentin Johnston,Yes,,155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Dylan Laube,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_anytime_td,Derius Davis,Yes,,950
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_pass_tds,Kirk Cousins,Over,0.5,-250
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_pass_tds,Kirk Cousins,Under,0.5,180
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_pass_tds,Justin Herbert,Over,1.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_pass_tds,Justin Herbert,Under,1.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_pass_yds,Justin Herbert,Over,227.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_pass_yds,Justin Herbert,Under,227.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_pass_yds,Kirk Cousins,Over,193.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_pass_yds,Kirk Cousins,Under,193.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,David Njoku,Over,23.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,David Njoku,Under,23.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Quentin Johnston,Over,50.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Quentin Johnston,Under,50.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Tre Tucker,Over,37.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Tre Tucker,Under,37.5,-118
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Omarion Hampton,Over,11.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Omarion Hampton,Under,11.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Michael Mayer,Over,44.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Michael Mayer,Under,44.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Oronde Gadsden II,Over,15.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Oronde Gadsden II,Under,15.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Tre Harris,Over,31.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Tre Harris,Under,31.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Jalen Nailor,Over,30.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Jalen Nailor,Under,30.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Ashton Jeanty,Over,22.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_reception_yds,Ashton Jeanty,Under,22.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Michael Mayer,Over,4.5,-165
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Michael Mayer,Under,4.5,125
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,David Njoku,Over,2.5,-135
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,David Njoku,Under,2.5,100
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Quentin Johnston,Over,4.5,125
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Quentin Johnston,Under,4.5,-165
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Ashton Jeanty,Over,3.5,-125
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Ashton Jeanty,Under,3.5,-105
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Tre Tucker,Over,3.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Tre Tucker,Under,3.5,-155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Omarion Hampton,Over,2.5,150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Omarion Hampton,Under,2.5,-200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Oronde Gadsden II,Over,1.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Oronde Gadsden II,Under,1.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Tre Harris,Over,2.5,-155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_receptions,Tre Harris,Under,2.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Justin Herbert,Over,19.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Justin Herbert,Under,19.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Mike Washington Jr.,Over,17.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Mike Washington Jr.,Under,17.5,-111
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Omarion Hampton,Over,65.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Omarion Hampton,Under,65.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Keaton Mitchell,Over,24.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Keaton Mitchell,Under,24.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Ashton Jeanty,Over,63.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,betmgm,player_rush_yds,Ashton Jeanty,Under,63.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Las Vegas Raiders D/ST,Yes,,600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Omarion Hampton,Yes,,-168
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Justin Herbert,Yes,,440
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Kirk Cousins,Yes,,2000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Ashton Jeanty,Yes,,-117
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Derius Davis,Yes,,825
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,David Njoku,Yes,,300
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Keaton Mitchell,Yes,,440
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Kimani Vidal,Yes,,800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Quentin Johnston,Yes,,140
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Charlie Kolar,Yes,,525
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Tre Harris,Yes,,225
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Alec Ingold,Yes,,2800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Oronde Gadsden II,Yes,,525
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Brenen Thompson,Yes,,800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Jack Bech,Yes,,625
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Connor Heyward,Yes,,1600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Dylan Laube,Yes,,2000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Ian Thomas,Yes,,1500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Michael Mayer,Yes,,230
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Jalen Nailor,Yes,,460
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Mike Washington Jr.,Yes,,600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Tre Tucker,Yes,,300
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Malik Benson,Yes,,1000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Dareke Young,Yes,,2500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Cody White,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_anytime_td,Chris Myarick,Yes,,1500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_tds,Justin Herbert,Over,1.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_tds,Justin Herbert,Under,1.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_tds,Kirk Cousins,Over,1.5,200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_tds,Kirk Cousins,Under,1.5,-275
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Over,195.5,-250
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Under,195.5,185
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Over,205.5,-190
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Under,205.5,145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Over,215.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Under,215.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Over,225.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Under,225.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Over,235.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Under,235.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Over,245.5,140
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Under,245.5,-185
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Over,255.5,175
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Justin Herbert,Under,255.5,-240
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,162.5,-250
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,162.5,185
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,172.5,-190
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,172.5,145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,182.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,182.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,192.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,192.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,202.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,202.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,212.5,140
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,212.5,-185
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Over,222.5,175
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_pass_yds,Kirk Cousins,Under,222.5,-240
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Ashton Jeanty,Over,26.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Ashton Jeanty,Under,26.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,David Njoku,Over,24.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,David Njoku,Under,24.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Over,22.5,-240
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Under,22.5,175
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Over,27.5,-160
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Under,27.5,120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Over,32.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Under,32.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Over,37.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Under,37.5,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Over,42.5,150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Jalen Nailor,Under,42.5,-200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Over,34.5,-210
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Under,34.5,155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Over,39.5,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Under,39.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Over,44.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Under,44.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Over,49.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Under,49.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Over,54.5,140
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Michael Mayer,Under,54.5,-185
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Omarion Hampton,Over,11.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Omarion Hampton,Under,11.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Oronde Gadsden II,Over,13.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Oronde Gadsden II,Under,13.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Over,39.5,-185
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Under,39.5,140
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Over,44.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Under,44.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Over,49.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Under,49.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Over,54.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Under,54.5,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Over,59.5,145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Quentin Johnston,Under,59.5,-190
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Over,23.5,-220
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Under,23.5,165
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Over,28.5,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Under,28.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Over,33.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Under,33.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Over,38.5,120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Under,38.5,-160
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Over,43.5,155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Harris,Under,43.5,-210
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,24.5,-230
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,24.5,170
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,29.5,-160
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,29.5,120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,34.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,34.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,39.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,39.5,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Over,44.5,150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_reception_yds,Tre Tucker,Under,44.5,-200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Ashton Jeanty,Over,3.5,-160
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Ashton Jeanty,Under,3.5,120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,David Njoku,Over,2.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,David Njoku,Under,2.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Jalen Nailor,Over,2.5,-160
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Jalen Nailor,Under,2.5,120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Michael Mayer,Over,5.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Michael Mayer,Under,5.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Omarion Hampton,Over,2.5,145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Omarion Hampton,Under,2.5,-190
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Oronde Gadsden II,Over,1.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Oronde Gadsden II,Under,1.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Quentin Johnston,Over,3.5,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Quentin Johnston,Under,3.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Tre Harris,Over,3.5,135
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Tre Harris,Under,3.5,-180
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Tre Tucker,Over,3.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_receptions,Tre Tucker,Under,3.5,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Over,54.5,-215
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Under,54.5,160
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Over,59.5,-160
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Under,59.5,120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Over,64.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Under,64.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Over,69.5,110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Under,69.5,-145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Over,74.5,135
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Ashton Jeanty,Under,74.5,-180
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Justin Herbert,Over,19.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Justin Herbert,Under,19.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Keaton Mitchell,Over,22.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Keaton Mitchell,Under,22.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Mike Washington Jr.,Over,15.5,-120
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Mike Washington Jr.,Under,15.5,-110
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Over,51.5,-210
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Under,51.5,155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Over,56.5,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Under,56.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Over,61.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Under,61.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Over,66.5,115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Under,66.5,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Over,71.5,145
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,bovada,player_rush_yds,Omarion Hampton,Under,71.5,-190
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,No Scorer,Yes,,6000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,David Njoku,Yes,,325
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Alec Ingold,Yes,,3500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Justin Herbert,Yes,,550
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Charlie Kolar,Yes,,600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Keaton Mitchell,Yes,,450
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Quentin Johnston,Yes,,155
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Derius Davis,Yes,,1050
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Kimani Vidal,Yes,,1000
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Omarion Hampton,Yes,,-150
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Oronde Gadsden II,Yes,,600
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Tre Harris,Yes,,265
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Brenen Thompson,Yes,,900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Los Angeles Chargers D/ST,Yes,,380
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Kirk Cousins,Yes,,2800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Ian Thomas,Yes,,1900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Connor Heyward,Yes,,2200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Jalen Nailor,Yes,,475
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Dareke Young,Yes,,3500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Michael Mayer,Yes,,265
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Tre Tucker,Yes,,360
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Dylan Laube,Yes,,2800
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Ashton Jeanty,Yes,,100
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Jack Bech,Yes,,750
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Mike Washington Jr.,Yes,,575
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Malik Benson,Yes,,1200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Las Vegas Raiders D/ST,Yes,,650
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Chris Myarick,Yes,,1900
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Cody White,Yes,,3500
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_anytime_td,Gary Jennings,Yes,,1200
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_pass_tds,Kirk Cousins,Over,0.5,-250
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_pass_tds,Kirk Cousins,Under,0.5,185
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_pass_yds,Kirk Cousins,Over,190.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_pass_yds,Kirk Cousins,Under,190.5,-115
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_reception_yds,Ashton Jeanty,Over,25.5,-125
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_reception_yds,Ashton Jeanty,Under,25.5,-105
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_receptions,Ashton Jeanty,Over,4.5,125
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_receptions,Ashton Jeanty,Under,4.5,-170
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_rush_yds,Omarion Hampton,Over,60.5,-135
+Las Vegas Raiders,Los Angeles Chargers,2026-09-20T16:40:36Z,fanatics,player_rush_yds,Omarion Hampton,Under,60.5,100

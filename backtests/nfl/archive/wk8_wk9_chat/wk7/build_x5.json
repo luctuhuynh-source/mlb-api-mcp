@@ -1,0 +1,1311 @@
+{
+ "qbs": [
+  "Jared Goff",
+  "Matthew Stafford",
+  "Michael Penix Jr."
+ ],
+ "lineups": [
+  [
+   {
+    "pos": "QB",
+    "name": "Jared Goff",
+    "team": "DET",
+    "salary": 8000,
+    "fdid": "135562-38435",
+    "proj": 19.25,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "salary": 8700,
+    "fdid": "135562-55050",
+    "proj": 17.03,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Kyren Williams",
+    "team": "LAR",
+    "salary": 7900,
+    "fdid": "135562-104433",
+    "proj": 14.15,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Woody Marks",
+    "team": "HOU",
+    "salary": 6200,
+    "fdid": "135562-138774",
+    "proj": 10.69,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Drake London",
+    "team": "ATL",
+    "salary": 7800,
+    "fdid": "135562-112745",
+    "proj": 12.31,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jameson Williams",
+    "team": "DET",
+    "salary": 6300,
+    "fdid": "135562-111631",
+    "proj": 9.14,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "salary": 6200,
+    "fdid": "135562-201547",
+    "proj": 9.36,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "salary": 5700,
+    "fdid": "135562-105646",
+    "proj": 8.27,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Tennessee Titans",
+    "team": "TEN",
+    "salary": 3200,
+    "fdid": "135562-12534",
+    "proj": 8.36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Jared Goff",
+    "team": "DET",
+    "salary": 8000,
+    "fdid": "135562-38435",
+    "proj": 19.25,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "salary": 8700,
+    "fdid": "135562-55050",
+    "proj": 17.03,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Woody Marks",
+    "team": "HOU",
+    "salary": 6200,
+    "fdid": "135562-138774",
+    "proj": 10.69,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "salary": 5600,
+    "fdid": "135562-63759",
+    "proj": 7.79,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Amon-Ra St. Brown",
+    "team": "DET",
+    "salary": 9000,
+    "fdid": "135562-86997",
+    "proj": 16.06,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Matthew Golden",
+    "team": "GB",
+    "salary": 6700,
+    "fdid": "135562-166916",
+    "proj": 10.71,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jameson Williams",
+    "team": "DET",
+    "salary": 6300,
+    "fdid": "135562-111631",
+    "proj": 9.14,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "George Kittle",
+    "team": "SF",
+    "salary": 6500,
+    "fdid": "135562-39793",
+    "proj": 10.33,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Miami Dolphins",
+    "team": "MIA",
+    "salary": 3000,
+    "fdid": "135562-12539",
+    "proj": 6.76,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Jared Goff",
+    "team": "DET",
+    "salary": 8000,
+    "fdid": "135562-38435",
+    "proj": 19.25,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "salary": 8700,
+    "fdid": "135562-55050",
+    "proj": 17.03,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Chuba Hubbard",
+    "team": "CAR",
+    "salary": 7100,
+    "fdid": "135562-87467",
+    "proj": 11.46,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Woody Marks",
+    "team": "HOU",
+    "salary": 6200,
+    "fdid": "135562-138774",
+    "proj": 10.69,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Amon-Ra St. Brown",
+    "team": "DET",
+    "salary": 9000,
+    "fdid": "135562-86997",
+    "proj": 16.06,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Matthew Golden",
+    "team": "GB",
+    "salary": 6700,
+    "fdid": "135562-166916",
+    "proj": 10.71,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Chris Godwin Jr.",
+    "team": "TB",
+    "salary": 5300,
+    "fdid": "135562-55635",
+    "proj": 6.47,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "salary": 5700,
+    "fdid": "135562-105646",
+    "proj": 8.27,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Tennessee Titans",
+    "team": "TEN",
+    "salary": 3200,
+    "fdid": "135562-12534",
+    "proj": 8.36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Jared Goff",
+    "team": "DET",
+    "salary": 8000,
+    "fdid": "135562-38435",
+    "proj": 19.25,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "salary": 8700,
+    "fdid": "135562-55050",
+    "proj": 17.03,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Woody Marks",
+    "team": "HOU",
+    "salary": 6200,
+    "fdid": "135562-138774",
+    "proj": 10.69,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Aaron Jones Sr.",
+    "team": "MIN",
+    "salary": 5900,
+    "fdid": "135562-40442",
+    "proj": 8.18,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Amon-Ra St. Brown",
+    "team": "DET",
+    "salary": 9000,
+    "fdid": "135562-86997",
+    "proj": 16.06,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Tetairoa McMillan",
+    "team": "CAR",
+    "salary": 7100,
+    "fdid": "135562-167620",
+    "proj": 10.73,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "salary": 6200,
+    "fdid": "135562-201547",
+    "proj": 9.36,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "salary": 5700,
+    "fdid": "135562-105646",
+    "proj": 8.27,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Miami Dolphins",
+    "team": "MIA",
+    "salary": 3000,
+    "fdid": "135562-12539",
+    "proj": 6.76,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Jared Goff",
+    "team": "DET",
+    "salary": 8000,
+    "fdid": "135562-38435",
+    "proj": 19.25,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Bijan Robinson",
+    "team": "ATL",
+    "salary": 9400,
+    "fdid": "135562-136855",
+    "proj": 17.72,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Ashton Jeanty",
+    "team": "LV",
+    "salary": 7400,
+    "fdid": "135562-167031",
+    "proj": 12.0,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Woody Marks",
+    "team": "HOU",
+    "salary": 6200,
+    "fdid": "135562-138774",
+    "proj": 10.69,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Tetairoa McMillan",
+    "team": "CAR",
+    "salary": 7100,
+    "fdid": "135562-167620",
+    "proj": 10.73,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Matthew Golden",
+    "team": "GB",
+    "salary": 6700,
+    "fdid": "135562-166916",
+    "proj": 10.71,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jameson Williams",
+    "team": "DET",
+    "salary": 6300,
+    "fdid": "135562-111631",
+    "proj": 9.14,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "salary": 5700,
+    "fdid": "135562-105646",
+    "proj": 8.27,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Tennessee Titans",
+    "team": "TEN",
+    "salary": 3200,
+    "fdid": "135562-12534",
+    "proj": 8.36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "salary": 7700,
+    "fdid": "135562-6654",
+    "proj": 15.14,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "salary": 9800,
+    "fdid": "135562-129368",
+    "proj": 21.68,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "salary": 8700,
+    "fdid": "135562-55050",
+    "proj": 17.03,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Woody Marks",
+    "team": "HOU",
+    "salary": 6200,
+    "fdid": "135562-138774",
+    "proj": 10.69,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "salary": 9100,
+    "fdid": "135562-103020",
+    "proj": 8.9,
+    "tag": "Q"
+   },
+   {
+    "pos": "WR",
+    "name": "Konata Mumpfield",
+    "team": "LAR",
+    "salary": 4900,
+    "fdid": "135562-154000",
+    "proj": 3.31,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Ted Hurst III",
+    "team": "TB",
+    "salary": 4900,
+    "fdid": "135562-206341",
+    "proj": 5.09,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Tucker Kraft",
+    "team": "GB",
+    "salary": 5500,
+    "fdid": "135562-160303",
+    "proj": 7.41,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Tennessee Titans",
+    "team": "TEN",
+    "salary": 3200,
+    "fdid": "135562-12534",
+    "proj": 8.36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "salary": 7700,
+    "fdid": "135562-6654",
+    "proj": 15.14,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "salary": 9800,
+    "fdid": "135562-129368",
+    "proj": 21.68,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Ashton Jeanty",
+    "team": "LV",
+    "salary": 7400,
+    "fdid": "135562-167031",
+    "proj": 12.0,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Woody Marks",
+    "team": "HOU",
+    "salary": 6200,
+    "fdid": "135562-138774",
+    "proj": 10.69,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "salary": 9100,
+    "fdid": "135562-103020",
+    "proj": 8.9,
+    "tag": "Q"
+   },
+   {
+    "pos": "WR",
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "salary": 6200,
+    "fdid": "135562-201547",
+    "proj": 9.36,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Konata Mumpfield",
+    "team": "LAR",
+    "salary": 4900,
+    "fdid": "135562-154000",
+    "proj": 3.31,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "salary": 5700,
+    "fdid": "135562-105646",
+    "proj": 8.27,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Miami Dolphins",
+    "team": "MIA",
+    "salary": 3000,
+    "fdid": "135562-12539",
+    "proj": 6.76,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "salary": 7700,
+    "fdid": "135562-6654",
+    "proj": 15.14,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "salary": 9800,
+    "fdid": "135562-129368",
+    "proj": 21.68,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Chuba Hubbard",
+    "team": "CAR",
+    "salary": 7100,
+    "fdid": "135562-87467",
+    "proj": 11.46,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "salary": 5600,
+    "fdid": "135562-63759",
+    "proj": 7.79,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "salary": 9100,
+    "fdid": "135562-103020",
+    "proj": 8.9,
+    "tag": "Q"
+   },
+   {
+    "pos": "WR",
+    "name": "Matthew Golden",
+    "team": "GB",
+    "salary": 6700,
+    "fdid": "135562-166916",
+    "proj": 10.71,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Konata Mumpfield",
+    "team": "LAR",
+    "salary": 4900,
+    "fdid": "135562-154000",
+    "proj": 3.31,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "salary": 5700,
+    "fdid": "135562-105646",
+    "proj": 8.27,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Tennessee Titans",
+    "team": "TEN",
+    "salary": 3200,
+    "fdid": "135562-12534",
+    "proj": 8.36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "salary": 7700,
+    "fdid": "135562-6654",
+    "proj": 15.14,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "salary": 9800,
+    "fdid": "135562-129368",
+    "proj": 21.68,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "salary": 8700,
+    "fdid": "135562-55050",
+    "proj": 17.03,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "salary": 5600,
+    "fdid": "135562-63759",
+    "proj": 7.79,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "salary": 9100,
+    "fdid": "135562-103020",
+    "proj": 8.9,
+    "tag": "Q"
+   },
+   {
+    "pos": "WR",
+    "name": "Jameson Williams",
+    "team": "DET",
+    "salary": 6300,
+    "fdid": "135562-111631",
+    "proj": 9.14,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Konata Mumpfield",
+    "team": "LAR",
+    "salary": 4900,
+    "fdid": "135562-154000",
+    "proj": 3.31,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Cade Otton",
+    "team": "TB",
+    "salary": 4900,
+    "fdid": "135562-86811",
+    "proj": 5.43,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Miami Dolphins",
+    "team": "MIA",
+    "salary": 3000,
+    "fdid": "135562-12539",
+    "proj": 6.76,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "salary": 7700,
+    "fdid": "135562-6654",
+    "proj": 15.14,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "salary": 9800,
+    "fdid": "135562-129368",
+    "proj": 21.68,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Ashton Jeanty",
+    "team": "LV",
+    "salary": 7400,
+    "fdid": "135562-167031",
+    "proj": 12.0,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Aaron Jones Sr.",
+    "team": "MIN",
+    "salary": 5900,
+    "fdid": "135562-40442",
+    "proj": 8.18,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "salary": 9100,
+    "fdid": "135562-103020",
+    "proj": 8.9,
+    "tag": "Q"
+   },
+   {
+    "pos": "WR",
+    "name": "Chris Godwin Jr.",
+    "team": "TB",
+    "salary": 5300,
+    "fdid": "135562-55635",
+    "proj": 6.47,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Konata Mumpfield",
+    "team": "LAR",
+    "salary": 4900,
+    "fdid": "135562-154000",
+    "proj": 3.31,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "George Kittle",
+    "team": "SF",
+    "salary": 6500,
+    "fdid": "135562-39793",
+    "proj": 10.33,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Tennessee Titans",
+    "team": "TEN",
+    "salary": 3200,
+    "fdid": "135562-12534",
+    "proj": 8.36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Michael Penix Jr.",
+    "team": "ATL",
+    "salary": 6900,
+    "fdid": "135562-88797",
+    "proj": 13.27,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "salary": 9800,
+    "fdid": "135562-129368",
+    "proj": 21.68,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Christian McCaffrey",
+    "team": "SF",
+    "salary": 8700,
+    "fdid": "135562-55050",
+    "proj": 17.03,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "salary": 5600,
+    "fdid": "135562-63759",
+    "proj": 7.79,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Drake London",
+    "team": "ATL",
+    "salary": 7800,
+    "fdid": "135562-112745",
+    "proj": 12.31,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jameson Williams",
+    "team": "DET",
+    "salary": 6300,
+    "fdid": "135562-111631",
+    "proj": 9.14,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "salary": 6200,
+    "fdid": "135562-201547",
+    "proj": 9.36,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Kyle Pitts Sr.",
+    "team": "ATL",
+    "salary": 5300,
+    "fdid": "135562-86080",
+    "proj": 5.7,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Tennessee Titans",
+    "team": "TEN",
+    "salary": 3200,
+    "fdid": "135562-12534",
+    "proj": 8.36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Michael Penix Jr.",
+    "team": "ATL",
+    "salary": 6900,
+    "fdid": "135562-88797",
+    "proj": 13.27,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "salary": 9800,
+    "fdid": "135562-129368",
+    "proj": 21.68,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Kyren Williams",
+    "team": "LAR",
+    "salary": 7900,
+    "fdid": "135562-104433",
+    "proj": 14.15,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "salary": 5600,
+    "fdid": "135562-63759",
+    "proj": 7.79,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Drake London",
+    "team": "ATL",
+    "salary": 7800,
+    "fdid": "135562-112745",
+    "proj": 12.31,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Matthew Golden",
+    "team": "GB",
+    "salary": 6700,
+    "fdid": "135562-166916",
+    "proj": 10.71,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jahan Dotson",
+    "team": "ATL",
+    "salary": 5800,
+    "fdid": "135562-86229",
+    "proj": 5.63,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "George Kittle",
+    "team": "SF",
+    "salary": 6500,
+    "fdid": "135562-39793",
+    "proj": 10.33,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Miami Dolphins",
+    "team": "MIA",
+    "salary": 3000,
+    "fdid": "135562-12539",
+    "proj": 6.76,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Michael Penix Jr.",
+    "team": "ATL",
+    "salary": 6900,
+    "fdid": "135562-88797",
+    "proj": 13.27,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Kyren Williams",
+    "team": "LAR",
+    "salary": 7900,
+    "fdid": "135562-104433",
+    "proj": 14.15,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Chuba Hubbard",
+    "team": "CAR",
+    "salary": 7100,
+    "fdid": "135562-87467",
+    "proj": 11.46,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Aaron Jones Sr.",
+    "team": "MIN",
+    "salary": 5900,
+    "fdid": "135562-40442",
+    "proj": 8.18,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Drake London",
+    "team": "ATL",
+    "salary": 7800,
+    "fdid": "135562-112745",
+    "proj": 12.31,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Christian Watson",
+    "team": "GB",
+    "salary": 7400,
+    "fdid": "135562-169776",
+    "proj": 11.65,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Matthew Golden",
+    "team": "GB",
+    "salary": 6700,
+    "fdid": "135562-166916",
+    "proj": 10.71,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Kyle Pitts Sr.",
+    "team": "ATL",
+    "salary": 5300,
+    "fdid": "135562-86080",
+    "proj": 5.7,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Houston Texans",
+    "team": "HOU",
+    "salary": 5000,
+    "fdid": "135562-12556",
+    "proj": 11.36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Michael Penix Jr.",
+    "team": "ATL",
+    "salary": 6900,
+    "fdid": "135562-88797",
+    "proj": 13.27,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Kyren Williams",
+    "team": "LAR",
+    "salary": 7900,
+    "fdid": "135562-104433",
+    "proj": 14.15,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Chuba Hubbard",
+    "team": "CAR",
+    "salary": 7100,
+    "fdid": "135562-87467",
+    "proj": 11.46,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Josh Jacobs",
+    "team": "GB",
+    "salary": 6800,
+    "fdid": "135562-72731",
+    "proj": 9.94,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Amon-Ra St. Brown",
+    "team": "DET",
+    "salary": 9000,
+    "fdid": "135562-86997",
+    "proj": 16.06,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Drake London",
+    "team": "ATL",
+    "salary": 7800,
+    "fdid": "135562-112745",
+    "proj": 12.31,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "salary": 6200,
+    "fdid": "135562-201547",
+    "proj": 9.36,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Kyle Pitts Sr.",
+    "team": "ATL",
+    "salary": 5300,
+    "fdid": "135562-86080",
+    "proj": 5.7,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Miami Dolphins",
+    "team": "MIA",
+    "salary": 3000,
+    "fdid": "135562-12539",
+    "proj": 6.76,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "pos": "QB",
+    "name": "Michael Penix Jr.",
+    "team": "ATL",
+    "salary": 6900,
+    "fdid": "135562-88797",
+    "proj": 13.27,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Ashton Jeanty",
+    "team": "LV",
+    "salary": 7400,
+    "fdid": "135562-167031",
+    "proj": 12.0,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Chuba Hubbard",
+    "team": "CAR",
+    "salary": 7100,
+    "fdid": "135562-87467",
+    "proj": 11.46,
+    "tag": ""
+   },
+   {
+    "pos": "RB",
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "salary": 5600,
+    "fdid": "135562-63759",
+    "proj": 7.79,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Amon-Ra St. Brown",
+    "team": "DET",
+    "salary": 9000,
+    "fdid": "135562-86997",
+    "proj": 16.06,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Drake London",
+    "team": "ATL",
+    "salary": 7800,
+    "fdid": "135562-112745",
+    "proj": 12.31,
+    "tag": ""
+   },
+   {
+    "pos": "WR",
+    "name": "Jameson Williams",
+    "team": "DET",
+    "salary": 6300,
+    "fdid": "135562-111631",
+    "proj": 9.14,
+    "tag": ""
+   },
+   {
+    "pos": "TE",
+    "name": "Kyle Pitts Sr.",
+    "team": "ATL",
+    "salary": 5300,
+    "fdid": "135562-86080",
+    "proj": 5.7,
+    "tag": ""
+   },
+   {
+    "pos": "DST",
+    "name": "Cleveland Browns",
+    "team": "CLE",
+    "salary": 4600,
+    "fdid": "135562-12529",
+    "proj": 10.25,
+    "tag": ""
+   }
+  ]
+ ],
+ "flags": [
+  "Puka Nacua (WR LAR) Q-tagged but priced by books -> eligible, verify at 8:30",
+  "Baker Mayfield (QB TB) Q-tagged but priced by books -> eligible, verify at 8:30",
+  "Breece Hall (RB NYJ) Q-tagged but priced by books -> eligible, verify at 8:30",
+  "Fernando Mendoza (QB LV) UNPRICED by books -> excluded (v1.5a)",
+  "Jameis Winston (QB NYG) UNPRICED by books -> excluded (v1.5a)",
+  "Mac Jones (QB SF) UNPRICED by books -> excluded (v1.5a)",
+  "Kyle McCord (QB MIA) UNPRICED by books -> excluded (v1.5a)",
+  "Tua Tagovailoa (QB ATL) UNPRICED by books -> excluded (v1.5a)",
+  "Cooper Rush (QB ATL) UNPRICED by books -> excluded (v1.5a)",
+  "Tyrod Taylor (QB GB) UNPRICED by books -> excluded (v1.5a)",
+  "Jack Strand (QB ATL) UNPRICED by books -> excluded (v1.5a)",
+  "Sean Clifford (QB CIN) UNPRICED by books -> excluded (v1.5a)",
+  "Aidan O'Connell (QB LV) UNPRICED by books -> excluded (v1.5a)",
+  "Will Levis (QB NYJ) UNPRICED by books -> excluded (v1.5a)",
+  "Taylen Green (QB CLE) UNPRICED by books -> excluded (v1.5a)",
+  "Anthony Richardson Sr. (QB IND) UNPRICED by books -> excluded (v1.5a)",
+  "Gardner Minshew II (QB ARI) UNPRICED by books -> excluded (v1.5a)",
+  "Luke Altmyer (QB DET) UNPRICED by books -> excluded (v1.5a)",
+  "Sam Ehlinger (QB DEN) UNPRICED by books -> excluded (v1.5a)",
+  "Easton Stick (QB TB) UNPRICED by books -> excluded (v1.5a)",
+  "Cade Klubnik (QB NYJ) UNPRICED by books -> excluded (v1.5a)",
+  "Stetson Bennett IV (QB LAR) UNPRICED by books -> excluded (v1.5a)",
+  "Joshua Dobbs (QB DET) UNPRICED by books -> excluded (v1.5a)",
+  "Mark Gronowski (QB HOU) UNPRICED by books -> excluded (v1.5a)",
+  "Jarrett Stidham (QB DEN) UNPRICED by books -> excluded (v1.5a)",
+  "Kedon Slovis (QB GB) UNPRICED by books -> excluded (v1.5a)",
+  "Davis Mills (QB HOU) UNPRICED by books -> excluded (v1.5a)",
+  "Joe Flacco (QB CIN) UNPRICED by books -> excluded (v1.5a)",
+  "Joe Fagnano (QB BAL) UNPRICED by books -> excluded (v1.5a)",
+  "Carson Wentz (QB MIN) UNPRICED by books -> excluded (v1.5a)",
+  "Mitchell Trubisky (QB TEN) UNPRICED by books -> excluded (v1.5a)",
+  "Brett Rypien (QB TB) UNPRICED by books -> excluded (v1.5a)",
+  "Jake Haener (QB NYG) UNPRICED by books -> excluded (v1.5a)",
+  "Riley Leonard (QB IND) UNPRICED by books -> excluded (v1.5a)",
+  "Josh Johnson (QB CIN) UNPRICED by books -> excluded (v1.5a)",
+  "Brady Cook (QB MIA) UNPRICED by books -> excluded (v1.5a)",
+  "Kurtis Rourke (QB SF) UNPRICED by books -> excluded (v1.5a)",
+  "Kenny Pickett (QB CAR) UNPRICED by books -> excluded (v1.5a)",
+  "Shedeur Sanders (QB CLE) UNPRICED by books -> excluded (v1.5a)",
+  "Carson Beck (QB ARI) UNPRICED by books -> excluded (v1.5a)",
+  "Ty Simpson (QB LAR) UNPRICED by books -> excluded (v1.5a)",
+  "Haynes King (QB CAR) UNPRICED by books -> excluded (v1.5a)",
+  "Max Brosmer (QB MIN) UNPRICED by books -> excluded (v1.5a)",
+  "Hendon Hooker (QB TEN) UNPRICED by books -> excluded (v1.5a)",
+  "Mike Washington Jr. (RB LV) Q-tagged but priced by books -> eligible, verify at 8:30",
+  "Olamide Zaccheaus (WR ATL) Q-tagged but priced by books -> eligible, verify at 8:30",
+  "Najee Harris (RB NYG) UNPRICED by books -> excluded (v1.5a)",
+  "Calvin Ridley (WR TEN) Q-tagged but priced by books -> eligible, verify at 8:30",
+  "Chris Moore (WR BAL) UNPRICED by books -> excluded (v1.5a)",
+  "Bo Melton (WR GB) Q-tagged but priced by books -> eligible, verify at 8:30",
+  "Xavier Smith (WR SF) UNPRICED by books -> excluded (v1.5a)",
+  "Tyjae Spears (RB TEN) Q-tagged but priced by books -> eligible, verify at 8:30",
+  "Mitch Tinsley (WR CIN) UNPRICED by books -> excluded (v1.5a)",
+  "Jordan James (RB SF) UNPRICED by books -> excluded (v1.5a)",
+  "Nick Singleton (RB TEN) UNPRICED by books -> excluded (v1.5a)"
+ ]
+}

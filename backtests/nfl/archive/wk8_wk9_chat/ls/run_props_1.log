@@ -1,0 +1,37 @@
+slates ['s2025w03', 's2025w04', 's2025w05', 's2025w06', 's2025w07', 's2025w08', 's2025w09', 's2025w10', 's2025w11', 's2025w12']
+  LS_blend s2025w03: cash 4/15 $105 med 46% | Dak Prescott $7300, Michael Penix Jr. $6800, Justin Herbert $7600
+  LS_blend s2025w04: cash 5/15 $175 med 46% | Matthew Stafford $7000, Jared Goff $7600, Geno Smith $7200
+  LS_blend s2025w05: cash 3/15 $75 med 52% | Jared Goff $7800, Daniel Jones $7400, Dak Prescott $7300
+  LS_blend s2025w06: cash 5/15 $155 med 46% | Daniel Jones $7600, Jordan Love $8300, Dak Prescott $8000
+  LS_blend s2025w07: cash 6/15 $210 med 71% | Dak Prescott $8300, Patrick Mahomes $8000, Justin Herbert $7600
+  LS_blend s2025w08: cash 7/15 $285 med 74% | Daniel Jones $7700, Bo Nix $7800, Baker Mayfield $8300
+  LS_blend s2025w09: cash 3/10 $100 med 49% | Caleb Williams $7300, Daniel Jones $7900, Jared Goff $7600
+  LS_blend s2025w10: cash 5/15 $145 med 62% | Jared Goff $7800, Matthew Stafford $8000, Baker Mayfield $7900
+  LS_blend s2025w11: cash 1/15 $25 med 42% | Aaron Rodgers $7300, Matthew Stafford $7900, Brock Purdy $7100
+  LS_blend s2025w12: cash 1/15 $25 med 49% | Jared Goff $8000, Patrick Mahomes $8100, Trevor Lawrence $7000
+
+== LS_blend: ROI -42% ($1300/$2250) | cash 40/145 (28%) | top5 7 top1 0 | dead 58 | median-lineup pct 49 | profitable weeks 1/10
+  v16_props s2025w03: cash 4/15 $115 med 66% | Dak Prescott $7300, Michael Penix Jr. $6800, Justin Herbert $7600
+  v16_props s2025w04: cash 6/15 $295 med 65% | Matthew Stafford $7000, Jared Goff $7600, Geno Smith $7200
+  v16_props s2025w05: cash 4/15 $100 med 57% | Jared Goff $7800, Daniel Jones $7400, Dak Prescott $7300
+  v16_props s2025w06: cash 7/15 $215 med 67% | Daniel Jones $7600, Jordan Love $8300, Dak Prescott $8000
+  v16_props s2025w07: cash 7/15 $230 med 72% | Dak Prescott $8300, Patrick Mahomes $8000, Justin Herbert $7600
+  v16_props s2025w08: cash 5/15 $200 med 49% | Daniel Jones $7700, Bo Nix $7800, Baker Mayfield $8300
+  v16_props s2025w09: cash 7/10 $250 med 69% | Caleb Williams $7300, Daniel Jones $7900, Jared Goff $7600
+  v16_props s2025w10: cash 7/15 $220 med 70% | Jared Goff $7800, Matthew Stafford $8000, Baker Mayfield $7900
+  v16_props s2025w11: cash 4/15 $105 med 54% | Aaron Rodgers $7300, Matthew Stafford $7900, Brock Purdy $7100
+  v16_props s2025w12: cash 3/15 $100 med 45% | Jared Goff $8000, Patrick Mahomes $8100, Trevor Lawrence $7000
+
+== v16_props: ROI -19% ($1830/$2250) | cash 54/145 (37%) | top5 12 top1 1 | dead 44 | median-lineup pct 65 | profitable weeks 3/10
+  v17_hybrid s2025w03: cash 6/15 $205 med 58% | Dak Prescott $7300, Michael Penix Jr. $6800, Justin Herbert $7600
+  v17_hybrid s2025w04: cash 5/15 $175 med 60% | Matthew Stafford $7000, Jared Goff $7600, Geno Smith $7200
+  v17_hybrid s2025w05: cash 1/15 $25 med 54% | Jared Goff $7800, Daniel Jones $7400, Dak Prescott $7300
+  v17_hybrid s2025w06: cash 3/15 $205 med 59% | Daniel Jones $7600, Jordan Love $8300, Dak Prescott $8000
+  v17_hybrid s2025w07: cash 6/15 $250 med 71% | Dak Prescott $8300, Patrick Mahomes $8000, Justin Herbert $7600
+  v17_hybrid s2025w08: cash 7/15 $235 med 72% | Daniel Jones $7700, Bo Nix $7800, Baker Mayfield $8300
+  v17_hybrid s2025w09: cash 4/10 $155 med 39% | Caleb Williams $7300, Daniel Jones $7900, Jared Goff $7600
+  v17_hybrid s2025w10: cash 5/15 $210 med 56% | Jared Goff $7800, Matthew Stafford $8000, Baker Mayfield $7900
+  v17_hybrid s2025w11: cash 2/15 $50 med 37% | Aaron Rodgers $7300, Matthew Stafford $7900, Brock Purdy $7100
+  v17_hybrid s2025w12: cash 4/15 $105 med 41% | Jared Goff $8000, Patrick Mahomes $8100, Trevor Lawrence $7000
+
+== v17_hybrid: ROI -28% ($1615/$2250) | cash 43/145 (30%) | top5 11 top1 1 | dead 36 | median-lineup pct 57 | profitable weeks 2/10

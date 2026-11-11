@@ -1,0 +1,10 @@
+slates 7 ['s2026w01', 's2026w02', 's2026w03'] ... ['s2026w06', 's2026w07']
+  A_v16_LS s2026w01: cash 1/15 $35 med 42% | Jared Goff $7800, Justin Herbert $7600, Joe Burrow $8200
+  A_v16_LS s2026w02: cash 12/15 $960 med 88% | Dak Prescott $8000, Brock Purdy $8100, C.J. Stroud $7100
+  A_v16_LS s2026w03: cash 9/15 $340 med 77% | Brock Purdy $8200, Jared Goff $7900, Dak Prescott $8300
+  A_v16_LS s2026w04: cash 4/15 $110 med 68% | Joe Burrow $8200, C.J. Stroud $7000, Patrick Mahomes $8000
+  A_v16_LS s2026w05: cash 9/15 $305 med 76% | Jared Goff $8100, Sam Darnold $7200, Drake Maye $7800
+  A_v16_LS s2026w06: cash 4/15 $160 med 50% | Matthew Stafford $7800, Caleb Williams $7900, Kirk Cousins $6800
+  A_v16_LS s2026w07: cash 6/15 $170 med 60% | Jared Goff $8000, Matthew Stafford $7700, Michael Penix Jr. $6900
+
+== A_v16_LS: ROI +32% ($2080/$1575) | cash 45/105 (43%) | top5 12 top1 4 | dead 7 | median-lineup pct 68 | profitable weeks 3/7

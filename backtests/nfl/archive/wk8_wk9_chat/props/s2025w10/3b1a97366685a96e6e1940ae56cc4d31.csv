@@ -1,0 +1,710 @@
+away,home,snapshot,book,market,player,side,point,price
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,D'Andre Swift,Yes,,120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Kyle Monangai,Yes,,145
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Rome Odunze,Yes,,170
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,DJ Moore,Yes,,205
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Tyrone Tracy Jr.,Yes,,210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jaxson Dart,Yes,,210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Wan'Dale Robinson,Yes,,235
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Theo Johnson,Yes,,240
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Darius Slayton,Yes,,270
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Colston Loveland,Yes,,310
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Caleb Williams,Yes,,330
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Devin Singletary,Yes,,330
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Olamide Zaccheaus,Yes,,400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Chicago Bears D/ST,Yes,,500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,New York Giants D/ST,Yes,,550
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Luther Burden III,Yes,,600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Daniel Bellinger,Yes,,650
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Cole Kmet,Yes,,750
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Ray-Ray McCloud III,Yes,,750
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Thomas Fidone,Yes,,1600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Devin Duvernay,Yes,,1700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Gunner Olszewski,Yes,,1700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Roschon Johnson,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jalin Hyatt,Yes,,2500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Chris Manhertz,Yes,,2500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Travis Homer,Yes,,2500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Durham Smythe,Yes,,3000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Caleb Williams,Over,1.5,103
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Caleb Williams,Under,1.5,-131
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Jaxson Dart,Over,1.5,154
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Jaxson Dart,Under,1.5,-199
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Caleb Williams,Over,213.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Caleb Williams,Under,213.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Jaxson Dart,Over,196.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Jaxson Dart,Under,196.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Rome Odunze,Over,54.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Rome Odunze,Under,54.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Wan'Dale Robinson,Over,50.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Wan'Dale Robinson,Under,50.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Darius Slayton,Over,40.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Darius Slayton,Under,40.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,DJ Moore,Over,39.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,DJ Moore,Under,39.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Theo Johnson,Over,30.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Theo Johnson,Under,30.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Colston Loveland,Over,25.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Colston Loveland,Under,25.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Olamide Zaccheaus,Over,24.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Olamide Zaccheaus,Under,24.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Over,16.5,-108
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Under,16.5,-116
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Ray-Ray McCloud III,Over,14.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Ray-Ray McCloud III,Under,14.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Luther Burden III,Over,12.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Luther Burden III,Under,12.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Cole Kmet,Over,9.5,-109
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Cole Kmet,Under,9.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Wan'Dale Robinson,Over,5.5,114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Wan'Dale Robinson,Under,5.5,-146
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Rome Odunze,Over,3.5,-146
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Rome Odunze,Under,3.5,114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,DJ Moore,Over,3.5,102
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,DJ Moore,Under,3.5,-130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Theo Johnson,Over,3.5,113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Theo Johnson,Under,3.5,-144
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Darius Slayton,Over,3.5,129
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Darius Slayton,Under,3.5,-165
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Olamide Zaccheaus,Over,3.5,130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Olamide Zaccheaus,Under,3.5,-167
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Colston Loveland,Over,2.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Colston Loveland,Under,2.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Tyrone Tracy Jr.,Over,2.5,101
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Tyrone Tracy Jr.,Under,2.5,-129
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Ray-Ray McCloud III,Over,1.5,104
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Ray-Ray McCloud III,Under,1.5,-133
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Luther Burden III,Over,1.5,118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Luther Burden III,Under,1.5,-150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Cole Kmet,Over,1.5,167
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_receptions,Cole Kmet,Under,1.5,-215
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,D'Andre Swift,Over,52.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,D'Andre Swift,Under,52.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Kyle Monangai,Over,48.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Kyle Monangai,Under,48.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Over,44.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Under,44.5,-109
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Jaxson Dart,Over,38.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Jaxson Dart,Under,38.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Devin Singletary,Over,33.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Devin Singletary,Under,33.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Caleb Williams,Over,18.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Caleb Williams,Under,18.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,D'Andre Swift,Yes,,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Kyle Monangai,Yes,,130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Rome Odunze,Yes,,165
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Tyrone Tracy Jr.,Yes,,170
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jaxson Dart,Yes,,190
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,DJ Moore,Yes,,200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Wan'Dale Robinson,Yes,,220
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Theo Johnson,Yes,,240
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Darius Slayton,Yes,,270
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Colston Loveland,Yes,,285
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Devin Singletary,Yes,,290
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Caleb Williams,Yes,,325
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Olamide Zaccheaus,Yes,,380
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Cole Kmet,Yes,,525
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Luther Burden III,Yes,,550
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Daniel Bellinger,Yes,,575
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Ray-Ray McCloud III,Yes,,625
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Thomas Fidone,Yes,,1200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Devin Duvernay,Yes,,1400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Gunner Olszewski,Yes,,1500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Travis Homer,Yes,,1700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Roschon Johnson,Yes,,1700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jalin Hyatt,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Chris Manhertz,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Durham Smythe,Yes,,2500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Caleb Williams,Over,1.5,-104
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Caleb Williams,Under,1.5,-129
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Jaxson Dart,Over,1.5,150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Jaxson Dart,Under,1.5,-209
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Caleb Williams,Over,214.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Caleb Williams,Under,214.5,-121
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Jaxson Dart,Over,198.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Jaxson Dart,Under,198.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Cole Kmet,Over,9.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Cole Kmet,Under,9.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Tyrone Tracy Jr.,Over,16.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Tyrone Tracy Jr.,Under,16.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,DJ Moore,Over,40.5,-117
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,DJ Moore,Under,40.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Darius Slayton,Over,39.5,-121
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Darius Slayton,Under,39.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Colston Loveland,Over,25.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Colston Loveland,Under,25.5,-121
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Olamide Zaccheaus,Over,24.5,-102
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Olamide Zaccheaus,Under,24.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Wan'Dale Robinson,Over,50.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Wan'Dale Robinson,Under,50.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Ray-Ray McCloud III,Over,14.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Ray-Ray McCloud III,Under,14.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Theo Johnson,Over,31.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Theo Johnson,Under,31.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Rome Odunze,Over,53.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Rome Odunze,Under,53.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Luther Burden III,Over,12.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Luther Burden III,Under,12.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Darius Slayton,Over,3.5,125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Darius Slayton,Under,3.5,-173
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Olamide Zaccheaus,Over,3.5,155
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Olamide Zaccheaus,Under,3.5,-205
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Luther Burden III,Over,1.5,112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Luther Burden III,Under,1.5,-165
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,DJ Moore,Over,3.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,DJ Moore,Under,3.5,-130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Wan'Dale Robinson,Over,5.5,107
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Wan'Dale Robinson,Under,5.5,-150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Colston Loveland,Over,2.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Colston Loveland,Under,2.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Cole Kmet,Over,1.5,145
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Cole Kmet,Under,1.5,-205
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Tyrone Tracy Jr.,Over,2.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Tyrone Tracy Jr.,Under,2.5,-129
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Theo Johnson,Over,3.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Theo Johnson,Under,3.5,-143
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Rome Odunze,Over,3.5,-150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Rome Odunze,Under,3.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Ray-Ray McCloud III,Over,1.5,-102
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Ray-Ray McCloud III,Under,1.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Devin Singletary,Over,34.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Devin Singletary,Under,34.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Tyrone Tracy Jr.,Over,45.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Tyrone Tracy Jr.,Under,45.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,D'Andre Swift,Over,52.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,D'Andre Swift,Under,52.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Jaxson Dart,Over,38.5,-122
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Jaxson Dart,Under,38.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Kyle Monangai,Over,47.5,-122
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Kyle Monangai,Under,47.5,-111
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Caleb Williams,Over,18.5,-128
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Caleb Williams,Under,18.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,D'Andre Swift,Yes,,120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Kyle Monangai,Yes,,160
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Rome Odunze,Yes,,170
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Tyrone Tracy Jr.,Yes,,200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,DJ Moore,Yes,,210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jaxson Dart,Yes,,210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Theo Johnson,Yes,,250
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Wan'Dale Robinson,Yes,,250
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Colston Loveland,Yes,,280
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Darius Slayton,Yes,,290
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Devin Singletary,Yes,,340
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Caleb Williams,Yes,,350
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Olamide Zaccheaus,Yes,,400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Luther Burden III,Yes,,650
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Cole Kmet,Yes,,650
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Chicago Bears Defense,Yes,,700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Daniel Bellinger,Yes,,700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Ray-Ray McCloud III,Yes,,750
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,New York Giants Defense,Yes,,900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Devin Duvernay,Yes,,1500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Thomas Fidone,Yes,,1700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Gunner Olszewski,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Chris Manhertz,Yes,,2200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Travis Homer,Yes,,2500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Roschon Johnson,Yes,,2500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jalin Hyatt,Yes,,2700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Durham Smythe,Yes,,3000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Jaxson Dart,Over,1.5,154
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Jaxson Dart,Under,1.5,-200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Caleb Williams,Over,1.5,-102
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Caleb Williams,Under,1.5,-124
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Caleb Williams,Over,212.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Caleb Williams,Under,212.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Jaxson Dart,Over,198.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Jaxson Dart,Under,198.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Ray-Ray McCloud III,Over,16.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Ray-Ray McCloud III,Under,16.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Wan'Dale Robinson,Over,51.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Wan'Dale Robinson,Under,51.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Rome Odunze,Over,54.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Rome Odunze,Under,54.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Luther Burden III,Over,12.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Luther Burden III,Under,12.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Cole Kmet,Over,9.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Cole Kmet,Under,9.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Darius Slayton,Over,39.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Darius Slayton,Under,39.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Tyrone Tracy Jr.,Over,17.5,-108
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Tyrone Tracy Jr.,Under,17.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Theo Johnson,Over,31.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Theo Johnson,Under,31.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,DJ Moore,Over,41.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,DJ Moore,Under,41.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Colston Loveland,Over,25.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Colston Loveland,Under,25.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Olamide Zaccheaus,Over,24.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Olamide Zaccheaus,Under,24.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Ray-Ray McCloud III,Over,1.5,-102
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Ray-Ray McCloud III,Under,1.5,-124
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Tyrone Tracy Jr.,Over,2.5,-102
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Tyrone Tracy Jr.,Under,2.5,-124
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Colston Loveland,Over,2.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Colston Loveland,Under,2.5,-108
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Darius Slayton,Over,3.5,122
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Darius Slayton,Under,3.5,-154
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Cole Kmet,Over,1.5,152
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Cole Kmet,Under,1.5,-196
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Luther Burden III,Over,1.5,122
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Luther Burden III,Under,1.5,-154
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Theo Johnson,Over,3.5,108
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Theo Johnson,Under,3.5,-136
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Rome Odunze,Over,3.5,-140
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Rome Odunze,Under,3.5,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Olamide Zaccheaus,Over,3.5,128
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Olamide Zaccheaus,Under,3.5,-164
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,DJ Moore,Over,3.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,DJ Moore,Under,3.5,-116
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Wan'Dale Robinson,Over,5.5,108
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_receptions,Wan'Dale Robinson,Under,5.5,-136
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Kyle Monangai,Over,47.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Kyle Monangai,Under,47.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Jaxson Dart,Over,37.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Jaxson Dart,Under,37.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_rush_yds,D'Andre Swift,Over,52.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_rush_yds,D'Andre Swift,Under,52.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Over,44.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Under,44.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Darius Slayton,Yes,,270
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,DJ Moore,Yes,,200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jalin Hyatt,Yes,,2400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Daniel Bellinger,Yes,,650
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Gunner Olszewski,Yes,,1700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Wan'Dale Robinson,Yes,,230
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Devin Singletary,Yes,,325
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Travis Homer,Yes,,2400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Roschon Johnson,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,D'Andre Swift,Yes,,120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Tyrone Tracy Jr.,Yes,,190
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Chris Manhertz,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Theo Johnson,Yes,,240
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Rome Odunze,Yes,,170
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Caleb Williams,Yes,,325
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Durham Smythe,Yes,,2900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Olamide Zaccheaus,Yes,,400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Luther Burden III,Yes,,600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jahdae Walker,Yes,,1000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jaxson Dart,Yes,,210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Devin Duvernay,Yes,,1400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Thomas Fidone,Yes,,1400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Colston Loveland,Yes,,280
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Kyle Monangai,Yes,,140
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Cole Kmet,Yes,,600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Caleb Williams,Over,1.5,-103
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Caleb Williams,Under,1.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Jaxson Dart,Over,1.5,152
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Jaxson Dart,Under,1.5,-200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Jaxson Dart,Over,197.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Jaxson Dart,Under,197.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Caleb Williams,Over,212.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Caleb Williams,Under,212.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Rome Odunze,Over,53.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Rome Odunze,Under,53.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Theo Johnson,Over,30.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Theo Johnson,Under,30.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Over,17.5,-102
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Under,17.5,-127
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Colston Loveland,Over,25.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Colston Loveland,Under,25.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Cole Kmet,Over,9.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Cole Kmet,Under,9.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,DJ Moore,Over,39.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,DJ Moore,Under,39.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Darius Slayton,Over,37.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Darius Slayton,Under,37.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Wan'Dale Robinson,Over,49.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Wan'Dale Robinson,Under,49.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Olamide Zaccheaus,Over,25.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Olamide Zaccheaus,Under,25.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Wan'Dale Robinson,Over,5.5,115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Wan'Dale Robinson,Under,5.5,-149
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,DJ Moore,Over,3.5,-101
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,DJ Moore,Under,3.5,-128
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Darius Slayton,Over,3.5,124
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Darius Slayton,Under,3.5,-161
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Rome Odunze,Over,3.5,-143
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Rome Odunze,Under,3.5,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Over,2.5,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Under,2.5,-143
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Olamide Zaccheaus,Over,3.5,128
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Olamide Zaccheaus,Under,3.5,-167
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Theo Johnson,Over,3.5,107
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Theo Johnson,Under,3.5,-139
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Colston Loveland,Over,2.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Colston Loveland,Under,2.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Cole Kmet,Over,1.5,155
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_receptions,Cole Kmet,Under,1.5,-204
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Jaxson Dart,Over,39.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Jaxson Dart,Under,39.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,D'Andre Swift,Over,52.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,D'Andre Swift,Under,52.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Kyle Monangai,Over,49.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Kyle Monangai,Under,49.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Caleb Williams,Over,19.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Caleb Williams,Under,19.5,-108
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Devin Singletary,Over,34.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Devin Singletary,Under,34.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Over,44.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Under,44.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Olamide Zaccheaus,Yes,,480
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Gunner Olszewski,Yes,,2000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Devin Duvernay,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,DJ Moore,Yes,,230
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Devin Singletary,Yes,,320
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Ray-Ray McCloud III,Yes,,900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jalin Hyatt,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Kyle Monangai,Yes,,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Roschon Johnson,Yes,,2200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Wan'Dale Robinson,Yes,,235
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Tyrone Tracy Jr.,Yes,,163
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,D'Andre Swift,Yes,,-104
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Darius Slayton,Yes,,255
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Chris Manhertz,Yes,,2500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Travis Homer,Yes,,2000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Caleb Williams,Yes,,325
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Durham Smythe,Yes,,2500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Colston Loveland,Yes,,300
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Daniel Bellinger,Yes,,600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Rome Odunze,Yes,,155
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Luther Burden III,Yes,,650
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Theo Johnson,Yes,,225
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jaxson Dart,Yes,,210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Cole Kmet,Yes,,460
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Thomas Fidone,Yes,,750
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Caleb Williams,Over,1.5,-106
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Caleb Williams,Under,1.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Jaxson Dart,Over,1.5,155
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Jaxson Dart,Under,1.5,-210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Caleb Williams,Over,214.5,-117
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Caleb Williams,Under,214.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Jaxson Dart,Over,199.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Jaxson Dart,Under,199.5,-117
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Colston Loveland,Over,27.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Colston Loveland,Under,27.5,-117
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Theo Johnson,Over,33.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Theo Johnson,Under,33.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,DJ Moore,Over,42.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,DJ Moore,Under,42.5,-117
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Rome Odunze,Over,52.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Rome Odunze,Under,52.5,-117
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Over,15.5,-121
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Under,15.5,-109
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Wan'Dale Robinson,Over,49.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Wan'Dale Robinson,Under,49.5,-117
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Olamide Zaccheaus,Over,24.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Olamide Zaccheaus,Under,24.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Darius Slayton,Over,40.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Darius Slayton,Under,40.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Rome Odunze,Over,3.5,-137
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Rome Odunze,Under,3.5,102
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Wan'Dale Robinson,Over,5.5,112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Wan'Dale Robinson,Under,5.5,-150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Theo Johnson,Over,3.5,102
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Theo Johnson,Under,3.5,-137
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,DJ Moore,Over,3.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,DJ Moore,Under,3.5,-127
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Colston Loveland,Over,2.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Colston Loveland,Under,2.5,-112
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Tyrone Tracy Jr.,Over,2.5,-108
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Tyrone Tracy Jr.,Under,2.5,-124
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Darius Slayton,Over,3.5,133
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_receptions,Darius Slayton,Under,3.5,-177
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,D'Andre Swift,Over,50.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,D'Andre Swift,Under,50.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Kyle Monangai,Over,48.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Kyle Monangai,Under,48.5,-117
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Devin Singletary,Over,31.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Devin Singletary,Under,31.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Jaxson Dart,Over,35.5,-113
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Jaxson Dart,Under,35.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Over,43.5,-114
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Under,43.5,-117
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Caleb Williams,Over,17.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Caleb Williams,Under,17.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,No Scorer,Yes,,4500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Durham Smythe,Yes,,2000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,DJ Moore,Yes,,190
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Olamide Zaccheaus,Yes,,380
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Devin Duvernay,Yes,,1200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,D'Andre Swift,Yes,,115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Roschon Johnson,Yes,,1200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Rome Odunze,Yes,,170
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Caleb Williams,Yes,,345
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Luther Burden III,Yes,,500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Colston Loveland,Yes,,305
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Chicago Bears D/ST,Yes,,470
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Ray-Ray McCloud III,Yes,,550
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Chris Manhertz,Yes,,1500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Devin Singletary,Yes,,315
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Gunner Olszewski,Yes,,1300
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Darius Slayton,Yes,,270
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Wan'Dale Robinson,Yes,,225
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Daniel Bellinger,Yes,,500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jalin Hyatt,Yes,,1300
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Tyrone Tracy Jr.,Yes,,180
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Theo Johnson,Yes,,240
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jaxson Dart,Yes,,200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,New York Giants D/ST,Yes,,500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Travis Homer,Yes,,1050
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Thomas Fidone,Yes,,740
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Kyle Monangai,Yes,,160
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Cole Kmet,Yes,,600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Caleb Williams,Over,1.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Caleb Williams,Under,1.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Jaxson Dart,Over,1.5,145
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Jaxson Dart,Under,1.5,-190
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Jaxson Dart,Over,195.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Jaxson Dart,Under,195.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Caleb Williams,Over,210.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Caleb Williams,Under,210.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,DJ Moore,Over,40.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,DJ Moore,Under,40.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Rome Odunze,Over,50.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Rome Odunze,Under,50.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Darius Slayton,Over,40.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Darius Slayton,Under,40.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Theo Johnson,Over,30.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Theo Johnson,Under,30.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Daniel Bellinger,Over,10.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Daniel Bellinger,Under,10.5,-140
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Devin Singletary,Over,10.5,155
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Devin Singletary,Under,10.5,-220
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Wan'Dale Robinson,Over,50.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Wan'Dale Robinson,Under,50.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,D'Andre Swift,Over,10.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,D'Andre Swift,Under,10.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Tyrone Tracy Jr.,Over,15.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Tyrone Tracy Jr.,Under,15.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Kyle Monangai,Over,10.5,130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Kyle Monangai,Under,10.5,-180
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Cole Kmet,Over,10.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Cole Kmet,Under,10.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Colston Loveland,Over,25.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Colston Loveland,Under,25.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Luther Burden III,Over,10.5,-140
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Luther Burden III,Under,10.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Olamide Zaccheaus,Over,25.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Olamide Zaccheaus,Under,25.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Ray-Ray McCloud III,Over,15.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Ray-Ray McCloud III,Under,15.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Theo Johnson,Over,3.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Theo Johnson,Under,3.5,-140
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,D'Andre Swift,Over,2.5,140
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,D'Andre Swift,Under,2.5,-195
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Wan'Dale Robinson,Over,5.5,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Wan'Dale Robinson,Under,5.5,-150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Darius Slayton,Over,3.5,120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Darius Slayton,Under,3.5,-165
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Tyrone Tracy Jr.,Over,2.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Tyrone Tracy Jr.,Under,2.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Rome Odunze,Over,4.5,155
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Rome Odunze,Under,4.5,-220
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,DJ Moore,Over,3.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,DJ Moore,Under,3.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Olamide Zaccheaus,Over,3.5,130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Olamide Zaccheaus,Under,3.5,-180
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Luther Burden III,Over,1.5,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Luther Burden III,Under,1.5,-150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Kyle Monangai,Over,1.5,130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Kyle Monangai,Under,1.5,-180
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Cole Kmet,Over,1.5,145
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Cole Kmet,Under,1.5,-205
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Daniel Bellinger,Over,1.5,150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Daniel Bellinger,Under,1.5,-210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Colston Loveland,Over,2.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Colston Loveland,Under,2.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Ray-Ray McCloud III,Over,1.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_receptions,Ray-Ray McCloud III,Under,1.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Jaxson Dart,Over,40.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Jaxson Dart,Under,40.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Caleb Williams,Over,20.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Caleb Williams,Under,20.5,-140
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Tyrone Tracy Jr.,Over,45.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Tyrone Tracy Jr.,Under,45.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,D'Andre Swift,Over,50.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,D'Andre Swift,Under,50.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Devin Singletary,Over,35.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Devin Singletary,Under,35.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Kyle Monangai,Over,45.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Kyle Monangai,Under,45.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,D'Andre Swift,Yes,,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Rome Odunze,Yes,,150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Kyle Monangai,Yes,,155
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Tyrone Tracy Jr.,Yes,,160
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jaxson Dart,Yes,,190
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,DJ Moore,Yes,,200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Wan'Dale Robinson,Yes,,210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Theo Johnson,Yes,,225
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Darius Slayton,Yes,,270
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Devin Singletary,Yes,,280
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Colston Loveland,Yes,,300
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Caleb Williams,Yes,,350
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Olamide Zaccheaus,Yes,,425
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Daniel Bellinger,Yes,,500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Chicago Bears D/ST,Yes,,550
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Thomas Fidone,Yes,,575
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Luther Burden III,Yes,,600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Ray-Ray McCloud III,Yes,,600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,New York Giants D/ST,Yes,,650
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Cole Kmet,Yes,,700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Travis Homer,Yes,,1300
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Roschon Johnson,Yes,,1400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jalin Hyatt,Yes,,1500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Gunner Olszewski,Yes,,1600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Devin Duvernay,Yes,,1700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Chris Manhertz,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Durham Smythe,Yes,,3000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_anytime_td,No Touchdown,Yes,,15000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Caleb Williams,Over,1.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Caleb Williams,Under,1.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Jaxson Dart,Over,1.5,170
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Jaxson Dart,Under,1.5,-235
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Caleb Williams,Over,214.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Caleb Williams,Under,214.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Jaxson Dart,Over,195.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Jaxson Dart,Under,195.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Rome Odunze,Over,51.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Rome Odunze,Under,51.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Darius Slayton,Over,40.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Darius Slayton,Under,40.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Devin Singletary,Over,6.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Devin Singletary,Under,6.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Tyrone Tracy Jr.,Over,16.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Tyrone Tracy Jr.,Under,16.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Wan'Dale Robinson,Over,49.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Wan'Dale Robinson,Under,49.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Daniel Bellinger,Over,8.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Daniel Bellinger,Under,8.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,D'Andre Swift,Over,12.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,D'Andre Swift,Under,12.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Olamide Zaccheaus,Over,27.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Olamide Zaccheaus,Under,27.5,-130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Colston Loveland,Over,26.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Colston Loveland,Under,26.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,DJ Moore,Over,37.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,DJ Moore,Under,37.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Theo Johnson,Over,30.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Theo Johnson,Under,30.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Luther Burden III,Over,12.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Luther Burden III,Under,12.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Cole Kmet,Over,7.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Cole Kmet,Under,7.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Kyle Monangai,Over,5.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Kyle Monangai,Under,5.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Ray-Ray McCloud III,Over,13.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Ray-Ray McCloud III,Under,13.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Rome Odunze,Over,3.5,-155
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Rome Odunze,Under,3.5,115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,DJ Moore,Over,3.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,DJ Moore,Under,3.5,-140
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,D'Andre Swift,Over,2.5,140
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,D'Andre Swift,Under,2.5,-190
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Tyrone Tracy Jr.,Over,2.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Tyrone Tracy Jr.,Under,2.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Wan'Dale Robinson,Over,5.5,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Wan'Dale Robinson,Under,5.5,-145
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Darius Slayton,Over,3.5,130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Darius Slayton,Under,3.5,-175
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Theo Johnson,Over,3.5,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Theo Johnson,Under,3.5,-150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Colston Loveland,Over,2.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Colston Loveland,Under,2.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Olamide Zaccheaus,Over,2.5,-150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Olamide Zaccheaus,Under,2.5,115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Luther Burden III,Over,1.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Luther Burden III,Under,1.5,-145
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Kyle Monangai,Over,1.5,155
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Kyle Monangai,Under,1.5,-210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Cole Kmet,Over,0.5,-250
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Cole Kmet,Under,0.5,180
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Ray-Ray McCloud III,Over,1.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_receptions,Ray-Ray McCloud III,Under,1.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Jaxson Dart,Over,38.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Jaxson Dart,Under,38.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Kyle Monangai,Over,46.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Kyle Monangai,Under,46.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,D'Andre Swift,Over,54.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,D'Andre Swift,Under,54.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Caleb Williams,Over,19.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Caleb Williams,Under,19.5,-130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Tyrone Tracy Jr.,Over,47.5,-118
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Tyrone Tracy Jr.,Under,47.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Devin Singletary,Over,36.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Devin Singletary,Under,36.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Luther Burden III,Yes,,600
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Brittain Brown,Yes,,700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jaxson Dart,Yes,,210
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Theo Johnson,Yes,,250
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Devin Singletary,Yes,,330
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Rome Odunze,Yes,,160
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Wan'Dale Robinson,Yes,,250
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Tyrone Tracy Jr.,Yes,,200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,D'Andre Swift,Yes,,120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Colston Loveland,Yes,,275
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,DJ Moore,Yes,,200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,New York Giants D/ST,Yes,,800
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Darius Slayton,Yes,,275
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Durham Smythe,Yes,,2500
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Chicago Bears D/ST,Yes,,625
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Chris Manhertz,Yes,,1900
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Gunner Olszewski,Yes,,1700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Travis Homer,Yes,,2000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Devin Duvernay,Yes,,1300
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Caleb Williams,Yes,,330
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Olamide Zaccheaus,Yes,,350
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Daniel Bellinger,Yes,,625
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Ray-Ray McCloud III,Yes,,700
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jalin Hyatt,Yes,,2200
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Thomas Fidone,Yes,,1400
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Roschon Johnson,Yes,,2000
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Cole Kmet,Yes,,525
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_anytime_td,Kyle Monangai,Yes,,160
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_pass_tds,Caleb Williams,Over,1.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_pass_tds,Caleb Williams,Under,1.5,-130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_pass_tds,Jaxson Dart,Over,1.5,160
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_pass_tds,Jaxson Dart,Under,1.5,-215
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_pass_yds,Caleb Williams,Over,215.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_pass_yds,Caleb Williams,Under,215.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_pass_yds,Jaxson Dart,Over,199.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_pass_yds,Jaxson Dart,Under,199.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Colston Loveland,Over,30.5,120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Colston Loveland,Under,30.5,-160
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Darius Slayton,Over,39.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Darius Slayton,Under,39.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,DJ Moore,Over,41.5,-105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,DJ Moore,Under,41.5,-125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Olamide Zaccheaus,Over,29.5,135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Olamide Zaccheaus,Under,29.5,-180
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Rome Odunze,Over,54.5,100
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Rome Odunze,Under,54.5,-130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Theo Johnson,Over,30.5,-120
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Theo Johnson,Under,30.5,-110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Over,17.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Under,17.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Wan'Dale Robinson,Over,50.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_reception_yds,Wan'Dale Robinson,Under,50.5,-115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Colston Loveland,Over,3.5,190
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Colston Loveland,Under,3.5,-260
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Darius Slayton,Over,3.5,125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Darius Slayton,Under,3.5,-165
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,DJ Moore,Over,3.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,DJ Moore,Under,3.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Olamide Zaccheaus,Over,3.5,125
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Olamide Zaccheaus,Under,3.5,-165
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Rome Odunze,Over,3.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Rome Odunze,Under,3.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Theo Johnson,Over,3.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Theo Johnson,Under,3.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Tyrone Tracy Jr.,Over,2.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Tyrone Tracy Jr.,Under,2.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Wan'Dale Robinson,Over,5.5,115
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_receptions,Wan'Dale Robinson,Under,5.5,-150
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_rush_yds,Caleb Williams,Over,16.5,-145
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_rush_yds,Caleb Williams,Under,16.5,110
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_rush_yds,Devin Singletary,Over,32.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_rush_yds,Devin Singletary,Under,32.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_rush_yds,Jaxson Dart,Over,36.5,-135
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_rush_yds,Jaxson Dart,Under,36.5,105
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Over,45.5,-130
+New York Giants,Chicago Bears,2025-11-09T17:35:37Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Under,45.5,100

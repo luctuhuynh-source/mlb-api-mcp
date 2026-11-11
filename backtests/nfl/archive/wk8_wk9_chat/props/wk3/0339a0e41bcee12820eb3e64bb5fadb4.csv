@@ -1,0 +1,604 @@
+away,home,snapshot,book,market,player,side,point,price
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Kenneth Walker III,Yes,,-200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,De'Von Achane,Yes,,120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Rashee Rice,Yes,,145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Travis Kelce,Yes,,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Xavier Worthy,Yes,,195
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Emmett Johnson,Yes,,320
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Malik Willis,Yes,,330
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Patrick Mahomes,Yes,,340
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Malik Washington,Yes,,350
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Greg Dulcich,Yes,,450
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Tyquan Thornton,Yes,,450
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Ollie Gordon II,Yes,,500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Kansas City Chiefs D/ST,Yes,,550
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Chris Bell,Yes,,600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Noah Gray,Yes,,650
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Miami Dolphins D/ST,Yes,,700
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Kevin Coleman Jr.,Yes,,750
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Will Kacmarek,Yes,,1000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Jalen Royals,Yes,,1200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Brashard Smith,Yes,,1500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Jake Briningstool,Yes,,1500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Jalen Tolbert,Yes,,1600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Nikko Remigio,Yes,,1700
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Ryan Miller,Yes,,1800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Cyrus Allen,Yes,,2000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Seydou Traore,Yes,,3000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,DJ Herman,Yes,,3000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Justin Joly,Yes,,3500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_anytime_td,Ben VanSumeren,Yes,,6000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_pass_tds,Patrick Mahomes,Over,1.5,-198
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_pass_tds,Patrick Mahomes,Under,1.5,154
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_pass_tds,Malik Willis,Over,0.5,-227
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_pass_tds,Malik Willis,Under,0.5,176
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_pass_yds,Patrick Mahomes,Over,236.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_pass_yds,Patrick Mahomes,Under,236.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_pass_yds,Malik Willis,Over,176.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_pass_yds,Malik Willis,Under,176.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Travis Kelce,Over,51.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Travis Kelce,Under,51.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Rashee Rice,Over,49.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Rashee Rice,Under,49.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Malik Washington,Over,40.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Malik Washington,Under,40.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Xavier Worthy,Over,38.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Xavier Worthy,Under,38.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,De'Von Achane,Over,28.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,De'Von Achane,Under,28.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Greg Dulcich,Over,23.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Greg Dulcich,Under,23.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Kenneth Walker III,Over,22.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Kenneth Walker III,Under,22.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Tyquan Thornton,Over,19.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Tyquan Thornton,Under,19.5,-109
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Chris Bell,Over,19.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Chris Bell,Under,19.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Kevin Coleman Jr.,Over,15.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Kevin Coleman Jr.,Under,15.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Emmett Johnson,Over,11.5,-107
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_reception_yds,Emmett Johnson,Under,11.5,-117
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Travis Kelce,Over,4.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Travis Kelce,Under,4.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Rashee Rice,Over,4.5,113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Rashee Rice,Under,4.5,-144
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Malik Washington,Over,3.5,-137
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Malik Washington,Under,3.5,108
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,De'Von Achane,Over,3.5,-128
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,De'Von Achane,Under,3.5,100
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Xavier Worthy,Over,3.5,-108
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Xavier Worthy,Under,3.5,-118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Kenneth Walker III,Over,3.5,116
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Kenneth Walker III,Under,3.5,-148
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Greg Dulcich,Over,2.5,114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Greg Dulcich,Under,2.5,-146
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Chris Bell,Over,1.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Chris Bell,Under,1.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Emmett Johnson,Over,1.5,-107
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Emmett Johnson,Under,1.5,-119
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Kevin Coleman Jr.,Over,1.5,104
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Kevin Coleman Jr.,Under,1.5,-133
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Tyquan Thornton,Over,1.5,121
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_receptions,Tyquan Thornton,Under,1.5,-155
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Kenneth Walker III,Over,86.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Kenneth Walker III,Under,86.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,De'Von Achane,Over,60.5,-109
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,De'Von Achane,Under,60.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Malik Willis,Over,32.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Malik Willis,Under,32.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Emmett Johnson,Over,26.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Emmett Johnson,Under,26.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Patrick Mahomes,Over,15.5,-116
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Patrick Mahomes,Under,15.5,-108
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Ollie Gordon II,Over,9.5,-105
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,draftkings,player_rush_yds,Ollie Gordon II,Under,9.5,-119
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Kenneth Walker III,Yes,,-215
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,De'Von Achane,Yes,,114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Rashee Rice,Yes,,140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Travis Kelce,Yes,,153
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Xavier Worthy,Yes,,193
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Emmett Johnson,Yes,,300
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Malik Willis,Yes,,305
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Malik Washington,Yes,,330
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Patrick Mahomes,Yes,,340
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Greg Dulcich,Yes,,400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Tyquan Thornton,Yes,,425
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Ollie Gordon II,Yes,,475
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Chris Bell,Yes,,575
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Noah Gray,Yes,,625
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Kevin Coleman Jr.,Yes,,750
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Will Kacmarek,Yes,,1000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Jalen Royals,Yes,,1100
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Jalen Tolbert,Yes,,1500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Brashard Smith,Yes,,1600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Jake Briningstool,Yes,,1600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Ryan Miller,Yes,,1700
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Nikko Remigio,Yes,,1800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Cyrus Allen,Yes,,1900
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Seydou Traore,Yes,,2600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,DJ Herman,Yes,,3000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Justin Joly,Yes,,3000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,williamhill_us,player_anytime_td,Ben VanSumeren,Yes,,4500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Kenneth Walker III,Yes,,-195
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,De'Von Achane,Yes,,120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Rashee Rice,Yes,,140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Travis Kelce,Yes,,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Xavier Worthy,Yes,,200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Emmett Johnson,Yes,,300
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Malik Willis,Yes,,330
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Malik Washington,Yes,,330
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Patrick Mahomes,Yes,,350
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Greg Dulcich,Yes,,420
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Tyquan Thornton,Yes,,440
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Ollie Gordon II,Yes,,500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Kansas City Chiefs Defense,Yes,,600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Miami Dolphins Defense,Yes,,650
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Chris Bell,Yes,,650
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Noah Gray,Yes,,700
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Kevin Coleman Jr.,Yes,,800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Jalen Royals,Yes,,1000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Will Kacmarek,Yes,,1100
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Jalen Tolbert,Yes,,1600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Jake Briningstool,Yes,,1700
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Nikko Remigio,Yes,,1800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Ryan Miller,Yes,,1900
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Cyrus Allen,Yes,,1900
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Brashard Smith,Yes,,2200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Seydou Traore,Yes,,3000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Justin Joly,Yes,,3300
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,DJ Herman,Yes,,3300
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_anytime_td,Ben VanSumeren,Yes,,6000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_pass_tds,Patrick Mahomes,Over,1.5,-170
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_pass_tds,Patrick Mahomes,Under,1.5,130
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_pass_tds,Malik Willis,Over,0.5,-225
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_pass_tds,Malik Willis,Under,0.5,168
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_pass_yds,Malik Willis,Over,174.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_pass_yds,Malik Willis,Under,174.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_pass_yds,Patrick Mahomes,Over,235.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_pass_yds,Patrick Mahomes,Under,235.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Tyquan Thornton,Over,18.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Tyquan Thornton,Under,18.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Chris Bell,Over,19.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Chris Bell,Under,19.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Travis Kelce,Over,52.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Travis Kelce,Under,52.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Xavier Worthy,Over,38.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Xavier Worthy,Under,38.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Rashee Rice,Over,47.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Rashee Rice,Under,47.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Kevin Coleman Jr.,Over,15.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Kevin Coleman Jr.,Under,15.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,De'Von Achane,Over,27.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,De'Von Achane,Under,27.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Emmett Johnson,Over,10.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Emmett Johnson,Under,10.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Kenneth Walker III,Over,22.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Kenneth Walker III,Under,22.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Greg Dulcich,Over,22.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Greg Dulcich,Under,22.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Malik Washington,Over,38.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_reception_yds,Malik Washington,Under,38.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Malik Washington,Over,3.5,-144
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Malik Washington,Under,3.5,108
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Chris Bell,Over,1.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Chris Bell,Under,1.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Xavier Worthy,Over,3.5,-108
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Xavier Worthy,Under,3.5,-122
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Kenneth Walker III,Over,3.5,120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Kenneth Walker III,Under,3.5,-160
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Rashee Rice,Over,4.5,108
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Rashee Rice,Under,4.5,-144
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Travis Kelce,Over,4.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Travis Kelce,Under,4.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Kevin Coleman Jr.,Over,1.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Kevin Coleman Jr.,Under,1.5,-146
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Emmett Johnson,Over,1.5,-102
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Emmett Johnson,Under,1.5,-130
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Greg Dulcich,Over,2.5,122
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Greg Dulcich,Under,2.5,-162
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,De'Von Achane,Over,3.5,-130
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,De'Von Achane,Under,3.5,-102
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Tyquan Thornton,Over,1.5,116
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_receptions,Tyquan Thornton,Under,1.5,-154
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Ollie Gordon II,Over,8.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Ollie Gordon II,Under,8.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Kenneth Walker III,Over,83.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Kenneth Walker III,Under,83.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,De'Von Achane,Over,59.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,De'Von Achane,Under,59.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Emmett Johnson,Over,26.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Emmett Johnson,Under,26.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Malik Willis,Over,32.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Malik Willis,Under,32.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Patrick Mahomes,Over,15.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanduel,player_rush_yds,Patrick Mahomes,Under,15.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,DJ Herman,Yes,,2200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Ben VanSumeren,Yes,,2900
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Emmett Johnson,Yes,,360
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Will Kacmarek,Yes,,900
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Kenneth Walker III,Yes,,-215
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Ollie Gordon II,Yes,,540
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Travis Kelce,Yes,,140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Malik Willis,Yes,,310
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Noah Gray,Yes,,575
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Nikko Remigio,Yes,,2200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Justin Joly,Yes,,3300
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,De'Von Achane,Yes,,-118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Malik Washington,Yes,,300
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Ryan Miller,Yes,,1800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Jalen Royals,Yes,,1200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Chris Bell,Yes,,450
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Kevin Coleman Jr.,Yes,,650
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Patrick Mahomes,Yes,,350
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Tyquan Thornton,Yes,,310
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Cyrus Allen,Yes,,2000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Greg Dulcich,Yes,,440
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Jake Briningstool,Yes,,1200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Rashee Rice,Yes,,140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Brashard Smith,Yes,,1500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Jalen Tolbert,Yes,,700
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Xavier Worthy,Yes,,180
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_anytime_td,Seydou Traore,Yes,,2500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_pass_tds,Patrick Mahomes,Over,1.5,-205
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_pass_tds,Patrick Mahomes,Under,1.5,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_pass_tds,Malik Willis,Over,0.5,-205
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_pass_tds,Malik Willis,Under,0.5,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_pass_yds,Malik Willis,Over,176.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_pass_yds,Malik Willis,Under,176.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_pass_yds,Patrick Mahomes,Over,233.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_pass_yds,Patrick Mahomes,Under,233.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Greg Dulcich,Over,22.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Greg Dulcich,Under,22.5,-117
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Emmett Johnson,Over,10.5,-109
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Emmett Johnson,Under,10.5,-122
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,De'Von Achane,Over,27.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,De'Von Achane,Under,27.5,-117
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Travis Kelce,Over,50.5,-117
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Travis Kelce,Under,50.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Malik Washington,Over,38.5,-117
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Malik Washington,Under,38.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Xavier Worthy,Over,37.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Xavier Worthy,Under,37.5,-118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Chris Bell,Over,18.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Chris Bell,Under,18.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Rashee Rice,Over,46.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Rashee Rice,Under,46.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Kevin Coleman Jr.,Over,14.5,-118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Kevin Coleman Jr.,Under,14.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Tyquan Thornton,Over,17.5,-118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Tyquan Thornton,Under,17.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Kenneth Walker III,Over,23.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_reception_yds,Kenneth Walker III,Under,23.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Greg Dulcich,Over,2.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,De'Von Achane,Over,3.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Chris Bell,Over,1.5,-121
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Tyquan Thornton,Over,1.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Malik Washington,Over,3.5,-129
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Kevin Coleman Jr.,Over,1.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Emmett Johnson,Over,1.5,-118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Rashee Rice,Over,4.5,125
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Travis Kelce,Over,4.5,-108
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Xavier Worthy,Over,3.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_receptions,Kenneth Walker III,Over,3.5,-105
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,Malik Willis,Over,34.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,Malik Willis,Under,34.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,Kenneth Walker III,Over,82.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,Kenneth Walker III,Under,82.5,-117
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,Patrick Mahomes,Over,15.5,-117
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,Patrick Mahomes,Under,15.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,De'Von Achane,Over,61.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,De'Von Achane,Under,61.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,Emmett Johnson,Over,27.5,-118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betrivers,player_rush_yds,Emmett Johnson,Under,27.5,-113
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Patrick Mahomes,Yes,,325
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Rashee Rice,Yes,,130
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Nikko Remigio,Yes,,1400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Noah Gray,Yes,,600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Travis Kelce,Yes,,140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,De'Von Achane,Yes,,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Jalen Royals,Yes,,1000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Tyquan Thornton,Yes,,400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Greg Dulcich,Yes,,400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Ollie Gordon II,Yes,,500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Xavier Worthy,Yes,,180
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Jake Briningstool,Yes,,1400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Malik Washington,Yes,,300
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Brashard Smith,Yes,,1400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Kenneth Walker III,Yes,,-250
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Malik Willis,Yes,,300
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Chris Bell,Yes,,550
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Will Kacmarek,Yes,,900
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Kevin Coleman Jr.,Yes,,750
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Emmett Johnson,Yes,,290
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Seydou Traore,Yes,,1900
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Ryan Miller,Yes,,1400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Cyrus Allen,Yes,,1400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Jared Wiley,Yes,,1400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Jalen Tolbert,Yes,,1400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Justin Joly,Yes,,1900
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_anytime_td,Ben VanSumeren,Yes,,3400
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_pass_tds,Patrick Mahomes,Over,1.5,-196
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_pass_tds,Patrick Mahomes,Under,1.5,148
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_pass_tds,Malik Willis,Over,0.5,-227
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_pass_tds,Malik Willis,Under,0.5,170
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_pass_yds,Patrick Mahomes,Over,236.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_pass_yds,Patrick Mahomes,Under,236.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_pass_yds,Malik Willis,Over,174.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_pass_yds,Malik Willis,Under,174.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Kenneth Walker III,Over,22.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Kenneth Walker III,Under,22.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Emmett Johnson,Over,10.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Emmett Johnson,Under,10.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Rashee Rice,Over,48.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Rashee Rice,Under,48.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Greg Dulcich,Over,22.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Greg Dulcich,Under,22.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Xavier Worthy,Over,39.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Xavier Worthy,Under,39.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Chris Bell,Over,19.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Chris Bell,Under,19.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,De'Von Achane,Over,28.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,De'Von Achane,Under,28.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Travis Kelce,Over,52.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Travis Kelce,Under,52.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Kevin Coleman Jr.,Over,14.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Kevin Coleman Jr.,Under,14.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Malik Washington,Over,40.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Malik Washington,Under,40.5,-112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Tyquan Thornton,Over,18.5,-119
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_reception_yds,Tyquan Thornton,Under,18.5,-109
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Emmett Johnson,Over,1.5,-105
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Emmett Johnson,Under,1.5,-123
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Xavier Worthy,Over,3.5,-108
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Xavier Worthy,Under,3.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Rashee Rice,Over,4.5,112
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Rashee Rice,Under,4.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Kenneth Walker III,Over,3.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Kenneth Walker III,Under,3.5,-149
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Travis Kelce,Over,4.5,105
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Travis Kelce,Under,4.5,-135
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,De'Von Achane,Over,3.5,-132
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,De'Von Achane,Under,3.5,102
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Tyquan Thornton,Over,1.5,118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Tyquan Thornton,Under,1.5,-154
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Malik Washington,Over,3.5,-135
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Malik Washington,Under,3.5,105
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Greg Dulcich,Over,2.5,118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Greg Dulcich,Under,2.5,-154
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Chris Bell,Over,1.5,-118
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Chris Bell,Under,1.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Kevin Coleman Jr.,Over,1.5,106
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_receptions,Kevin Coleman Jr.,Under,1.5,-137
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Kenneth Walker III,Over,85.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Kenneth Walker III,Under,85.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,De'Von Achane,Over,59.5,-116
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,De'Von Achane,Under,59.5,-111
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Malik Willis,Over,33.5,-106
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Malik Willis,Under,33.5,-122
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Patrick Mahomes,Over,15.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Patrick Mahomes,Under,15.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Ollie Gordon II,Over,9.5,-108
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Ollie Gordon II,Under,9.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Emmett Johnson,Over,26.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,betonlineag,player_rush_yds,Emmett Johnson,Under,26.5,-114
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,DJ Herman,Yes,,2800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Jalen Tolbert,Yes,,1600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Chris Bell,Yes,,600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Kevin Coleman Jr.,Yes,,725
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,De'Von Achane,Yes,,120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Malik Willis,Yes,,330
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Travis Kelce,Yes,,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Kenneth Walker III,Yes,,-200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Ollie Gordon II,Yes,,500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Justin Joly,Yes,,3300
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Will Kacmarek,Yes,,1000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Seydou Traore,Yes,,2800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Ryan Miller,Yes,,1800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Emmett Johnson,Yes,,320
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Malik Washington,Yes,,350
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Patrick Mahomes,Yes,,340
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Greg Dulcich,Yes,,440
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Tyquan Thornton,Yes,,440
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Rashee Rice,Yes,,145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Xavier Worthy,Yes,,195
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Noah Gray,Yes,,625
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Ben VanSumeren,Yes,,6000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Jake Briningstool,Yes,,1500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Jalen Royals,Yes,,1200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Cyrus Allen,Yes,,2000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Nikko Remigio,Yes,,1700
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Brashard Smith,Yes,,1500
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Miami Dolphins D/ST,Yes,,700
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_anytime_td,Kansas City Chiefs D/ST,Yes,,525
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_tds,Malik Willis,Over,0.5,-240
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_tds,Malik Willis,Under,0.5,175
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_tds,Patrick Mahomes,Over,1.5,-200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_tds,Patrick Mahomes,Under,1.5,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,146.5,-260
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,146.5,190
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,156.5,-190
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,156.5,145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,166.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,166.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,176.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,176.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,186.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,186.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,196.5,140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,196.5,-185
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,206.5,175
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,206.5,-240
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Over,206.5,-250
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Under,206.5,185
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Over,216.5,-190
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Under,216.5,145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Over,226.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Under,226.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Over,236.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Under,236.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Over,246.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Under,246.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Over,256.5,140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Under,256.5,-185
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Over,266.5,175
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_pass_yds,Patrick Mahomes,Under,266.5,-240
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Chris Bell,Over,19.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Chris Bell,Under,19.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,De'Von Achane,Over,28.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,De'Von Achane,Under,28.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Emmett Johnson,Over,11.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Emmett Johnson,Under,11.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Over,23.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Under,23.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Kenneth Walker III,Over,22.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Kenneth Walker III,Under,22.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Kevin Coleman Jr.,Over,15.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Kevin Coleman Jr.,Under,15.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,30.5,-215
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,30.5,160
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,35.5,-150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,35.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,40.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,40.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,45.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,45.5,-150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,50.5,145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,50.5,-190
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Over,39.5,-200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Under,39.5,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Over,44.5,-150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Under,44.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Over,49.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Under,49.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Over,54.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Under,54.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Over,59.5,140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Rashee Rice,Under,59.5,-185
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Over,41.5,-190
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Under,41.5,145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Over,46.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Under,46.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Over,51.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Under,51.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Over,56.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Under,56.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Over,61.5,135
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Travis Kelce,Under,61.5,-180
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Tyquan Thornton,Over,19.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Tyquan Thornton,Under,19.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Over,28.5,-215
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Under,28.5,160
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Over,33.5,-150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Under,33.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Over,38.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Under,38.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Over,43.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Under,43.5,-150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Over,48.5,145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_reception_yds,Xavier Worthy,Under,48.5,-190
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Chris Bell,Over,1.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Chris Bell,Under,1.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,De'Von Achane,Over,3.5,-130
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,De'Von Achane,Under,3.5,100
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Emmett Johnson,Over,1.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Emmett Johnson,Under,1.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Greg Dulcich,Over,2.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Greg Dulcich,Under,2.5,-150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Kenneth Walker III,Over,3.5,115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Kenneth Walker III,Under,3.5,-150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Kevin Coleman Jr.,Over,1.5,105
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Kevin Coleman Jr.,Under,1.5,-135
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Malik Washington,Over,3.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Malik Washington,Under,3.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Rashee Rice,Over,4.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Rashee Rice,Under,4.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Travis Kelce,Over,4.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Travis Kelce,Under,4.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Tyquan Thornton,Over,1.5,120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Tyquan Thornton,Under,1.5,-160
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Xavier Worthy,Over,3.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_receptions,Xavier Worthy,Under,3.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Over,50.5,-200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Under,50.5,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Over,55.5,-145
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Under,55.5,110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Over,60.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Under,60.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Over,65.5,120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Under,65.5,-160
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Over,70.5,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,De'Von Achane,Under,70.5,-200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Over,16.5,-310
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Under,16.5,225
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Over,21.5,-180
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Under,21.5,135
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Over,26.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Under,26.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Over,31.5,130
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Under,31.5,-170
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Over,36.5,180
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Emmett Johnson,Under,36.5,-245
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Over,66.5,-320
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Under,66.5,230
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Over,76.5,-185
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Under,76.5,140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Over,86.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Under,86.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Over,96.5,135
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Under,96.5,-180
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Over,106.5,200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Kenneth Walker III,Under,106.5,-275
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,22.5,-275
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,22.5,200
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,27.5,-170
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,27.5,130
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,32.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,32.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,37.5,125
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,37.5,-165
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,42.5,170
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,42.5,-230
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Ollie Gordon II,Over,9.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Ollie Gordon II,Under,9.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Patrick Mahomes,Over,15.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,bovada,player_rush_yds,Patrick Mahomes,Under,15.5,-110
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,No Scorer,Yes,,5000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Malik Willis,Yes,,340
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Greg Dulcich,Yes,,450
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Jalen Tolbert,Yes,,1600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,De'Von Achane,Yes,,120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Ryan Miller,Yes,,1800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Malik Washington,Yes,,370
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Ollie Gordon II,Yes,,525
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Chris Bell,Yes,,575
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Justin Joly,Yes,,3000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Seydou Traore,Yes,,2800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,DJ Herman,Yes,,3000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Kevin Coleman Jr.,Yes,,850
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Will Kacmarek,Yes,,1000
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Miami Dolphins D/ST,Yes,,600
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Patrick Mahomes,Yes,,350
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Travis Kelce,Yes,,165
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Noah Gray,Yes,,575
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Tyquan Thornton,Yes,,475
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Kenneth Walker III,Yes,,-180
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Rashee Rice,Yes,,150
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Nikko Remigio,Yes,,1800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Ben VanSumeren,Yes,,2800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Xavier Worthy,Yes,,220
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Brashard Smith,Yes,,1800
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Jalen Royals,Yes,,1100
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Jake Briningstool,Yes,,1700
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Emmett Johnson,Yes,,325
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Cyrus Allen,Yes,,1900
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_anytime_td,Kansas City Chiefs D/ST,Yes,,410
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_pass_tds,Malik Willis,Over,0.5,-215
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_pass_tds,Malik Willis,Under,0.5,160
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_pass_yds,Malik Willis,Over,175.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_pass_yds,Malik Willis,Under,175.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_reception_yds,Emmett Johnson,Over,10.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_reception_yds,Emmett Johnson,Under,10.5,-115
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_receptions,Kenneth Walker III,Over,3.5,105
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_receptions,Kenneth Walker III,Under,3.5,-140
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_rush_yds,De'Von Achane,Over,60.5,-120
+Kansas City Chiefs,Miami Dolphins,2026-09-27T16:40:36Z,fanatics,player_rush_yds,De'Von Achane,Under,60.5,-110

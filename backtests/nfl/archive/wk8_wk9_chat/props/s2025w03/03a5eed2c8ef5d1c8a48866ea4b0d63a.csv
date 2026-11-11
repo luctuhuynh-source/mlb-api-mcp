@@ -1,0 +1,670 @@
+away,home,snapshot,book,market,player,side,point,price
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Ashton Jeanty,Yes,,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Jacory Croskey-Merritt,Yes,,125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Terry McLaurin,Yes,,175
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Brock Bowers,Yes,,175
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Jakobi Meyers,Yes,,200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Deebo Samuel Sr.,Yes,,220
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Zach Ertz,Yes,,280
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Marcus Mariota,Yes,,290
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Chris Rodriguez Jr.,Yes,,380
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Tre Tucker,Yes,,425
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Dont'e Thornton Jr.,Yes,,450
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Jeremy McNichols,Yes,,550
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Michael Mayer,Yes,,550
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Washington Commanders D/ST,Yes,,550
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Las Vegas Raiders D/ST,Yes,,550
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Jaylin Lane,Yes,,600
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Geno Smith,Yes,,750
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Zamir White,Yes,,800
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Luke McCaffrey,Yes,,1600
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Chris Moore,Yes,,1600
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Jack Bech,Yes,,1800
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Dylan Laube,Yes,,1800
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Ian Thomas,Yes,,2200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Justin Shorter,Yes,,2500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Ben Sinnott,Yes,,3000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Colson Yankoff,Yes,,3000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_anytime_td,Alex Bachman,Yes,,4500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_pass_tds,Geno Smith,Over,1.5,119
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_pass_tds,Geno Smith,Under,1.5,-153
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_pass_tds,Marcus Mariota,Over,1.5,152
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_pass_tds,Marcus Mariota,Under,1.5,-196
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_pass_yds,Geno Smith,Over,240.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_pass_yds,Geno Smith,Under,240.5,-111
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_pass_yds,Marcus Mariota,Over,204.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_pass_yds,Marcus Mariota,Under,204.5,-111
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jakobi Meyers,Over,62.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jakobi Meyers,Under,62.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Brock Bowers,Over,60.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Brock Bowers,Under,60.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Terry McLaurin,Over,51.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Terry McLaurin,Under,51.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Deebo Samuel Sr.,Over,45.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Deebo Samuel Sr.,Under,45.5,-109
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Zach Ertz,Over,32.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Zach Ertz,Under,32.5,-109
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Tre Tucker,Over,26.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Tre Tucker,Under,26.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Dont'e Thornton Jr.,Over,25.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Dont'e Thornton Jr.,Under,25.5,-109
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jaylin Lane,Over,19.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jaylin Lane,Under,19.5,-111
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Ashton Jeanty,Over,12.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Ashton Jeanty,Under,12.5,-106
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jeremy McNichols,Over,8.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jeremy McNichols,Under,8.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jacory Croskey-Merritt,Over,6.5,-104
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_reception_yds,Jacory Croskey-Merritt,Under,6.5,-121
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Brock Bowers,Over,5.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Brock Bowers,Under,5.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Jakobi Meyers,Over,5.5,-109
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Jakobi Meyers,Under,5.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Deebo Samuel Sr.,Over,4.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Deebo Samuel Sr.,Under,4.5,-106
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Terry McLaurin,Over,4.5,108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Terry McLaurin,Under,4.5,-137
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Zach Ertz,Over,3.5,-123
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Zach Ertz,Under,3.5,-104
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Ashton Jeanty,Over,2.5,-109
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Ashton Jeanty,Under,2.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Tre Tucker,Over,2.5,-107
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Tre Tucker,Under,2.5,-119
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Dont'e Thornton Jr.,Over,1.5,-162
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Dont'e Thornton Jr.,Under,1.5,127
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Jaylin Lane,Over,1.5,-160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Jaylin Lane,Under,1.5,125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Jeremy McNichols,Over,1.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Jeremy McNichols,Under,1.5,-121
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Jacory Croskey-Merritt,Over,1.5,112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_receptions,Jacory Croskey-Merritt,Under,1.5,-142
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Ashton Jeanty,Over,63.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Ashton Jeanty,Under,63.5,-111
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Jacory Croskey-Merritt,Over,49.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Jacory Croskey-Merritt,Under,49.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Marcus Mariota,Over,28.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Marcus Mariota,Under,28.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Geno Smith,Over,12.5,-107
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Geno Smith,Under,12.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Deebo Samuel Sr.,Over,5.5,-106
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,draftkings,player_rush_yds,Deebo Samuel Sr.,Under,5.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Ashton Jeanty,Yes,,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Jacory Croskey-Merritt,Yes,,115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Brock Bowers,Yes,,175
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Terry McLaurin,Yes,,180
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Jakobi Meyers,Yes,,190
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Deebo Samuel Sr.,Yes,,200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Zach Ertz,Yes,,230
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Marcus Mariota,Yes,,265
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Chris Rodriguez Jr.,Yes,,340
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Tre Tucker,Yes,,380
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Dont'e Thornton Jr.,Yes,,420
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Michael Mayer,Yes,,500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Jeremy McNichols,Yes,,500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Jaylin Lane,Yes,,575
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Geno Smith,Yes,,700
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Zamir White,Yes,,850
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Luke McCaffrey,Yes,,1200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Jack Bech,Yes,,1400
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Chris Moore,Yes,,1400
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Dylan Laube,Yes,,1600
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Ben Sinnott,Yes,,2300
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Colson Yankoff,Yes,,2700
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Ian Thomas,Yes,,2900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Justin Shorter,Yes,,3000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_anytime_td,Alex Bachman,Yes,,3500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_pass_tds,Geno Smith,Over,1.5,112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_pass_tds,Geno Smith,Under,1.5,-150
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_pass_tds,Marcus Mariota,Over,1.5,150
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_pass_tds,Marcus Mariota,Under,1.5,-205
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_pass_yds,Geno Smith,Over,243.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_pass_yds,Geno Smith,Under,243.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_pass_yds,Marcus Mariota,Over,206.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_pass_yds,Marcus Mariota,Under,206.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jeremy McNichols,Over,8.5,-128
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jeremy McNichols,Under,8.5,-107
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Terry McLaurin,Over,50.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Terry McLaurin,Under,50.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Tre Tucker,Over,27.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Tre Tucker,Under,27.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Ashton Jeanty,Over,12.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Ashton Jeanty,Under,12.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jakobi Meyers,Over,62.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jakobi Meyers,Under,62.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jaylin Lane,Over,18.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jaylin Lane,Under,18.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jacory Croskey-Merritt,Over,6.5,-121
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Jacory Croskey-Merritt,Under,6.5,-111
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Dont'e Thornton Jr.,Over,25.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Dont'e Thornton Jr.,Under,25.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Brock Bowers,Over,59.5,-122
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Brock Bowers,Under,59.5,-111
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Zach Ertz,Over,33.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Zach Ertz,Under,33.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Deebo Samuel Sr.,Over,46.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_reception_yds,Deebo Samuel Sr.,Under,46.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jacory Croskey-Merritt,Over,1.5,108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jacory Croskey-Merritt,Under,1.5,-160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Tre Tucker,Over,2.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Tre Tucker,Under,2.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Brock Bowers,Over,5.5,-121
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Brock Bowers,Under,5.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Terry McLaurin,Over,4.5,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Terry McLaurin,Under,4.5,-170
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jaylin Lane,Over,1.5,-145
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jaylin Lane,Under,1.5,112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jakobi Meyers,Over,5.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jakobi Meyers,Under,5.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jeremy McNichols,Over,1.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Jeremy McNichols,Under,1.5,-122
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Dont'e Thornton Jr.,Over,1.5,-180
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Dont'e Thornton Jr.,Under,1.5,127
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Zach Ertz,Over,3.5,-136
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Zach Ertz,Under,3.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Deebo Samuel Sr.,Over,4.5,-129
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Deebo Samuel Sr.,Under,4.5,-106
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Ashton Jeanty,Over,2.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_receptions,Ashton Jeanty,Under,2.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Marcus Mariota,Over,29.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Marcus Mariota,Under,29.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Geno Smith,Over,12.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Geno Smith,Under,12.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Jacory Croskey-Merritt,Over,51.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Jacory Croskey-Merritt,Under,51.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Ashton Jeanty,Over,61.5,-128
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,williamhill_us,player_rush_yds,Ashton Jeanty,Under,61.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Ashton Jeanty,Yes,,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Jacory Croskey-Merritt,Yes,,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Jakobi Meyers,Yes,,185
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Brock Bowers,Yes,,180
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Deebo Samuel Sr.,Yes,,200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Terry McLaurin,Yes,,200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Zach Ertz,Yes,,260
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Marcus Mariota,Yes,,270
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Chris Rodriguez Jr.,Yes,,370
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Tre Tucker,Yes,,390
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Dont'e Thornton Jr.,Yes,,450
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Jeremy McNichols,Yes,,470
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Michael Mayer,Yes,,500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Jaylin Lane,Yes,,600
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Washington Commanders Defense,Yes,,700
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Las Vegas Raiders Defense,Yes,,800
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Geno Smith,Yes,,850
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Luke McCaffrey,Yes,,900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Zamir White,Yes,,1200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Chris Moore,Yes,,1600
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Jack Bech,Yes,,2000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Ben Sinnott,Yes,,2200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Dylan Laube,Yes,,2200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Colson Yankoff,Yes,,3000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Alex Bachman,Yes,,3500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Justin Shorter,Yes,,4000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_anytime_td,Ian Thomas,Yes,,4500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_pass_tds,Marcus Mariota,Over,1.5,148
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_pass_tds,Marcus Mariota,Under,1.5,-190
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_pass_tds,Geno Smith,Over,1.5,116
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_pass_tds,Geno Smith,Under,1.5,-148
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_pass_yds,Marcus Mariota,Over,204.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_pass_yds,Marcus Mariota,Under,204.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_pass_yds,Geno Smith,Over,245.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_pass_yds,Geno Smith,Under,245.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Tre Tucker,Over,27.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Tre Tucker,Under,27.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Terry McLaurin,Over,49.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Terry McLaurin,Under,49.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Ashton Jeanty,Over,12.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Ashton Jeanty,Under,12.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Dont'e Thornton Jr.,Over,26.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Dont'e Thornton Jr.,Under,26.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jaylin Lane,Over,17.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jaylin Lane,Under,17.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Zach Ertz,Over,32.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Zach Ertz,Under,32.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jacory Croskey-Merritt,Over,8.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jacory Croskey-Merritt,Under,8.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Brock Bowers,Over,58.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Brock Bowers,Under,58.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jeremy McNichols,Over,9.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jeremy McNichols,Under,9.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Deebo Samuel Sr.,Over,46.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Deebo Samuel Sr.,Under,46.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jakobi Meyers,Over,62.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_reception_yds,Jakobi Meyers,Under,62.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Tre Tucker,Over,2.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Tre Tucker,Under,2.5,-116
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Terry McLaurin,Over,4.5,114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Terry McLaurin,Under,4.5,-144
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Deebo Samuel Sr.,Over,4.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Deebo Samuel Sr.,Under,4.5,-106
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Zach Ertz,Over,3.5,-124
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Zach Ertz,Under,3.5,-102
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Ashton Jeanty,Over,2.5,-104
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Ashton Jeanty,Under,2.5,-122
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Dont'e Thornton Jr.,Over,1.5,-160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Dont'e Thornton Jr.,Under,1.5,126
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Jaylin Lane,Over,1.5,-164
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Jaylin Lane,Under,1.5,128
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Jacory Croskey-Merritt,Over,1.5,102
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Jacory Croskey-Merritt,Under,1.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Brock Bowers,Over,5.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Brock Bowers,Under,5.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Jeremy McNichols,Over,1.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Jeremy McNichols,Under,1.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Jakobi Meyers,Over,5.5,-116
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_receptions,Jakobi Meyers,Under,5.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Marcus Mariota,Over,28.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Marcus Mariota,Under,28.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Ashton Jeanty,Over,61.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Ashton Jeanty,Under,61.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Deebo Samuel Sr.,Over,4.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Deebo Samuel Sr.,Under,4.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Geno Smith,Over,13.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Geno Smith,Under,13.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Jacory Croskey-Merritt,Over,51.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanduel,player_rush_yds,Jacory Croskey-Merritt,Under,51.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Brock Bowers,Yes,,170
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Deebo Samuel Sr.,Yes,,200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Ashton Jeanty,Yes,,-111
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Jacory Croskey-Merritt,Yes,,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Chris Moore,Yes,,1400
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Zach Ertz,Yes,,260
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Jakobi Meyers,Yes,,180
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Terry McLaurin,Yes,,170
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Marcus Mariota,Yes,,270
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Michael Mayer,Yes,,500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Tre Tucker,Yes,,350
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Jeremy McNichols,Yes,,450
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Dont'e Thornton Jr.,Yes,,450
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Chris Rodriguez Jr.,Yes,,350
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Jaylin Lane,Yes,,600
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Jack Bech,Yes,,1700
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Geno Smith,Yes,,750
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Luke McCaffrey,Yes,,900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Justin Shorter,Yes,,2400
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Dylan Laube,Yes,,1700
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Colson Yankoff,Yes,,2900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Zamir White,Yes,,800
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,John Bates,Yes,,3400
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Ben Sinnott,Yes,,1900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Ian Thomas,Yes,,1900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_anytime_td,Raheem Mostert,Yes,,1900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_pass_tds,Marcus Mariota,Over,1.5,152
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_pass_tds,Marcus Mariota,Under,1.5,-200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_pass_tds,Geno Smith,Over,1.5,117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_pass_tds,Geno Smith,Under,1.5,-152
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_pass_yds,Geno Smith,Over,245.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_pass_yds,Geno Smith,Under,245.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_pass_yds,Marcus Mariota,Over,209.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_pass_yds,Marcus Mariota,Under,209.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Dont'e Thornton Jr.,Over,25.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Dont'e Thornton Jr.,Under,25.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Ashton Jeanty,Over,12.5,-111
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Ashton Jeanty,Under,12.5,-116
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Jakobi Meyers,Over,62.5,-116
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Jakobi Meyers,Under,62.5,-111
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Brock Bowers,Over,58.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Brock Bowers,Under,58.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Jacory Croskey-Merritt,Over,6.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Jacory Croskey-Merritt,Under,6.5,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Zach Ertz,Over,33.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Zach Ertz,Under,33.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Terry McLaurin,Over,47.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Terry McLaurin,Under,47.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Deebo Samuel Sr.,Over,45.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Deebo Samuel Sr.,Under,45.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Jeremy McNichols,Over,7.5,-123
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Jeremy McNichols,Under,7.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Tre Tucker,Over,27.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_reception_yds,Tre Tucker,Under,27.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Tre Tucker,Over,2.5,-109
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Tre Tucker,Under,2.5,-119
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Jacory Croskey-Merritt,Over,1.5,115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Jacory Croskey-Merritt,Under,1.5,-149
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Brock Bowers,Over,5.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Brock Bowers,Under,5.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Deebo Samuel Sr.,Over,4.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Deebo Samuel Sr.,Under,4.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Ashton Jeanty,Over,2.5,-109
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Ashton Jeanty,Under,2.5,-119
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Dont'e Thornton Jr.,Over,1.5,-172
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Dont'e Thornton Jr.,Under,1.5,131
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Zach Ertz,Over,3.5,-135
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Zach Ertz,Under,3.5,105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Jakobi Meyers,Over,5.5,-119
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Jakobi Meyers,Under,5.5,-109
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Jeremy McNichols,Over,1.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Jeremy McNichols,Under,1.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Terry McLaurin,Over,4.5,110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_receptions,Terry McLaurin,Under,4.5,-143
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Deebo Samuel Sr.,Over,5.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Deebo Samuel Sr.,Under,5.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Geno Smith,Over,13.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Geno Smith,Under,13.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Marcus Mariota,Over,30.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Marcus Mariota,Under,30.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Ashton Jeanty,Over,61.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Ashton Jeanty,Under,61.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Jacory Croskey-Merritt,Over,50.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Jacory Croskey-Merritt,Under,50.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Jeremy McNichols,Over,12.5,-123
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betonlineag,player_rush_yds,Jeremy McNichols,Under,12.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Jeremy McNichols,Yes,,430
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Jaylin Lane,Yes,,510
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Luke McCaffrey,Yes,,1300
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Jack Bech,Yes,,950
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Geno Smith,Yes,,750
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Dylan Laube,Yes,,2000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Zach Ertz,Yes,,265
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Deebo Samuel Sr.,Yes,,220
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Dont'e Thornton Jr.,Yes,,350
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Chris Moore,Yes,,1900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Justin Shorter,Yes,,2400
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Zamir White,Yes,,1050
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Michael Mayer,Yes,,500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Tre Tucker,Yes,,420
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Brock Bowers,Yes,,175
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Ian Thomas,Yes,,1900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Chris Rodriguez Jr.,Yes,,330
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Terry McLaurin,Yes,,210
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Ben Sinnott,Yes,,1600
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Marcus Mariota,Yes,,250
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Ashton Jeanty,Yes,,-112
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Colson Yankoff,Yes,,1800
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Jacory Croskey-Merritt,Yes,,104
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_anytime_td,Jakobi Meyers,Yes,,188
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_pass_tds,Geno Smith,Over,1.5,130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_pass_tds,Geno Smith,Under,1.5,-175
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_pass_tds,Marcus Mariota,Over,1.5,150
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_pass_tds,Marcus Mariota,Under,1.5,-200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_pass_yds,Marcus Mariota,Over,205.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_pass_yds,Marcus Mariota,Under,205.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_pass_yds,Geno Smith,Over,242.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_pass_yds,Geno Smith,Under,242.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Jakobi Meyers,Over,63.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Jakobi Meyers,Under,63.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Deebo Samuel Sr.,Over,49.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Deebo Samuel Sr.,Under,49.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Dont'e Thornton Jr.,Over,23.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Dont'e Thornton Jr.,Under,23.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Brock Bowers,Over,60.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Brock Bowers,Under,60.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Terry McLaurin,Over,46.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Terry McLaurin,Under,46.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Zach Ertz,Over,32.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Zach Ertz,Under,32.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Ashton Jeanty,Over,14.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Ashton Jeanty,Under,14.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Tre Tucker,Over,26.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_reception_yds,Tre Tucker,Under,26.5,-113
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Deebo Samuel Sr.,Over,4.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Deebo Samuel Sr.,Under,4.5,-103
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Brock Bowers,Over,5.5,-124
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Brock Bowers,Under,5.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Tre Tucker,Over,2.5,-124
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Tre Tucker,Under,2.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Jakobi Meyers,Over,5.5,-124
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Jakobi Meyers,Under,5.5,-108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Zach Ertz,Over,3.5,-143
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Zach Ertz,Under,3.5,108
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Dont'e Thornton Jr.,Over,1.5,-159
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Dont'e Thornton Jr.,Under,1.5,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Terry McLaurin,Over,4.5,123
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_receptions,Terry McLaurin,Under,4.5,-165
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Marcus Mariota,Over,29.5,-117
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Marcus Mariota,Under,29.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Jacory Croskey-Merritt,Over,50.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Jacory Croskey-Merritt,Under,50.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Geno Smith,Over,10.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Geno Smith,Under,10.5,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Ashton Jeanty,Over,60.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betrivers,player_rush_yds,Ashton Jeanty,Under,60.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Justin Shorter,Yes,,4000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Ashton Jeanty,Yes,,-114
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Jacory Croskey-Merritt,Yes,,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Brock Bowers,Yes,,180
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Jakobi Meyers,Yes,,180
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Terry McLaurin,Yes,,200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Deebo Samuel Sr.,Yes,,200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Zach Ertz,Yes,,260
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Marcus Mariota,Yes,,260
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Chris Rodriguez Jr.,Yes,,350
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Tre Tucker,Yes,,350
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Dont'e Thornton Jr.,Yes,,400
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Jeremy McNichols,Yes,,440
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Michael Mayer,Yes,,440
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Jaylin Lane,Yes,,525
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Washington Commanders D/ST,Yes,,625
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Las Vegas Raiders Defense,Yes,,700
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Geno Smith,Yes,,725
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Luke McCaffrey,Yes,,800
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Zamir White,Yes,,1000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Chris Moore,Yes,,1400
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Jack Bech,Yes,,1900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Dylan Laube,Yes,,2000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Ben Sinnott,Yes,,1900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Colson Yankoff,Yes,,2500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Ian Thomas,Yes,,4000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_anytime_td,Alex Bachman,Yes,,3000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_pass_tds,Geno Smith,Over,1.5,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_pass_tds,Geno Smith,Under,1.5,-160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_pass_tds,Marcus Mariota,Over,1.5,160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_pass_tds,Marcus Mariota,Under,1.5,-215
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_pass_yds,Geno Smith,Over,245.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_pass_yds,Geno Smith,Under,245.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_pass_yds,Marcus Mariota,Over,209.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_pass_yds,Marcus Mariota,Under,209.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Ashton Jeanty,Over,12.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Ashton Jeanty,Under,12.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Brock Bowers,Over,58.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Brock Bowers,Under,58.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Jakobi Meyers,Over,63.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Jakobi Meyers,Under,63.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Jaylin Lane,Over,17.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Jaylin Lane,Under,17.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Terry McLaurin,Over,47.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Terry McLaurin,Under,47.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Tre Tucker,Over,27.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Tre Tucker,Under,27.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Zach Ertz,Over,33.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_reception_yds,Zach Ertz,Under,33.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Ashton Jeanty,Over,2.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Ashton Jeanty,Under,2.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Brock Bowers,Over,5.5,-135
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Brock Bowers,Under,5.5,105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Jakobi Meyers,Over,5.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Jakobi Meyers,Under,5.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Jaylin Lane,Over,1.5,-160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Jaylin Lane,Under,1.5,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Terry McLaurin,Over,3.5,-160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Terry McLaurin,Under,3.5,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Tre Tucker,Over,2.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Tre Tucker,Under,2.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Zach Ertz,Over,3.5,-160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_receptions,Zach Ertz,Under,3.5,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_rush_yds,Ashton Jeanty,Over,61.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_rush_yds,Ashton Jeanty,Under,61.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_rush_yds,Geno Smith,Over,13.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_rush_yds,Geno Smith,Under,13.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_rush_yds,Marcus Mariota,Over,28.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,bovada,player_rush_yds,Marcus Mariota,Under,28.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,No Scorer,Yes,,4500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Deebo Samuel Sr.,Yes,,150
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Jacory Croskey-Merritt,Yes,,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Washington Commanders D/ST,Yes,,450
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Brock Bowers,Yes,,150
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Ashton Jeanty,Yes,,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Las Vegas Raiders D/ST,Yes,,500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Marcus Mariota,Yes,,225
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Zach Ertz,Yes,,225
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Terry McLaurin,Yes,,130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Jeremy McNichols,Yes,,420
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Chris Rodriguez Jr.,Yes,,345
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Luke McCaffrey,Yes,,800
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Colson Yankoff,Yes,,2000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Ben Sinnott,Yes,,1700
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Jaylin Lane,Yes,,550
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Ian Thomas,Yes,,3000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Jakobi Meyers,Yes,,170
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Zamir White,Yes,,700
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Justin Shorter,Yes,,900
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Michael Mayer,Yes,,420
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Tre Tucker,Yes,,325
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Dylan Laube,Yes,,1200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Dont'e Thornton Jr.,Yes,,345
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Jack Bech,Yes,,530
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Geno Smith,Yes,,530
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Chris Moore,Yes,,1300
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_anytime_td,Alex Bachman,Yes,,2200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_pass_tds,Geno Smith,Over,1.5,105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_pass_tds,Geno Smith,Under,1.5,-140
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_pass_tds,Marcus Mariota,Over,1.5,145
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_pass_tds,Marcus Mariota,Under,1.5,-190
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_pass_yds,Geno Smith,Over,240.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_pass_yds,Geno Smith,Under,240.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_pass_yds,Marcus Mariota,Over,205.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_pass_yds,Marcus Mariota,Under,205.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Jakobi Meyers,Over,65.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Jakobi Meyers,Under,65.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Brock Bowers,Over,60.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Brock Bowers,Under,60.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Tre Tucker,Over,25.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Tre Tucker,Under,25.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Deebo Samuel Sr.,Over,45.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Deebo Samuel Sr.,Under,45.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Zach Ertz,Over,30.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Zach Ertz,Under,30.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Terry McLaurin,Over,45.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Terry McLaurin,Under,45.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Dont'e Thornton Jr.,Over,25.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Dont'e Thornton Jr.,Under,25.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Jaylin Lane,Over,15.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Jaylin Lane,Under,15.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Jacory Croskey-Merritt,Over,10.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Jacory Croskey-Merritt,Under,10.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Jeremy McNichols,Over,10.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_reception_yds,Jeremy McNichols,Under,10.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Brock Bowers,Over,5.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Brock Bowers,Under,5.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Jakobi Meyers,Over,5.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Jakobi Meyers,Under,5.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Terry McLaurin,Over,4.5,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Terry McLaurin,Under,4.5,-160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Zach Ertz,Over,4.5,140
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Zach Ertz,Under,4.5,-180
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Tre Tucker,Over,2.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Tre Tucker,Under,2.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Ashton Jeanty,Over,2.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Ashton Jeanty,Under,2.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Dont'e Thornton Jr.,Over,2.5,145
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Dont'e Thornton Jr.,Under,2.5,-190
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Jacory Croskey-Merritt,Over,1.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Jacory Croskey-Merritt,Under,1.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Jaylin Lane,Over,2.5,175
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Jaylin Lane,Under,2.5,-240
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Deebo Samuel Sr.,Over,4.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Deebo Samuel Sr.,Under,4.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Jeremy McNichols,Over,1.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_receptions,Jeremy McNichols,Under,1.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Ashton Jeanty,Over,60.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Ashton Jeanty,Under,60.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Marcus Mariota,Over,30.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Marcus Mariota,Under,30.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Jacory Croskey-Merritt,Over,50.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Jacory Croskey-Merritt,Under,50.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Jeremy McNichols,Over,15.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,fanatics,player_rush_yds,Jeremy McNichols,Under,15.5,-125
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Ashton Jeanty,Yes,,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Jacory Croskey-Merritt,Yes,,115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Brock Bowers,Yes,,180
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Jakobi Meyers,Yes,,190
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Terry McLaurin,Yes,,200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Deebo Samuel Sr.,Yes,,200
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Zach Ertz,Yes,,250
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Marcus Mariota,Yes,,260
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Chris Rodriguez Jr.,Yes,,310
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Tre Tucker,Yes,,400
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Dont'e Thornton Jr.,Yes,,450
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Michael Mayer,Yes,,500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Jeremy McNichols,Yes,,500
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Las Vegas Raiders D/ST,Yes,,550
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Washington Commanders D/ST,Yes,,550
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Jaylin Lane,Yes,,650
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Geno Smith,Yes,,750
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Zamir White,Yes,,1100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Luke McCaffrey,Yes,,1600
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Jack Bech,Yes,,1800
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Dylan Laube,Yes,,2000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Ben Sinnott,Yes,,3000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Colson Yankoff,Yes,,3000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,Ian Thomas,Yes,,3000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_anytime_td,No Touchdown,Yes,,8000
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_pass_tds,Geno Smith,Over,1.5,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_pass_tds,Geno Smith,Under,1.5,-160
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_pass_tds,Marcus Mariota,Over,1.5,145
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_pass_tds,Marcus Mariota,Under,1.5,-190
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_pass_yds,Geno Smith,Over,241.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_pass_yds,Geno Smith,Under,241.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_pass_yds,Marcus Mariota,Over,210.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_pass_yds,Marcus Mariota,Under,210.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Brock Bowers,Over,57.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Brock Bowers,Under,57.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Ashton Jeanty,Over,12.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Ashton Jeanty,Under,12.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jakobi Meyers,Over,62.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jakobi Meyers,Under,62.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Deebo Samuel Sr.,Over,45.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Deebo Samuel Sr.,Under,45.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jacory Croskey-Merritt,Over,6.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jacory Croskey-Merritt,Under,6.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Zach Ertz,Over,35.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Zach Ertz,Under,35.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jeremy McNichols,Over,7.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jeremy McNichols,Under,7.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Dont'e Thornton Jr.,Over,27.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Dont'e Thornton Jr.,Under,27.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Tre Tucker,Over,27.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Tre Tucker,Under,27.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jaylin Lane,Over,18.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Jaylin Lane,Under,18.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Terry McLaurin,Over,51.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Terry McLaurin,Under,51.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Michael Mayer,Over,14.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_reception_yds,Michael Mayer,Under,14.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Ashton Jeanty,Over,2.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Ashton Jeanty,Under,2.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Jakobi Meyers,Over,5.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Jakobi Meyers,Under,5.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Brock Bowers,Over,5.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Brock Bowers,Under,5.5,-105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Tre Tucker,Over,2.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Tre Tucker,Under,2.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Deebo Samuel Sr.,Over,4.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Deebo Samuel Sr.,Under,4.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Jacory Croskey-Merritt,Over,1.5,110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Jacory Croskey-Merritt,Under,1.5,-145
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Zach Ertz,Over,3.5,-140
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Zach Ertz,Under,3.5,105
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Terry McLaurin,Over,3.5,-155
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Terry McLaurin,Under,3.5,120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Dont'e Thornton Jr.,Over,2.5,170
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Dont'e Thornton Jr.,Under,2.5,-225
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Jaylin Lane,Over,1.5,-150
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Jaylin Lane,Under,1.5,115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Jeremy McNichols,Over,1.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Jeremy McNichols,Under,1.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Michael Mayer,Over,1.5,-130
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_receptions,Michael Mayer,Under,1.5,100
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Geno Smith,Over,10.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Geno Smith,Under,10.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Marcus Mariota,Over,29.5,-118
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Marcus Mariota,Under,29.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Jacory Croskey-Merritt,Over,51.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Jacory Croskey-Merritt,Under,51.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Deebo Samuel Sr.,Over,4.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Deebo Samuel Sr.,Under,4.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Ashton Jeanty,Over,59.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Ashton Jeanty,Under,59.5,-115
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Zamir White,Over,9.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Zamir White,Under,9.5,-110
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Jeremy McNichols,Over,12.5,-120
+Las Vegas Raiders,Washington Commanders,2025-09-21T16:35:39Z,betmgm,player_rush_yds,Jeremy McNichols,Under,12.5,-110

@@ -1,0 +1,565 @@
+away,home,snapshot,book,market,player,side,point,price
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Jonathan Taylor,Yes,,-280
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Tyler Warren,Yes,,165
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Michael Pittman Jr.,Yes,,180
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Zonovan Knight,Yes,,195
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Daniel Jones,Yes,,200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Trey McBride,Yes,,205
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Marvin Harrison Jr.,Yes,,220
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Michael Carter,Yes,,290
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Alec Pierce,Yes,,330
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Josh Downs,Yes,,340
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Michael Wilson,Yes,,550
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Indianapolis Colts D/ST,Yes,,550
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Arizona Cardinals D/ST,Yes,,550
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Emari Demercado,Yes,,650
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Ashton Dulin,Yes,,750
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Zay Jones,Yes,,750
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Greg Dortch,Yes,,900
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,DJ Giddens,Yes,,1100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Anthony Gould,Yes,,1100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Mo Alie-Cox,Yes,,1500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Elijah Higgins,Yes,,1500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Simi Fehoko,Yes,,1600
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Drew Ogletree,Yes,,2200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Travis Vokolek,Yes,,2800
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_pass_tds,Daniel Jones,Over,1.5,-103
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_pass_tds,Daniel Jones,Under,1.5,-124
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_pass_yds,Daniel Jones,Over,231.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_pass_yds,Daniel Jones,Under,231.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Trey McBride,Over,56.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Trey McBride,Under,56.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Tyler Warren,Over,53.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Tyler Warren,Under,53.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Michael Pittman Jr.,Over,51.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Michael Pittman Jr.,Under,51.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Over,50.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Under,50.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Josh Downs,Over,36.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Josh Downs,Under,36.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Alec Pierce,Over,31.5,-109
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Alec Pierce,Under,31.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Michael Wilson,Over,20.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Michael Wilson,Under,20.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Jonathan Taylor,Over,17.5,-108
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Jonathan Taylor,Under,17.5,-116
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Trey McBride,Over,6.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Trey McBride,Under,6.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Michael Pittman Jr.,Over,4.5,-140
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Michael Pittman Jr.,Under,4.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Tyler Warren,Over,4.5,-129
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Tyler Warren,Under,4.5,101
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Marvin Harrison Jr.,Over,3.5,-152
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Marvin Harrison Jr.,Under,3.5,119
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Josh Downs,Over,3.5,-147
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Josh Downs,Under,3.5,115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Jonathan Taylor,Over,2.5,-135
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Jonathan Taylor,Under,2.5,106
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Alec Pierce,Over,2.5,116
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Alec Pierce,Under,2.5,-148
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Michael Wilson,Over,2.5,121
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_receptions,Michael Wilson,Under,2.5,-155
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Jonathan Taylor,Over,92.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Jonathan Taylor,Under,92.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Zonovan Knight,Over,35.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Zonovan Knight,Under,35.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Michael Carter,Over,24.5,-108
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Michael Carter,Under,24.5,-117
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Daniel Jones,Over,18.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Daniel Jones,Under,18.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Jonathan Taylor,Yes,,-250
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Zonovan Knight,Yes,,150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Tyler Warren,Yes,,160
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Michael Pittman Jr.,Yes,,175
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Daniel Jones,Yes,,200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Trey McBride,Yes,,215
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Marvin Harrison Jr.,Yes,,220
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Michael Carter,Yes,,270
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Josh Downs,Yes,,280
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Alec Pierce,Yes,,295
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Michael Wilson,Yes,,450
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Emari Demercado,Yes,,550
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Ashton Dulin,Yes,,575
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Greg Dortch,Yes,,675
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Zay Jones,Yes,,700
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,DJ Giddens,Yes,,850
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Elijah Higgins,Yes,,1000
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Mo Alie-Cox,Yes,,1100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Anthony Gould,Yes,,1100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Drew Ogletree,Yes,,1750
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Simi Fehoko,Yes,,1750
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Travis Vokolek,Yes,,2500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_pass_tds,Daniel Jones,Over,1.5,-109
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_pass_tds,Daniel Jones,Under,1.5,-122
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_pass_yds,Daniel Jones,Over,233.5,-121
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_pass_yds,Daniel Jones,Under,233.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Josh Downs,Over,37.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Josh Downs,Under,37.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Trey McBride,Over,57.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Trey McBride,Under,57.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Tyler Warren,Over,51.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Tyler Warren,Under,51.5,-108
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Alec Pierce,Over,32.5,-121
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Alec Pierce,Under,32.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Jonathan Taylor,Over,16.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Jonathan Taylor,Under,16.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Michael Wilson,Over,20.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Michael Wilson,Under,20.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Michael Pittman Jr.,Over,50.5,-117
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Michael Pittman Jr.,Under,50.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Marvin Harrison Jr.,Over,51.5,-130
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Marvin Harrison Jr.,Under,51.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Tyler Warren,Over,4.5,-165
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Tyler Warren,Under,4.5,111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Trey McBride,Over,6.5,-106
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Trey McBride,Under,6.5,-127
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Josh Downs,Over,3.5,-150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Josh Downs,Under,3.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Michael Pittman Jr.,Over,4.5,-145
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Michael Pittman Jr.,Under,4.5,105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Alec Pierce,Over,2.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Alec Pierce,Under,2.5,-150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Marvin Harrison Jr.,Over,3.5,-160
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Marvin Harrison Jr.,Under,3.5,108
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Jonathan Taylor,Over,2.5,-130
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Jonathan Taylor,Under,2.5,-104
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Michael Wilson,Over,2.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Michael Wilson,Under,2.5,-162
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Daniel Jones,Over,16.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Daniel Jones,Under,16.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Jonathan Taylor,Over,87.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Jonathan Taylor,Under,87.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Zonovan Knight,Over,36.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Zonovan Knight,Under,36.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Jonathan Taylor,Yes,,-290
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Tyler Warren,Yes,,170
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Michael Pittman Jr.,Yes,,170
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Daniel Jones,Yes,,195
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Bam Knight,Yes,,200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Marvin Harrison Jr.,Yes,,230
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Trey McBride,Yes,,250
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Josh Downs,Yes,,300
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Alec Pierce,Yes,,300
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Michael Carter,Yes,,300
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Michael Wilson,Yes,,500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Ashton Dulin,Yes,,550
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Indianapolis Colts Defense,Yes,,600
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Emari Demercado,Yes,,600
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Greg Dortch,Yes,,700
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Zay Jones,Yes,,850
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Arizona Cardinals Defense,Yes,,850
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Elijah Higgins,Yes,,1000
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,DJ Giddens,Yes,,1100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Mo Alie-Cox,Yes,,1200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Anthony Gould,Yes,,1600
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Simi Fehoko,Yes,,2200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Drew Ogletree,Yes,,2200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Travis Vokolek,Yes,,3300
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_pass_tds,Daniel Jones,Over,1.5,-104
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_pass_tds,Daniel Jones,Under,1.5,-122
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_pass_yds,Daniel Jones,Over,233.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_pass_yds,Daniel Jones,Under,233.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Over,54.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Under,54.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Michael Wilson,Over,20.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Michael Wilson,Under,20.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Tyler Warren,Over,51.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Tyler Warren,Under,51.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Alec Pierce,Over,32.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Alec Pierce,Under,32.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Josh Downs,Over,37.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Josh Downs,Under,37.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Trey McBride,Over,57.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Trey McBride,Under,57.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Jonathan Taylor,Over,16.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Jonathan Taylor,Under,16.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Michael Pittman Jr.,Over,49.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Michael Pittman Jr.,Under,49.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Michael Wilson,Over,2.5,126
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Michael Wilson,Under,2.5,-160
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Josh Downs,Over,3.5,-152
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Josh Downs,Under,3.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Tyler Warren,Over,4.5,-140
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Tyler Warren,Under,4.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Marvin Harrison Jr.,Over,3.5,-142
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Marvin Harrison Jr.,Under,3.5,112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Trey McBride,Over,6.5,-102
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Trey McBride,Under,6.5,-124
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Alec Pierce,Over,2.5,118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Alec Pierce,Under,2.5,-150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Jonathan Taylor,Over,2.5,-124
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Jonathan Taylor,Under,2.5,-102
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Michael Pittman Jr.,Over,4.5,-140
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_receptions,Michael Pittman Jr.,Under,4.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Daniel Jones,Over,16.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Daniel Jones,Under,16.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Bam Knight,Over,38.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Bam Knight,Under,38.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Michael Carter,Over,25.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Michael Carter,Under,25.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Jonathan Taylor,Over,87.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Jonathan Taylor,Under,87.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Mo Alie-Cox,Yes,,1100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Ashton Dulin,Yes,,550
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Michael Pittman Jr.,Yes,,170
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Jonathan Taylor,Yes,,-333
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Trey McBride,Yes,,200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Greg Dortch,Yes,,700
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Drew Ogletree,Yes,,1900
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Alec Pierce,Yes,,300
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Michael Wilson,Yes,,500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Josh Downs,Yes,,300
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Emari Demercado,Yes,,600
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Marvin Harrison Jr.,Yes,,220
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Travis Vokolek,Yes,,2400
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Zay Jones,Yes,,750
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Anthony Gould,Yes,,1100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Michael Carter,Yes,,290
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Elijah Higgins,Yes,,1000
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Daniel Jones,Yes,,190
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Zonovan Knight,Yes,,190
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,DJ Giddens,Yes,,1100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Tyler Warren,Yes,,160
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Simi Fehoko,Yes,,1400
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_pass_tds,Daniel Jones,Under,1.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_pass_tds,Daniel Jones,Over,1.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_pass_yds,Daniel Jones,Over,234.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_pass_yds,Daniel Jones,Under,234.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Josh Downs,Under,36.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Josh Downs,Over,36.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Jonathan Taylor,Under,16.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Jonathan Taylor,Over,16.5,-116
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Michael Pittman Jr.,Over,51.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Michael Pittman Jr.,Under,51.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Tyler Warren,Under,52.5,-108
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Tyler Warren,Over,52.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Michael Wilson,Over,20.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Michael Wilson,Under,20.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Michael Carter,Over,10.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Michael Carter,Under,10.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Under,52.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Over,52.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Trey McBride,Over,56.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Trey McBride,Under,56.5,-112
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Alec Pierce,Over,32.5,-116
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Alec Pierce,Under,32.5,-111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Tyler Warren,Under,4.5,109
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Tyler Warren,Over,4.5,-141
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Trey McBride,Under,6.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Trey McBride,Over,6.5,-103
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Josh Downs,Over,3.5,-145
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Josh Downs,Under,3.5,111
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Michael Pittman Jr.,Over,4.5,-143
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Michael Pittman Jr.,Under,4.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Michael Wilson,Over,2.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Michael Wilson,Under,2.5,-156
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Jonathan Taylor,Under,2.5,102
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Jonathan Taylor,Over,2.5,-132
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Alec Pierce,Over,2.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Alec Pierce,Under,2.5,-143
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Marvin Harrison Jr.,Under,3.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Marvin Harrison Jr.,Over,3.5,-156
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Emari Demercado,Over,1.5,124
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Emari Demercado,Under,1.5,-161
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Michael Carter,Over,1.5,-143
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_receptions,Michael Carter,Under,1.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Jonathan Taylor,Over,88.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Jonathan Taylor,Under,88.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Daniel Jones,Over,16.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Daniel Jones,Under,16.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Zonovan Knight,Over,37.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Zonovan Knight,Under,37.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Michael Carter,Over,27.5,-108
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Michael Carter,Under,27.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Michael Pittman Jr.,Yes,,180
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Marvin Harrison Jr.,Yes,,195
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Drew Ogletree,Yes,,1200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Michael Wilson,Yes,,525
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Emari Demercado,Yes,,575
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Anthony Gould,Yes,,700
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Alec Pierce,Yes,,280
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Tyler Warren,Yes,,163
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Simi Fehoko,Yes,,1700
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,DJ Giddens,Yes,,700
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Zonovan Knight,Yes,,210
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Jonathan Taylor,Yes,,-305
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Elijah Higgins,Yes,,1400
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Ashton Dulin,Yes,,510
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Michael Carter,Yes,,270
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Greg Dortch,Yes,,950
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Daniel Jones,Yes,,175
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Josh Downs,Yes,,290
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Trey McBride,Yes,,230
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Mo Alie-Cox,Yes,,1200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Travis Vokolek,Yes,,2200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Zay Jones,Yes,,800
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_pass_tds,Daniel Jones,Over,1.5,-122
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_pass_tds,Daniel Jones,Under,1.5,-109
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_pass_yds,Daniel Jones,Over,234.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_pass_yds,Daniel Jones,Under,234.5,-117
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Over,48.5,-117
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Under,48.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Jonathan Taylor,Over,17.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Jonathan Taylor,Under,17.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Alec Pierce,Over,33.5,-117
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Alec Pierce,Under,33.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Michael Wilson,Over,20.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Michael Wilson,Under,20.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Michael Pittman Jr.,Over,51.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Michael Pittman Jr.,Under,51.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Tyler Warren,Over,52.5,-117
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Tyler Warren,Under,52.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Trey McBride,Over,56.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Trey McBride,Under,56.5,-117
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Josh Downs,Over,38.5,-113
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Josh Downs,Under,38.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Tyler Warren,Over,4.5,-150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Tyler Warren,Under,4.5,114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Jonathan Taylor,Over,2.5,-129
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Jonathan Taylor,Under,2.5,-103
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Alec Pierce,Over,2.5,114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Alec Pierce,Under,2.5,-150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Michael Wilson,Over,2.5,130
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Michael Wilson,Under,2.5,-175
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Josh Downs,Over,3.5,-162
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Josh Downs,Under,3.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Michael Pittman Jr.,Over,4.5,-157
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Michael Pittman Jr.,Under,4.5,118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Trey McBride,Over,6.5,108
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Trey McBride,Under,6.5,-143
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Marvin Harrison Jr.,Over,3.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_receptions,Marvin Harrison Jr.,Under,3.5,-107
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Jonathan Taylor,Over,90.5,-117
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Jonathan Taylor,Under,90.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Daniel Jones,Over,17.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Daniel Jones,Under,17.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Zonovan Knight,Over,37.5,-117
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Zonovan Knight,Under,37.5,-114
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Michael Pittman Jr.,Yes,,170
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Daniel Jones,Yes,,185
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Emari Demercado,Yes,,525
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Indianapolis Colts Defense,Yes,,525
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Jonathan Taylor,Yes,,-335
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Josh Downs,Yes,,300
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Tyler Warren,Yes,,170
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Michael Wilson,Yes,,440
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Mo Alie-Cox,Yes,,1000
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Arizona Cardinals D/ST,Yes,,800
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Ashton Dulin,Yes,,500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Simi Fehoko,Yes,,1900
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Alec Pierce,Yes,,300
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Zay Jones,Yes,,725
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Anthony Gould,Yes,,1400
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Drew Ogletree,Yes,,2000
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Michael Carter,Yes,,275
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Zonovan Knight,Yes,,200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Marvin Harrison Jr.,Yes,,230
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Trey McBride,Yes,,240
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Elijah Higgins,Yes,,825
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,DJ Giddens,Yes,,900
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Greg Dortch,Yes,,625
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_anytime_td,Travis Vokolek,Yes,,2800
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_pass_tds,Daniel Jones,Over,1.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_pass_tds,Daniel Jones,Under,1.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_pass_yds,Daniel Jones,Over,232.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_pass_yds,Daniel Jones,Under,232.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Alec Pierce,Over,29.5,-130
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Alec Pierce,Under,29.5,100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Jonathan Taylor,Over,16.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Jonathan Taylor,Under,16.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Josh Downs,Over,36.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Josh Downs,Under,36.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Michael Pittman Jr.,Over,49.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Michael Pittman Jr.,Under,49.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Michael Wilson,Over,20.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Michael Wilson,Under,20.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Trey McBride,Over,56.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Trey McBride,Under,56.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Tyler Warren,Over,50.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_reception_yds,Tyler Warren,Under,50.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Alec Pierce,Over,2.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Alec Pierce,Under,2.5,-160
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Jonathan Taylor,Over,2.5,-135
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Jonathan Taylor,Under,2.5,105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Josh Downs,Over,3.5,-130
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Josh Downs,Under,3.5,100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Marvin Harrison Jr.,Over,3.5,-160
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Marvin Harrison Jr.,Under,3.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Michael Pittman Jr.,Over,4.5,-135
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Michael Pittman Jr.,Under,4.5,105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Michael Wilson,Over,2.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Michael Wilson,Under,2.5,-160
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Trey McBride,Over,6.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Trey McBride,Under,6.5,-145
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Tyler Warren,Over,4.5,-150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_receptions,Tyler Warren,Under,4.5,115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_rush_yds,Daniel Jones,Over,16.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_rush_yds,Daniel Jones,Under,16.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_rush_yds,Jonathan Taylor,Over,84.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,bovada,player_rush_yds,Jonathan Taylor,Under,84.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,No Scorer,Yes,,5000
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Jonathan Taylor,Yes,,-235
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Tyler Warren,Yes,,160
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Indianapolis Colts D/ST,Yes,,500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Trey McBride,Yes,,205
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Marvin Harrison Jr.,Yes,,225
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Arizona Cardinals D/ST,Yes,,530
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Mo Alie-Cox,Yes,,900
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Daniel Jones,Yes,,200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Ashton Dulin,Yes,,500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Michael Pittman Jr.,Yes,,175
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Alec Pierce,Yes,,285
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Drew Ogletree,Yes,,1050
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Josh Downs,Yes,,285
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Anthony Gould,Yes,,900
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,DJ Giddens,Yes,,700
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Zay Jones,Yes,,600
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Greg Dortch,Yes,,580
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Michael Carter,Yes,,285
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Simi Fehoko,Yes,,1200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Zonovan Knight,Yes,,205
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Elijah Higgins,Yes,,900
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Travis Vokolek,Yes,,1600
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Michael Wilson,Yes,,450
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Emari Demercado,Yes,,500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_pass_tds,Daniel Jones,Over,1.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_pass_tds,Daniel Jones,Under,1.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_pass_yds,Daniel Jones,Over,230.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_pass_yds,Daniel Jones,Under,230.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Josh Downs,Over,35.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Josh Downs,Under,35.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Jonathan Taylor,Over,15.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Jonathan Taylor,Under,15.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Tyler Warren,Over,50.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Tyler Warren,Under,50.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Michael Carter,Over,10.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Michael Carter,Under,10.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Alec Pierce,Over,30.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Alec Pierce,Under,30.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Michael Pittman Jr.,Over,50.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Michael Pittman Jr.,Under,50.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Marvin Harrison Jr.,Over,50.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Marvin Harrison Jr.,Under,50.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Trey McBride,Over,55.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Trey McBride,Under,55.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Michael Wilson,Over,20.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Michael Wilson,Under,20.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Michael Wilson,Over,2.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Michael Wilson,Under,2.5,-165
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Alec Pierce,Over,2.5,115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Alec Pierce,Under,2.5,-155
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Trey McBride,Over,6.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Trey McBride,Under,6.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Jonathan Taylor,Over,2.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Jonathan Taylor,Under,2.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Marvin Harrison Jr.,Over,4.5,155
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Marvin Harrison Jr.,Under,4.5,-220
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Tyler Warren,Over,4.5,-150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Tyler Warren,Under,4.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Josh Downs,Over,4.5,140
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Josh Downs,Under,4.5,-195
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Michael Pittman Jr.,Over,5.5,145
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_receptions,Michael Pittman Jr.,Under,5.5,-205
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Daniel Jones,Over,15.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Daniel Jones,Under,15.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Jonathan Taylor,Over,85.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Jonathan Taylor,Under,85.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Zonovan Knight,Over,35.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Zonovan Knight,Under,35.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Michael Carter,Over,25.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Michael Carter,Under,25.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Jonathan Taylor,Yes,,-225
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Tyler Warren,Yes,,155
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Michael Pittman Jr.,Yes,,165
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Trey McBride,Yes,,195
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Marvin Harrison Jr.,Yes,,200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Zonovan Knight,Yes,,200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Daniel Jones,Yes,,225
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Josh Downs,Yes,,275
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Alec Pierce,Yes,,280
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Michael Carter,Yes,,310
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Michael Wilson,Yes,,450
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Emari Demercado,Yes,,500
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Greg Dortch,Yes,,550
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Indianapolis Colts D/ST,Yes,,550
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Arizona Cardinals D/ST,Yes,,600
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Ashton Dulin,Yes,,600
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Zay Jones,Yes,,650
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,DJ Giddens,Yes,,700
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Anthony Gould,Yes,,1200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Drew Ogletree,Yes,,1200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Elijah Higgins,Yes,,1200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Mo Alie-Cox,Yes,,1200
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Simi Fehoko,Yes,,1800
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Travis Vokolek,Yes,,2000
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_anytime_td,No Touchdown,Yes,,15000
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_pass_tds,Daniel Jones,Over,1.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_pass_tds,Daniel Jones,Under,1.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_pass_yds,Daniel Jones,Over,232.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_pass_yds,Daniel Jones,Under,232.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Jonathan Taylor,Over,16.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Jonathan Taylor,Under,16.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Tyler Warren,Over,50.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Tyler Warren,Under,50.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Over,50.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Under,50.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Michael Pittman Jr.,Over,51.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Michael Pittman Jr.,Under,51.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Josh Downs,Over,40.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Josh Downs,Under,40.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Emari Demercado,Over,7.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Emari Demercado,Under,7.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Michael Wilson,Over,22.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Michael Wilson,Under,22.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Trey McBride,Over,56.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Trey McBride,Under,56.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Alec Pierce,Over,33.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Alec Pierce,Under,33.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Michael Carter,Over,7.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Michael Carter,Under,7.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Zay Jones,Over,8.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Zay Jones,Under,8.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Elijah Higgins,Over,6.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Elijah Higgins,Under,6.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Greg Dortch,Over,6.5,-118
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Greg Dortch,Under,6.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Zonovan Knight,Over,8.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Zonovan Knight,Under,8.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Tyler Warren,Over,4.5,-135
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Tyler Warren,Under,4.5,105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Michael Pittman Jr.,Over,4.5,-155
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Michael Pittman Jr.,Under,4.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Jonathan Taylor,Over,2.5,-135
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Jonathan Taylor,Under,2.5,100
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Marvin Harrison Jr.,Over,3.5,-150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Marvin Harrison Jr.,Under,3.5,115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Trey McBride,Over,6.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Trey McBride,Under,6.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Michael Wilson,Over,2.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Michael Wilson,Under,2.5,-150
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Alec Pierce,Over,2.5,110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Alec Pierce,Under,2.5,-145
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Emari Demercado,Over,1.5,120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Emari Demercado,Under,1.5,-155
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Michael Carter,Over,1.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Michael Carter,Under,1.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Josh Downs,Over,4.5,125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Josh Downs,Under,4.5,-165
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Zonovan Knight,Over,1.5,-105
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Zonovan Knight,Under,1.5,-125
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Zay Jones,Over,1.5,170
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Zay Jones,Under,1.5,-225
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Elijah Higgins,Over,1.5,170
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Elijah Higgins,Under,1.5,-225
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Greg Dortch,Over,1.5,165
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_receptions,Greg Dortch,Under,1.5,-225
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Jonathan Taylor,Over,88.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Jonathan Taylor,Under,88.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Emari Demercado,Over,8.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Emari Demercado,Under,8.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Daniel Jones,Over,12.5,-120
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Daniel Jones,Under,12.5,-110
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Zonovan Knight,Over,38.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Zonovan Knight,Under,38.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Michael Carter,Over,27.5,-115
+Arizona Cardinals,Indianapolis Colts,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Michael Carter,Under,27.5,-115

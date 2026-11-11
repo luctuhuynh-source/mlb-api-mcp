@@ -1,0 +1,568 @@
+away,home,snapshot,book,market,player,side,point,price
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Travis Etienne Jr.,Yes,,110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Kimani Vidal,Yes,,125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Oronde Gadsden II,Yes,,165
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Ladd McConkey,Yes,,170
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Quentin Johnston,Yes,,200
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Keenan Allen,Yes,,235
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Jakobi Meyers,Yes,,250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Parker Washington,Yes,,255
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Bhayshul Tuten,Yes,,300
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Trevor Lawrence,Yes,,310
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Los Angeles Chargers D/ST,Yes,,450
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,475
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Dyami Brown,Yes,,550
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Justin Herbert,Yes,,600
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Johnny Mundt,Yes,,650
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Tre Harris,Yes,,650
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Tyler Conklin,Yes,,900
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Tim Patrick,Yes,,950
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Austin Trammell,Yes,,1700
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,LeQuint Allen Jr.,Yes,,1700
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Tucker Fisk,Yes,,1700
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Quintin Morris,Yes,,2000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Trayveon Williams,Yes,,2200
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Amar Johnson,Yes,,2500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Derius Davis,Yes,,2800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Scott Matlock,Yes,,3000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Justin Herbert,Over,1.5,-142
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Justin Herbert,Under,1.5,112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Trevor Lawrence,Over,1.5,186
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Trevor Lawrence,Under,1.5,-241
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Justin Herbert,Over,251.5,-111
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Justin Herbert,Under,251.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Trevor Lawrence,Over,208.5,-111
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Trevor Lawrence,Under,208.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Ladd McConkey,Over,61.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Ladd McConkey,Under,61.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Oronde Gadsden II,Over,51.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Oronde Gadsden II,Under,51.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Parker Washington,Over,49.5,-111
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Parker Washington,Under,49.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Jakobi Meyers,Over,44.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Jakobi Meyers,Under,44.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Quentin Johnston,Over,40.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Quentin Johnston,Under,40.5,-111
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Keenan Allen,Over,38.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Keenan Allen,Under,38.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Travis Etienne Jr.,Over,16.5,-116
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Travis Etienne Jr.,Under,16.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Dyami Brown,Over,12.5,-116
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Dyami Brown,Under,12.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Tre Harris,Over,12.5,-109
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Tre Harris,Under,12.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Kimani Vidal,Over,9.5,-111
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Kimani Vidal,Under,9.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Ladd McConkey,Over,5.5,105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Ladd McConkey,Under,5.5,-135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Oronde Gadsden II,Over,4.5,-130
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Oronde Gadsden II,Under,4.5,102
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Jakobi Meyers,Over,4.5,103
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Jakobi Meyers,Under,4.5,-131
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Parker Washington,Over,4.5,110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Parker Washington,Under,4.5,-141
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Keenan Allen,Over,3.5,-164
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Keenan Allen,Under,3.5,128
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Quentin Johnston,Over,3.5,-101
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Quentin Johnston,Under,3.5,-126
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Travis Etienne Jr.,Over,2.5,-133
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Travis Etienne Jr.,Under,2.5,104
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Kimani Vidal,Over,1.5,-145
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Kimani Vidal,Under,1.5,114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Tre Harris,Over,1.5,-107
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Tre Harris,Under,1.5,-119
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Dyami Brown,Over,1.5,110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_receptions,Dyami Brown,Under,1.5,-141
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Kimani Vidal,Over,66.5,-111
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Kimani Vidal,Under,66.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Travis Etienne Jr.,Over,66.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Travis Etienne Jr.,Under,66.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Justin Herbert,Over,22.5,-116
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Justin Herbert,Under,22.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Trevor Lawrence,Over,17.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Trevor Lawrence,Under,17.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Bhayshul Tuten,Over,16.5,-117
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Bhayshul Tuten,Under,16.5,-107
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Travis Etienne Jr.,Yes,,103
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Kimani Vidal,Yes,,121
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Ladd McConkey,Yes,,162
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Oronde Gadsden II,Yes,,177
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Quentin Johnston,Yes,,205
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Keenan Allen,Yes,,225
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Parker Washington,Yes,,240
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Jakobi Meyers,Yes,,245
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Bhayshul Tuten,Yes,,285
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Trevor Lawrence,Yes,,290
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Justin Herbert,Yes,,500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Dyami Brown,Yes,,500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Johnny Mundt,Yes,,550
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Tre Harris,Yes,,575
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Tim Patrick,Yes,,800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Tyler Conklin,Yes,,900
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Austin Trammell,Yes,,1300
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Quintin Morris,Yes,,1400
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,LeQuint Allen Jr.,Yes,,1400
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Tucker Fisk,Yes,,1600
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Derius Davis,Yes,,2100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Trayveon Williams,Yes,,2200
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Amar Johnson,Yes,,2200
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Scott Matlock,Yes,,2400
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Justin Herbert,Over,1.5,-143
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Justin Herbert,Under,1.5,108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Trevor Lawrence,Over,1.5,178
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Trevor Lawrence,Under,1.5,-245
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Trevor Lawrence,Over,209.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Trevor Lawrence,Under,209.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Justin Herbert,Over,252.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Justin Herbert,Under,252.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Parker Washington,Over,48.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Parker Washington,Under,48.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Oronde Gadsden II,Over,51.5,-128
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Oronde Gadsden II,Under,51.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Jakobi Meyers,Over,44.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Jakobi Meyers,Under,44.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Travis Etienne Jr.,Over,17.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Travis Etienne Jr.,Under,17.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Quentin Johnston,Over,40.5,-121
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Quentin Johnston,Under,40.5,-111
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Ladd McConkey,Over,61.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Ladd McConkey,Under,61.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Kimani Vidal,Over,10.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Kimani Vidal,Under,10.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Tre Harris,Over,11.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Tre Harris,Under,11.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Keenan Allen,Over,38.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Keenan Allen,Under,38.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Tre Harris,Over,1.5,-107
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Tre Harris,Under,1.5,-127
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Keenan Allen,Over,4.5,129
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Keenan Allen,Under,4.5,-173
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Kimani Vidal,Over,1.5,-164
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Kimani Vidal,Under,1.5,124
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Quentin Johnston,Over,3.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Quentin Johnston,Under,3.5,-121
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Travis Etienne Jr.,Over,2.5,-139
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Travis Etienne Jr.,Under,2.5,105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Ladd McConkey,Over,5.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Ladd McConkey,Under,5.5,-137
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Parker Washington,Over,4.5,106
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Parker Washington,Under,4.5,-141
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Oronde Gadsden II,Over,4.5,-135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Oronde Gadsden II,Under,4.5,-102
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Bhayshul Tuten,Over,15.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Bhayshul Tuten,Under,15.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Trevor Lawrence,Over,17.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Trevor Lawrence,Under,17.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Travis Etienne Jr.,Over,62.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Travis Etienne Jr.,Under,62.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Kimani Vidal,Over,66.5,-122
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Kimani Vidal,Under,66.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Justin Herbert,Over,23.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Justin Herbert,Under,23.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Travis Etienne Jr.,Yes,,105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Kimani Vidal,Yes,,135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Ladd McConkey,Yes,,170
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Oronde Gadsden II,Yes,,185
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Quentin Johnston,Yes,,210
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Keenan Allen,Yes,,240
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Parker Washington,Yes,,250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Jakobi Meyers,Yes,,250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Trevor Lawrence,Yes,,290
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Bhayshul Tuten,Yes,,290
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Dyami Brown,Yes,,550
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Justin Herbert,Yes,,600
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Johnny Mundt,Yes,,650
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Tre Harris,Yes,,700
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Tim Patrick,Yes,,850
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Tyler Conklin,Yes,,1000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Los Angeles Chargers Defense,Yes,,1000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Jacksonville Jaguars Defense,Yes,,1100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Austin Trammell,Yes,,1600
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,LeQuint Allen Jr.,Yes,,1600
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Quintin Morris,Yes,,1700
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Tucker Fisk,Yes,,2000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Trayveon Williams,Yes,,2200
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Amar Johnson,Yes,,2700
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Derius Davis,Yes,,3000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Scott Matlock,Yes,,3300
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Trevor Lawrence,Over,1.5,188
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Trevor Lawrence,Under,1.5,-250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Justin Herbert,Over,1.5,-140
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Justin Herbert,Under,1.5,110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Trevor Lawrence,Over,208.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Trevor Lawrence,Under,208.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Justin Herbert,Over,252.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Justin Herbert,Under,252.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Parker Washington,Over,47.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Parker Washington,Under,47.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Quentin Johnston,Over,40.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Quentin Johnston,Under,40.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Kimani Vidal,Over,10.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Kimani Vidal,Under,10.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Dyami Brown,Over,13.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Dyami Brown,Under,13.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Jakobi Meyers,Over,43.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Jakobi Meyers,Under,43.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Keenan Allen,Over,37.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Keenan Allen,Under,37.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Oronde Gadsden II,Over,50.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Oronde Gadsden II,Under,50.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Ladd McConkey,Over,61.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Ladd McConkey,Under,61.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Tre Harris,Over,11.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Tre Harris,Under,11.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Travis Etienne Jr.,Over,17.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Travis Etienne Jr.,Under,17.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Parker Washington,Over,3.5,-176
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Parker Washington,Under,3.5,138
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Kimani Vidal,Over,1.5,-172
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Kimani Vidal,Under,1.5,134
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Dyami Brown,Over,1.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Dyami Brown,Under,1.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Ladd McConkey,Over,5.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Ladd McConkey,Under,5.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Jakobi Meyers,Over,4.5,114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Jakobi Meyers,Under,4.5,-146
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Quentin Johnston,Over,3.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Quentin Johnston,Under,3.5,-128
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Oronde Gadsden II,Over,4.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Oronde Gadsden II,Under,4.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Keenan Allen,Over,4.5,134
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Keenan Allen,Under,4.5,-172
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Tre Harris,Over,1.5,-102
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Tre Harris,Under,1.5,-124
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Travis Etienne Jr.,Over,2.5,-134
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_receptions,Travis Etienne Jr.,Under,2.5,106
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Travis Etienne Jr.,Over,61.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Travis Etienne Jr.,Under,61.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Kimani Vidal,Over,67.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Kimani Vidal,Under,67.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Justin Herbert,Over,23.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Justin Herbert,Under,23.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Trevor Lawrence,Over,17.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Trevor Lawrence,Under,17.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Bhayshul Tuten,Over,15.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Bhayshul Tuten,Under,15.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Keenan Allen,Yes,,230
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Trevor Lawrence,Yes,,290
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Travis Etienne Jr.,Yes,,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Justin Herbert,Yes,,600
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Quentin Johnston,Yes,,200
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Parker Washington,Yes,,250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Austin Trammell,Yes,,1400
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Derius Davis,Yes,,2400
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Kimani Vidal,Yes,,120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Ladd McConkey,Yes,,170
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Jakobi Meyers,Yes,,250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Dyami Brown,Yes,,550
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Tim Patrick,Yes,,800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Bhayshul Tuten,Yes,,290
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,LeQuint Allen Jr.,Yes,,1400
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Tre Harris,Yes,,650
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Oronde Gadsden II,Yes,,160
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Tyler Conklin,Yes,,900
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Tucker Fisk,Yes,,1700
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Johnny Mundt,Yes,,650
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Quintin Morris,Yes,,1700
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,KeAndre Lambert-Smith,Yes,,2400
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Will Dissly,Yes,,900
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Trevor Lawrence,Over,1.5,186
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Trevor Lawrence,Under,1.5,-250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Justin Herbert,Over,1.5,-169
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Justin Herbert,Under,1.5,130
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Trevor Lawrence,Over,208.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Trevor Lawrence,Under,208.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Justin Herbert,Over,252.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Justin Herbert,Under,252.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Ladd McConkey,Over,63.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Ladd McConkey,Under,63.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Kimani Vidal,Over,10.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Kimani Vidal,Under,10.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Travis Etienne Jr.,Over,17.5,-116
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Travis Etienne Jr.,Under,17.5,-111
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Quentin Johnston,Over,40.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Quentin Johnston,Under,40.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Tre Harris,Over,11.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Tre Harris,Under,11.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Keenan Allen,Over,39.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Keenan Allen,Under,39.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Oronde Gadsden II,Over,54.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Oronde Gadsden II,Under,54.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Jakobi Meyers,Over,44.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Jakobi Meyers,Under,44.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Dyami Brown,Over,12.5,-122
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Dyami Brown,Under,12.5,-106
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Parker Washington,Over,49.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Parker Washington,Under,49.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Ladd McConkey,Over,5.5,110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Ladd McConkey,Under,5.5,-143
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Quentin Johnston,Over,3.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Quentin Johnston,Under,3.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Keenan Allen,Over,4.5,132
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Keenan Allen,Under,4.5,-172
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Oronde Gadsden II,Over,4.5,-130
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Oronde Gadsden II,Under,4.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Travis Etienne Jr.,Over,2.5,-137
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Travis Etienne Jr.,Under,2.5,106
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Kimani Vidal,Over,1.5,-164
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Kimani Vidal,Under,1.5,125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Tre Harris,Over,1.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Tre Harris,Under,1.5,-123
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Jakobi Meyers,Over,4.5,102
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Jakobi Meyers,Under,4.5,-132
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Dyami Brown,Over,1.5,-103
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Dyami Brown,Under,1.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Parker Washington,Over,4.5,107
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_receptions,Parker Washington,Under,4.5,-139
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Bhayshul Tuten,Over,15.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Bhayshul Tuten,Under,15.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Kimani Vidal,Over,66.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Kimani Vidal,Under,66.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Justin Herbert,Over,22.5,-119
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Justin Herbert,Under,22.5,-109
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Trevor Lawrence,Over,16.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Trevor Lawrence,Under,16.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Travis Etienne Jr.,Over,63.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Travis Etienne Jr.,Under,63.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Bhayshul Tuten,Yes,,310
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Tre Harris,Yes,,700
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Travis Etienne Jr.,Yes,,104
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Tucker Fisk,Yes,,1500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Johnny Mundt,Yes,,500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Parker Washington,Yes,,240
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Trayveon Williams,Yes,,1050
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Amar Johnson,Yes,,2000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Ladd McConkey,Yes,,160
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Scott Matlock,Yes,,1800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Tyler Conklin,Yes,,850
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Keenan Allen,Yes,,220
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Kimani Vidal,Yes,,118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Jakobi Meyers,Yes,,240
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Dyami Brown,Yes,,500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Trevor Lawrence,Yes,,310
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Quintin Morris,Yes,,950
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Oronde Gadsden II,Yes,,170
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Tim Patrick,Yes,,850
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,LeQuint Allen Jr.,Yes,,1200
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Justin Herbert,Yes,,440
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Derius Davis,Yes,,1800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Austin Trammell,Yes,,800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Quentin Johnston,Yes,,200
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Trevor Lawrence,Over,1.5,180
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Trevor Lawrence,Under,1.5,-250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Justin Herbert,Over,1.5,-136
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Justin Herbert,Under,1.5,102
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Trevor Lawrence,Over,207.5,-117
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Trevor Lawrence,Under,207.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Justin Herbert,Over,246.5,-117
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Justin Herbert,Under,246.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Quentin Johnston,Over,41.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Quentin Johnston,Under,41.5,-117
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Ladd McConkey,Over,61.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Ladd McConkey,Under,61.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Oronde Gadsden II,Over,50.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Oronde Gadsden II,Under,50.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Travis Etienne Jr.,Over,19.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Travis Etienne Jr.,Under,19.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Kimani Vidal,Over,11.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Kimani Vidal,Under,11.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Jakobi Meyers,Over,45.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Jakobi Meyers,Under,45.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Keenan Allen,Over,38.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Keenan Allen,Under,38.5,-117
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Dyami Brown,Over,12.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Dyami Brown,Under,12.5,-112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Parker Washington,Over,49.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Parker Washington,Under,49.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Keenan Allen,Over,4.5,123
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Keenan Allen,Under,4.5,-165
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Ladd McConkey,Over,5.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Ladd McConkey,Under,5.5,-117
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Travis Etienne Jr.,Over,2.5,-132
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Travis Etienne Jr.,Under,2.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Parker Washington,Over,4.5,112
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Parker Washington,Under,4.5,-150
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Quentin Johnston,Over,3.5,-107
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Quentin Johnston,Under,3.5,-124
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Dyami Brown,Over,1.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Dyami Brown,Under,1.5,-132
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Jakobi Meyers,Over,4.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Jakobi Meyers,Under,4.5,-127
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Oronde Gadsden II,Over,4.5,-124
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_receptions,Oronde Gadsden II,Under,4.5,-108
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Bhayshul Tuten,Over,15.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Bhayshul Tuten,Under,15.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Travis Etienne Jr.,Over,61.5,-118
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Travis Etienne Jr.,Under,61.5,-113
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Trevor Lawrence,Over,17.5,-117
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Trevor Lawrence,Under,17.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Justin Herbert,Over,22.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Justin Herbert,Under,22.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Kimani Vidal,Over,64.5,-114
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Kimani Vidal,Under,64.5,-117
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,No Scorer,Yes,,3000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Tim Patrick,Yes,,740
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Jakobi Meyers,Yes,,250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Dyami Brown,Yes,,470
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Travis Etienne Jr.,Yes,,110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Austin Trammell,Yes,,1050
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Parker Washington,Yes,,250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,LeQuint Allen Jr.,Yes,,1050
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Bhayshul Tuten,Yes,,285
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,450
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Keenan Allen,Yes,,240
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Quentin Johnston,Yes,,205
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Derius Davis,Yes,,1600
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Scott Matlock,Yes,,1500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Ladd McConkey,Yes,,180
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Kimani Vidal,Yes,,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Tre Harris,Yes,,600
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Los Angeles Chargers D/ST,Yes,,450
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Trevor Lawrence,Yes,,295
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Justin Herbert,Yes,,500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Oronde Gadsden II,Yes,,190
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Johnny Mundt,Yes,,530
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Quintin Morris,Yes,,1050
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Tyler Conklin,Yes,,800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Tucker Fisk,Yes,,1300
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Trayveon Williams,Yes,,1800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Trevor Lawrence,Over,1.5,175
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Trevor Lawrence,Under,1.5,-240
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Justin Herbert,Over,1.5,-165
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Justin Herbert,Under,1.5,125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Trevor Lawrence,Over,205.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Trevor Lawrence,Under,205.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Justin Herbert,Over,250.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Justin Herbert,Under,250.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Quentin Johnston,Over,40.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Quentin Johnston,Under,40.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Ladd McConkey,Over,60.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Ladd McConkey,Under,60.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Travis Etienne Jr.,Over,15.5,-135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Travis Etienne Jr.,Under,15.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Kimani Vidal,Over,10.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Kimani Vidal,Under,10.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Oronde Gadsden II,Over,50.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Oronde Gadsden II,Under,50.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Keenan Allen,Over,35.5,-135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Keenan Allen,Under,35.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Tre Harris,Over,10.5,-140
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Tre Harris,Under,10.5,105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Jakobi Meyers,Over,45.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Jakobi Meyers,Under,45.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Parker Washington,Over,45.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Parker Washington,Under,45.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Dyami Brown,Over,15.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Dyami Brown,Under,15.5,-135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Keenan Allen,Over,4.5,125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Keenan Allen,Under,4.5,-170
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Oronde Gadsden II,Over,4.5,-135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Oronde Gadsden II,Under,4.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Ladd McConkey,Over,5.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Ladd McConkey,Under,5.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Quentin Johnston,Over,3.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Quentin Johnston,Under,3.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Kimani Vidal,Over,2.5,160
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Kimani Vidal,Under,2.5,-230
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Travis Etienne Jr.,Over,3.5,175
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Travis Etienne Jr.,Under,3.5,-255
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Tre Harris,Over,1.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Tre Harris,Under,1.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Parker Washington,Over,4.5,115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Parker Washington,Under,4.5,-155
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Jakobi Meyers,Over,4.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Jakobi Meyers,Under,4.5,-135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Dyami Brown,Over,1.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_receptions,Dyami Brown,Under,1.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Trevor Lawrence,Over,15.5,-140
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Trevor Lawrence,Under,15.5,105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Travis Etienne Jr.,Over,60.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Travis Etienne Jr.,Under,60.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Bhayshul Tuten,Over,15.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Bhayshul Tuten,Under,15.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Kimani Vidal,Over,65.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Kimani Vidal,Under,65.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Justin Herbert,Over,20.5,-135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Justin Herbert,Under,20.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Amar Johnson,Yes,,2200
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Trayveon Williams,Yes,,2000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Parker Washington,Yes,,240
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,LeQuint Allen Jr.,Yes,,1300
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Ladd McConkey,Yes,,170
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Bhayshul Tuten,Yes,,275
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Dyami Brown,Yes,,500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Kimani Vidal,Yes,,130
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Oronde Gadsden II,Yes,,180
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Justin Herbert,Yes,,525
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Quintin Morris,Yes,,1400
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Tim Patrick,Yes,,800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Jakobi Meyers,Yes,,250
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Tre Harris,Yes,,625
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Trevor Lawrence,Yes,,275
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Derius Davis,Yes,,2500
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Tyler Conklin,Yes,,900
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Austin Trammell,Yes,,1400
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Tucker Fisk,Yes,,1800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Quentin Johnston,Yes,,210
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Keenan Allen,Yes,,240
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Scott Matlock,Yes,,2800
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Los Angeles Chargers D/ST,Yes,,900
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Travis Etienne Jr.,Yes,,110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,1000
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_anytime_td,Johnny Mundt,Yes,,600
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_pass_tds,Justin Herbert,Over,1.5,-145
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_pass_tds,Justin Herbert,Under,1.5,110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_pass_tds,Trevor Lawrence,Over,1.5,190
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_pass_tds,Trevor Lawrence,Under,1.5,-260
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_pass_yds,Justin Herbert,Over,252.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_pass_yds,Justin Herbert,Under,252.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_pass_yds,Trevor Lawrence,Over,208.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_pass_yds,Trevor Lawrence,Under,208.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Dyami Brown,Over,12.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Dyami Brown,Under,12.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Keenan Allen,Over,37.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Keenan Allen,Under,37.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Kimani Vidal,Over,10.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Kimani Vidal,Under,10.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Ladd McConkey,Over,61.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Ladd McConkey,Under,61.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Oronde Gadsden II,Over,50.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Oronde Gadsden II,Under,50.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Parker Washington,Over,47.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Parker Washington,Under,47.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Quentin Johnston,Over,40.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Quentin Johnston,Under,40.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Travis Etienne Jr.,Over,17.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Travis Etienne Jr.,Under,17.5,-115
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Tre Harris,Over,11.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_reception_yds,Tre Harris,Under,11.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Dyami Brown,Over,1.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Dyami Brown,Under,1.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Jakobi Meyers,Over,4.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Jakobi Meyers,Under,4.5,-130
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Keenan Allen,Over,4.5,135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Keenan Allen,Under,4.5,-180
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Kimani Vidal,Over,1.5,-160
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Kimani Vidal,Under,1.5,120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Ladd McConkey,Over,5.5,110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Ladd McConkey,Under,5.5,-145
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Oronde Gadsden II,Over,4.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Oronde Gadsden II,Under,4.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Parker Washington,Over,3.5,-180
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Parker Washington,Under,3.5,135
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Quentin Johnston,Over,3.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Quentin Johnston,Under,3.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Travis Etienne Jr.,Over,2.5,-130
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Travis Etienne Jr.,Under,2.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Tre Harris,Over,1.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_receptions,Tre Harris,Under,1.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Bhayshul Tuten,Over,15.5,-125
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Bhayshul Tuten,Under,15.5,-105
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Justin Herbert,Over,22.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Justin Herbert,Under,22.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Kimani Vidal,Over,66.5,-120
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Kimani Vidal,Under,66.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Travis Etienne Jr.,Over,61.5,-130
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Travis Etienne Jr.,Under,61.5,100
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Trevor Lawrence,Over,17.5,-110
+Los Angeles Chargers,Jacksonville Jaguars,2025-11-16T17:35:37Z,bovada,player_rush_yds,Trevor Lawrence,Under,17.5,-120

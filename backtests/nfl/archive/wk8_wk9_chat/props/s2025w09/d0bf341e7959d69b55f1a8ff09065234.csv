@@ -1,0 +1,677 @@
+away,home,snapshot,book,market,player,side,point,price
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Ashton Jeanty,Yes,,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Travis Etienne Jr.,Yes,,110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Brian Thomas Jr,Yes,,130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Brock Bowers,Yes,,185
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Dyami Brown,Yes,,205
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Tre Tucker,Yes,,215
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jakobi Meyers,Yes,,230
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Parker Washington,Yes,,230
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Bhayshul Tuten,Yes,,330
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Hunter Long,Yes,,370
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Trevor Lawrence,Yes,,400
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Las Vegas Raiders D/ST,Yes,,475
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,475
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Michael Mayer,Yes,,600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Raheem Mostert,Yes,,800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jack Bech,Yes,,850
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Zamir White,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Johnny Mundt,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Dont'e Thornton Jr.,Yes,,1200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Tyler Lockett,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Geno Smith,Yes,,1400
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Tim Jones,Yes,,1400
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Austin Trammell,Yes,,1700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Ian Thomas,Yes,,1800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Carter Runyon,Yes,,1800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Dylan Laube,Yes,,2000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,LeQuint Allen Jr.,Yes,,2000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Cody Schrader,Yes,,2000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Alex Bachman,Yes,,2200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Trevor Lawrence,Over,1.5,-106
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Trevor Lawrence,Under,1.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Geno Smith,Over,1.5,110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Geno Smith,Under,1.5,-140
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Trevor Lawrence,Over,231.5,-111
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Trevor Lawrence,Under,231.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Geno Smith,Over,225.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Geno Smith,Under,225.5,-111
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Brian Thomas Jr,Over,68.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Brian Thomas Jr,Under,68.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Brock Bowers,Over,57.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Brock Bowers,Under,57.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jakobi Meyers,Over,47.5,-111
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jakobi Meyers,Under,47.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Tre Tucker,Over,41.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Tre Tucker,Under,41.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Dyami Brown,Over,39.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Dyami Brown,Under,39.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Parker Washington,Over,38.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Parker Washington,Under,38.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Hunter Long,Over,17.5,-109
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Hunter Long,Under,17.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Ashton Jeanty,Over,15.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Ashton Jeanty,Under,15.5,-107
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Travis Etienne Jr.,Over,14.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Travis Etienne Jr.,Under,14.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Brian Thomas Jr,Over,5.5,-102
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Brian Thomas Jr,Under,5.5,-124
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Brock Bowers,Over,5.5,106
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Brock Bowers,Under,5.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Jakobi Meyers,Over,4.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Jakobi Meyers,Under,4.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Dyami Brown,Over,3.5,-119
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Dyami Brown,Under,3.5,-107
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Parker Washington,Over,3.5,-109
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Parker Washington,Under,3.5,-117
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Tre Tucker,Over,3.5,-103
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Tre Tucker,Under,3.5,-124
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Ashton Jeanty,Over,3.5,132
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Ashton Jeanty,Under,3.5,-169
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Travis Etienne Jr.,Over,2.5,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Travis Etienne Jr.,Under,2.5,-127
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Hunter Long,Over,2.5,128
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_receptions,Hunter Long,Under,2.5,-164
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Ashton Jeanty,Over,61.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Ashton Jeanty,Under,61.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Travis Etienne Jr.,Over,51.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Travis Etienne Jr.,Under,51.5,-111
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Bhayshul Tuten,Over,23.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Bhayshul Tuten,Under,23.5,-109
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Trevor Lawrence,Over,15.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Trevor Lawrence,Under,15.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Geno Smith,Over,10.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Geno Smith,Under,10.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Ashton Jeanty,Yes,,-106
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Travis Etienne Jr.,Yes,,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Brian Thomas Jr,Yes,,130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Brock Bowers,Yes,,180
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Dyami Brown,Yes,,215
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Tre Tucker,Yes,,215
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jakobi Meyers,Yes,,220
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Parker Washington,Yes,,230
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Bhayshul Tuten,Yes,,330
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Hunter Long,Yes,,375
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Trevor Lawrence,Yes,,380
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Michael Mayer,Yes,,600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Raheem Mostert,Yes,,700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Zamir White,Yes,,800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jack Bech,Yes,,800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Johnny Mundt,Yes,,850
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Dont'e Thornton Jr.,Yes,,1100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Geno Smith,Yes,,1100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Tyler Lockett,Yes,,1200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Austin Trammell,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Tim Jones,Yes,,1400
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Carter Runyon,Yes,,1600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Dylan Laube,Yes,,1600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,LeQuint Allen Jr.,Yes,,1600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Ian Thomas,Yes,,1700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Cody Schrader,Yes,,1800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Alex Bachman,Yes,,2300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Geno Smith,Over,1.5,115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Geno Smith,Under,1.5,-154
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Trevor Lawrence,Over,1.5,-109
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Trevor Lawrence,Under,1.5,-122
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Trevor Lawrence,Over,230.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Trevor Lawrence,Under,230.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Geno Smith,Over,223.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Geno Smith,Under,223.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Brian Thomas Jr,Over,68.5,-117
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Brian Thomas Jr,Under,68.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Tre Tucker,Over,41.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Tre Tucker,Under,41.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Brock Bowers,Over,56.5,-130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Brock Bowers,Under,56.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Parker Washington,Over,40.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Parker Washington,Under,40.5,-117
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Ashton Jeanty,Over,15.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Ashton Jeanty,Under,15.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jakobi Meyers,Over,47.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jakobi Meyers,Under,47.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Hunter Long,Over,17.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Hunter Long,Under,17.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Travis Etienne Jr.,Over,13.5,-121
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Travis Etienne Jr.,Under,13.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Dyami Brown,Over,38.5,-108
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Dyami Brown,Under,38.5,-127
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Brian Thomas Jr,Over,5.5,-104
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Brian Thomas Jr,Under,5.5,-130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jakobi Meyers,Over,4.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jakobi Meyers,Under,4.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Parker Washington,Over,3.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Parker Washington,Under,3.5,-107
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Ashton Jeanty,Over,2.5,-157
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Ashton Jeanty,Under,2.5,115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Brock Bowers,Over,5.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Brock Bowers,Under,5.5,-143
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Travis Etienne Jr.,Over,2.5,-107
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Travis Etienne Jr.,Under,2.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Hunter Long,Over,2.5,115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Hunter Long,Under,2.5,-159
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Tre Tucker,Over,3.5,-104
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Tre Tucker,Under,3.5,-130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Dyami Brown,Over,3.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Dyami Brown,Under,3.5,-130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Geno Smith,Over,10.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Geno Smith,Under,10.5,-122
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Trevor Lawrence,Over,13.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Trevor Lawrence,Under,13.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Bhayshul Tuten,Over,23.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Bhayshul Tuten,Under,23.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Travis Etienne Jr.,Over,54.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Travis Etienne Jr.,Under,54.5,-130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Ashton Jeanty,Over,60.5,-108
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Ashton Jeanty,Under,60.5,-127
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Ashton Jeanty,Yes,,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Travis Etienne Jr.,Yes,,110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Brian Thomas Jr,Yes,,130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Brock Bowers,Yes,,190
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Parker Washington,Yes,,220
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Dyami Brown,Yes,,220
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Tre Tucker,Yes,,240
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jakobi Meyers,Yes,,240
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Bhayshul Tuten,Yes,,360
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Hunter Long,Yes,,370
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Trevor Lawrence,Yes,,410
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Michael Mayer,Yes,,600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Raheem Mostert,Yes,,700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Zamir White,Yes,,700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Las Vegas Raiders Defense,Yes,,750
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jacksonville Jaguars Defense,Yes,,800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jack Bech,Yes,,950
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Johnny Mundt,Yes,,950
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Geno Smith,Yes,,1100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Dont'e Thornton Jr.,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Tyler Lockett,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Tim Jones,Yes,,1500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Austin Trammell,Yes,,1500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Carter Runyon,Yes,,1900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Ian Thomas,Yes,,1900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Cody Schrader,Yes,,2000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,LeQuint Allen Jr.,Yes,,2000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Dylan Laube,Yes,,2200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Alex Bachman,Yes,,3000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Geno Smith,Over,1.5,116
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Geno Smith,Under,1.5,-148
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Trevor Lawrence,Over,1.5,-104
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Trevor Lawrence,Under,1.5,-122
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Trevor Lawrence,Over,230.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Trevor Lawrence,Under,230.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Geno Smith,Over,223.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Geno Smith,Under,223.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Travis Etienne Jr.,Over,13.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Travis Etienne Jr.,Under,13.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Tre Tucker,Over,41.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Tre Tucker,Under,41.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Dyami Brown,Over,38.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Dyami Brown,Under,38.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Ashton Jeanty,Over,15.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Ashton Jeanty,Under,15.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Brian Thomas Jr,Over,67.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Brian Thomas Jr,Under,67.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jakobi Meyers,Over,48.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jakobi Meyers,Under,48.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Brock Bowers,Over,55.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Brock Bowers,Under,55.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Hunter Long,Over,17.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Hunter Long,Under,17.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Parker Washington,Over,40.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Parker Washington,Under,40.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Tre Tucker,Over,3.5,-102
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Tre Tucker,Under,3.5,-124
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Dyami Brown,Over,3.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Dyami Brown,Under,3.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Brian Thomas Jr,Over,5.5,104
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Brian Thomas Jr,Under,5.5,-132
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Parker Washington,Over,3.5,-122
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Parker Washington,Under,3.5,-106
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Hunter Long,Over,2.5,126
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Hunter Long,Under,2.5,-160
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Ashton Jeanty,Over,2.5,-142
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Ashton Jeanty,Under,2.5,112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Brock Bowers,Over,4.5,-164
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Brock Bowers,Under,4.5,128
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Travis Etienne Jr.,Over,2.5,-108
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Travis Etienne Jr.,Under,2.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Jakobi Meyers,Over,4.5,-102
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_receptions,Jakobi Meyers,Under,4.5,-124
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Ashton Jeanty,Over,60.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Ashton Jeanty,Under,60.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Travis Etienne Jr.,Over,54.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Travis Etienne Jr.,Under,54.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Geno Smith,Over,9.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Geno Smith,Under,9.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Bhayshul Tuten,Over,23.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Bhayshul Tuten,Under,23.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Trevor Lawrence,Over,13.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Trevor Lawrence,Under,13.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Trevor Lawrence,Yes,,400
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Travis Etienne Jr.,Yes,,110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Parker Washington,Yes,,220
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Tre Tucker,Yes,,210
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jakobi Meyers,Yes,,230
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Michael Mayer,Yes,,600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Johnny Mundt,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Hunter Long,Yes,,350
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Brock Bowers,Yes,,180
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Geno Smith,Yes,,1100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Brian Thomas Jr,Yes,,130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Ashton Jeanty,Yes,,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Raheem Mostert,Yes,,700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Dont'e Thornton Jr.,Yes,,1100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Bhayshul Tuten,Yes,,350
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,LeQuint Allen Jr.,Yes,,1900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jack Bech,Yes,,800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Dylan Laube,Yes,,1900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Zamir White,Yes,,700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Carter Runyon,Yes,,1700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Quintin Morris,Yes,,700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Ian Thomas,Yes,,1700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Dyami Brown,Yes,,200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Tim Patrick,Yes,,600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Alex Bachman,Yes,,1900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Trevor Lawrence,Over,1.5,-106
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Trevor Lawrence,Under,1.5,-122
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Geno Smith,Over,1.5,115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Geno Smith,Under,1.5,-149
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Trevor Lawrence,Over,231.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Trevor Lawrence,Under,231.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Geno Smith,Over,225.5,-116
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Geno Smith,Under,225.5,-111
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Ashton Jeanty,Over,15.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Ashton Jeanty,Under,15.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Dyami Brown,Over,39.5,-116
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Dyami Brown,Under,39.5,-111
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Hunter Long,Over,17.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Hunter Long,Under,17.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Parker Washington,Over,40.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Parker Washington,Under,40.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jakobi Meyers,Over,47.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jakobi Meyers,Under,47.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Travis Etienne Jr.,Over,13.5,-116
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Travis Etienne Jr.,Under,13.5,-111
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Tre Tucker,Over,41.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Tre Tucker,Under,41.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Brian Thomas Jr,Over,69.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Brian Thomas Jr,Under,69.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Brock Bowers,Over,57.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Brock Bowers,Under,57.5,-108
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Tre Tucker,Over,3.5,-103
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Tre Tucker,Under,3.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Brian Thomas Jr,Over,5.5,103
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Brian Thomas Jr,Under,5.5,-133
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Parker Washington,Over,3.5,-130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Parker Washington,Under,3.5,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Travis Etienne Jr.,Over,2.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Travis Etienne Jr.,Under,2.5,-123
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Ashton Jeanty,Over,2.5,-154
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Ashton Jeanty,Under,2.5,119
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Dyami Brown,Over,3.5,-116
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Dyami Brown,Under,3.5,-111
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Hunter Long,Over,2.5,115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Hunter Long,Under,2.5,-149
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jakobi Meyers,Over,4.5,-111
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jakobi Meyers,Under,4.5,-116
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Brock Bowers,Over,5.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_receptions,Brock Bowers,Under,5.5,-123
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Ashton Jeanty,Over,60.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Ashton Jeanty,Under,60.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Geno Smith,Over,10.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Geno Smith,Under,10.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Trevor Lawrence,Over,13.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Trevor Lawrence,Under,13.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Bhayshul Tuten,Over,23.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Bhayshul Tuten,Under,23.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Travis Etienne Jr.,Over,54.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Travis Etienne Jr.,Under,54.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Ashton Jeanty,Yes,,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Parker Washington,Yes,,270
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Bhayshul Tuten,Yes,,330
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Travis Etienne Jr.,Yes,,104
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Hunter Long,Yes,,375
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Dont'e Thornton Jr.,Yes,,800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Cody Schrader,Yes,,1700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Zamir White,Yes,,1500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,LeQuint Allen Jr.,Yes,,1600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Johnny Mundt,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jakobi Meyers,Yes,,220
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Tyler Lockett,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Dyami Brown,Yes,,215
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Dylan Laube,Yes,,1050
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jack Bech,Yes,,800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Michael Mayer,Yes,,650
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Carter Runyon,Yes,,1900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Ian Thomas,Yes,,1200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Raheem Mostert,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Tim Jones,Yes,,2200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Austin Trammell,Yes,,1500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Alex Bachman,Yes,,2500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Brock Bowers,Yes,,150
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Tre Tucker,Yes,,240
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Brian Thomas Jr,Yes,,130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Geno Smith,Yes,,850
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Trevor Lawrence,Yes,,360
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Trevor Lawrence,Over,1.5,106
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Trevor Lawrence,Under,1.5,-141
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Geno Smith,Over,1.5,108
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Geno Smith,Under,1.5,-143
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Geno Smith,Over,222.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Geno Smith,Under,222.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Trevor Lawrence,Over,227.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Trevor Lawrence,Under,227.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Tre Tucker,Over,42.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Tre Tucker,Under,42.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Hunter Long,Over,17.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Hunter Long,Under,17.5,-117
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Michael Mayer,Over,10.5,-109
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Michael Mayer,Under,10.5,-122
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Brian Thomas Jr,Over,69.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Brian Thomas Jr,Under,69.5,-117
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Travis Etienne Jr.,Over,14.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Travis Etienne Jr.,Under,14.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Brock Bowers,Over,55.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Brock Bowers,Under,55.5,-117
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Parker Washington,Over,39.5,-117
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Parker Washington,Under,39.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Dyami Brown,Over,40.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Dyami Brown,Under,40.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Ashton Jeanty,Over,15.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Ashton Jeanty,Under,15.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jakobi Meyers,Over,48.5,-117
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jakobi Meyers,Under,48.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Hunter Long,Over,2.5,118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Hunter Long,Under,2.5,-159
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Parker Washington,Over,3.5,-132
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Parker Washington,Under,3.5,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Brian Thomas Jr,Over,5.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Brian Thomas Jr,Under,5.5,-121
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Dyami Brown,Over,3.5,-127
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Dyami Brown,Under,3.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Michael Mayer,Over,1.5,107
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Michael Mayer,Under,1.5,-143
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Jakobi Meyers,Over,4.5,-121
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Jakobi Meyers,Under,4.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Travis Etienne Jr.,Over,2.5,-117
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Travis Etienne Jr.,Under,2.5,-114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Ashton Jeanty,Over,2.5,-152
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Ashton Jeanty,Under,2.5,114
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Brock Bowers,Over,5.5,112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Brock Bowers,Under,5.5,-148
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Tre Tucker,Over,3.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_receptions,Tre Tucker,Under,3.5,-139
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Geno Smith,Over,10.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Geno Smith,Under,10.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Ashton Jeanty,Over,61.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Ashton Jeanty,Under,61.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Bhayshul Tuten,Over,21.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Bhayshul Tuten,Under,21.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Travis Etienne Jr.,Over,53.5,-113
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Travis Etienne Jr.,Under,53.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Trevor Lawrence,Over,13.5,-112
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Trevor Lawrence,Under,13.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jakobi Meyers,Yes,,240
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Tre Tucker,Yes,,205
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Brock Bowers,Yes,,195
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Ashton Jeanty,Yes,,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Las Vegas Raiders D/ST,Yes,,470
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Travis Etienne Jr.,Yes,,110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Brian Thomas Jr,Yes,,140
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,470
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Geno Smith,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Ian Thomas,Yes,,1200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Raheem Mostert,Yes,,660
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Alex Bachman,Yes,,1500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Zamir White,Yes,,660
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Michael Mayer,Yes,,550
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Dylan Laube,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Dont'e Thornton Jr.,Yes,,850
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jack Bech,Yes,,700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Carter Runyon,Yes,,1200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Johnny Mundt,Yes,,740
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Trevor Lawrence,Yes,,360
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Dyami Brown,Yes,,225
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Hunter Long,Yes,,360
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Parker Washington,Yes,,240
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Cody Schrader,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,LeQuint Allen Jr.,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Bhayshul Tuten,Yes,,325
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Justin Shorter,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Tyler Lockett,Yes,,1050
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Austin Trammell,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Tim Jones,Yes,,1050
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Geno Smith,Over,1.5,115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Geno Smith,Under,1.5,-150
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Trevor Lawrence,Over,1.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Trevor Lawrence,Under,1.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Trevor Lawrence,Over,230.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Trevor Lawrence,Under,230.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Geno Smith,Over,220.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Geno Smith,Under,220.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Ashton Jeanty,Over,15.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Ashton Jeanty,Under,15.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Tre Tucker,Over,40.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Tre Tucker,Under,40.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jakobi Meyers,Over,45.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jakobi Meyers,Under,45.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Michael Mayer,Over,10.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Michael Mayer,Under,10.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Hunter Long,Over,15.5,-140
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Hunter Long,Under,15.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Parker Washington,Over,40.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Parker Washington,Under,40.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Dyami Brown,Over,35.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Dyami Brown,Under,35.5,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Brian Thomas Jr,Over,65.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Brian Thomas Jr,Under,65.5,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Brock Bowers,Over,55.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Brock Bowers,Under,55.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Travis Etienne Jr.,Over,15.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Travis Etienne Jr.,Under,15.5,-140
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jack Bech,Over,10.5,125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jack Bech,Under,10.5,-170
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Tre Tucker,Over,3.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Tre Tucker,Under,3.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Brock Bowers,Over,5.5,110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Brock Bowers,Under,5.5,-150
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Jakobi Meyers,Over,4.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Jakobi Meyers,Under,4.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Brian Thomas Jr,Over,5.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Brian Thomas Jr,Under,5.5,-140
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Dyami Brown,Over,3.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Dyami Brown,Under,3.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Ashton Jeanty,Over,3.5,170
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Ashton Jeanty,Under,3.5,-245
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Parker Washington,Over,3.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Parker Washington,Under,3.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Hunter Long,Over,2.5,120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Hunter Long,Under,2.5,-165
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Travis Etienne Jr.,Over,2.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_receptions,Travis Etienne Jr.,Under,2.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Trevor Lawrence,Over,15.5,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Trevor Lawrence,Under,15.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Bhayshul Tuten,Over,20.5,-140
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Bhayshul Tuten,Under,20.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Ashton Jeanty,Over,60.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Ashton Jeanty,Under,60.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Geno Smith,Over,10.5,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Geno Smith,Under,10.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Travis Etienne Jr.,Over,50.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Travis Etienne Jr.,Under,50.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Travis Etienne Jr.,Yes,,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Ashton Jeanty,Yes,,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Brian Thomas Jr,Yes,,135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Brock Bowers,Yes,,175
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Tre Tucker,Yes,,200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Jakobi Meyers,Yes,,220
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Dyami Brown,Yes,,230
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Parker Washington,Yes,,240
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Bhayshul Tuten,Yes,,350
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Trevor Lawrence,Yes,,380
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Hunter Long,Yes,,400
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Jacksonville Jaguars D/ST,Yes,,500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Las Vegas Raiders D/ST,Yes,,500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Quintin Morris,Yes,,600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Tim Patrick,Yes,,600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Michael Mayer,Yes,,650
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Jack Bech,Yes,,850
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Johnny Mundt,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Dont'e Thornton Jr.,Yes,,1000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Raheem Mostert,Yes,,1100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Zamir White,Yes,,1100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Geno Smith,Yes,,1200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Tyler Lockett,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Carter Runyon,Yes,,1500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Ian Thomas,Yes,,1500
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Dylan Laube,Yes,,1600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,LeQuint Allen Jr.,Yes,,2000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Cody Schrader,Yes,,2000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,Alex Bachman,Yes,,2200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_anytime_td,No Touchdown,Yes,,5000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_pass_tds,Trevor Lawrence,Over,1.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_pass_tds,Trevor Lawrence,Under,1.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_pass_tds,Geno Smith,Over,1.5,110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_pass_tds,Geno Smith,Under,1.5,-150
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_pass_yds,Trevor Lawrence,Over,235.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_pass_yds,Trevor Lawrence,Under,235.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_pass_yds,Geno Smith,Over,219.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_pass_yds,Geno Smith,Under,219.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Ashton Jeanty,Over,15.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Ashton Jeanty,Under,15.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Travis Etienne Jr.,Over,14.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Travis Etienne Jr.,Under,14.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Tre Tucker,Over,39.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Tre Tucker,Under,39.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Johnny Mundt,Over,9.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Johnny Mundt,Under,9.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jakobi Meyers,Over,49.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jakobi Meyers,Under,49.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Bhayshul Tuten,Over,6.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Bhayshul Tuten,Under,6.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Hunter Long,Over,20.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Hunter Long,Under,20.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Brian Thomas Jr,Over,69.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Brian Thomas Jr,Under,69.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Parker Washington,Over,41.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Parker Washington,Under,41.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Dyami Brown,Over,39.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Dyami Brown,Under,39.5,-130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Michael Mayer,Over,9.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Michael Mayer,Under,9.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Brock Bowers,Over,54.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Brock Bowers,Under,54.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jack Bech,Over,7.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Jack Bech,Under,7.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Dont'e Thornton Jr.,Over,4.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_reception_yds,Dont'e Thornton Jr.,Under,4.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Travis Etienne Jr.,Over,2.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Travis Etienne Jr.,Under,2.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Ashton Jeanty,Over,2.5,-175
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Ashton Jeanty,Under,2.5,130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Hunter Long,Over,2.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Hunter Long,Under,2.5,-145
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Bhayshul Tuten,Over,1.5,135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Bhayshul Tuten,Under,1.5,-185
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Johnny Mundt,Over,1.5,115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Johnny Mundt,Under,1.5,-150
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Jakobi Meyers,Over,4.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Jakobi Meyers,Under,4.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Tre Tucker,Over,3.5,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Tre Tucker,Under,3.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Brock Bowers,Over,5.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Brock Bowers,Under,5.5,-140
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Michael Mayer,Over,1.5,120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Michael Mayer,Under,1.5,-160
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Dyami Brown,Over,3.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Dyami Brown,Under,3.5,100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Brian Thomas Jr,Over,5.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Brian Thomas Jr,Under,5.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Parker Washington,Over,3.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_receptions,Parker Washington,Under,3.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Bhayshul Tuten,Over,22.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Bhayshul Tuten,Under,22.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Geno Smith,Over,8.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Geno Smith,Under,8.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Travis Etienne Jr.,Over,54.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Travis Etienne Jr.,Under,54.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Ashton Jeanty,Over,62.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Ashton Jeanty,Under,62.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Trevor Lawrence,Over,15.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,betmgm,player_rush_yds,Trevor Lawrence,Under,15.5,-118
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Austin Trammell,Yes,,1400
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Johnny Mundt,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Las Vegas Raiders Defense,Yes,,725
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Brock Bowers,Yes,,185
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Brian Thomas Jr,Yes,,130
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Travis Etienne Jr.,Yes,,110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Ian Thomas,Yes,,1900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Hunter Long,Yes,,350
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Cody Schrader,Yes,,2000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Dylan Laube,Yes,,2200
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Dont'e Thornton Jr.,Yes,,1300
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jack Bech,Yes,,900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Raheem Mostert,Yes,,700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Parker Washington,Yes,,225
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Carter Runyon,Yes,,1900
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Michael Mayer,Yes,,600
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Dyami Brown,Yes,,220
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jacksonville Jaguars Defense,Yes,,800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Bhayshul Tuten,Yes,,350
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Geno Smith,Yes,,1100
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Trevor Lawrence,Yes,,400
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Tre Tucker,Yes,,240
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Ashton Jeanty,Yes,,-122
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Alex Bachman,Yes,,2800
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,LeQuint Allen Jr.,Yes,,2000
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Zamir White,Yes,,700
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jakobi Meyers,Yes,,240
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_pass_tds,Geno Smith,Over,1.5,125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_pass_tds,Geno Smith,Under,1.5,-165
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_pass_tds,Trevor Lawrence,Over,1.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_pass_tds,Trevor Lawrence,Under,1.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_pass_yds,Geno Smith,Over,225.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_pass_yds,Geno Smith,Under,225.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_pass_yds,Trevor Lawrence,Over,228.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_pass_yds,Trevor Lawrence,Under,228.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Ashton Jeanty,Over,15.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Ashton Jeanty,Under,15.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Brock Bowers,Over,57.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Brock Bowers,Under,57.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Dyami Brown,Over,38.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Dyami Brown,Under,38.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Hunter Long,Over,17.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Hunter Long,Under,17.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jakobi Meyers,Over,47.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jakobi Meyers,Under,47.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Parker Washington,Over,41.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Parker Washington,Under,41.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Travis Etienne Jr.,Over,13.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Travis Etienne Jr.,Under,13.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Tre Tucker,Over,41.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_reception_yds,Tre Tucker,Under,41.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Ashton Jeanty,Over,2.5,-160
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Ashton Jeanty,Under,2.5,120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Brock Bowers,Over,4.5,-185
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Brock Bowers,Under,4.5,140
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Dyami Brown,Over,3.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Dyami Brown,Under,3.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Hunter Long,Over,2.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Hunter Long,Under,2.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Jakobi Meyers,Over,4.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Jakobi Meyers,Under,4.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Parker Washington,Over,3.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Parker Washington,Under,3.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Travis Etienne Jr.,Over,2.5,105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Travis Etienne Jr.,Under,2.5,-135
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Tre Tucker,Over,3.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_receptions,Tre Tucker,Under,3.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Ashton Jeanty,Over,60.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Ashton Jeanty,Under,60.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Bhayshul Tuten,Over,23.5,-105
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Bhayshul Tuten,Under,23.5,-125
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Geno Smith,Over,10.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Geno Smith,Under,10.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Travis Etienne Jr.,Over,54.5,-120
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Travis Etienne Jr.,Under,54.5,-110
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Trevor Lawrence,Over,13.5,-115
+Jacksonville Jaguars,Las Vegas Raiders,2025-11-02T17:35:38Z,bovada,player_rush_yds,Trevor Lawrence,Under,13.5,-115

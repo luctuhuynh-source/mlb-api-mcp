@@ -1,0 +1,542 @@
+away,home,snapshot,book,market,player,side,point,price
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Josh Jacobs,Yes,,-210
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Romeo Doubs,Yes,,205
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Tyrone Tracy Jr.,Yes,,220
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Wan'Dale Robinson,Yes,,230
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Theo Johnson,Yes,,260
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Christian Watson,Yes,,320
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Luke Musgrave,Yes,,320
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Devin Singletary,Yes,,370
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Matthew Golden,Yes,,400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Dontayvion Wicks,Yes,,400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Green Bay Packers D/ST,Yes,,450
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Daniel Bellinger,Yes,,475
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,New York Giants D/ST,Yes,,475
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Emanuel Wilson,Yes,,500
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Gunner Olszewski,Yes,,800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Isaiah Hodgins,Yes,,800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Jordan Love,Yes,,850
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,John FitzPatrick,Yes,,900
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Jameis Winston,Yes,,1100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Jalin Hyatt,Yes,,1200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Savion Williams,Yes,,1300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Josh Whyle,Yes,,1600
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Bo Melton,Yes,,1700
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Thomas Fidone,Yes,,2000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Dalen Cambre,Yes,,2000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Chris Brooks,Yes,,2200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_anytime_td,Chris Manhertz,Yes,,2500
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Jordan Love,Over,1.5,102
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Jordan Love,Under,1.5,-130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Jameis Winston,Over,1.5,195
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_pass_tds,Jameis Winston,Under,1.5,-254
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Jordan Love,Over,222.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Jordan Love,Under,222.5,-111
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Jameis Winston,Over,217.5,-111
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_pass_yds,Jameis Winston,Under,217.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Wan'Dale Robinson,Over,56.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Wan'Dale Robinson,Under,56.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Romeo Doubs,Over,49.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Romeo Doubs,Under,49.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Theo Johnson,Over,41.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Theo Johnson,Under,41.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Christian Watson,Over,39.5,-111
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Christian Watson,Under,39.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Luke Musgrave,Over,26.5,-111
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Luke Musgrave,Under,26.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Josh Jacobs,Over,21.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Josh Jacobs,Under,21.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Over,18.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Under,18.5,-117
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Daniel Bellinger,Over,15.5,-109
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_reception_yds,Daniel Bellinger,Under,15.5,-116
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Wan'Dale Robinson,Over,5.5,-123
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Wan'Dale Robinson,Under,5.5,-104
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Theo Johnson,Over,4.5,107
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Theo Johnson,Under,4.5,-137
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Romeo Doubs,Over,4.5,123
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Romeo Doubs,Under,4.5,-157
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Josh Jacobs,Over,3.5,127
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Josh Jacobs,Under,3.5,-163
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Luke Musgrave,Over,2.5,-152
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Luke Musgrave,Under,2.5,119
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Tyrone Tracy Jr.,Over,2.5,-134
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Tyrone Tracy Jr.,Under,2.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Christian Watson,Over,2.5,100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Christian Watson,Under,2.5,-128
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Daniel Bellinger,Over,1.5,-124
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_receptions,Daniel Bellinger,Under,1.5,-103
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Josh Jacobs,Over,85.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Josh Jacobs,Under,85.5,-109
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Over,43.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Under,43.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Devin Singletary,Over,21.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Devin Singletary,Under,21.5,-116
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Emanuel Wilson,Over,16.5,-116
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Emanuel Wilson,Under,16.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Jameis Winston,Over,10.5,-116
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Jameis Winston,Under,10.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Jordan Love,Over,9.5,-111
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,draftkings,player_rush_yds,Jordan Love,Under,9.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Josh Jacobs,Yes,,-225
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Tyrone Tracy Jr.,Yes,,190
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Romeo Doubs,Yes,,200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Wan'Dale Robinson,Yes,,215
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Theo Johnson,Yes,,260
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Christian Watson,Yes,,280
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Luke Musgrave,Yes,,320
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Devin Singletary,Yes,,330
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Matthew Golden,Yes,,340
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Dontayvion Wicks,Yes,,360
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Emanuel Wilson,Yes,,450
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Daniel Bellinger,Yes,,500
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Jordan Love,Yes,,700
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Gunner Olszewski,Yes,,750
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Isaiah Hodgins,Yes,,850
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,John FitzPatrick,Yes,,950
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Jameis Winston,Yes,,950
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Jalin Hyatt,Yes,,1000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Savion Williams,Yes,,1100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Bo Melton,Yes,,1300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Josh Whyle,Yes,,1400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Dalen Cambre,Yes,,1750
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Chris Brooks,Yes,,1800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Thomas Fidone,Yes,,1900
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_anytime_td,Chris Manhertz,Yes,,2500
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Jordan Love,Over,1.5,-104
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Jordan Love,Under,1.5,-127
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Jameis Winston,Over,1.5,178
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_pass_tds,Jameis Winston,Under,1.5,-245
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Jordan Love,Over,222.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Jordan Love,Under,222.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Jameis Winston,Over,217.5,-102
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_pass_yds,Jameis Winston,Under,217.5,-130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Romeo Doubs,Over,48.5,-117
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Romeo Doubs,Under,48.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Luke Musgrave,Over,25.5,-117
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Luke Musgrave,Under,25.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Christian Watson,Over,37.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Christian Watson,Under,37.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Theo Johnson,Over,41.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Theo Johnson,Under,41.5,-117
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Wan'Dale Robinson,Over,56.5,-117
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Wan'Dale Robinson,Under,56.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Josh Jacobs,Over,21.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Josh Jacobs,Under,21.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Daniel Bellinger,Over,15.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Daniel Bellinger,Under,15.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Tyrone Tracy Jr.,Over,17.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_reception_yds,Tyrone Tracy Jr.,Under,17.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Daniel Bellinger,Over,1.5,-148
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Daniel Bellinger,Under,1.5,111
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Matthew Golden,Over,2.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Matthew Golden,Under,2.5,-139
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Theo Johnson,Over,4.5,-104
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Theo Johnson,Under,4.5,-129
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Christian Watson,Over,2.5,111
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Christian Watson,Under,2.5,-155
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Luke Musgrave,Over,2.5,-152
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Luke Musgrave,Under,2.5,113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Wan'Dale Robinson,Over,5.5,-139
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Wan'Dale Robinson,Under,5.5,104
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Tyrone Tracy Jr.,Over,2.5,-139
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Tyrone Tracy Jr.,Under,2.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Josh Jacobs,Over,3.5,132
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Josh Jacobs,Under,3.5,-176
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Romeo Doubs,Over,4.5,126
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_receptions,Romeo Doubs,Under,4.5,-170
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Tyrone Tracy Jr.,Over,42.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Tyrone Tracy Jr.,Under,42.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Emanuel Wilson,Over,16.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Emanuel Wilson,Under,16.5,-118
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Jordan Love,Over,9.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Jordan Love,Under,9.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Devin Singletary,Over,22.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Devin Singletary,Under,22.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Jameis Winston,Over,10.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Jameis Winston,Under,10.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Josh Jacobs,Over,84.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,williamhill_us,player_rush_yds,Josh Jacobs,Under,84.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Josh Jacobs,Yes,,-220
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Romeo Doubs,Yes,,200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Tyrone Tracy Jr.,Yes,,200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Wan'Dale Robinson,Yes,,240
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Theo Johnson,Yes,,260
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Christian Watson,Yes,,320
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Luke Musgrave,Yes,,320
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Devin Singletary,Yes,,340
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Dontayvion Wicks,Yes,,410
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Matthew Golden,Yes,,420
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Emanuel Wilson,Yes,,470
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Daniel Bellinger,Yes,,480
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Green Bay Packers Defense,Yes,,550
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Jordan Love,Yes,,750
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Gunner Olszewski,Yes,,800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Isaiah Hodgins,Yes,,850
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,John FitzPatrick,Yes,,950
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Jameis Winston,Yes,,1000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Jalin Hyatt,Yes,,1100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,New York Giants Defense,Yes,,1200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Savion Williams,Yes,,1300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Josh Whyle,Yes,,1600
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Bo Melton,Yes,,1800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Chris Brooks,Yes,,1900
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Thomas Fidone,Yes,,2000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Chris Manhertz,Yes,,2500
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_anytime_td,Dalen Cambre,Yes,,2500
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Jordan Love,Over,1.5,-104
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Jordan Love,Under,1.5,-122
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Jameis Winston,Over,1.5,180
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_pass_tds,Jameis Winston,Under,1.5,-235
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Jordan Love,Over,220.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Jordan Love,Under,220.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Jameis Winston,Over,216.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_pass_yds,Jameis Winston,Under,216.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Wan'Dale Robinson,Over,59.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Wan'Dale Robinson,Under,59.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Josh Jacobs,Over,21.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Josh Jacobs,Under,21.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Christian Watson,Over,37.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Christian Watson,Under,37.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Theo Johnson,Over,42.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Theo Johnson,Under,42.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Luke Musgrave,Over,25.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Luke Musgrave,Under,25.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Romeo Doubs,Over,48.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_reception_yds,Romeo Doubs,Under,48.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Theo Johnson,Over,4.5,102
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Theo Johnson,Under,4.5,-130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Tyrone Tracy Jr.,Over,2.5,-142
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Tyrone Tracy Jr.,Under,2.5,112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Daniel Bellinger,Over,1.5,-152
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Daniel Bellinger,Under,1.5,120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Wan'Dale Robinson,Over,5.5,-136
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Wan'Dale Robinson,Under,5.5,108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Dontayvion Wicks,Over,2.5,130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Dontayvion Wicks,Under,2.5,-166
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Matthew Golden,Over,2.5,108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Matthew Golden,Under,2.5,-138
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Luke Musgrave,Over,2.5,-142
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Luke Musgrave,Under,2.5,112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Romeo Doubs,Over,4.5,126
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Romeo Doubs,Under,4.5,-160
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Christian Watson,Over,2.5,108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Christian Watson,Under,2.5,-136
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Josh Jacobs,Over,2.5,-168
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_receptions,Josh Jacobs,Under,2.5,132
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Over,41.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Under,41.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Emanuel Wilson,Over,16.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Emanuel Wilson,Under,16.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Jameis Winston,Over,10.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Jameis Winston,Under,10.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Josh Jacobs,Over,84.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Josh Jacobs,Under,84.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Devin Singletary,Over,22.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Devin Singletary,Under,22.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Jordan Love,Over,9.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanduel,player_rush_yds,Jordan Love,Under,9.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Jordan Love,Yes,,750
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Romeo Doubs,Yes,,200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Christian Watson,Yes,,300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Daniel Bellinger,Yes,,450
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Luke Musgrave,Yes,,300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Emanuel Wilson,Yes,,450
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Dontayvion Wicks,Yes,,400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Wan'Dale Robinson,Yes,,230
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Malik Heath,Yes,,800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Gunner Olszewski,Yes,,800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Theo Johnson,Yes,,260
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Tyrone Tracy Jr.,Yes,,200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Chris Manhertz,Yes,,2400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Josh Jacobs,Yes,,-250
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Devin Singletary,Yes,,325
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Savion Williams,Yes,,1300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Matthew Golden,Yes,,400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,John FitzPatrick,Yes,,900
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Josh Whyle,Yes,,1400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Bo Melton,Yes,,1700
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Chris Brooks,Yes,,1900
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Jameis Winston,Yes,,1000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Thomas Fidone,Yes,,1900
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Jalin Hyatt,Yes,,1100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_anytime_td,Isaiah Hodgins,Yes,,800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Jordan Love,Over,1.5,-103
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Jordan Love,Under,1.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Jameis Winston,Over,1.5,182
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_pass_tds,Jameis Winston,Under,1.5,-244
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Jameis Winston,Over,220.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Jameis Winston,Under,220.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Jordan Love,Over,222.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_pass_yds,Jordan Love,Under,222.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Wan'Dale Robinson,Over,58.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Wan'Dale Robinson,Under,58.5,-123
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Romeo Doubs,Over,48.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Romeo Doubs,Under,48.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Luke Musgrave,Over,26.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Luke Musgrave,Under,26.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Theo Johnson,Over,42.5,-111
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Theo Johnson,Under,42.5,-116
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Over,17.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Under,17.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Christian Watson,Over,40.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Christian Watson,Under,40.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Josh Jacobs,Over,21.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Josh Jacobs,Under,21.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Daniel Bellinger,Over,16.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_reception_yds,Daniel Bellinger,Under,16.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Wan'Dale Robinson,Over,5.5,-137
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Wan'Dale Robinson,Under,5.5,106
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Theo Johnson,Over,4.5,-101
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Theo Johnson,Under,4.5,-128
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Romeo Doubs,Over,4.5,130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Romeo Doubs,Under,4.5,-169
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Over,2.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Under,2.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Luke Musgrave,Over,2.5,-149
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Luke Musgrave,Under,2.5,115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Josh Jacobs,Over,2.5,-169
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Josh Jacobs,Under,2.5,130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Christian Watson,Over,2.5,100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Christian Watson,Under,2.5,-130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Daniel Bellinger,Over,1.5,-143
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_receptions,Daniel Bellinger,Under,1.5,110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Emanuel Wilson,Over,16.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Emanuel Wilson,Under,16.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Devin Singletary,Over,22.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Devin Singletary,Under,22.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Josh Jacobs,Over,85.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Josh Jacobs,Under,85.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Jameis Winston,Over,10.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Jameis Winston,Under,10.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Over,42.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Under,42.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Jordan Love,Over,10.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betonlineag,player_rush_yds,Jordan Love,Under,10.5,-108
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Savion Williams,Yes,,1050
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Jordan Love,Yes,,750
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Luke Musgrave,Yes,,295
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Wan'Dale Robinson,Yes,,215
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Josh Jacobs,Yes,,-235
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,John FitzPatrick,Yes,,1000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Christian Watson,Yes,,255
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Gunner Olszewski,Yes,,700
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Dontayvion Wicks,Yes,,310
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Chris Brooks,Yes,,2400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Matthew Golden,Yes,,295
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Thomas Fidone,Yes,,2500
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Daniel Bellinger,Yes,,460
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Tyrone Tracy Jr.,Yes,,180
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Emanuel Wilson,Yes,,475
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Isaiah Hodgins,Yes,,1000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Dalen Cambre,Yes,,1300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Bo Melton,Yes,,850
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Romeo Doubs,Yes,,210
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Jalin Hyatt,Yes,,700
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Chris Manhertz,Yes,,3000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Theo Johnson,Yes,,245
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Jameis Winston,Yes,,650
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Devin Singletary,Yes,,350
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_anytime_td,Josh Whyle,Yes,,1700
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Jameis Winston,Over,1.5,195
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Jameis Winston,Under,1.5,-275
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Jordan Love,Over,1.5,102
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_pass_tds,Jordan Love,Under,1.5,-137
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Jordan Love,Over,220.5,-117
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Jordan Love,Under,220.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Jameis Winston,Over,215.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_pass_yds,Jameis Winston,Under,215.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Josh Jacobs,Over,20.5,-118
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Josh Jacobs,Under,20.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Luke Musgrave,Over,27.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Luke Musgrave,Under,27.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Romeo Doubs,Over,47.5,-118
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Romeo Doubs,Under,47.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Over,16.5,-112
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Under,16.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Christian Watson,Over,40.5,-117
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Christian Watson,Under,40.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Wan'Dale Robinson,Over,57.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Wan'Dale Robinson,Under,57.5,-118
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Theo Johnson,Over,38.5,-117
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_reception_yds,Theo Johnson,Under,38.5,-114
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Tyrone Tracy Jr.,Over,2.5,-162
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Tyrone Tracy Jr.,Under,2.5,120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Wan'Dale Robinson,Over,5.5,-129
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Wan'Dale Robinson,Under,5.5,-103
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Christian Watson,Over,2.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Christian Watson,Under,2.5,-139
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Luke Musgrave,Over,2.5,-165
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Luke Musgrave,Under,2.5,123
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Josh Jacobs,Over,2.5,-159
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Josh Jacobs,Under,2.5,120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Romeo Doubs,Over,4.5,115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Romeo Doubs,Under,4.5,-152
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Theo Johnson,Over,4.5,107
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_receptions,Theo Johnson,Under,4.5,-141
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Josh Jacobs,Over,84.5,-117
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Josh Jacobs,Under,84.5,-113
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Over,41.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Under,41.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Jordan Love,Over,9.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Jordan Love,Under,9.5,-121
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Devin Singletary,Over,21.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Devin Singletary,Under,21.5,-121
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Emanuel Wilson,Over,16.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,betrivers,player_rush_yds,Emanuel Wilson,Under,16.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,No Scorer,Yes,,3000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Josh Jacobs,Yes,,-185
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Jordan Love,Yes,,660
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Christian Watson,Yes,,295
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Romeo Doubs,Yes,,195
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,John FitzPatrick,Yes,,800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Dontayvion Wicks,Yes,,380
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Luke Musgrave,Yes,,295
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Matthew Golden,Yes,,380
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Green Bay Packers D/ST,Yes,,420
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Chris Manhertz,Yes,,1600
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Devin Singletary,Yes,,345
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Gunner Olszewski,Yes,,660
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Wan'Dale Robinson,Yes,,240
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Daniel Bellinger,Yes,,450
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Tyrone Tracy Jr.,Yes,,225
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Theo Johnson,Yes,,250
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,New York Giants D/ST,Yes,,470
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Emanuel Wilson,Yes,,450
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Savion Williams,Yes,,900
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Jameis Winston,Yes,,900
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Chris Brooks,Yes,,1500
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Thomas Fidone,Yes,,1300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Bo Melton,Yes,,1200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_anytime_td,Isaiah Hodgins,Yes,,660
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Jameis Winston,Over,1.5,160
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Jameis Winston,Under,1.5,-210
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Jordan Love,Over,1.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_pass_tds,Jordan Love,Under,1.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Jordan Love,Over,225.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Jordan Love,Under,225.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Jameis Winston,Over,220.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_pass_yds,Jameis Winston,Under,220.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Tyrone Tracy Jr.,Over,15.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Tyrone Tracy Jr.,Under,15.5,100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Wan'Dale Robinson,Over,55.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Wan'Dale Robinson,Under,55.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Theo Johnson,Over,40.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Theo Johnson,Under,40.5,100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Christian Watson,Over,40.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Christian Watson,Under,40.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Romeo Doubs,Over,50.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Romeo Doubs,Under,50.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Josh Jacobs,Over,20.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Josh Jacobs,Under,20.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Luke Musgrave,Over,25.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Luke Musgrave,Under,25.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Daniel Bellinger,Over,15.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_reception_yds,Daniel Bellinger,Under,15.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Wan'Dale Robinson,Over,5.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Wan'Dale Robinson,Under,5.5,100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Theo Johnson,Over,4.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Theo Johnson,Under,4.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Romeo Doubs,Over,4.5,125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Romeo Doubs,Under,4.5,-170
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Christian Watson,Over,2.5,100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Christian Watson,Under,2.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Luke Musgrave,Over,3.5,160
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Luke Musgrave,Under,3.5,-230
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Josh Jacobs,Over,3.5,150
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Josh Jacobs,Under,3.5,-210
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Tyrone Tracy Jr.,Over,2.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Tyrone Tracy Jr.,Under,2.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Daniel Bellinger,Over,2.5,200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_receptions,Daniel Bellinger,Under,2.5,-300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Jordan Love,Over,10.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Jordan Love,Under,10.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Tyrone Tracy Jr.,Over,40.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Tyrone Tracy Jr.,Under,40.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Emanuel Wilson,Over,15.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Emanuel Wilson,Under,15.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Devin Singletary,Over,20.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Devin Singletary,Under,20.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Jameis Winston,Over,10.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Jameis Winston,Under,10.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Josh Jacobs,Over,85.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,fanatics,player_rush_yds,Josh Jacobs,Under,85.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Dalen Cambre,Yes,,2200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Bo Melton,Yes,,1400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Isaiah Hodgins,Yes,,725
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Jameis Winston,Yes,,900
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Luke Musgrave,Yes,,320
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Devin Singletary,Yes,,330
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Theo Johnson,Yes,,260
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Savion Williams,Yes,,1100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Jordan Love,Yes,,700
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Christian Watson,Yes,,320
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Thomas Fidone,Yes,,1800
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Josh Whyle,Yes,,1300
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Chris Brooks,Yes,,1700
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Wan'Dale Robinson,Yes,,240
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,New York Giants D/ST,Yes,,1100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Josh Jacobs,Yes,,-230
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,John FitzPatrick,Yes,,825
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Matthew Golden,Yes,,400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Emanuel Wilson,Yes,,440
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Daniel Bellinger,Yes,,440
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Green Bay Packers D/ST,Yes,,525
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Romeo Doubs,Yes,,200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Gunner Olszewski,Yes,,725
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Dontayvion Wicks,Yes,,400
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Chris Manhertz,Yes,,2200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Tyrone Tracy Jr.,Yes,,200
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_anytime_td,Jalin Hyatt,Yes,,1000
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_pass_tds,Jameis Winston,Over,1.5,180
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_pass_tds,Jameis Winston,Under,1.5,-245
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_pass_tds,Jordan Love,Over,1.5,100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_pass_tds,Jordan Love,Under,1.5,-130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_pass_yds,Jameis Winston,Over,220.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_pass_yds,Jameis Winston,Under,220.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_pass_yds,Jordan Love,Over,230.5,110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_pass_yds,Jordan Love,Under,230.5,-145
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Christian Watson,Over,40.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Christian Watson,Under,40.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Daniel Bellinger,Over,16.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Daniel Bellinger,Under,16.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Josh Jacobs,Over,21.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Josh Jacobs,Under,21.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Luke Musgrave,Over,26.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Luke Musgrave,Under,26.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Romeo Doubs,Over,49.5,100
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Romeo Doubs,Under,49.5,-130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Theo Johnson,Over,42.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Theo Johnson,Under,42.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Over,17.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Under,17.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Wan'Dale Robinson,Over,58.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_reception_yds,Wan'Dale Robinson,Under,58.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Christian Watson,Over,2.5,120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Christian Watson,Under,2.5,-160
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Daniel Bellinger,Over,1.5,-145
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Daniel Bellinger,Under,1.5,110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Josh Jacobs,Over,2.5,-170
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Josh Jacobs,Under,2.5,130
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Luke Musgrave,Over,2.5,-150
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Luke Musgrave,Under,2.5,115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Romeo Doubs,Over,4.5,140
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Romeo Doubs,Under,4.5,-185
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Theo Johnson,Over,4.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Theo Johnson,Under,4.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Tyrone Tracy Jr.,Over,2.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Tyrone Tracy Jr.,Under,2.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Wan'Dale Robinson,Over,5.5,-145
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_receptions,Wan'Dale Robinson,Under,5.5,110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Devin Singletary,Over,22.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Devin Singletary,Under,22.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Emanuel Wilson,Over,17.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Emanuel Wilson,Under,17.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Jameis Winston,Over,11.5,105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Jameis Winston,Under,11.5,-135
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Jordan Love,Over,9.5,-120
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Jordan Love,Under,9.5,-110
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Josh Jacobs,Over,83.5,-125
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Josh Jacobs,Under,83.5,-105
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Over,41.5,-115
+Green Bay Packers,New York Giants,2025-11-16T17:35:37Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Under,41.5,-115

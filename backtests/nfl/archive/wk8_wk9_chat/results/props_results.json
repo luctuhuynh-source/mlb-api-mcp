@@ -1,0 +1,5363 @@
+{
+ "props_gate": {
+  "name": "props projection + v1.4 gate",
+  "cfg": {
+   "mode": "flat",
+   "use_props": true
+  },
+  "per": {
+   "wk2": {
+    "qbs": [
+     "Justin Herbert",
+     "Baker Mayfield",
+     "Bo Nix"
+    ],
+    "n": 6,
+    "cash": 0,
+    "won": 0,
+    "fees": 90,
+    "best_pct": 43.42849756601988,
+    "avg_pct": 32.92876746628685,
+    "top5": 0,
+    "top1": 0,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 183.5,
+    "wr_pts": 208.1,
+    "rb_sal": 137200,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Bijan Robinson",
+       "team": "ATL",
+       "salary": 8900,
+       "pts": 9.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 8700,
+       "pts": 16.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Javonte Williams",
+       "team": "DAL",
+       "salary": 7400,
+       "pts": 6.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Justin Herbert",
+       "team": "LAC",
+       "salary": 7400,
+       "pts": 9.88,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 6600,
+       "pts": 13.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Quentin Johnston",
+       "team": "LAC",
+       "salary": 5800,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5200,
+       "pts": 7.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "San Francisco 49ers",
+       "team": "SF",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tre' Harris",
+       "team": "LAC",
+       "salary": 4900,
+       "pts": 5.8,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9000,
+       "pts": 41.0,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Bijan Robinson",
+       "team": "ATL",
+       "salary": 8900,
+       "pts": 9.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Javonte Williams",
+       "team": "DAL",
+       "salary": 7400,
+       "pts": 6.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Justin Herbert",
+       "team": "LAC",
+       "salary": 7400,
+       "pts": 9.88,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 5900,
+       "pts": 13.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Colston Loveland",
+       "team": "CHI",
+       "salary": 5800,
+       "pts": 0.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Quentin Johnston",
+       "team": "LAC",
+       "salary": 5800,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Philadelphia Eagles",
+       "team": "PHI",
+       "salary": 4900,
+       "pts": 3.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tre' Harris",
+       "team": "LAC",
+       "salary": 4900,
+       "pts": 5.8,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Bijan Robinson",
+       "team": "ATL",
+       "salary": 8900,
+       "pts": 9.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 8700,
+       "pts": 16.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Baker Mayfield",
+       "team": "TB",
+       "salary": 7600,
+       "pts": 13.18,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 6600,
+       "pts": 13.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Emeka Egbuka",
+       "team": "TB",
+       "salary": 6500,
+       "pts": 8.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Terry McLaurin",
+       "team": "WAS",
+       "salary": 6000,
+       "pts": 6.0,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 5900,
+       "pts": 13.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "DST",
+       "name": "San Francisco 49ers",
+       "team": "SF",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Cade Otton",
+       "team": "TB",
+       "salary": 4800,
+       "pts": 6.3,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 8700,
+       "pts": 16.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Baker Mayfield",
+       "team": "TB",
+       "salary": 7600,
+       "pts": 13.18,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Javonte Williams",
+       "team": "DAL",
+       "salary": 7400,
+       "pts": 6.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7200,
+       "pts": 14.2,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Christian Watson",
+       "team": "GB",
+       "salary": 6900,
+       "pts": 12.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Emeka Egbuka",
+       "team": "TB",
+       "salary": 6500,
+       "pts": 8.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 5900,
+       "pts": 13.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "DST",
+       "name": "Philadelphia Eagles",
+       "team": "PHI",
+       "salary": 4900,
+       "pts": 3.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Cade Otton",
+       "team": "TB",
+       "salary": 4800,
+       "pts": 6.3,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Ja'Marr Chase",
+       "team": "CIN",
+       "salary": 8800,
+       "pts": 23.0,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Bucky Irving",
+       "team": "TB",
+       "salary": 7900,
+       "pts": 11.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Ashton Jeanty",
+       "team": "LV",
+       "salary": 7700,
+       "pts": 8.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Bo Nix",
+       "team": "DEN",
+       "salary": 7300,
+       "pts": 15.12,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "David Montgomery",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 3.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Courtland Sutton",
+       "team": "DEN",
+       "salary": 6100,
+       "pts": 4.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5200,
+       "pts": 7.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "San Francisco 49ers",
+       "team": "SF",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Pat Bryant",
+       "team": "DEN",
+       "salary": 5000,
+       "pts": 1.6,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9000,
+       "pts": 41.0,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Ashton Jeanty",
+       "team": "LV",
+       "salary": 7700,
+       "pts": 8.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Bo Nix",
+       "team": "DEN",
+       "salary": 7300,
+       "pts": 15.12,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Breece Hall",
+       "team": "NYJ",
+       "salary": 7200,
+       "pts": 11.7,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "David Montgomery",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 3.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Courtland Sutton",
+       "team": "DEN",
+       "salary": 6100,
+       "pts": 4.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Colston Loveland",
+       "team": "CHI",
+       "salary": 5800,
+       "pts": 0.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Pat Bryant",
+       "team": "DEN",
+       "salary": 5000,
+       "pts": 1.6,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Philadelphia Eagles",
+       "team": "PHI",
+       "salary": 4900,
+       "pts": 3.0,
+       "elig": null
+      }
+     ]
+    ]
+   },
+   "wk3": {
+    "qbs": [
+     "Sam Darnold",
+     "Tyler Shough",
+     "Bryce Young"
+    ],
+    "n": 6,
+    "cash": 4,
+    "won": 180,
+    "fees": 90,
+    "best_pct": 99.02314144238218,
+    "avg_pct": 63.90605876870908,
+    "top5": 2,
+    "top1": 1,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 352.1,
+    "wr_pts": 222.82,
+    "rb_sal": 137100,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 9200,
+       "pts": 37.9,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9200,
+       "pts": 33.36,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8300,
+       "pts": 20.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 6900,
+       "pts": 32.66,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6300,
+       "pts": 22.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jalen Coker",
+       "team": "CAR",
+       "salary": 6200,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Travis Kelce",
+       "team": "KC",
+       "salary": 5500,
+       "pts": 12.9,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5300,
+       "pts": 2.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tennessee Titans",
+       "team": "TEN",
+       "salary": 3100,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 9200,
+       "pts": 37.9,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9200,
+       "pts": 33.36,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7300,
+       "pts": 24.7,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 6900,
+       "pts": 32.66,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chuba Hubbard",
+       "team": "CAR",
+       "salary": 6700,
+       "pts": 13.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6300,
+       "pts": 22.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Kincaid",
+       "team": "BUF",
+       "salary": 5700,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5300,
+       "pts": 2.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New Orleans Saints",
+       "team": "NO",
+       "salary": 3400,
+       "pts": 1.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 9200,
+       "pts": 37.9,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8300,
+       "pts": 20.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Chris Olave",
+       "team": "NO",
+       "salary": 8100,
+       "pts": 18.2,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Tyler Shough",
+       "team": "NO",
+       "salary": 7500,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chuba Hubbard",
+       "team": "CAR",
+       "salary": 6700,
+       "pts": 13.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Devaughn Vele",
+       "team": "NO",
+       "salary": 5700,
+       "pts": 5.4,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Kincaid",
+       "team": "BUF",
+       "salary": 5700,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashod Bateman",
+       "team": "BAL",
+       "salary": 5600,
+       "pts": 4.7,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tennessee Titans",
+       "team": "TEN",
+       "salary": 3100,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8300,
+       "pts": 20.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Chris Olave",
+       "team": "NO",
+       "salary": 8100,
+       "pts": 18.2,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Tyler Shough",
+       "team": "NO",
+       "salary": 7500,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7300,
+       "pts": 24.7,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chuba Hubbard",
+       "team": "CAR",
+       "salary": 6700,
+       "pts": 13.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6300,
+       "pts": 22.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Devaughn Vele",
+       "team": "NO",
+       "salary": 5700,
+       "pts": 5.4,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5300,
+       "pts": 3.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Seattle Seahawks",
+       "team": "SEA",
+       "salary": 4800,
+       "pts": 2.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8900,
+       "pts": 19.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Jonathan Taylor",
+       "team": "IND",
+       "salary": 8500,
+       "pts": 8.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Bryce Young",
+       "team": "CAR",
+       "salary": 7600,
+       "pts": 14.64,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7300,
+       "pts": 24.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tetairoa McMillan",
+       "team": "CAR",
+       "salary": 6800,
+       "pts": 2.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jalen Coker",
+       "team": "CAR",
+       "salary": 6200,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Quinshon Judkins",
+       "team": "CLE",
+       "salary": 6100,
+       "pts": 8.9,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Travis Kelce",
+       "team": "KC",
+       "salary": 5500,
+       "pts": 12.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tennessee Titans",
+       "team": "TEN",
+       "salary": 3100,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8900,
+       "pts": 19.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Bryce Young",
+       "team": "CAR",
+       "salary": 7600,
+       "pts": 14.64,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 11.5,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Breece Hall",
+       "team": "NYJ",
+       "salary": 7100,
+       "pts": 7.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Tetairoa McMillan",
+       "team": "CAR",
+       "salary": 6800,
+       "pts": 2.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jalen Coker",
+       "team": "CAR",
+       "salary": 6200,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Quinshon Judkins",
+       "team": "CLE",
+       "salary": 6100,
+       "pts": 8.9,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5300,
+       "pts": 3.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Seattle Seahawks",
+       "team": "SEA",
+       "salary": 4800,
+       "pts": 2.0,
+       "elig": null
+      }
+     ]
+    ]
+   },
+   "wk4": {
+    "qbs": [
+     "C.J. Stroud",
+     "Sam Darnold",
+     "Kyler Murray"
+    ],
+    "n": 5,
+    "cash": 2,
+    "won": 50,
+    "fees": 90,
+    "best_pct": 82.82433781640923,
+    "avg_pct": 46.12102999810758,
+    "top5": 0,
+    "top1": 0,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 214.1,
+    "wr_pts": 165.3,
+    "rb_sal": 111800,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8500,
+       "pts": 33.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Nico Collins",
+       "team": "HOU",
+       "salary": 7400,
+       "pts": 30.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 1.5,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "C.J. Stroud",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 26.08,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jeremiyah Love",
+       "team": "ARI",
+       "salary": 6600,
+       "pts": 6.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jordan Addison",
+       "team": "MIN",
+       "salary": 6500,
+       "pts": 7.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6400,
+       "pts": 14.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Schultz",
+       "team": "HOU",
+       "salary": 5600,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Baltimore Ravens",
+       "team": "BAL",
+       "salary": 4900,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8800,
+       "pts": 14.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Nico Collins",
+       "team": "HOU",
+       "salary": 7400,
+       "pts": 30.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Zay Flowers",
+       "team": "BAL",
+       "salary": 7300,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "C.J. Stroud",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 26.08,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jeremiyah Love",
+       "team": "ARI",
+       "salary": 6600,
+       "pts": 6.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6400,
+       "pts": 14.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Dontayvion Wicks",
+       "team": "PHI",
+       "salary": 5900,
+       "pts": 3.3,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Schultz",
+       "team": "HOU",
+       "salary": 5600,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Minnesota Vikings",
+       "team": "MIN",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9500,
+       "pts": 10.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8500,
+       "pts": 33.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7500,
+       "pts": 14.32,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 1.5,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Cam Skattebo",
+       "team": "NYG",
+       "salary": 7100,
+       "pts": 7.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6400,
+       "pts": 14.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Luther Burden III",
+       "team": "CHI",
+       "salary": 5800,
+       "pts": 9.4,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "AJ Barner",
+       "team": "SEA",
+       "salary": 4900,
+       "pts": 1.7,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tampa Bay Buccaneers",
+       "team": "TB",
+       "salary": 3200,
+       "pts": 5.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9500,
+       "pts": 10.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8800,
+       "pts": 14.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 7600,
+       "pts": 13.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7500,
+       "pts": 14.32,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jeremiyah Love",
+       "team": "ARI",
+       "salary": 6600,
+       "pts": 6.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jordan Addison",
+       "team": "MIN",
+       "salary": 6500,
+       "pts": 7.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5100,
+       "pts": 11.8,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "T.J. Hockenson",
+       "team": "MIN",
+       "salary": 4900,
+       "pts": 21.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Chicago Bears",
+       "team": "CHI",
+       "salary": 3500,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8800,
+       "pts": 14.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 7600,
+       "pts": 13.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Kyler Murray",
+       "team": "MIN",
+       "salary": 7200,
+       "pts": 11.48,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 1.5,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Cam Skattebo",
+       "team": "NYG",
+       "salary": 7100,
+       "pts": 7.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jordan Addison",
+       "team": "MIN",
+       "salary": 6500,
+       "pts": 7.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Luther Burden III",
+       "team": "CHI",
+       "salary": 5800,
+       "pts": 9.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Minnesota Vikings",
+       "team": "MIN",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "T.J. Hockenson",
+       "team": "MIN",
+       "salary": 4900,
+       "pts": 21.4,
+       "elig": null
+      }
+     ],
+     []
+    ]
+   },
+   "wk5": {
+    "qbs": [
+     "Sam Darnold",
+     "Jacoby Brissett",
+     "Jordan Love"
+    ],
+    "n": 5,
+    "cash": 2,
+    "won": 240,
+    "fees": 90,
+    "best_pct": 99.94278142504366,
+    "avg_pct": 65.79533819189304,
+    "top5": 1,
+    "top1": 1,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 364.5,
+    "wr_pts": 242.44,
+    "rb_sal": 109800,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 10000,
+       "pts": 38.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9300,
+       "pts": 23.3,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7200,
+       "pts": 10.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 6500,
+       "pts": 15.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Michael Wilson",
+       "team": "ARI",
+       "salary": 6400,
+       "pts": 5.28,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Matthew Golden",
+       "team": "GB",
+       "salary": 6300,
+       "pts": 20.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6200,
+       "pts": 20.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "AJ Barner",
+       "team": "SEA",
+       "salary": 4800,
+       "pts": 3.5,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Washington Commanders",
+       "team": "WAS",
+       "salary": 3300,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 10000,
+       "pts": 38.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9300,
+       "pts": 23.3,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7200,
+       "pts": 10.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 6500,
+       "pts": 15.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Michael Wilson",
+       "team": "ARI",
+       "salary": 6400,
+       "pts": 5.28,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Braelon Allen",
+       "team": "NYJ",
+       "salary": 5900,
+       "pts": 21.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Tucker Kraft",
+       "team": "GB",
+       "salary": 5600,
+       "pts": 9.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5000,
+       "pts": 3.3,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New York Jets",
+       "team": "NYJ",
+       "salary": 4000,
+       "pts": 16.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Amon-Ra St. Brown",
+       "team": "DET",
+       "salary": 9000,
+       "pts": 9.9,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 8000,
+       "pts": 5.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Trey McBride",
+       "team": "ARI",
+       "salary": 7200,
+       "pts": 17.1,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Jacoby Brissett",
+       "team": "ARI",
+       "salary": 6800,
+       "pts": 25.78,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6700,
+       "pts": 36.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Michael Wilson",
+       "team": "ARI",
+       "salary": 6400,
+       "pts": 5.28,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Matthew Golden",
+       "team": "GB",
+       "salary": 6300,
+       "pts": 20.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6200,
+       "pts": 20.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "DST",
+       "name": "Washington Commanders",
+       "team": "WAS",
+       "salary": 3300,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 10000,
+       "pts": 38.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Jordan Love",
+       "team": "GB",
+       "salary": 7400,
+       "pts": 28.28,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Trey McBride",
+       "team": "ARI",
+       "salary": 7200,
+       "pts": 17.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Christian Watson",
+       "team": "GB",
+       "salary": 7000,
+       "pts": 32.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6700,
+       "pts": 36.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Matthew Golden",
+       "team": "GB",
+       "salary": 6300,
+       "pts": 20.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Braelon Allen",
+       "team": "NYJ",
+       "salary": 5900,
+       "pts": 21.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Tre' Harris",
+       "team": "LAC",
+       "salary": 5500,
+       "pts": 2.6,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New York Jets",
+       "team": "NYJ",
+       "salary": 4000,
+       "pts": 16.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 8000,
+       "pts": 5.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Justin Jefferson",
+       "team": "MIN",
+       "salary": 8000,
+       "pts": 15.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7400,
+       "pts": 22.9,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Jordan Love",
+       "team": "GB",
+       "salary": 7400,
+       "pts": 28.28,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Christian Watson",
+       "team": "GB",
+       "salary": 7000,
+       "pts": 32.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6700,
+       "pts": 36.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 6500,
+       "pts": 15.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Tucker Kraft",
+       "team": "GB",
+       "salary": 5600,
+       "pts": 9.1,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Washington Commanders",
+       "team": "WAS",
+       "salary": 3300,
+       "pts": 6.0,
+       "elig": null
+      }
+     ]
+    ]
+   }
+  },
+  "fees": 360,
+  "won": 470,
+  "roi": 30.555555555555557,
+  "cash": 8,
+  "top5": 3,
+  "top1": 2,
+  "zeros_all": 0,
+  "zeros_rb": 0,
+  "rb_pts": 1114.2,
+  "wr_pts": 838.66,
+  "rb_sal": 495900
+ },
+ "props_nogate": {
+  "name": "props projection, NO role gate",
+  "cfg": {
+   "mode": "nogate",
+   "use_props": true
+  },
+  "per": {
+   "wk2": {
+    "qbs": [
+     "Justin Herbert",
+     "Baker Mayfield",
+     "Bo Nix"
+    ],
+    "n": 6,
+    "cash": 0,
+    "won": 0,
+    "fees": 90,
+    "best_pct": 46.25001219428917,
+    "avg_pct": 28.14722409201323,
+    "top5": 0,
+    "top1": 0,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 219.2,
+    "wr_pts": 151.3,
+    "rb_sal": 142100,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 9000,
+       "pts": 20.6,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Bijan Robinson",
+       "team": "ATL",
+       "salary": 8900,
+       "pts": 9.6,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Javonte Williams",
+       "team": "DAL",
+       "salary": 7400,
+       "pts": 6.5,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Justin Herbert",
+       "team": "LAC",
+       "salary": 7400,
+       "pts": 9.88,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Terry McLaurin",
+       "team": "WAS",
+       "salary": 6000,
+       "pts": 6.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Quentin Johnston",
+       "team": "LAC",
+       "salary": 5800,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5200,
+       "pts": 7.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "San Francisco 49ers",
+       "team": "SF",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tre' Harris",
+       "team": "LAC",
+       "salary": 4900,
+       "pts": 5.8,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 9000,
+       "pts": 20.6,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Bijan Robinson",
+       "team": "ATL",
+       "salary": 8900,
+       "pts": 9.6,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Justin Herbert",
+       "team": "LAC",
+       "salary": 7400,
+       "pts": 9.88,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7200,
+       "pts": 14.2,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 5900,
+       "pts": 13.5,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "Colston Loveland",
+       "team": "CHI",
+       "salary": 5800,
+       "pts": 0.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Quentin Johnston",
+       "team": "LAC",
+       "salary": 5800,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Philadelphia Eagles",
+       "team": "PHI",
+       "salary": 4900,
+       "pts": 3.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tre' Harris",
+       "team": "LAC",
+       "salary": 4900,
+       "pts": 5.8,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Bijan Robinson",
+       "team": "ATL",
+       "salary": 8900,
+       "pts": 9.6,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Baker Mayfield",
+       "team": "TB",
+       "salary": 7600,
+       "pts": 13.18,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Javonte Williams",
+       "team": "DAL",
+       "salary": 7400,
+       "pts": 6.5,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7200,
+       "pts": 14.2,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Emeka Egbuka",
+       "team": "TB",
+       "salary": 6500,
+       "pts": 8.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 5900,
+       "pts": 13.5,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Chris Godwin Jr.",
+       "team": "TB",
+       "salary": 5800,
+       "pts": 7.3,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5200,
+       "pts": 7.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "San Francisco 49ers",
+       "team": "SF",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 9000,
+       "pts": 20.6,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 8700,
+       "pts": 16.2,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Baker Mayfield",
+       "team": "TB",
+       "salary": 7600,
+       "pts": 13.18,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Emeka Egbuka",
+       "team": "TB",
+       "salary": 6500,
+       "pts": 8.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Terry McLaurin",
+       "team": "WAS",
+       "salary": 6000,
+       "pts": 6.0,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 5900,
+       "pts": 13.5,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Chris Godwin Jr.",
+       "team": "TB",
+       "salary": 5800,
+       "pts": 7.3,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5200,
+       "pts": 7.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Philadelphia Eagles",
+       "team": "PHI",
+       "salary": 4900,
+       "pts": 3.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 8700,
+       "pts": 16.2,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Ashton Jeanty",
+       "team": "LV",
+       "salary": 7700,
+       "pts": 8.3,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Javonte Williams",
+       "team": "DAL",
+       "salary": 7400,
+       "pts": 6.5,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Bo Nix",
+       "team": "DEN",
+       "salary": 7300,
+       "pts": 15.12,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jaylen Waddle",
+       "team": "DEN",
+       "salary": 6700,
+       "pts": 20.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Courtland Sutton",
+       "team": "DEN",
+       "salary": 6100,
+       "pts": 4.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Quentin Johnston",
+       "team": "LAC",
+       "salary": 5800,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Michael Mayer",
+       "team": "LV",
+       "salary": 5300,
+       "pts": 3.8,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Philadelphia Eagles",
+       "team": "PHI",
+       "salary": 4900,
+       "pts": 3.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 8700,
+       "pts": 16.2,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Ashton Jeanty",
+       "team": "LV",
+       "salary": 7700,
+       "pts": 8.3,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Bo Nix",
+       "team": "DEN",
+       "salary": 7300,
+       "pts": 15.12,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7200,
+       "pts": 14.2,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "David Montgomery",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 3.4,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaylen Waddle",
+       "team": "DEN",
+       "salary": 6700,
+       "pts": 20.8,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Michael Mayer",
+       "team": "LV",
+       "salary": 5300,
+       "pts": 3.8,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "San Francisco 49ers",
+       "team": "SF",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Pat Bryant",
+       "team": "DEN",
+       "salary": 5000,
+       "pts": 1.6,
+       "elig": null
+      }
+     ]
+    ]
+   },
+   "wk3": {
+    "qbs": [
+     "Sam Darnold",
+     "Tyler Shough",
+     "Bryce Young"
+    ],
+    "n": 6,
+    "cash": 4,
+    "won": 180,
+    "fees": 90,
+    "best_pct": 99.02314144238218,
+    "avg_pct": 63.90605876870908,
+    "top5": 2,
+    "top1": 1,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 352.1,
+    "wr_pts": 222.82,
+    "rb_sal": 137100,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 9200,
+       "pts": 37.9,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9200,
+       "pts": 33.36,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8300,
+       "pts": 20.3,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 6900,
+       "pts": 32.66,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6300,
+       "pts": 22.1,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Jalen Coker",
+       "team": "CAR",
+       "salary": 6200,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Travis Kelce",
+       "team": "KC",
+       "salary": 5500,
+       "pts": 12.9,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5300,
+       "pts": 2.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tennessee Titans",
+       "team": "TEN",
+       "salary": 3100,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 9200,
+       "pts": 37.9,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9200,
+       "pts": 33.36,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7300,
+       "pts": 24.7,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 6900,
+       "pts": 32.66,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chuba Hubbard",
+       "team": "CAR",
+       "salary": 6700,
+       "pts": 13.0,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6300,
+       "pts": 22.1,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Kincaid",
+       "team": "BUF",
+       "salary": 5700,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5300,
+       "pts": 2.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New Orleans Saints",
+       "team": "NO",
+       "salary": 3400,
+       "pts": 1.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 9200,
+       "pts": 37.9,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8300,
+       "pts": 20.3,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Chris Olave",
+       "team": "NO",
+       "salary": 8100,
+       "pts": 18.2,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Tyler Shough",
+       "team": "NO",
+       "salary": 7500,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chuba Hubbard",
+       "team": "CAR",
+       "salary": 6700,
+       "pts": 13.0,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Devaughn Vele",
+       "team": "NO",
+       "salary": 5700,
+       "pts": 5.4,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Kincaid",
+       "team": "BUF",
+       "salary": 5700,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashod Bateman",
+       "team": "BAL",
+       "salary": 5600,
+       "pts": 4.7,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tennessee Titans",
+       "team": "TEN",
+       "salary": 3100,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8300,
+       "pts": 20.3,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Chris Olave",
+       "team": "NO",
+       "salary": 8100,
+       "pts": 18.2,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Tyler Shough",
+       "team": "NO",
+       "salary": 7500,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7300,
+       "pts": 24.7,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chuba Hubbard",
+       "team": "CAR",
+       "salary": 6700,
+       "pts": 13.0,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6300,
+       "pts": 22.1,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Devaughn Vele",
+       "team": "NO",
+       "salary": 5700,
+       "pts": 5.4,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5300,
+       "pts": 3.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Seattle Seahawks",
+       "team": "SEA",
+       "salary": 4800,
+       "pts": 2.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8900,
+       "pts": 19.6,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Jonathan Taylor",
+       "team": "IND",
+       "salary": 8500,
+       "pts": 8.2,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Bryce Young",
+       "team": "CAR",
+       "salary": 7600,
+       "pts": 14.64,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7300,
+       "pts": 24.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tetairoa McMillan",
+       "team": "CAR",
+       "salary": 6800,
+       "pts": 2.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jalen Coker",
+       "team": "CAR",
+       "salary": 6200,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Quinshon Judkins",
+       "team": "CLE",
+       "salary": 6100,
+       "pts": 8.9,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "Travis Kelce",
+       "team": "KC",
+       "salary": 5500,
+       "pts": 12.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tennessee Titans",
+       "team": "TEN",
+       "salary": 3100,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8900,
+       "pts": 19.6,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Bryce Young",
+       "team": "CAR",
+       "salary": 7600,
+       "pts": 14.64,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 11.5,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Breece Hall",
+       "team": "NYJ",
+       "salary": 7100,
+       "pts": 7.0,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Tetairoa McMillan",
+       "team": "CAR",
+       "salary": 6800,
+       "pts": 2.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jalen Coker",
+       "team": "CAR",
+       "salary": 6200,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Quinshon Judkins",
+       "team": "CLE",
+       "salary": 6100,
+       "pts": 8.9,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5300,
+       "pts": 3.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Seattle Seahawks",
+       "team": "SEA",
+       "salary": 4800,
+       "pts": 2.0,
+       "elig": null
+      }
+     ]
+    ]
+   },
+   "wk4": {
+    "qbs": [
+     "C.J. Stroud",
+     "Sam Darnold",
+     "Kyler Murray"
+    ],
+    "n": 6,
+    "cash": 3,
+    "won": 75,
+    "fees": 90,
+    "best_pct": 82.82433781640923,
+    "avg_pct": 55.64821884196994,
+    "top5": 0,
+    "top1": 0,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 264.8,
+    "wr_pts": 201.1,
+    "rb_sal": 131800,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8500,
+       "pts": 33.4,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Nico Collins",
+       "team": "HOU",
+       "salary": 7400,
+       "pts": 30.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 1.5,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "C.J. Stroud",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 26.08,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jeremiyah Love",
+       "team": "ARI",
+       "salary": 6600,
+       "pts": 6.0,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Jordan Addison",
+       "team": "MIN",
+       "salary": 6500,
+       "pts": 7.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6400,
+       "pts": 14.8,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Schultz",
+       "team": "HOU",
+       "salary": 5600,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Baltimore Ravens",
+       "team": "BAL",
+       "salary": 4900,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8800,
+       "pts": 14.5,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Nico Collins",
+       "team": "HOU",
+       "salary": 7400,
+       "pts": 30.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Zay Flowers",
+       "team": "BAL",
+       "salary": 7300,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "C.J. Stroud",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 26.08,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jeremiyah Love",
+       "team": "ARI",
+       "salary": 6600,
+       "pts": 6.0,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6400,
+       "pts": 14.8,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Dontayvion Wicks",
+       "team": "PHI",
+       "salary": 5900,
+       "pts": 3.3,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Schultz",
+       "team": "HOU",
+       "salary": 5600,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Minnesota Vikings",
+       "team": "MIN",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9500,
+       "pts": 10.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8800,
+       "pts": 14.5,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7500,
+       "pts": 14.32,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 1.5,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jordan Addison",
+       "team": "MIN",
+       "salary": 6500,
+       "pts": 7.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6400,
+       "pts": 14.8,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Braelon Allen",
+       "team": "NYJ",
+       "salary": 5700,
+       "pts": 7.7,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "AJ Barner",
+       "team": "SEA",
+       "salary": 4900,
+       "pts": 1.7,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Chicago Bears",
+       "team": "CHI",
+       "salary": 3500,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9500,
+       "pts": 10.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8500,
+       "pts": 33.4,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7500,
+       "pts": 14.32,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jeremiyah Love",
+       "team": "ARI",
+       "salary": 6600,
+       "pts": 6.0,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Jordan Addison",
+       "team": "MIN",
+       "salary": 6500,
+       "pts": 7.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Luther Burden III",
+       "team": "CHI",
+       "salary": 5800,
+       "pts": 9.4,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Braelon Allen",
+       "team": "NYJ",
+       "salary": 5700,
+       "pts": 7.7,
+       "elig": "open"
+      },
+      {
+       "pos": "DST",
+       "name": "Minnesota Vikings",
+       "team": "MIN",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "AJ Barner",
+       "team": "SEA",
+       "salary": 4900,
+       "pts": 1.7,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8800,
+       "pts": 14.5,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8500,
+       "pts": 33.4,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Zay Flowers",
+       "team": "BAL",
+       "salary": 7300,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Kyler Murray",
+       "team": "MIN",
+       "salary": 7200,
+       "pts": 11.48,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 1.5,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Braelon Allen",
+       "team": "NYJ",
+       "salary": 5700,
+       "pts": 7.7,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Jauan Jennings",
+       "team": "MIN",
+       "salary": 5400,
+       "pts": 1.3,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Minnesota Vikings",
+       "team": "MIN",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "T.J. Hockenson",
+       "team": "MIN",
+       "salary": 4900,
+       "pts": 21.4,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 9100,
+       "pts": 14.9,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Garrett Wilson",
+       "team": "NYJ",
+       "salary": 7600,
+       "pts": 4.2,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 7600,
+       "pts": 13.6,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Zay Flowers",
+       "team": "BAL",
+       "salary": 7300,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Kyler Murray",
+       "team": "MIN",
+       "salary": 7200,
+       "pts": 11.48,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Cam Skattebo",
+       "team": "NYG",
+       "salary": 7100,
+       "pts": 7.1,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "T.J. Hockenson",
+       "team": "MIN",
+       "salary": 4900,
+       "pts": 21.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Baltimore Ravens",
+       "team": "BAL",
+       "salary": 4900,
+       "pts": 6.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tai Felton",
+       "team": "MIN",
+       "salary": 4300,
+       "pts": 1.9,
+       "elig": null
+      }
+     ]
+    ]
+   },
+   "wk5": {
+    "qbs": [
+     "Sam Darnold",
+     "Jacoby Brissett",
+     "Jordan Love"
+    ],
+    "n": 6,
+    "cash": 3,
+    "won": 120,
+    "fees": 90,
+    "best_pct": 95.99068441446325,
+    "avg_pct": 80.29807196825205,
+    "top5": 1,
+    "top1": 0,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 415.5,
+    "wr_pts": 255.24,
+    "rb_sal": 130500,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 10000,
+       "pts": 38.2,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9300,
+       "pts": 23.3,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7200,
+       "pts": 10.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 6500,
+       "pts": 15.3,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Michael Wilson",
+       "team": "ARI",
+       "salary": 6400,
+       "pts": 5.28,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Matthew Golden",
+       "team": "GB",
+       "salary": 6300,
+       "pts": 20.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6200,
+       "pts": 20.2,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "AJ Barner",
+       "team": "SEA",
+       "salary": 4800,
+       "pts": 3.5,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Washington Commanders",
+       "team": "WAS",
+       "salary": 3300,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 10000,
+       "pts": 38.2,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9300,
+       "pts": 23.3,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7200,
+       "pts": 10.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 6500,
+       "pts": 15.3,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Michael Wilson",
+       "team": "ARI",
+       "salary": 6400,
+       "pts": 5.28,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Braelon Allen",
+       "team": "NYJ",
+       "salary": 5900,
+       "pts": 21.1,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "Tucker Kraft",
+       "team": "GB",
+       "salary": 5600,
+       "pts": 9.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5000,
+       "pts": 3.3,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New York Jets",
+       "team": "NYJ",
+       "salary": 4000,
+       "pts": 16.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Amon-Ra St. Brown",
+       "team": "DET",
+       "salary": 9000,
+       "pts": 9.9,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 8000,
+       "pts": 5.5,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "Trey McBride",
+       "team": "ARI",
+       "salary": 7200,
+       "pts": 17.1,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Jacoby Brissett",
+       "team": "ARI",
+       "salary": 6800,
+       "pts": 25.78,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6700,
+       "pts": 36.8,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Michael Wilson",
+       "team": "ARI",
+       "salary": 6400,
+       "pts": 5.28,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Matthew Golden",
+       "team": "GB",
+       "salary": 6300,
+       "pts": 20.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6200,
+       "pts": 20.2,
+       "elig": "open"
+      },
+      {
+       "pos": "DST",
+       "name": "Washington Commanders",
+       "team": "WAS",
+       "salary": 3300,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 10000,
+       "pts": 38.2,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Amon-Ra St. Brown",
+       "team": "DET",
+       "salary": 9000,
+       "pts": 9.9,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Trey McBride",
+       "team": "ARI",
+       "salary": 7200,
+       "pts": 17.1,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Jacoby Brissett",
+       "team": "ARI",
+       "salary": 6800,
+       "pts": 25.78,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6700,
+       "pts": 36.8,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Braelon Allen",
+       "team": "NYJ",
+       "salary": 5900,
+       "pts": 21.1,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Tre' Harris",
+       "team": "LAC",
+       "salary": 5500,
+       "pts": 2.6,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Kendrick Bourne",
+       "team": "ARI",
+       "salary": 4900,
+       "pts": 9.5,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New York Jets",
+       "team": "NYJ",
+       "salary": 4000,
+       "pts": 16.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jonathan Taylor",
+       "team": "IND",
+       "salary": 8600,
+       "pts": 9.7,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Jordan Love",
+       "team": "GB",
+       "salary": 7400,
+       "pts": 28.28,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Trey McBride",
+       "team": "ARI",
+       "salary": 7200,
+       "pts": 17.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Christian Watson",
+       "team": "GB",
+       "salary": 7000,
+       "pts": 32.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 6500,
+       "pts": 15.3,
+       "elig": "open"
+      },
+      {
+       "pos": "WR",
+       "name": "Matthew Golden",
+       "team": "GB",
+       "salary": 6300,
+       "pts": 20.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Josh Downs",
+       "team": "IND",
+       "salary": 6100,
+       "pts": 6.2,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Braelon Allen",
+       "team": "NYJ",
+       "salary": 5900,
+       "pts": 21.1,
+       "elig": "open"
+      },
+      {
+       "pos": "DST",
+       "name": "Houston Texans",
+       "team": "HOU",
+       "salary": 5000,
+       "pts": 15.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9300,
+       "pts": 23.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 8000,
+       "pts": 5.5,
+       "elig": "open"
+      },
+      {
+       "pos": "QB",
+       "name": "Jordan Love",
+       "team": "GB",
+       "salary": 7400,
+       "pts": 28.28,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Christian Watson",
+       "team": "GB",
+       "salary": 7000,
+       "pts": 32.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6700,
+       "pts": 36.8,
+       "elig": "open"
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6200,
+       "pts": 20.2,
+       "elig": "open"
+      },
+      {
+       "pos": "TE",
+       "name": "Tucker Kraft",
+       "team": "GB",
+       "salary": 5600,
+       "pts": 9.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tre' Harris",
+       "team": "LAC",
+       "salary": 5500,
+       "pts": 2.6,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New York Jets",
+       "team": "NYJ",
+       "salary": 4000,
+       "pts": 16.0,
+       "elig": null
+      }
+     ]
+    ]
+   }
+  },
+  "fees": 360,
+  "won": 375,
+  "roi": 4.166666666666667,
+  "cash": 10,
+  "top5": 3,
+  "top1": 1,
+  "zeros_all": 0,
+  "zeros_rb": 0,
+  "rb_pts": 1251.6,
+  "wr_pts": 830.46,
+  "rb_sal": 541500
+ },
+ "props_blend": {
+  "name": "props 50/50 blend w/ salary + gate",
+  "cfg": {
+   "mode": "flat",
+   "use_props": true,
+   "blend": 0.5
+  },
+  "per": {
+   "wk2": {
+    "qbs": [
+     "Justin Herbert",
+     "Baker Mayfield",
+     "Bo Nix"
+    ],
+    "n": 6,
+    "cash": 2,
+    "won": 70,
+    "fees": 90,
+    "best_pct": 95.18740183597218,
+    "avg_pct": 55.02701441527571,
+    "top5": 1,
+    "top1": 0,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 205.6,
+    "wr_pts": 244.29999999999998,
+    "rb_sal": 136400,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Bijan Robinson",
+       "team": "ATL",
+       "salary": 8900,
+       "pts": 9.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 8700,
+       "pts": 16.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Javonte Williams",
+       "team": "DAL",
+       "salary": 7400,
+       "pts": 6.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Justin Herbert",
+       "team": "LAC",
+       "salary": 7400,
+       "pts": 9.88,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jaylen Waddle",
+       "team": "DEN",
+       "salary": 6700,
+       "pts": 20.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Quentin Johnston",
+       "team": "LAC",
+       "salary": 5800,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5200,
+       "pts": 7.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "San Francisco 49ers",
+       "team": "SF",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tre' Harris",
+       "team": "LAC",
+       "salary": 4900,
+       "pts": 5.8,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 8700,
+       "pts": 16.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "CeeDee Lamb",
+       "team": "DAL",
+       "salary": 8500,
+       "pts": 34.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Javonte Williams",
+       "team": "DAL",
+       "salary": 7400,
+       "pts": 6.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Justin Herbert",
+       "team": "LAC",
+       "salary": 7400,
+       "pts": 9.88,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 7100,
+       "pts": 10.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Quentin Johnston",
+       "team": "LAC",
+       "salary": 5800,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Schultz",
+       "team": "HOU",
+       "salary": 5200,
+       "pts": 23.0,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Philadelphia Eagles",
+       "team": "PHI",
+       "salary": 4900,
+       "pts": 3.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tre' Harris",
+       "team": "LAC",
+       "salary": 4900,
+       "pts": 5.8,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Bijan Robinson",
+       "team": "ATL",
+       "salary": 8900,
+       "pts": 9.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "George Pickens",
+       "team": "DAL",
+       "salary": 8000,
+       "pts": 7.0,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Baker Mayfield",
+       "team": "TB",
+       "salary": 7600,
+       "pts": 13.18,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Javonte Williams",
+       "team": "DAL",
+       "salary": 7400,
+       "pts": 6.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Emeka Egbuka",
+       "team": "TB",
+       "salary": 6500,
+       "pts": 8.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Luther Burden III",
+       "team": "CHI",
+       "salary": 6000,
+       "pts": 4.7,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 5900,
+       "pts": 13.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "DST",
+       "name": "Philadelphia Eagles",
+       "team": "PHI",
+       "salary": 4900,
+       "pts": 3.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Cade Otton",
+       "team": "TB",
+       "salary": 4800,
+       "pts": 6.3,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Bijan Robinson",
+       "team": "ATL",
+       "salary": 8900,
+       "pts": 9.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 8700,
+       "pts": 16.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "CeeDee Lamb",
+       "team": "DAL",
+       "salary": 8500,
+       "pts": 34.3,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Baker Mayfield",
+       "team": "TB",
+       "salary": 7600,
+       "pts": 13.18,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Emeka Egbuka",
+       "team": "TB",
+       "salary": 6500,
+       "pts": 8.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 5900,
+       "pts": 13.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Rashod Bateman",
+       "team": "BAL",
+       "salary": 5000,
+       "pts": 18.3,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Cade Otton",
+       "team": "TB",
+       "salary": 4800,
+       "pts": 6.3,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New England Patriots",
+       "team": "NE",
+       "salary": 4100,
+       "pts": 21.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "CeeDee Lamb",
+       "team": "DAL",
+       "salary": 8500,
+       "pts": 34.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "George Pickens",
+       "team": "DAL",
+       "salary": 8000,
+       "pts": 7.0,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Omarion Hampton",
+       "team": "LAC",
+       "salary": 7300,
+       "pts": 16.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Bo Nix",
+       "team": "DEN",
+       "salary": 7300,
+       "pts": 15.12,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "David Montgomery",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 3.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Courtland Sutton",
+       "team": "DEN",
+       "salary": 6100,
+       "pts": 4.0,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 5900,
+       "pts": 13.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Evan Engram",
+       "team": "DEN",
+       "salary": 5000,
+       "pts": 2.2,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Philadelphia Eagles",
+       "team": "PHI",
+       "salary": 4900,
+       "pts": 3.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9000,
+       "pts": 41.0,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Bucky Irving",
+       "team": "TB",
+       "salary": 7900,
+       "pts": 11.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Omarion Hampton",
+       "team": "LAC",
+       "salary": 7300,
+       "pts": 16.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Bo Nix",
+       "team": "DEN",
+       "salary": 7300,
+       "pts": 15.12,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 7100,
+       "pts": 10.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Courtland Sutton",
+       "team": "DEN",
+       "salary": 6100,
+       "pts": 4.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5200,
+       "pts": 7.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "San Francisco 49ers",
+       "team": "SF",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Pat Bryant",
+       "team": "DEN",
+       "salary": 5000,
+       "pts": 1.6,
+       "elig": null
+      }
+     ]
+    ]
+   },
+   "wk3": {
+    "qbs": [
+     "Sam Darnold",
+     "Tyler Shough",
+     "Bryce Young"
+    ],
+    "n": 6,
+    "cash": 3,
+    "won": 130,
+    "fees": 90,
+    "best_pct": 98.52460673021861,
+    "avg_pct": 68.97407394931564,
+    "top5": 1,
+    "top1": 0,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 413.3,
+    "wr_pts": 160.92,
+    "rb_sal": 145700,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 9200,
+       "pts": 37.9,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9200,
+       "pts": 33.36,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8300,
+       "pts": 20.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 6900,
+       "pts": 32.66,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chuba Hubbard",
+       "team": "CAR",
+       "salary": 6700,
+       "pts": 13.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Kincaid",
+       "team": "BUF",
+       "salary": 5700,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashod Bateman",
+       "team": "BAL",
+       "salary": 5600,
+       "pts": 4.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5300,
+       "pts": 2.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tennessee Titans",
+       "team": "TEN",
+       "salary": 3100,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 9200,
+       "pts": 37.9,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9200,
+       "pts": 33.36,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8900,
+       "pts": 19.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 6900,
+       "pts": 32.66,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6300,
+       "pts": 22.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Rashod Bateman",
+       "team": "BAL",
+       "salary": 5600,
+       "pts": 4.7,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5300,
+       "pts": 3.9,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Cooper Kupp",
+       "team": "SEA",
+       "salary": 5200,
+       "pts": 12.6,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New Orleans Saints",
+       "team": "NO",
+       "salary": 3400,
+       "pts": 1.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 9200,
+       "pts": 37.9,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8300,
+       "pts": 20.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Chris Olave",
+       "team": "NO",
+       "salary": 8100,
+       "pts": 18.2,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Tyler Shough",
+       "team": "NO",
+       "salary": 7500,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chuba Hubbard",
+       "team": "CAR",
+       "salary": 6700,
+       "pts": 13.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Khalil Shakir",
+       "team": "BUF",
+       "salary": 5900,
+       "pts": 1.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Devaughn Vele",
+       "team": "NO",
+       "salary": 5700,
+       "pts": 5.4,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Travis Kelce",
+       "team": "KC",
+       "salary": 5500,
+       "pts": 12.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tennessee Titans",
+       "team": "TEN",
+       "salary": 3100,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Amon-Ra St. Brown",
+       "team": "DET",
+       "salary": 9000,
+       "pts": 9.9,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8900,
+       "pts": 19.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8300,
+       "pts": 20.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Tyler Shough",
+       "team": "NO",
+       "salary": 7500,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6300,
+       "pts": 22.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Devaughn Vele",
+       "team": "NO",
+       "salary": 5700,
+       "pts": 5.4,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashod Bateman",
+       "team": "BAL",
+       "salary": 5600,
+       "pts": 4.7,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Juwan Johnson",
+       "team": "NO",
+       "salary": 5200,
+       "pts": 19.3,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New Orleans Saints",
+       "team": "NO",
+       "salary": 3400,
+       "pts": 1.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 9000,
+       "pts": 21.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8900,
+       "pts": 19.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "James Cook III",
+       "team": "BUF",
+       "salary": 8100,
+       "pts": 22.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Bryce Young",
+       "team": "CAR",
+       "salary": 7600,
+       "pts": 14.64,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tetairoa McMillan",
+       "team": "CAR",
+       "salary": 6800,
+       "pts": 2.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jalen Coker",
+       "team": "CAR",
+       "salary": 6200,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Travis Kelce",
+       "team": "KC",
+       "salary": 5500,
+       "pts": 12.9,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Isaiah Williams",
+       "team": "NYJ",
+       "salary": 4800,
+       "pts": 2.6,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tennessee Titans",
+       "team": "TEN",
+       "salary": 3100,
+       "pts": 7.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 9000,
+       "pts": 21.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "James Cook III",
+       "team": "BUF",
+       "salary": 8100,
+       "pts": 22.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Bryce Young",
+       "team": "CAR",
+       "salary": 7600,
+       "pts": 14.64,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 11.5,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tetairoa McMillan",
+       "team": "CAR",
+       "salary": 6800,
+       "pts": 2.7,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6300,
+       "pts": 22.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jalen Coker",
+       "team": "CAR",
+       "salary": 6200,
+       "pts": 2.8,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Mark Andrews",
+       "team": "BAL",
+       "salary": 5300,
+       "pts": 3.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Cincinnati Bengals",
+       "team": "CIN",
+       "salary": 3600,
+       "pts": 3.0,
+       "elig": null
+      }
+     ]
+    ]
+   },
+   "wk4": {
+    "qbs": [
+     "C.J. Stroud",
+     "Sam Darnold",
+     "Kyler Murray"
+    ],
+    "n": 5,
+    "cash": 3,
+    "won": 95,
+    "fees": 90,
+    "best_pct": 95.82623676122238,
+    "avg_pct": 66.72033959136796,
+    "top5": 1,
+    "top1": 0,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 247.3,
+    "wr_pts": 226.0,
+    "rb_sal": 114000,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 7600,
+       "pts": 13.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Nico Collins",
+       "team": "HOU",
+       "salary": 7400,
+       "pts": 30.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Zay Flowers",
+       "team": "BAL",
+       "salary": 7300,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 1.5,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "C.J. Stroud",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 26.08,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jeremiyah Love",
+       "team": "ARI",
+       "salary": 6600,
+       "pts": 6.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6400,
+       "pts": 14.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Schultz",
+       "team": "HOU",
+       "salary": 5600,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Minnesota Vikings",
+       "team": "MIN",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8500,
+       "pts": 33.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Nico Collins",
+       "team": "HOU",
+       "salary": 7400,
+       "pts": 30.3,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "C.J. Stroud",
+       "team": "HOU",
+       "salary": 7000,
+       "pts": 26.08,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tee Higgins",
+       "team": "CIN",
+       "salary": 6900,
+       "pts": 24.2,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jeremiyah Love",
+       "team": "ARI",
+       "salary": 6600,
+       "pts": 6.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jordan Addison",
+       "team": "MIN",
+       "salary": 6500,
+       "pts": 7.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6400,
+       "pts": 14.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Dalton Schultz",
+       "team": "HOU",
+       "salary": 5600,
+       "pts": 1.9,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Baltimore Ravens",
+       "team": "BAL",
+       "salary": 4900,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8800,
+       "pts": 14.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8500,
+       "pts": 33.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7500,
+       "pts": 14.32,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Zay Flowers",
+       "team": "BAL",
+       "salary": 7300,
+       "pts": 24.8,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jordan Addison",
+       "team": "MIN",
+       "salary": 6500,
+       "pts": 7.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6400,
+       "pts": 14.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5100,
+       "pts": 11.8,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Minnesota Vikings",
+       "team": "MIN",
+       "salary": 5000,
+       "pts": 8.0,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "AJ Barner",
+       "team": "SEA",
+       "salary": 4900,
+       "pts": 1.7,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9500,
+       "pts": 10.1,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Kenneth Walker III",
+       "team": "KC",
+       "salary": 8500,
+       "pts": 33.4,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 7600,
+       "pts": 13.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7500,
+       "pts": 14.32,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Parker Washington",
+       "team": "JAX",
+       "salary": 7100,
+       "pts": 1.5,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jeremiyah Love",
+       "team": "ARI",
+       "salary": 6600,
+       "pts": 6.0,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5100,
+       "pts": 11.8,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "T.J. Hockenson",
+       "team": "MIN",
+       "salary": 4900,
+       "pts": 21.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tampa Bay Buccaneers",
+       "team": "TB",
+       "salary": 3200,
+       "pts": 5.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Derrick Henry",
+       "team": "BAL",
+       "salary": 9100,
+       "pts": 14.9,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Christian McCaffrey",
+       "team": "SF",
+       "salary": 8800,
+       "pts": 14.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 7600,
+       "pts": 13.6,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Kyler Murray",
+       "team": "MIN",
+       "salary": 7200,
+       "pts": 11.48,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Tee Higgins",
+       "team": "CIN",
+       "salary": 6900,
+       "pts": 24.2,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jordan Addison",
+       "team": "MIN",
+       "salary": 6500,
+       "pts": 7.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Luther Burden III",
+       "team": "CHI",
+       "salary": 5800,
+       "pts": 9.4,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "T.J. Hockenson",
+       "team": "MIN",
+       "salary": 4900,
+       "pts": 21.4,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Tampa Bay Buccaneers",
+       "team": "TB",
+       "salary": 3200,
+       "pts": 5.0,
+       "elig": null
+      }
+     ],
+     []
+    ]
+   },
+   "wk5": {
+    "qbs": [
+     "Sam Darnold",
+     "Jacoby Brissett",
+     "Jordan Love"
+    ],
+    "n": 5,
+    "cash": 2,
+    "won": 90,
+    "fees": 90,
+    "best_pct": 98.88775120962075,
+    "avg_pct": 60.55900205451491,
+    "top5": 1,
+    "top1": 0,
+    "zeros_all": 0,
+    "zeros_rb": 0,
+    "rb_pts": 347.6,
+    "wr_pts": 201.44,
+    "rb_sal": 109700,
+    "lineups": [
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 10000,
+       "pts": 38.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jaxon Smith-Njigba",
+       "team": "SEA",
+       "salary": 9300,
+       "pts": 23.3,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7200,
+       "pts": 10.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 6500,
+       "pts": 15.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Michael Wilson",
+       "team": "ARI",
+       "salary": 6400,
+       "pts": 5.28,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Aaron Jones Sr.",
+       "team": "MIN",
+       "salary": 6200,
+       "pts": 20.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Sam LaPorta",
+       "team": "DET",
+       "salary": 6000,
+       "pts": 17.3,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5000,
+       "pts": 3.3,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Washington Commanders",
+       "team": "WAS",
+       "salary": 3300,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 10000,
+       "pts": 38.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Amon-Ra St. Brown",
+       "team": "DET",
+       "salary": 9000,
+       "pts": 9.9,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Sam Darnold",
+       "team": "SEA",
+       "salary": 7200,
+       "pts": 10.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6700,
+       "pts": 36.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 6500,
+       "pts": 15.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Michael Wilson",
+       "team": "ARI",
+       "salary": 6400,
+       "pts": 5.28,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Rashid Shaheed",
+       "team": "SEA",
+       "salary": 5000,
+       "pts": 3.3,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "AJ Barner",
+       "team": "SEA",
+       "salary": 4800,
+       "pts": 3.5,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New York Jets",
+       "team": "NYJ",
+       "salary": 4000,
+       "pts": 16.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "WR",
+       "name": "Amon-Ra St. Brown",
+       "team": "DET",
+       "salary": 9000,
+       "pts": 9.9,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 8000,
+       "pts": 5.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Trey McBride",
+       "team": "ARI",
+       "salary": 7200,
+       "pts": 17.1,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Jacoby Brissett",
+       "team": "ARI",
+       "salary": 6800,
+       "pts": 25.78,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6700,
+       "pts": 36.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jameson Williams",
+       "team": "DET",
+       "salary": 6500,
+       "pts": 17.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Michael Wilson",
+       "team": "ARI",
+       "salary": 6400,
+       "pts": 5.28,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Emanuel Wilson",
+       "team": "SEA",
+       "salary": 6000,
+       "pts": 12.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "DST",
+       "name": "Washington Commanders",
+       "team": "WAS",
+       "salary": 3300,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [],
+     [
+      {
+       "pos": "RB",
+       "name": "Jahmyr Gibbs",
+       "team": "DET",
+       "salary": 10000,
+       "pts": 38.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Amon-Ra St. Brown",
+       "team": "DET",
+       "salary": 9000,
+       "pts": 9.9,
+       "elig": null
+      },
+      {
+       "pos": "QB",
+       "name": "Jordan Love",
+       "team": "GB",
+       "salary": 7400,
+       "pts": 28.28,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Jameson Williams",
+       "team": "DET",
+       "salary": 6500,
+       "pts": 17.7,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Matthew Golden",
+       "team": "GB",
+       "salary": 6300,
+       "pts": 20.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Emanuel Wilson",
+       "team": "SEA",
+       "salary": 6000,
+       "pts": 12.2,
+       "elig": "lead"
+      },
+      {
+       "pos": "RB",
+       "name": "Braelon Allen",
+       "team": "NYJ",
+       "salary": 5900,
+       "pts": 21.1,
+       "elig": "lead"
+      },
+      {
+       "pos": "TE",
+       "name": "Tucker Kraft",
+       "team": "GB",
+       "salary": 5600,
+       "pts": 9.1,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "Washington Commanders",
+       "team": "WAS",
+       "salary": 3300,
+       "pts": 6.0,
+       "elig": null
+      }
+     ],
+     [
+      {
+       "pos": "RB",
+       "name": "Chase Brown",
+       "team": "CIN",
+       "salary": 8000,
+       "pts": 5.5,
+       "elig": "lead"
+      },
+      {
+       "pos": "QB",
+       "name": "Jordan Love",
+       "team": "GB",
+       "salary": 7400,
+       "pts": 28.28,
+       "elig": null
+      },
+      {
+       "pos": "TE",
+       "name": "Trey McBride",
+       "team": "ARI",
+       "salary": 7200,
+       "pts": 17.1,
+       "elig": null
+      },
+      {
+       "pos": "WR",
+       "name": "Christian Watson",
+       "team": "GB",
+       "salary": 7000,
+       "pts": 32.3,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "Jaylen Warren",
+       "team": "PIT",
+       "salary": 6700,
+       "pts": 36.8,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Jameson Williams",
+       "team": "DET",
+       "salary": 6500,
+       "pts": 17.7,
+       "elig": null
+      },
+      {
+       "pos": "RB",
+       "name": "D'Andre Swift",
+       "team": "CHI",
+       "salary": 6500,
+       "pts": 15.3,
+       "elig": "lead"
+      },
+      {
+       "pos": "WR",
+       "name": "Matthew Golden",
+       "team": "GB",
+       "salary": 6300,
+       "pts": 20.3,
+       "elig": null
+      },
+      {
+       "pos": "DST",
+       "name": "New York Jets",
+       "team": "NYJ",
+       "salary": 4000,
+       "pts": 16.0,
+       "elig": null
+      }
+     ]
+    ]
+   }
+  },
+  "fees": 360,
+  "won": 385,
+  "roi": 6.944444444444445,
+  "cash": 10,
+  "top5": 4,
+  "top1": 0,
+  "zeros_all": 0,
+  "zeros_rb": 0,
+  "rb_pts": 1213.8,
+  "wr_pts": 832.66,
+  "rb_sal": 505800
+ }
+}

@@ -1,0 +1,571 @@
+away,home,snapshot,book,market,player,side,point,price
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Christian McCaffrey,Yes,,-210
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Tyrone Tracy Jr.,Yes,,105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,George Kittle,Yes,,130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jaxson Dart,Yes,,195
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Wan'Dale Robinson,Yes,,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Theo Johnson,Yes,,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jauan Jennings,Yes,,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Darius Slayton,Yes,,245
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Kendrick Bourne,Yes,,340
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Devin Singletary,Yes,,450
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,New York Giants D/ST,Yes,,475
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,San Francisco 49ers D/ST,Yes,,500
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Demarcus Robinson,Yes,,600
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Chris Manhertz,Yes,,650
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Kyle Juszczyk,Yes,,650
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jake Tonges,Yes,,700
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Ray-Ray McCloud III,Yes,,750
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Brian Robinson Jr.,Yes,,750
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Mac Jones,Yes,,800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Thomas Fidone,Yes,,1000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Luke Farrell,Yes,,1000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jalin Hyatt,Yes,,1100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Beaux Collins,Yes,,1100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Gunner Olszewski,Yes,,1500
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Skyy Moore,Yes,,2200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Isaac Guerendo,Yes,,2200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_anytime_td,Jordan Watkins,Yes,,2800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Mac Jones,Over,1.5,-159
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Mac Jones,Under,1.5,125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Jaxson Dart,Over,1.5,104
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_pass_tds,Jaxson Dart,Under,1.5,-133
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Mac Jones,Over,241.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Mac Jones,Under,241.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Jaxson Dart,Over,209.5,-111
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_pass_yds,Jaxson Dart,Under,209.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Wan'Dale Robinson,Over,52.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Wan'Dale Robinson,Under,52.5,-111
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,George Kittle,Over,51.5,-111
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,George Kittle,Under,51.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jauan Jennings,Over,50.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Jauan Jennings,Under,50.5,-109
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Christian McCaffrey,Over,50.5,-109
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Christian McCaffrey,Under,50.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Darius Slayton,Over,40.5,-109
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Darius Slayton,Under,40.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Theo Johnson,Over,38.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Theo Johnson,Under,38.5,-111
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Kendrick Bourne,Over,37.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Kendrick Bourne,Under,37.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Over,19.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Under,19.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Demarcus Robinson,Over,17.5,-111
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Demarcus Robinson,Under,17.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Kyle Juszczyk,Over,7.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_reception_yds,Kyle Juszczyk,Under,7.5,-106
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Christian McCaffrey,Over,5.5,-130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Christian McCaffrey,Under,5.5,102
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Wan'Dale Robinson,Over,5.5,117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Wan'Dale Robinson,Under,5.5,-149
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,George Kittle,Over,4.5,-106
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,George Kittle,Under,4.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Jauan Jennings,Over,4.5,112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Jauan Jennings,Under,4.5,-143
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Theo Johnson,Over,3.5,-128
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Theo Johnson,Under,3.5,101
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Kendrick Bourne,Over,3.5,103
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Kendrick Bourne,Under,3.5,-132
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Darius Slayton,Over,3.5,136
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Darius Slayton,Under,3.5,-174
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Tyrone Tracy Jr.,Over,2.5,-138
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Tyrone Tracy Jr.,Under,2.5,108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Demarcus Robinson,Over,1.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_receptions,Demarcus Robinson,Under,1.5,-102
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Christian McCaffrey,Over,77.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Christian McCaffrey,Under,77.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Over,53.5,-111
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Under,53.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Jaxson Dart,Over,37.5,-109
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Jaxson Dart,Under,37.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Devin Singletary,Over,18.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Devin Singletary,Under,18.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Brian Robinson Jr.,Over,15.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Brian Robinson Jr.,Under,15.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Mac Jones,Over,6.5,-116
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,draftkings,player_rush_yds,Mac Jones,Under,6.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Christian McCaffrey,Yes,,-220
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Tyrone Tracy Jr.,Yes,,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,George Kittle,Yes,,130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jauan Jennings,Yes,,190
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Theo Johnson,Yes,,190
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jaxson Dart,Yes,,190
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Wan'Dale Robinson,Yes,,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Darius Slayton,Yes,,235
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Kendrick Bourne,Yes,,330
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Devin Singletary,Yes,,400
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Demarcus Robinson,Yes,,475
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Chris Manhertz,Yes,,550
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Brian Robinson Jr.,Yes,,625
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Kyle Juszczyk,Yes,,675
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jake Tonges,Yes,,675
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Mac Jones,Yes,,750
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Ray-Ray McCloud III,Yes,,800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jalin Hyatt,Yes,,800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Thomas Fidone,Yes,,1000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Luke Farrell,Yes,,1000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Beaux Collins,Yes,,1000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Skyy Moore,Yes,,1600
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Gunner Olszewski,Yes,,1700
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Isaac Guerendo,Yes,,1900
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_anytime_td,Jordan Watkins,Yes,,2100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Jaxson Dart,Over,1.5,105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Jaxson Dart,Under,1.5,-141
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Mac Jones,Over,1.5,-170
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_pass_tds,Mac Jones,Under,1.5,120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Jaxson Dart,Over,209.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Jaxson Dart,Under,209.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Mac Jones,Over,244.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_pass_yds,Mac Jones,Under,244.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Kyle Juszczyk,Over,7.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Kyle Juszczyk,Under,7.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,George Kittle,Over,50.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,George Kittle,Under,50.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Theo Johnson,Over,38.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Theo Johnson,Under,38.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jauan Jennings,Over,49.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Jauan Jennings,Under,49.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Kendrick Bourne,Over,36.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Kendrick Bourne,Under,36.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Wan'Dale Robinson,Over,52.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Wan'Dale Robinson,Under,52.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Christian McCaffrey,Over,49.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Christian McCaffrey,Under,49.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Tyrone Tracy Jr.,Over,19.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Tyrone Tracy Jr.,Under,19.5,-121
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Darius Slayton,Over,40.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Darius Slayton,Under,40.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Demarcus Robinson,Over,17.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_reception_yds,Demarcus Robinson,Under,17.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Kendrick Bourne,Over,3.5,105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Kendrick Bourne,Under,3.5,-148
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Tyrone Tracy Jr.,Over,2.5,-160
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Tyrone Tracy Jr.,Under,2.5,112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jauan Jennings,Over,4.5,110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Jauan Jennings,Under,4.5,-148
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Darius Slayton,Over,3.5,120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Darius Slayton,Under,3.5,-164
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,George Kittle,Over,4.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,George Kittle,Under,4.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Demarcus Robinson,Over,1.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Demarcus Robinson,Under,1.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Christian McCaffrey,Over,5.5,-127
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Christian McCaffrey,Under,5.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Wan'Dale Robinson,Over,5.5,115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Wan'Dale Robinson,Under,5.5,-157
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Theo Johnson,Over,3.5,-137
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_receptions,Theo Johnson,Under,3.5,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Christian McCaffrey,Over,77.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Christian McCaffrey,Under,77.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Tyrone Tracy Jr.,Over,53.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Tyrone Tracy Jr.,Under,53.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Brian Robinson Jr.,Over,15.5,-127
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Brian Robinson Jr.,Under,15.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Mac Jones,Over,6.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Mac Jones,Under,6.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Jaxson Dart,Over,35.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Jaxson Dart,Under,35.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Devin Singletary,Over,18.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,williamhill_us,player_rush_yds,Devin Singletary,Under,18.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Christian McCaffrey,Yes,,-220
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Tyrone Tracy Jr.,Yes,,105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,George Kittle,Yes,,135
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jaxson Dart,Yes,,180
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Theo Johnson,Yes,,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jauan Jennings,Yes,,210
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Wan'Dale Robinson,Yes,,210
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Darius Slayton,Yes,,220
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Kendrick Bourne,Yes,,370
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Devin Singletary,Yes,,490
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Demarcus Robinson,Yes,,550
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Chris Manhertz,Yes,,600
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,San Francisco 49ers Defense,Yes,,650
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Brian Robinson Jr.,Yes,,650
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jalin Hyatt,Yes,,700
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,New York Giants Defense,Yes,,750
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Kyle Juszczyk,Yes,,800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jake Tonges,Yes,,800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Mac Jones,Yes,,850
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Ray-Ray McCloud III,Yes,,900
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Thomas Fidone,Yes,,1000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Luke Farrell,Yes,,1200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Beaux Collins,Yes,,1500
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Jordan Watkins,Yes,,2200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Skyy Moore,Yes,,2200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Gunner Olszewski,Yes,,2200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_anytime_td,Isaac Guerendo,Yes,,2700
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Mac Jones,Over,1.5,-156
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Mac Jones,Under,1.5,122
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Jaxson Dart,Over,1.5,104
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_pass_tds,Jaxson Dart,Under,1.5,-132
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Mac Jones,Over,245.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Mac Jones,Under,245.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Jaxson Dart,Over,209.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_pass_yds,Jaxson Dart,Under,209.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Darius Slayton,Over,40.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Darius Slayton,Under,40.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Kendrick Bourne,Over,36.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Kendrick Bourne,Under,36.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Christian McCaffrey,Over,49.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Christian McCaffrey,Under,49.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,George Kittle,Over,50.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,George Kittle,Under,50.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Wan'Dale Robinson,Over,52.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Wan'Dale Robinson,Under,52.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jauan Jennings,Over,49.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_reception_yds,Jauan Jennings,Under,49.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Darius Slayton,Over,3.5,122
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Darius Slayton,Under,3.5,-156
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Wan'Dale Robinson,Over,5.5,112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Wan'Dale Robinson,Under,5.5,-142
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Tyrone Tracy Jr.,Over,2.5,-150
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Tyrone Tracy Jr.,Under,2.5,118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Theo Johnson,Over,3.5,-142
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Theo Johnson,Under,3.5,112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,George Kittle,Over,4.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,George Kittle,Under,4.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Kendrick Bourne,Over,3.5,112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Kendrick Bourne,Under,3.5,-142
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Jauan Jennings,Over,4.5,116
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Jauan Jennings,Under,4.5,-148
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Demarcus Robinson,Over,1.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Demarcus Robinson,Under,1.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Christian McCaffrey,Over,5.5,-122
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_receptions,Christian McCaffrey,Under,5.5,-106
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Over,52.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Under,52.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Jaxson Dart,Over,34.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Jaxson Dart,Under,34.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Mac Jones,Over,6.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Mac Jones,Under,6.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Christian McCaffrey,Over,76.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Christian McCaffrey,Under,76.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Devin Singletary,Over,18.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Devin Singletary,Under,18.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Brian Robinson Jr.,Over,15.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanduel,player_rush_yds,Brian Robinson Jr.,Under,15.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Tyrone Tracy Jr.,Yes,,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Christian McCaffrey,Yes,,-250
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,George Kittle,Yes,,130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jaxson Dart,Yes,,180
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Mac Jones,Yes,,800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Theo Johnson,Yes,,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Wan'Dale Robinson,Yes,,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Darius Slayton,Yes,,220
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Kendrick Bourne,Yes,,325
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jauan Jennings,Yes,,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Demarcus Robinson,Yes,,550
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Devin Singletary,Yes,,450
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jake Tonges,Yes,,700
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Chris Manhertz,Yes,,600
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Brian Robinson Jr.,Yes,,650
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Beaux Collins,Yes,,1100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Skyy Moore,Yes,,1900
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Gunner Olszewski,Yes,,1400
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Luke Farrell,Yes,,1000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Kyle Juszczyk,Yes,,500
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jordan Watkins,Yes,,1900
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Thomas Fidone,Yes,,1000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_anytime_td,Jalin Hyatt,Yes,,700
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Jaxson Dart,Over,1.5,107
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Jaxson Dart,Under,1.5,-139
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Mac Jones,Over,1.5,-161
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_pass_tds,Mac Jones,Under,1.5,123
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Jaxson Dart,Over,210.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Jaxson Dart,Under,210.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Mac Jones,Over,242.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_pass_yds,Mac Jones,Under,242.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Christian McCaffrey,Over,51.5,-109
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Christian McCaffrey,Under,51.5,-119
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Darius Slayton,Over,40.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Darius Slayton,Under,40.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Theo Johnson,Over,37.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Theo Johnson,Under,37.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Wan'Dale Robinson,Over,53.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Wan'Dale Robinson,Under,53.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Over,20.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Under,20.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jauan Jennings,Over,50.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Jauan Jennings,Under,50.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Demarcus Robinson,Over,17.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Demarcus Robinson,Under,17.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,George Kittle,Over,50.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,George Kittle,Under,50.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Kendrick Bourne,Over,38.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_reception_yds,Kendrick Bourne,Under,38.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Theo Johnson,Over,3.5,-135
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Theo Johnson,Under,3.5,105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Darius Slayton,Over,3.5,124
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Darius Slayton,Under,3.5,-161
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Over,2.5,-164
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Under,2.5,125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Wan'Dale Robinson,Over,5.5,117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Wan'Dale Robinson,Under,5.5,-152
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Christian McCaffrey,Over,5.5,-128
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Christian McCaffrey,Under,5.5,-101
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,George Kittle,Over,4.5,-106
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,George Kittle,Under,4.5,-122
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jauan Jennings,Over,4.5,115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Jauan Jennings,Under,4.5,-149
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Demarcus Robinson,Over,1.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Demarcus Robinson,Under,1.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Kendrick Bourne,Over,3.5,106
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_receptions,Kendrick Bourne,Under,3.5,-137
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Jaxson Dart,Over,37.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Jaxson Dart,Under,37.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Over,54.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Under,54.5,-108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Devin Singletary,Over,18.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Devin Singletary,Under,18.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Brian Robinson Jr.,Over,15.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Brian Robinson Jr.,Under,15.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Mac Jones,Over,6.5,-116
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Mac Jones,Under,6.5,-111
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Christian McCaffrey,Over,79.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betonlineag,player_rush_yds,Christian McCaffrey,Under,79.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Brian Robinson Jr.,Yes,,700
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Tyrone Tracy Jr.,Yes,,106
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Darius Slayton,Yes,,245
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Thomas Fidone,Yes,,1400
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Demarcus Robinson,Yes,,550
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jauan Jennings,Yes,,185
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Gunner Olszewski,Yes,,2000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jake Tonges,Yes,,600
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jordan Watkins,Yes,,1400
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Beaux Collins,Yes,,575
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jalin Hyatt,Yes,,950
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Mac Jones,Yes,,700
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Luke Farrell,Yes,,1150
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Skyy Moore,Yes,,950
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Devin Singletary,Yes,,360
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Kendrick Bourne,Yes,,255
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Ray-Ray McCloud III,Yes,,950
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Christian McCaffrey,Yes,,-205
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,George Kittle,Yes,,108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Chris Manhertz,Yes,,480
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Wan'Dale Robinson,Yes,,195
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Jaxson Dart,Yes,,195
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Kyle Juszczyk,Yes,,850
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Isaac Guerendo,Yes,,2200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_anytime_td,Theo Johnson,Yes,,205
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Mac Jones,Over,1.5,-155
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Mac Jones,Under,1.5,116
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Jaxson Dart,Over,1.5,108
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_pass_tds,Jaxson Dart,Under,1.5,-143
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Jaxson Dart,Over,204.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Jaxson Dart,Under,204.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Mac Jones,Over,239.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_pass_yds,Mac Jones,Under,239.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Over,19.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Under,19.5,-121
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Wan'Dale Robinson,Over,49.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Wan'Dale Robinson,Under,49.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jauan Jennings,Over,48.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Jauan Jennings,Under,48.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Theo Johnson,Over,34.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Theo Johnson,Under,34.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,George Kittle,Over,49.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,George Kittle,Under,49.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Kendrick Bourne,Over,37.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Kendrick Bourne,Under,37.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Christian McCaffrey,Over,48.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Christian McCaffrey,Under,48.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Demarcus Robinson,Over,17.5,-112
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Demarcus Robinson,Under,17.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Darius Slayton,Over,39.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_reception_yds,Darius Slayton,Under,39.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Tyrone Tracy Jr.,Over,2.5,-167
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Tyrone Tracy Jr.,Under,2.5,128
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Jauan Jennings,Over,4.5,104
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Jauan Jennings,Under,4.5,-137
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Theo Johnson,Over,3.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Theo Johnson,Under,3.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Christian McCaffrey,Over,5.5,-141
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Christian McCaffrey,Under,5.5,106
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,George Kittle,Over,4.5,-109
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,George Kittle,Under,4.5,-121
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Kendrick Bourne,Over,3.5,102
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Kendrick Bourne,Under,3.5,-136
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Demarcus Robinson,Over,1.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Demarcus Robinson,Under,1.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Wan'Dale Robinson,Over,5.5,120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Wan'Dale Robinson,Under,5.5,-159
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Darius Slayton,Over,2.5,-177
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_receptions,Darius Slayton,Under,2.5,133
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Christian McCaffrey,Over,80.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Christian McCaffrey,Under,80.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Brian Robinson Jr.,Over,16.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Brian Robinson Jr.,Under,16.5,-121
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Jaxson Dart,Over,38.5,-117
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Jaxson Dart,Under,38.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Over,57.5,-113
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Under,57.5,-118
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Devin Singletary,Over,19.5,-114
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,betrivers,player_rush_yds,Devin Singletary,Under,19.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Tyrone Tracy Jr.,Yes,,105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,New York Giants D/ST,Yes,,500
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Christian McCaffrey,Yes,,-220
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,George Kittle,Yes,,140
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,San Francisco 49ers D/ST,Yes,,470
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jaxson Dart,Yes,,210
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Mac Jones,Yes,,660
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Devin Singletary,Yes,,400
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Gunner Olszewski,Yes,,1200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Darius Slayton,Yes,,240
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Wan'Dale Robinson,Yes,,210
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Theo Johnson,Yes,,205
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Beaux Collins,Yes,,850
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Demarcus Robinson,Yes,,420
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Kendrick Bourne,Yes,,345
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Kyle Juszczyk,Yes,,660
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jauan Jennings,Yes,,205
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Skyy Moore,Yes,,1200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Brian Robinson Jr.,Yes,,580
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jake Tonges,Yes,,600
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Thomas Fidone,Yes,,800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Isaac Guerendo,Yes,,1200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Ray-Ray McCloud III,Yes,,660
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Chris Manhertz,Yes,,500
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jalin Hyatt,Yes,,660
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Luke Farrell,Yes,,800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_anytime_td,Jordan Watkins,Yes,,1600
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Jaxson Dart,Over,1.5,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Jaxson Dart,Under,1.5,-130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Mac Jones,Over,1.5,-165
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_pass_tds,Mac Jones,Under,1.5,125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Jaxson Dart,Over,205.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Jaxson Dart,Under,205.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Mac Jones,Over,245.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_pass_yds,Mac Jones,Under,245.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Darius Slayton,Over,40.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Darius Slayton,Under,40.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,George Kittle,Over,50.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,George Kittle,Under,50.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Christian McCaffrey,Over,50.5,-105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Christian McCaffrey,Under,50.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Theo Johnson,Over,35.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Theo Johnson,Under,35.5,-105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Wan'Dale Robinson,Over,50.5,-135
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Wan'Dale Robinson,Under,50.5,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Tyrone Tracy Jr.,Over,20.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Tyrone Tracy Jr.,Under,20.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jauan Jennings,Over,50.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Jauan Jennings,Under,50.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Devin Singletary,Over,10.5,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Devin Singletary,Under,10.5,-300
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Demarcus Robinson,Over,15.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Demarcus Robinson,Under,15.5,-105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Kendrick Bourne,Over,35.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_reception_yds,Kendrick Bourne,Under,35.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Darius Slayton,Over,3.5,125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Darius Slayton,Under,3.5,-170
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Tyrone Tracy Jr.,Over,3.5,155
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Tyrone Tracy Jr.,Under,3.5,-220
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,George Kittle,Over,4.5,-105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,George Kittle,Under,4.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Wan'Dale Robinson,Over,5.5,110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Wan'Dale Robinson,Under,5.5,-150
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Christian McCaffrey,Over,5.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Christian McCaffrey,Under,5.5,-105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Theo Johnson,Over,3.5,-135
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Theo Johnson,Under,3.5,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Jauan Jennings,Over,4.5,110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Jauan Jennings,Under,4.5,-150
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Kendrick Bourne,Over,3.5,110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Kendrick Bourne,Under,3.5,-150
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Demarcus Robinson,Over,1.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_receptions,Demarcus Robinson,Under,1.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Jaxson Dart,Over,35.5,-105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Jaxson Dart,Under,35.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Tyrone Tracy Jr.,Over,50.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Tyrone Tracy Jr.,Under,50.5,-105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Devin Singletary,Over,15.5,-155
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Devin Singletary,Under,15.5,115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Brian Robinson Jr.,Over,15.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Brian Robinson Jr.,Under,15.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Christian McCaffrey,Over,80.5,-105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Christian McCaffrey,Under,80.5,-125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Mac Jones,Over,5.5,-150
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,fanatics,player_rush_yds,Mac Jones,Under,5.5,110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Devin Singletary,Yes,,440
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Theo Johnson,Yes,,200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jaxson Dart,Yes,,180
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,George Kittle,Yes,,130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Brian Robinson Jr.,Yes,,600
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Beaux Collins,Yes,,1300
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jordan Watkins,Yes,,2000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jauan Jennings,Yes,,210
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Kyle Juszczyk,Yes,,700
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Thomas Fidone,Yes,,825
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Christian McCaffrey,Yes,,-230
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Tyrone Tracy Jr.,Yes,,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jake Tonges,Yes,,725
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Kendrick Bourne,Yes,,350
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Skyy Moore,Yes,,1800
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Chris Manhertz,Yes,,525
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Darius Slayton,Yes,,220
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Demarcus Robinson,Yes,,500
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Luke Farrell,Yes,,1000
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Jalin Hyatt,Yes,,625
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Wan'Dale Robinson,Yes,,210
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,New York Giants Defense,Yes,,625
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Gunner Olszewski,Yes,,1900
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,San Francisco 49ers Defense,Yes,,600
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Isaac Guerendo,Yes,,2200
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_anytime_td,Mac Jones,Yes,,725
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_pass_tds,Jaxson Dart,Over,1.5,120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_pass_tds,Jaxson Dart,Under,1.5,-160
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_pass_tds,Mac Jones,Over,1.5,-160
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_pass_tds,Mac Jones,Under,1.5,120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_pass_yds,Jaxson Dart,Over,206.5,-150
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_pass_yds,Jaxson Dart,Under,206.5,115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_pass_yds,Mac Jones,Over,242.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_pass_yds,Mac Jones,Under,242.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Christian McCaffrey,Over,51.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Christian McCaffrey,Under,51.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Darius Slayton,Over,40.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Darius Slayton,Under,40.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Demarcus Robinson,Over,18.5,-130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Demarcus Robinson,Under,18.5,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,George Kittle,Over,50.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,George Kittle,Under,50.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jauan Jennings,Over,49.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Jauan Jennings,Under,49.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Kendrick Bourne,Over,39.5,105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Kendrick Bourne,Under,39.5,-135
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Theo Johnson,Over,38.5,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Theo Johnson,Under,38.5,-130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Over,18.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Under,18.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Wan'Dale Robinson,Over,50.5,-135
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_reception_yds,Wan'Dale Robinson,Under,50.5,105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Christian McCaffrey,Over,5.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Christian McCaffrey,Under,5.5,-110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Darius Slayton,Over,3.5,130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Darius Slayton,Under,3.5,-170
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Demarcus Robinson,Over,1.5,-130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Demarcus Robinson,Under,1.5,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,George Kittle,Over,4.5,110
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,George Kittle,Under,4.5,-145
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Jauan Jennings,Over,4.5,125
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Jauan Jennings,Under,4.5,-165
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Kendrick Bourne,Over,3.5,115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Kendrick Bourne,Under,3.5,-150
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Theo Johnson,Over,3.5,-135
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Theo Johnson,Under,3.5,105
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Tyrone Tracy Jr.,Over,2.5,-150
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Tyrone Tracy Jr.,Under,2.5,115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Wan'Dale Robinson,Over,5.5,130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_receptions,Wan'Dale Robinson,Under,5.5,-170
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Brian Robinson Jr.,Over,15.5,-130
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Brian Robinson Jr.,Under,15.5,100
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Christian McCaffrey,Over,79.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Christian McCaffrey,Under,79.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Devin Singletary,Over,18.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Devin Singletary,Under,18.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Jaxson Dart,Over,37.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Jaxson Dart,Under,37.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Mac Jones,Over,6.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Mac Jones,Under,6.5,-115
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Over,52.5,-120
+San Francisco 49ers,New York Giants,2025-11-02T17:35:38Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Under,52.5,-110

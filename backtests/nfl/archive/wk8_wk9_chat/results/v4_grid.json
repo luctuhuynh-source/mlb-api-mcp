@@ -1,0 +1,1784 @@
+{
+ "w0.2_p0.5_c8300": {
+  "roi": 12.444444444444445,
+  "cash": 32,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 6,
+  "med": 66.8571414635098,
+  "per": {
+   "wk2": {
+    "cash": 7,
+    "won": 320,
+    "fees": 225,
+    "med": 66.8571414635098,
+    "qbs": [
+     "Brock Purdy $8100",
+     "Dak Prescott $8000",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Patrick Mahomes $8100"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 2,
+    "won": 95,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "C.J. Stroud $7500"
+    ]
+   }
+  }
+ },
+ "w0.2_p0.5_c8500": {
+  "roi": 20.444444444444443,
+  "cash": 36,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 345,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Brock Purdy $8100",
+     "Dak Prescott $8000",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Patrick Mahomes $8100"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.2_p0.5_c8700": {
+  "roi": -2.6666666666666665,
+  "cash": 31,
+  "n": 75,
+  "top5": 7,
+  "top1": 1,
+  "dead": 8,
+  "med": 65.98342708929835,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 345,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Brock Purdy $8100",
+     "Dak Prescott $8000",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 6,
+    "won": 195,
+    "fees": 225,
+    "med": 65.98342708929835,
+    "qbs": [
+     "Lamar Jackson $8600",
+     "Jared Goff $7900",
+     "Brock Purdy $8200"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 3,
+    "won": 95,
+    "fees": 225,
+    "med": 54.480114035616054,
+    "qbs": [
+     "Jared Goff $8100",
+     "Joe Burrow $8700",
+     "Sam Darnold $7200"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.2_p1.5_c8300": {
+  "roi": 12.444444444444445,
+  "cash": 32,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 6,
+  "med": 66.8571414635098,
+  "per": {
+   "wk2": {
+    "cash": 7,
+    "won": 320,
+    "fees": 225,
+    "med": 66.8571414635098,
+    "qbs": [
+     "Brock Purdy $8100",
+     "Dak Prescott $8000",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Patrick Mahomes $8100"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 2,
+    "won": 95,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "C.J. Stroud $7500"
+    ]
+   }
+  }
+ },
+ "w0.2_p1.5_c8500": {
+  "roi": 15.11111111111111,
+  "cash": 33,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 10,
+  "med": 66.8571414635098,
+  "per": {
+   "wk2": {
+    "cash": 7,
+    "won": 320,
+    "fees": 225,
+    "med": 66.8571414635098,
+    "qbs": [
+     "Brock Purdy $8100",
+     "Dak Prescott $8000",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Patrick Mahomes $8100"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 3,
+    "won": 125,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Brock Purdy $8500"
+    ]
+   }
+  }
+ },
+ "w0.2_p1.5_c8700": {
+  "roi": 7.555555555555555,
+  "cash": 32,
+  "n": 75,
+  "top5": 10,
+  "top1": 2,
+  "dead": 10,
+  "med": 66.8571414635098,
+  "per": {
+   "wk2": {
+    "cash": 7,
+    "won": 320,
+    "fees": 225,
+    "med": 66.8571414635098,
+    "qbs": [
+     "Brock Purdy $8100",
+     "Dak Prescott $8000",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 6,
+    "won": 195,
+    "fees": 225,
+    "med": 65.98342708929835,
+    "qbs": [
+     "Lamar Jackson $8600",
+     "Jared Goff $7900",
+     "Brock Purdy $8200"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 3,
+    "won": 125,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Brock Purdy $8500"
+    ]
+   }
+  }
+ },
+ "w0.2_p2.5_c8300": {
+  "roi": 12.444444444444445,
+  "cash": 32,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 6,
+  "med": 66.8571414635098,
+  "per": {
+   "wk2": {
+    "cash": 7,
+    "won": 320,
+    "fees": 225,
+    "med": 66.8571414635098,
+    "qbs": [
+     "Brock Purdy $8100",
+     "Dak Prescott $8000",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Patrick Mahomes $8100"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 2,
+    "won": 95,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "C.J. Stroud $7500"
+    ]
+   }
+  }
+ },
+ "w0.2_p2.5_c8500": {
+  "roi": 12.444444444444445,
+  "cash": 32,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 6,
+  "med": 66.8571414635098,
+  "per": {
+   "wk2": {
+    "cash": 7,
+    "won": 320,
+    "fees": 225,
+    "med": 66.8571414635098,
+    "qbs": [
+     "Brock Purdy $8100",
+     "Dak Prescott $8000",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Patrick Mahomes $8100"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 2,
+    "won": 95,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "C.J. Stroud $7500"
+    ]
+   }
+  }
+ },
+ "w0.2_p2.5_c8700": {
+  "roi": 6.222222222222222,
+  "cash": 31,
+  "n": 75,
+  "top5": 11,
+  "top1": 2,
+  "dead": 6,
+  "med": 66.8571414635098,
+  "per": {
+   "wk2": {
+    "cash": 7,
+    "won": 320,
+    "fees": 225,
+    "med": 66.8571414635098,
+    "qbs": [
+     "Brock Purdy $8100",
+     "Dak Prescott $8000",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 6,
+    "won": 210,
+    "fees": 225,
+    "med": 65.98342708929835,
+    "qbs": [
+     "Jared Goff $7900",
+     "Lamar Jackson $8600",
+     "Brock Purdy $8200"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 2,
+    "won": 95,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "C.J. Stroud $7500"
+    ]
+   }
+  }
+ },
+ "w0.4_p0.5_c8300": {
+  "roi": 35.55555555555556,
+  "cash": 37,
+  "n": 75,
+  "top5": 14,
+  "top1": 5,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 6,
+    "won": 270,
+    "fees": 225,
+    "med": 69.3580977890557,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Michael Penix Jr. $6900"
+    ]
+   }
+  }
+ },
+ "w0.4_p0.5_c8500": {
+  "roi": 25.77777777777778,
+  "cash": 36,
+  "n": 75,
+  "top5": 12,
+  "top1": 4,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.4_p0.5_c8700": {
+  "roi": 5.777777777777778,
+  "cash": 32,
+  "n": 75,
+  "top5": 9,
+  "top1": 2,
+  "dead": 7,
+  "med": 65.98342708929835,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 6,
+    "won": 195,
+    "fees": 225,
+    "med": 65.98342708929835,
+    "qbs": [
+     "Lamar Jackson $8600",
+     "Jared Goff $7900",
+     "Brock Purdy $8200"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 4,
+    "won": 130,
+    "fees": 225,
+    "med": 61.64247425164127,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Joe Burrow $8700"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.4_p1.5_c8300": {
+  "roi": 35.55555555555556,
+  "cash": 37,
+  "n": 75,
+  "top5": 14,
+  "top1": 5,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 6,
+    "won": 270,
+    "fees": 225,
+    "med": 69.3580977890557,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Michael Penix Jr. $6900"
+    ]
+   }
+  }
+ },
+ "w0.4_p1.5_c8500": {
+  "roi": 25.77777777777778,
+  "cash": 36,
+  "n": 75,
+  "top5": 12,
+  "top1": 4,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.4_p1.5_c8700": {
+  "roi": 18.22222222222222,
+  "cash": 35,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 6,
+    "won": 195,
+    "fees": 225,
+    "med": 65.98342708929835,
+    "qbs": [
+     "Lamar Jackson $8600",
+     "Jared Goff $7900",
+     "Brock Purdy $8200"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.4_p2.5_c8300": {
+  "roi": 35.55555555555556,
+  "cash": 37,
+  "n": 75,
+  "top5": 14,
+  "top1": 5,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 6,
+    "won": 270,
+    "fees": 225,
+    "med": 69.3580977890557,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Michael Penix Jr. $6900"
+    ]
+   }
+  }
+ },
+ "w0.4_p2.5_c8500": {
+  "roi": 22.666666666666668,
+  "cash": 34,
+  "n": 75,
+  "top5": 12,
+  "top1": 4,
+  "dead": 11,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 3,
+    "won": 125,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Brock Purdy $8500"
+    ]
+   }
+  }
+ },
+ "w0.4_p2.5_c8700": {
+  "roi": 15.11111111111111,
+  "cash": 33,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 11,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Justin Herbert $7400"
+    ]
+   },
+   "wk3": {
+    "cash": 6,
+    "won": 195,
+    "fees": 225,
+    "med": 65.98342708929835,
+    "qbs": [
+     "Lamar Jackson $8600",
+     "Jared Goff $7900",
+     "Brock Purdy $8200"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 3,
+    "won": 125,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Brock Purdy $8500"
+    ]
+   }
+  }
+ },
+ "w0.6_p0.5_c8300": {
+  "roi": 37.77777777777778,
+  "cash": 38,
+  "n": 75,
+  "top5": 14,
+  "top1": 5,
+  "dead": 6,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 9,
+    "won": 430,
+    "fees": 225,
+    "med": 76.77987844732554,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Bo Nix $7300"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 6,
+    "won": 270,
+    "fees": 225,
+    "med": 69.3580977890557,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Michael Penix Jr. $6900"
+    ]
+   }
+  }
+ },
+ "w0.6_p0.5_c8500": {
+  "roi": 25.77777777777778,
+  "cash": 36,
+  "n": 75,
+  "top5": 12,
+  "top1": 4,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.6_p0.5_c8700": {
+  "roi": 5.777777777777778,
+  "cash": 32,
+  "n": 75,
+  "top5": 9,
+  "top1": 2,
+  "dead": 7,
+  "med": 65.98342708929835,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 6,
+    "won": 195,
+    "fees": 225,
+    "med": 65.98342708929835,
+    "qbs": [
+     "Lamar Jackson $8600",
+     "Jared Goff $7900",
+     "Brock Purdy $8200"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 4,
+    "won": 130,
+    "fees": 225,
+    "med": 61.64247425164127,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Joe Burrow $8700"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.6_p1.5_c8300": {
+  "roi": 37.77777777777778,
+  "cash": 38,
+  "n": 75,
+  "top5": 14,
+  "top1": 5,
+  "dead": 6,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 9,
+    "won": 430,
+    "fees": 225,
+    "med": 76.77987844732554,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Bo Nix $7300"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 6,
+    "won": 270,
+    "fees": 225,
+    "med": 69.3580977890557,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Michael Penix Jr. $6900"
+    ]
+   }
+  }
+ },
+ "w0.6_p1.5_c8500": {
+  "roi": 25.77777777777778,
+  "cash": 36,
+  "n": 75,
+  "top5": 12,
+  "top1": 4,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.6_p1.5_c8700": {
+  "roi": 18.22222222222222,
+  "cash": 35,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 7,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 6,
+    "won": 195,
+    "fees": 225,
+    "med": 65.98342708929835,
+    "qbs": [
+     "Lamar Jackson $8600",
+     "Jared Goff $7900",
+     "Brock Purdy $8200"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 5,
+    "won": 160,
+    "fees": 225,
+    "med": 57.705411057071025,
+    "qbs": [
+     "Jared Goff $8000",
+     "Brock Purdy $8500",
+     "Matthew Stafford $7700"
+    ]
+   }
+  }
+ },
+ "w0.6_p2.5_c8300": {
+  "roi": 37.77777777777778,
+  "cash": 38,
+  "n": 75,
+  "top5": 14,
+  "top1": 5,
+  "dead": 6,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 9,
+    "won": 430,
+    "fees": 225,
+    "med": 76.77987844732554,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Bo Nix $7300"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 6,
+    "won": 270,
+    "fees": 225,
+    "med": 69.3580977890557,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Michael Penix Jr. $6900"
+    ]
+   }
+  }
+ },
+ "w0.6_p2.5_c8500": {
+  "roi": 22.666666666666668,
+  "cash": 34,
+  "n": 75,
+  "top5": 12,
+  "top1": 4,
+  "dead": 9,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 7,
+    "won": 280,
+    "fees": 225,
+    "med": 58.92057129383232,
+    "qbs": [
+     "Jared Goff $7900",
+     "Brock Purdy $8200",
+     "Dak Prescott $8300"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 3,
+    "won": 125,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Brock Purdy $8500"
+    ]
+   }
+  }
+ },
+ "w0.6_p2.5_c8700": {
+  "roi": 15.11111111111111,
+  "cash": 33,
+  "n": 75,
+  "top5": 11,
+  "top1": 3,
+  "dead": 9,
+  "med": 72.57122206830091,
+  "per": {
+   "wk2": {
+    "cash": 8,
+    "won": 405,
+    "fees": 225,
+    "med": 75.50094139912396,
+    "qbs": [
+     "Dak Prescott $8000",
+     "Brock Purdy $8100",
+     "Caleb Williams $8400"
+    ]
+   },
+   "wk3": {
+    "cash": 6,
+    "won": 195,
+    "fees": 225,
+    "med": 65.98342708929835,
+    "qbs": [
+     "Lamar Jackson $8600",
+     "Jared Goff $7900",
+     "Brock Purdy $8200"
+    ]
+   },
+   "wk4": {
+    "cash": 9,
+    "won": 300,
+    "fees": 225,
+    "med": 79.87901568097728,
+    "qbs": [
+     "Joe Burrow $8200",
+     "C.J. Stroud $7000",
+     "Patrick Mahomes $8000"
+    ]
+   },
+   "wk5": {
+    "cash": 7,
+    "won": 270,
+    "fees": 225,
+    "med": 72.57122206830091,
+    "qbs": [
+     "Jared Goff $8100",
+     "Sam Darnold $7200",
+     "Drake Maye $7800"
+    ]
+   },
+   "wk7": {
+    "cash": 3,
+    "won": 125,
+    "fees": 225,
+    "med": 46.98550316017011,
+    "qbs": [
+     "Jared Goff $8000",
+     "Matthew Stafford $7700",
+     "Brock Purdy $8500"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,645 @@
+away,home,snapshot,book,market,player,side,point,price
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Chuba Hubbard,Yes,,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Bucky Irving,Yes,,110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Tetairoa McMillan,Yes,,135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Jalen Coker,Yes,,165
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Cade Otton,Yes,,220
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Chris Godwin,Yes,,240
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Ted Hurst III,Yes,,300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Tommy Tremble,Yes,,320
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Darren Waller,Yes,,320
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Kenny Gainwell,Yes,,425
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Tez Johnson,Yes,,450
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Carolina Panthers D/ST,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Tampa Bay Buccaneers D/ST,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Baker Mayfield,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Sean Tucker,Yes,,650
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Mitchell Evans,Yes,,700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Bryce Young,Yes,,750
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,AJ Dillon,Yes,,750
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,John Metchie III,Yes,,900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Brycen Tremayne,Yes,,1300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Trevor Etienne,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Kameron Johnson,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Payne Durham,Yes,,1800
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,David Moore,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Anthony Tyus III,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Ko Kieft,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Bauer Sharp,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,David Sills V,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Ja'Tavion Sanders,Yes,,2500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_anytime_td,Feleipe Franks,Yes,,3500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_pass_tds,Bryce Young,Over,1.5,-133
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_pass_tds,Bryce Young,Under,1.5,104
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_pass_tds,Baker Mayfield,Over,1.5,134
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_pass_tds,Baker Mayfield,Under,1.5,-172
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_pass_yds,Bryce Young,Over,252.5,-112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_pass_yds,Bryce Young,Under,252.5,-112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_pass_yds,Baker Mayfield,Over,213.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_pass_yds,Baker Mayfield,Under,213.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Tetairoa McMillan,Over,70.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Tetairoa McMillan,Under,70.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Jalen Coker,Over,69.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Jalen Coker,Under,69.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Chris Godwin,Over,45.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Chris Godwin,Under,45.5,-109
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Cade Otton,Over,39.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Cade Otton,Under,39.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Ted Hurst III,Over,38.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Ted Hurst III,Under,38.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Tez Johnson,Over,28.5,-109
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Tez Johnson,Under,28.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Darren Waller,Over,22.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Darren Waller,Under,22.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Bucky Irving,Over,17.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Bucky Irving,Under,17.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Chuba Hubbard,Over,15.5,-109
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Chuba Hubbard,Under,15.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Tommy Tremble,Over,15.5,-109
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Tommy Tremble,Under,15.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Kenny Gainwell,Over,12.5,-116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,Kenny Gainwell,Under,12.5,-109
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,John Metchie III,Over,10.5,-117
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_reception_yds,John Metchie III,Under,10.5,-108
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Jalen Coker,Over,5.5,-101
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Jalen Coker,Under,5.5,-126
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Tetairoa McMillan,Over,5.5,110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Tetairoa McMillan,Under,5.5,-141
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Chris Godwin,Over,4.5,-123
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Chris Godwin,Under,4.5,-103
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Cade Otton,Over,3.5,-160
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Cade Otton,Under,3.5,125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Bucky Irving,Over,2.5,-163
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Bucky Irving,Under,2.5,127
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Ted Hurst III,Over,2.5,-161
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Ted Hurst III,Under,2.5,126
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Chuba Hubbard,Over,2.5,103
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Chuba Hubbard,Under,2.5,-131
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Kenny Gainwell,Over,2.5,106
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Kenny Gainwell,Under,2.5,-135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Tez Johnson,Over,2.5,116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Tez Johnson,Under,2.5,-148
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Darren Waller,Over,2.5,126
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Darren Waller,Under,2.5,-161
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Tommy Tremble,Over,1.5,-192
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,Tommy Tremble,Under,1.5,149
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,John Metchie III,Over,1.5,118
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_receptions,John Metchie III,Under,1.5,-151
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Chuba Hubbard,Over,68.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Chuba Hubbard,Under,68.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Bucky Irving,Over,65.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Bucky Irving,Under,65.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Baker Mayfield,Over,16.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Baker Mayfield,Under,16.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Bryce Young,Over,11.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Bryce Young,Under,11.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,AJ Dillon,Over,11.5,-105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,AJ Dillon,Under,11.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Kenny Gainwell,Over,10.5,-116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Kenny Gainwell,Under,10.5,-108
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Sean Tucker,Over,7.5,-118
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,draftkings,player_rush_yds,Sean Tucker,Under,7.5,-106
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Chuba Hubbard,Yes,,-124
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Bucky Irving,Yes,,110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Tetairoa McMillan,Yes,,137
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Jalen Coker,Yes,,168
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Cade Otton,Yes,,225
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Chris Godwin,Yes,,240
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Darren Waller,Yes,,300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Tommy Tremble,Yes,,305
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Ted Hurst III,Yes,,305
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Kenny Gainwell,Yes,,380
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Tez Johnson,Yes,,450
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Baker Mayfield,Yes,,475
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Sean Tucker,Yes,,600
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Bryce Young,Yes,,675
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Mitchell Evans,Yes,,675
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,AJ Dillon,Yes,,750
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,John Metchie III,Yes,,900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Brycen Tremayne,Yes,,1200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Ja'Tavion Sanders,Yes,,1400
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Kameron Johnson,Yes,,1400
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Trevor Etienne,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Anthony Tyus III,Yes,,1700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,David Sills V,Yes,,1700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Payne Durham,Yes,,1800
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,David Moore,Yes,,1800
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Ko Kieft,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Bauer Sharp,Yes,,2100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,williamhill_us,player_anytime_td,Feleipe Franks,Yes,,3000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Chuba Hubbard,Yes,,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Bucky Irving,Yes,,115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Tetairoa McMillan,Yes,,140
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Jalen Coker,Yes,,170
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Cade Otton,Yes,,230
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Chris Godwin,Yes,,240
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Darren Waller,Yes,,300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Tommy Tremble,Yes,,320
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Ted Hurst III,Yes,,320
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Kenny Gainwell,Yes,,410
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Tez Johnson,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Baker Mayfield,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Sean Tucker,Yes,,600
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Bryce Young,Yes,,700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Mitchell Evans,Yes,,700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Tampa Bay Buccaneers Defense,Yes,,700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Carolina Panthers Defense,Yes,,750
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,AJ Dillon,Yes,,900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,John Metchie III,Yes,,1000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Brycen Tremayne,Yes,,1200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Ja'Tavion Sanders,Yes,,1200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Kameron Johnson,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Trevor Etienne,Yes,,1600
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Anthony Tyus III,Yes,,1600
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,David Moore,Yes,,1800
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Ko Kieft,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Payne Durham,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Bauer Sharp,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,David Sills V,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_anytime_td,Feleipe Franks,Yes,,3500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_pass_tds,Baker Mayfield,Over,1.5,150
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_pass_tds,Baker Mayfield,Under,1.5,-198
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_pass_tds,Bryce Young,Over,1.5,-148
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_pass_tds,Bryce Young,Under,1.5,112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_pass_yds,Bryce Young,Over,253.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_pass_yds,Bryce Young,Under,253.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_pass_yds,Baker Mayfield,Over,215.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_pass_yds,Baker Mayfield,Under,215.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,John Metchie III,Over,10.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,John Metchie III,Under,10.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Chuba Hubbard,Over,14.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Chuba Hubbard,Under,14.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Chris Godwin,Over,44.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Chris Godwin,Under,44.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Tez Johnson,Over,28.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Tez Johnson,Under,28.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Jalen Coker,Over,66.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Jalen Coker,Under,66.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Tetairoa McMillan,Over,69.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Tetairoa McMillan,Under,69.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Darren Waller,Over,22.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Darren Waller,Under,22.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Cade Otton,Over,40.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Cade Otton,Under,40.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Bucky Irving,Over,15.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Bucky Irving,Under,15.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Kenny Gainwell,Over,11.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Kenny Gainwell,Under,11.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Tommy Tremble,Over,16.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Tommy Tremble,Under,16.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Ted Hurst III,Over,36.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_reception_yds,Ted Hurst III,Under,36.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Bucky Irving,Over,2.5,-188
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Bucky Irving,Under,2.5,140
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Tommy Tremble,Over,1.5,-205
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Tommy Tremble,Under,1.5,152
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Darren Waller,Over,2.5,120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Darren Waller,Under,2.5,-160
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,John Metchie III,Over,1.5,116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,John Metchie III,Under,1.5,-154
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Cade Otton,Over,3.5,-160
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Cade Otton,Under,3.5,120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Ted Hurst III,Over,2.5,-172
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Ted Hurst III,Under,2.5,128
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Kenny Gainwell,Over,2.5,106
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Kenny Gainwell,Under,2.5,-140
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Tez Johnson,Over,2.5,134
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Tez Johnson,Under,2.5,-180
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Chris Godwin,Over,4.5,-106
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Chris Godwin,Under,4.5,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Chuba Hubbard,Over,2.5,112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Chuba Hubbard,Under,2.5,-148
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Jalen Coker,Over,5.5,106
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Jalen Coker,Under,5.5,-140
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Tetairoa McMillan,Over,5.5,110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_receptions,Tetairoa McMillan,Under,5.5,-146
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Kenny Gainwell,Over,11.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Kenny Gainwell,Under,11.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Baker Mayfield,Over,16.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Baker Mayfield,Under,16.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Sean Tucker,Over,7.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Sean Tucker,Under,7.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Chuba Hubbard,Over,65.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Chuba Hubbard,Under,65.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Bryce Young,Over,10.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Bryce Young,Under,10.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,AJ Dillon,Over,10.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,AJ Dillon,Under,10.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Bucky Irving,Over,66.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanduel,player_rush_yds,Bucky Irving,Under,66.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Tommy Tremble,Yes,,300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Jalen Coker,Yes,,160
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Cade Otton,Yes,,220
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Chuba Hubbard,Yes,,-143
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Tetairoa McMillan,Yes,,130
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Bucky Irving,Yes,,110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Trevor Etienne,Yes,,1400
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Feleipe Franks,Yes,,2900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,David Moore,Yes,,1400
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,AJ Dillon,Yes,,750
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Mitchell Evans,Yes,,700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,John Metchie III,Yes,,900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Kameron Johnson,Yes,,1100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Ko Kieft,Yes,,1700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Payne Durham,Yes,,1400
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Bauer Sharp,Yes,,1900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Brycen Tremayne,Yes,,1100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Anthony Tyus III,Yes,,1400
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Tez Johnson,Yes,,450
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Sean Tucker,Yes,,600
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Ted Hurst III,Yes,,300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Bryce Young,Yes,,650
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Darren Waller,Yes,,275
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Jalon Daniels,Yes,,325
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Kenny Gainwell,Yes,,350
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Chris Godwin,Yes,,230
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Ja'Tavion Sanders,Yes,,1100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,Baker Mayfield,Yes,,450
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_anytime_td,David Sills V,Yes,,1100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_pass_tds,Baker Mayfield,Over,1.5,146
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_pass_tds,Baker Mayfield,Under,1.5,-192
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_pass_tds,Bryce Young,Over,1.5,-139
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_pass_tds,Bryce Young,Under,1.5,107
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_pass_yds,Bryce Young,Over,253.5,-116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_pass_yds,Bryce Young,Under,253.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_pass_yds,Baker Mayfield,Over,215.5,-116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_pass_yds,Baker Mayfield,Under,215.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Tetairoa McMillan,Over,70.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Tetairoa McMillan,Under,70.5,-108
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Darren Waller,Over,22.5,-112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Darren Waller,Under,22.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Tommy Tremble,Over,16.5,-116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Tommy Tremble,Under,16.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Jalen Coker,Over,66.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Jalen Coker,Under,66.5,-112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Chuba Hubbard,Over,14.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Chuba Hubbard,Under,14.5,-112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Bucky Irving,Over,16.5,-118
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Bucky Irving,Under,16.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Cade Otton,Over,40.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Cade Otton,Under,40.5,-116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Tez Johnson,Over,28.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Tez Johnson,Under,28.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,John Metchie III,Over,10.5,-128
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,John Metchie III,Under,10.5,-101
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Chris Godwin,Over,44.5,-122
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Chris Godwin,Under,44.5,-106
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Ted Hurst III,Over,37.5,-116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Ted Hurst III,Under,37.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Kenny Gainwell,Over,11.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_reception_yds,Kenny Gainwell,Under,11.5,-112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Darren Waller,Over,2.5,120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Darren Waller,Under,2.5,-156
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Tetairoa McMillan,Over,5.5,107
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Tetairoa McMillan,Under,5.5,-139
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Chuba Hubbard,Over,2.5,-103
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Chuba Hubbard,Under,2.5,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Jalen Coker,Over,5.5,100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Jalen Coker,Under,5.5,-130
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Tommy Tremble,Over,1.5,-175
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Tommy Tremble,Under,1.5,135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Ted Hurst III,Over,2.5,-167
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Ted Hurst III,Under,2.5,128
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Cade Otton,Over,3.5,-161
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Cade Otton,Under,3.5,123
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Bucky Irving,Over,2.5,-167
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Bucky Irving,Under,2.5,127
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Tez Johnson,Over,2.5,124
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Tez Johnson,Under,2.5,-161
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Kenny Gainwell,Over,2.5,103
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Kenny Gainwell,Under,2.5,-133
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Chris Godwin,Over,4.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,Chris Godwin,Under,4.5,-112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,John Metchie III,Over,1.5,124
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_receptions,John Metchie III,Under,1.5,-161
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Bucky Irving,Over,66.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Bucky Irving,Under,66.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Bryce Young,Over,10.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Bryce Young,Under,10.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Baker Mayfield,Over,16.5,-118
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Baker Mayfield,Under,16.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Sean Tucker,Over,7.5,-118
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Sean Tucker,Under,7.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Kenny Gainwell,Over,11.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Kenny Gainwell,Under,11.5,-116
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Chuba Hubbard,Over,64.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,Chuba Hubbard,Under,64.5,-112
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,AJ Dillon,Over,10.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betonlineag,player_rush_yds,AJ Dillon,Under,10.5,-108
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,David Sills V,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Tommy Tremble,Yes,,310
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Baker Mayfield,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Trevor Etienne,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Ted Hurst III,Yes,,250
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Tez Johnson,Yes,,410
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Ja'Tavion Sanders,Yes,,800
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Payne Durham,Yes,,1700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Kameron Johnson,Yes,,800
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Darren Waller,Yes,,320
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Bauer Sharp,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Bucky Irving,Yes,,107
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Feleipe Franks,Yes,,3500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Bryce Young,Yes,,540
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,AJ Dillon,Yes,,750
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Brycen Tremayne,Yes,,1200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Chuba Hubbard,Yes,,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,John Metchie III,Yes,,1000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Tetairoa McMillan,Yes,,135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,David Moore,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Cade Otton,Yes,,235
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Chris Godwin,Yes,,215
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Ko Kieft,Yes,,1800
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Sean Tucker,Yes,,420
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Kenny Gainwell,Yes,,300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Jalen Coker,Yes,,180
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Mitchell Evans,Yes,,850
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_anytime_td,Anthony Tyus III,Yes,,2400
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_pass_tds,Baker Mayfield,Over,1.5,155
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_pass_tds,Baker Mayfield,Under,1.5,-205
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_pass_tds,Bryce Young,Over,1.5,-150
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_pass_tds,Bryce Young,Under,1.5,114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_pass_yds,Bryce Young,Over,254.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_pass_yds,Bryce Young,Under,254.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_pass_yds,Baker Mayfield,Over,215.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_pass_yds,Baker Mayfield,Under,215.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Chuba Hubbard,Over,13.5,-122
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Chuba Hubbard,Under,13.5,-109
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Tommy Tremble,Over,16.5,-121
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Tommy Tremble,Under,16.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Tez Johnson,Over,28.5,-117
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Tez Johnson,Under,28.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Bucky Irving,Over,17.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Bucky Irving,Under,17.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Jalen Coker,Over,66.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Jalen Coker,Under,66.5,-117
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Darren Waller,Over,21.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Darren Waller,Under,21.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,John Metchie III,Over,10.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,John Metchie III,Under,10.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Ted Hurst III,Over,38.5,-117
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Ted Hurst III,Under,38.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Kenny Gainwell,Over,13.5,-117
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Kenny Gainwell,Under,13.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Cade Otton,Over,42.5,-117
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Cade Otton,Under,42.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Tetairoa McMillan,Over,71.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Tetairoa McMillan,Under,71.5,-117
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Chris Godwin,Over,47.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_reception_yds,Chris Godwin,Under,47.5,-117
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Ted Hurst III,Over,2.5,-159
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Cade Otton,Over,4.5,133
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Kenny Gainwell,Over,2.5,118
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Tommy Tremble,Over,2.5,130
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Chuba Hubbard,Over,2.5,106
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Darren Waller,Over,2.5,128
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Tez Johnson,Over,2.5,120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Bucky Irving,Over,2.5,-141
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Chris Godwin,Over,4.5,-122
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,John Metchie III,Over,1.5,140
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Jalen Coker,Over,5.5,-106
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_receptions,Tetairoa McMillan,Over,5.5,102
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Bucky Irving,Over,66.5,-117
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Bucky Irving,Under,66.5,-114
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Kenny Gainwell,Over,12.5,-109
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Kenny Gainwell,Under,12.5,-122
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Baker Mayfield,Over,16.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Baker Mayfield,Under,16.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Chuba Hubbard,Over,66.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Chuba Hubbard,Under,66.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Bryce Young,Over,10.5,-113
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betrivers,player_rush_yds,Bryce Young,Under,10.5,-118
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Jalen Coker,Yes,,160
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Tetairoa McMillan,Yes,,145
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Bucky Irving,Yes,,105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Mitchell Evans,Yes,,650
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Darren Waller,Yes,,300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Bauer Sharp,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Tommy Tremble,Yes,,300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Tampa Bay Buccaneers D/ST,Yes,,575
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Bryce Young,Yes,,525
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Chuba Hubbard,Yes,,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Trevor Etienne,Yes,,1700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Ted Hurst III,Yes,,280
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Cade Otton,Yes,,260
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,AJ Dillon,Yes,,550
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Chris Godwin,Yes,,270
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Sean Tucker,Yes,,360
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,David Moore,Yes,,1650
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Kenny Gainwell,Yes,,310
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,John Metchie III,Yes,,775
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Payne Durham,Yes,,1650
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Carolina Panthers D/ST,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Tez Johnson,Yes,,375
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Brycen Tremayne,Yes,,850
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Kameron Johnson,Yes,,1900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Baker Mayfield,Yes,,525
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,David Sills V,Yes,,1450
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_anytime_td,Feleipe Franks,Yes,,4000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_pass_tds,Bryce Young,Over,1.5,-140
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_pass_tds,Bryce Young,Under,1.5,105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_pass_tds,Baker Mayfield,Over,1.5,150
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_pass_tds,Baker Mayfield,Under,1.5,-200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_pass_yds,Bryce Young,Over,258.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_pass_yds,Bryce Young,Under,258.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_pass_yds,Baker Mayfield,Over,220.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_pass_yds,Baker Mayfield,Under,220.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Darren Waller,Over,23.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Darren Waller,Under,23.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Tommy Tremble,Over,16.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Tommy Tremble,Under,16.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,John Metchie III,Over,10.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,John Metchie III,Under,10.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Bucky Irving,Over,16.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Bucky Irving,Under,16.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Jalen Coker,Over,66.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Jalen Coker,Under,66.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Tez Johnson,Over,28.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Tez Johnson,Under,28.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Chuba Hubbard,Over,14.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Chuba Hubbard,Under,14.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Chris Godwin,Over,45.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Chris Godwin,Under,45.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Kenny Gainwell,Over,14.5,110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Kenny Gainwell,Under,14.5,-150
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Cade Otton,Over,41.5,100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Cade Otton,Under,41.5,-135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Tetairoa McMillan,Over,70.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Tetairoa McMillan,Under,70.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Ted Hurst III,Over,40.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_reception_yds,Ted Hurst III,Under,40.5,-118
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Jalen Coker,Over,5.5,-111
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Jalen Coker,Under,5.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Tetairoa McMillan,Over,5.5,105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Tetairoa McMillan,Under,5.5,-140
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Chuba Hubbard,Over,2.5,-105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Chuba Hubbard,Under,2.5,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Darren Waller,Over,2.5,110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Darren Waller,Under,2.5,-150
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Tommy Tremble,Over,1.5,-200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Tommy Tremble,Under,1.5,150
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,John Metchie III,Over,1.5,140
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,John Metchie III,Under,1.5,-190
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Bucky Irving,Over,2.5,-160
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Bucky Irving,Under,2.5,120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Tez Johnson,Over,2.5,115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Tez Johnson,Under,2.5,-155
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Ted Hurst III,Over,2.5,-165
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Ted Hurst III,Under,2.5,125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Cade Otton,Over,3.5,-165
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Cade Otton,Under,3.5,125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Kenny Gainwell,Over,2.5,100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Kenny Gainwell,Under,2.5,-135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Chris Godwin,Over,4.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_receptions,Chris Godwin,Under,4.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Baker Mayfield,Over,17.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Baker Mayfield,Under,17.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Kenny Gainwell,Over,11.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Kenny Gainwell,Under,11.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Sean Tucker,Over,8.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Sean Tucker,Under,8.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Chuba Hubbard,Over,63.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Chuba Hubbard,Under,63.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Bucky Irving,Over,66.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Bucky Irving,Under,66.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Bryce Young,Over,9.5,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,betmgm,player_rush_yds,Bryce Young,Under,9.5,-105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Tetairoa McMillan,Yes,,135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Tommy Tremble,Yes,,320
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Chuba Hubbard,Yes,,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Cade Otton,Yes,,220
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Jalen Coker,Yes,,165
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Bucky Irving,Yes,,110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,AJ Dillon,Yes,,725
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Anthony Tyus III,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Brycen Tremayne,Yes,,1300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Payne Durham,Yes,,1800
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Tez Johnson,Yes,,440
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Trevor Etienne,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Baker Mayfield,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Feleipe Franks,Yes,,3300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Chris Godwin,Yes,,240
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Mitchell Evans,Yes,,700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Ted Hurst III,Yes,,300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Kenny Gainwell,Yes,,420
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,David Moore,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Bauer Sharp,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Ko Kieft,Yes,,2000
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Darren Waller,Yes,,320
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Kameron Johnson,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,John Metchie III,Yes,,900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Bryce Young,Yes,,725
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Ja'Tavion Sanders,Yes,,2500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Sean Tucker,Yes,,625
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Carolina Panthers D/ST,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,Tampa Bay Buccaneers D/ST,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_anytime_td,David Sills V,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_pass_tds,Baker Mayfield,Over,1.5,130
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_pass_tds,Baker Mayfield,Under,1.5,-170
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_pass_tds,Bryce Young,Over,1.5,-135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_pass_tds,Bryce Young,Under,1.5,105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_pass_yds,Baker Mayfield,Over,213.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_pass_yds,Baker Mayfield,Under,213.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_pass_yds,Bryce Young,Over,252.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_pass_yds,Bryce Young,Under,252.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Bucky Irving,Over,17.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Bucky Irving,Under,17.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Cade Otton,Over,39.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Cade Otton,Under,39.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Chris Godwin,Over,45.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Chris Godwin,Under,45.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Chuba Hubbard,Over,15.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Chuba Hubbard,Under,15.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Darren Waller,Over,22.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Darren Waller,Under,22.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Jalen Coker,Over,69.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Jalen Coker,Under,69.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,John Metchie III,Over,10.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,John Metchie III,Under,10.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Kenny Gainwell,Over,12.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Kenny Gainwell,Under,12.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Ted Hurst III,Over,38.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Ted Hurst III,Under,38.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Tetairoa McMillan,Over,70.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Tetairoa McMillan,Under,70.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Tez Johnson,Over,28.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Tez Johnson,Under,28.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Tommy Tremble,Over,15.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_reception_yds,Tommy Tremble,Under,15.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Bucky Irving,Over,2.5,-165
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Bucky Irving,Under,2.5,125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Cade Otton,Over,3.5,-165
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Cade Otton,Under,3.5,125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Chris Godwin,Over,4.5,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Chris Godwin,Under,4.5,-105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Chuba Hubbard,Over,2.5,105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Chuba Hubbard,Under,2.5,-135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Darren Waller,Over,2.5,125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Darren Waller,Under,2.5,-165
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Jalen Coker,Over,5.5,100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Jalen Coker,Under,5.5,-130
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,John Metchie III,Over,1.5,115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,John Metchie III,Under,1.5,-150
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Kenny Gainwell,Over,2.5,105
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Kenny Gainwell,Under,2.5,-135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Ted Hurst III,Over,2.5,-165
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Ted Hurst III,Under,2.5,125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Tetairoa McMillan,Over,5.5,110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Tetairoa McMillan,Under,5.5,-145
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Tez Johnson,Over,2.5,115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Tez Johnson,Under,2.5,-150
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Tommy Tremble,Over,1.5,-200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_receptions,Tommy Tremble,Under,1.5,150
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,AJ Dillon,Over,11.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,AJ Dillon,Under,11.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Baker Mayfield,Over,16.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Baker Mayfield,Under,16.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Bryce Young,Over,11.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Bryce Young,Under,11.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Bucky Irving,Over,65.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Bucky Irving,Under,65.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Chuba Hubbard,Over,68.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Chuba Hubbard,Under,68.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Kenny Gainwell,Over,10.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Kenny Gainwell,Under,10.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Sean Tucker,Over,7.5,-120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,bovada,player_rush_yds,Sean Tucker,Under,7.5,-110
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Darren Waller,Yes,,235
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,David Moore,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,AJ Dillon,Yes,,800
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Tommy Tremble,Yes,,285
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Feleipe Franks,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Chuba Hubbard,Yes,,-125
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,John Metchie III,Yes,,900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Brycen Tremayne,Yes,,1300
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Bryce Young,Yes,,650
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Jalen Coker,Yes,,170
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Ja'Tavion Sanders,Yes,,1700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Trevor Etienne,Yes,,1700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Tetairoa McMillan,Yes,,135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Mitchell Evans,Yes,,550
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Carolina Panthers D/ST,Yes,,500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Chris Godwin,Yes,,250
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Kenny Gainwell,Yes,,310
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Ko Kieft,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Cade Otton,Yes,,230
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Sean Tucker,Yes,,650
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Payne Durham,Yes,,1200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Bucky Irving,Yes,,115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Kameron Johnson,Yes,,1500
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Tez Johnson,Yes,,525
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Ted Hurst III,Yes,,330
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Bauer Sharp,Yes,,1900
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Tampa Bay Buccaneers D/ST,Yes,,550
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Baker Mayfield,Yes,,525
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,Anthony Tyus III,Yes,,1700
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_anytime_td,David Sills V,Yes,,2200
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_pass_tds,Bryce Young,Over,1.5,-160
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_pass_tds,Bryce Young,Under,1.5,120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_pass_yds,Bryce Young,Over,255.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_pass_yds,Bryce Young,Under,255.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_reception_yds,Darren Waller,Over,20.5,-135
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_reception_yds,Darren Waller,Under,20.5,100
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_receptions,Darren Waller,Over,2.5,120
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_receptions,Darren Waller,Under,2.5,-165
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_rush_yds,Bucky Irving,Over,65.5,-115
+Tampa Bay Buccaneers,Carolina Panthers,2026-10-25T05:38:43Z,fanatics,player_rush_yds,Bucky Irving,Under,65.5,-115

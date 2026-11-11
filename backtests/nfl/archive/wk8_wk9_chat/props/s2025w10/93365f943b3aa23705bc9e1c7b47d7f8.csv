@@ -1,0 +1,678 @@
+away,home,snapshot,book,market,player,side,point,price
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jahmyr Gibbs,Yes,,-150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Amon-Ra St. Brown,Yes,,-150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,David Montgomery,Yes,,115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Sam LaPorta,Yes,,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jameson Williams,Yes,,155
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Deebo Samuel Sr.,Yes,,200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Zach Ertz,Yes,,210
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jacory Croskey-Merritt,Yes,,215
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Chris Rodriguez Jr.,Yes,,310
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Marcus Mariota,Yes,,370
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jeremy McNichols,Yes,,450
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jaylin Lane,Yes,,450
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Chris Moore,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Detroit Lions D/ST,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Isaac TeSlaa,Yes,,550
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Washington Commanders D/ST,Yes,,550
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Brock Wright,Yes,,650
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Kalif Raymond,Yes,,750
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Treylon Burks,Yes,,1000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,John Bates,Yes,,1200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Robbie Chosen,Yes,,1800
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Jared Goff,Yes,,2000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Craig Reynolds,Yes,,2200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Ross Dwelley,Yes,,2200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Dominic Lovett,Yes,,2200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Ben Sinnott,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Sione Vaki,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_anytime_td,Colson Yankoff,Yes,,2800
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Jared Goff,Over,2.5,141
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Jared Goff,Under,2.5,-182
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Marcus Mariota,Over,1.5,161
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_pass_tds,Marcus Mariota,Under,1.5,-207
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Jared Goff,Over,250.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Jared Goff,Under,250.5,-111
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Marcus Mariota,Over,202.5,-111
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_pass_yds,Marcus Mariota,Under,202.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Amon-Ra St. Brown,Over,81.5,-111
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Amon-Ra St. Brown,Under,81.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Deebo Samuel Sr.,Over,55.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Deebo Samuel Sr.,Under,55.5,-111
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jameson Williams,Over,46.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jameson Williams,Under,46.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Sam LaPorta,Over,45.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Sam LaPorta,Under,45.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Zach Ertz,Over,35.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Zach Ertz,Under,35.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jaylin Lane,Over,27.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jaylin Lane,Under,27.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jahmyr Gibbs,Over,23.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jahmyr Gibbs,Under,23.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Chris Moore,Over,19.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Chris Moore,Under,19.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jeremy McNichols,Over,14.5,-108
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Jeremy McNichols,Under,14.5,-116
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,David Montgomery,Over,8.5,-119
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,David Montgomery,Under,8.5,-106
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Isaac TeSlaa,Over,4.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_reception_yds,Isaac TeSlaa,Under,4.5,-109
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Amon-Ra St. Brown,Over,7.5,-101
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Amon-Ra St. Brown,Under,7.5,-126
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Deebo Samuel Sr.,Over,5.5,-107
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Deebo Samuel Sr.,Under,5.5,-119
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Sam LaPorta,Over,3.5,-162
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Sam LaPorta,Under,3.5,127
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Zach Ertz,Over,3.5,-153
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Zach Ertz,Under,3.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Jameson Williams,Over,3.5,115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Jameson Williams,Under,3.5,-146
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Jahmyr Gibbs,Over,2.5,-163
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Jahmyr Gibbs,Under,2.5,128
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Jaylin Lane,Over,2.5,105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Jaylin Lane,Under,2.5,-134
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Jeremy McNichols,Over,1.5,-167
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Jeremy McNichols,Under,1.5,130
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Chris Moore,Over,1.5,-163
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,Chris Moore,Under,1.5,127
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,David Montgomery,Over,1.5,-116
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_receptions,David Montgomery,Under,1.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Jahmyr Gibbs,Over,72.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Jahmyr Gibbs,Under,72.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,David Montgomery,Over,47.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,David Montgomery,Under,47.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Jacory Croskey-Merritt,Over,33.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Jacory Croskey-Merritt,Under,33.5,-109
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Marcus Mariota,Over,28.5,-116
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Marcus Mariota,Under,28.5,-108
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Chris Rodriguez Jr.,Over,28.5,-108
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,draftkings,player_rush_yds,Chris Rodriguez Jr.,Under,28.5,-116
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jahmyr Gibbs,Yes,,-155
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Amon-Ra St. Brown,Yes,,-145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,David Montgomery,Yes,,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Sam LaPorta,Yes,,150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jameson Williams,Yes,,150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jacory Croskey-Merritt,Yes,,195
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Deebo Samuel Sr.,Yes,,195
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Zach Ertz,Yes,,210
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Chris Rodriguez Jr.,Yes,,300
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Marcus Mariota,Yes,,360
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jaylin Lane,Yes,,400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jeremy McNichols,Yes,,420
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Chris Moore,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Isaac TeSlaa,Yes,,550
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Brock Wright,Yes,,600
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Kalif Raymond,Yes,,675
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Treylon Burks,Yes,,950
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,John Bates,Yes,,1100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Robbie Chosen,Yes,,1400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Jared Goff,Yes,,1600
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Ross Dwelley,Yes,,1900
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Dominic Lovett,Yes,,1900
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Craig Reynolds,Yes,,2100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Sione Vaki,Yes,,2100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Ben Sinnott,Yes,,2200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_anytime_td,Colson Yankoff,Yes,,2400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Jared Goff,Over,2.5,140
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Jared Goff,Under,2.5,-193
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Marcus Mariota,Over,1.5,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_pass_tds,Marcus Mariota,Under,1.5,-200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Jared Goff,Over,250.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Jared Goff,Under,250.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Marcus Mariota,Over,204.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_pass_yds,Marcus Mariota,Under,204.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Sam LaPorta,Over,45.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Sam LaPorta,Under,45.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jaylin Lane,Over,27.5,-121
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jaylin Lane,Under,27.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Deebo Samuel Sr.,Over,56.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Deebo Samuel Sr.,Under,56.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Chris Moore,Over,18.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Chris Moore,Under,18.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Zach Ertz,Over,34.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Zach Ertz,Under,34.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jahmyr Gibbs,Over,21.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jahmyr Gibbs,Under,21.5,-121
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Isaac TeSlaa,Over,5.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Isaac TeSlaa,Under,5.5,-122
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jameson Williams,Over,45.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jameson Williams,Under,45.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Amon-Ra St. Brown,Over,80.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Amon-Ra St. Brown,Under,80.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jeremy McNichols,Over,13.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,Jeremy McNichols,Under,13.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,David Montgomery,Over,9.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_reception_yds,David Montgomery,Under,9.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,David Montgomery,Over,1.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,David Montgomery,Under,1.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Deebo Samuel Sr.,Over,5.5,-121
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Deebo Samuel Sr.,Under,5.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jaylin Lane,Over,2.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jaylin Lane,Under,2.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Zach Ertz,Over,3.5,-154
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Zach Ertz,Under,3.5,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jahmyr Gibbs,Over,2.5,-164
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jahmyr Gibbs,Under,2.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jameson Williams,Over,3.5,118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jameson Williams,Under,3.5,-160
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Sam LaPorta,Over,4.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Sam LaPorta,Under,4.5,-162
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jeremy McNichols,Over,1.5,-164
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Jeremy McNichols,Under,1.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Amon-Ra St. Brown,Over,7.5,102
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Amon-Ra St. Brown,Under,7.5,-138
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Chris Moore,Over,1.5,-152
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_receptions,Chris Moore,Under,1.5,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Marcus Mariota,Over,28.5,-121
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Marcus Mariota,Under,28.5,-111
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,David Montgomery,Over,48.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,David Montgomery,Under,48.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Chris Rodriguez Jr.,Over,28.5,-137
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Chris Rodriguez Jr.,Under,28.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Jacory Croskey-Merritt,Over,34.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Jacory Croskey-Merritt,Under,34.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Jahmyr Gibbs,Over,71.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,williamhill_us,player_rush_yds,Jahmyr Gibbs,Under,71.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jahmyr Gibbs,Yes,,-145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Amon-Ra St. Brown,Yes,,-140
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,David Montgomery,Yes,,115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Sam LaPorta,Yes,,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jameson Williams,Yes,,155
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jacory Croskey-Merritt,Yes,,200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Deebo Samuel Sr.,Yes,,210
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Zach Ertz,Yes,,220
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Chris Rodriguez Jr.,Yes,,320
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Marcus Mariota,Yes,,390
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jaylin Lane,Yes,,430
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jeremy McNichols,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Detroit Lions Defense,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Chris Moore,Yes,,550
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Isaac TeSlaa,Yes,,600
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Brock Wright,Yes,,650
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Kalif Raymond,Yes,,750
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Washington Commanders Defense,Yes,,950
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Treylon Burks,Yes,,1200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,John Bates,Yes,,1300
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Robbie Chosen,Yes,,1300
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Jared Goff,Yes,,1800
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Ross Dwelley,Yes,,2000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Dominic Lovett,Yes,,2000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Sione Vaki,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Craig Reynolds,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Ben Sinnott,Yes,,2700
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_anytime_td,Colson Yankoff,Yes,,2700
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Marcus Mariota,Over,1.5,150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Marcus Mariota,Under,1.5,-192
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Jared Goff,Over,2.5,140
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_pass_tds,Jared Goff,Under,2.5,-180
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Jared Goff,Over,248.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Jared Goff,Under,248.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Marcus Mariota,Over,205.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_pass_yds,Marcus Mariota,Under,205.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Deebo Samuel Sr.,Over,56.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Deebo Samuel Sr.,Under,56.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,David Montgomery,Over,9.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,David Montgomery,Under,9.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Amon-Ra St. Brown,Over,77.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Amon-Ra St. Brown,Under,77.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jameson Williams,Over,46.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jameson Williams,Under,46.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jahmyr Gibbs,Over,20.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jahmyr Gibbs,Under,20.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Chris Moore,Over,17.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Chris Moore,Under,17.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Sam LaPorta,Over,44.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Sam LaPorta,Under,44.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jaylin Lane,Over,27.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jaylin Lane,Under,27.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jeremy McNichols,Over,13.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Jeremy McNichols,Under,13.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Isaac TeSlaa,Over,5.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Isaac TeSlaa,Under,5.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Zach Ertz,Over,34.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_reception_yds,Zach Ertz,Under,34.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,David Montgomery,Over,1.5,-122
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,David Montgomery,Under,1.5,-104
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Chris Moore,Over,1.5,-138
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Chris Moore,Under,1.5,108
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Amon-Ra St. Brown,Over,7.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Amon-Ra St. Brown,Under,7.5,-128
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Jameson Williams,Over,3.5,122
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Jameson Williams,Under,3.5,-154
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Jahmyr Gibbs,Over,3.5,146
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Jahmyr Gibbs,Under,3.5,-186
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Sam LaPorta,Over,4.5,124
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Sam LaPorta,Under,4.5,-158
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Zach Ertz,Over,4.5,134
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Zach Ertz,Under,4.5,-172
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Jaylin Lane,Over,2.5,-102
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Jaylin Lane,Under,2.5,-124
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Jeremy McNichols,Over,1.5,-154
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Jeremy McNichols,Under,1.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Deebo Samuel Sr.,Over,5.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_receptions,Deebo Samuel Sr.,Under,5.5,-108
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Chris Rodriguez Jr.,Over,28.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Chris Rodriguez Jr.,Under,28.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Jacory Croskey-Merritt,Over,33.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Jacory Croskey-Merritt,Under,33.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Jahmyr Gibbs,Over,70.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Jahmyr Gibbs,Under,70.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Marcus Mariota,Over,27.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,Marcus Mariota,Under,27.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,David Montgomery,Over,47.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanduel,player_rush_yds,David Montgomery,Under,47.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jared Goff,Yes,,1700
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jameson Williams,Yes,,150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Chris Rodriguez Jr.,Yes,,300
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,David Montgomery,Yes,,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,John Bates,Yes,,1100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Amon-Ra St. Brown,Yes,,-167
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Brock Wright,Yes,,650
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Kalif Raymond,Yes,,750
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Craig Reynolds,Yes,,1900
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Zach Ertz,Yes,,210
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Sam LaPorta,Yes,,140
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Marcus Mariota,Yes,,350
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jeremy McNichols,Yes,,450
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jahmyr Gibbs,Yes,,-167
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Deebo Samuel Sr.,Yes,,200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Ben Sinnott,Yes,,2400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Chris Moore,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Sione Vaki,Yes,,2400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jacory Croskey-Merritt,Yes,,200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Isaac TeSlaa,Yes,,550
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jaylin Lane,Yes,,400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Treylon Burks,Yes,,1000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Dominic Lovett,Yes,,1900
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Jacob Saylors,Yes,,1900
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_anytime_td,Colson Yankoff,Yes,,2400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Jared Goff,Over,2.5,144
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Jared Goff,Under,2.5,-189
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Marcus Mariota,Over,1.5,149
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_pass_tds,Marcus Mariota,Under,1.5,-196
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Marcus Mariota,Over,200.5,-123
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Marcus Mariota,Under,200.5,-104
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Jared Goff,Over,253.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_pass_yds,Jared Goff,Under,253.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Jahmyr Gibbs,Over,22.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Jahmyr Gibbs,Under,22.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Zach Ertz,Over,34.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Zach Ertz,Under,34.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Deebo Samuel Sr.,Over,56.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Deebo Samuel Sr.,Under,56.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Amon-Ra St. Brown,Over,81.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Amon-Ra St. Brown,Under,81.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,David Montgomery,Over,9.5,-116
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,David Montgomery,Under,9.5,-111
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Chris Moore,Over,19.5,-116
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Chris Moore,Under,19.5,-111
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Sam LaPorta,Over,47.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Sam LaPorta,Under,47.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Jameson Williams,Over,46.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Jameson Williams,Under,46.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Jaylin Lane,Over,27.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_reception_yds,Jaylin Lane,Under,27.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Sam LaPorta,Over,4.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Sam LaPorta,Under,4.5,-156
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Amon-Ra St. Brown,Over,7.5,103
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Amon-Ra St. Brown,Under,7.5,-133
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Deebo Samuel Sr.,Over,5.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Deebo Samuel Sr.,Under,5.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Jameson Williams,Over,3.5,115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Jameson Williams,Under,3.5,-149
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Zach Ertz,Over,4.5,139
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Zach Ertz,Under,4.5,-182
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Jahmyr Gibbs,Over,3.5,146
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Jahmyr Gibbs,Under,3.5,-192
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,David Montgomery,Over,1.5,-122
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,David Montgomery,Under,1.5,-106
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Jaylin Lane,Over,2.5,-103
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Jaylin Lane,Under,2.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Chris Moore,Over,1.5,-147
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_receptions,Chris Moore,Under,1.5,113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Jahmyr Gibbs,Over,72.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Jahmyr Gibbs,Under,72.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Chris Rodriguez Jr.,Over,28.5,-116
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Chris Rodriguez Jr.,Under,28.5,-111
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Marcus Mariota,Over,30.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Marcus Mariota,Under,30.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,David Montgomery,Over,51.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,David Montgomery,Under,51.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Jacory Croskey-Merritt,Over,33.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betonlineag,player_rush_yds,Jacory Croskey-Merritt,Under,33.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jared Goff,Yes,,1200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jahmyr Gibbs,Yes,,-148
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jameson Williams,Yes,,175
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jaylin Lane,Yes,,330
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Ben Sinnott,Yes,,1200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jacory Croskey-Merritt,Yes,,180
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Chris Moore,Yes,,420
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Brock Wright,Yes,,700
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Sione Vaki,Yes,,3000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Craig Reynolds,Yes,,1200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Zach Ertz,Yes,,215
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,John Bates,Yes,,850
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Sam LaPorta,Yes,,155
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Amon-Ra St. Brown,Yes,,-148
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Chris Rodriguez Jr.,Yes,,370
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Dominic Lovett,Yes,,1900
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Marcus Mariota,Yes,,285
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Ross Dwelley,Yes,,2000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Isaac TeSlaa,Yes,,575
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Kalif Raymond,Yes,,650
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,David Montgomery,Yes,,102
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Jeremy McNichols,Yes,,410
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Treylon Burks,Yes,,950
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_anytime_td,Deebo Samuel Sr.,Yes,,180
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Marcus Mariota,Over,1.5,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Marcus Mariota,Under,1.5,-195
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Jared Goff,Over,2.5,155
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_pass_tds,Jared Goff,Under,2.5,-210
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Marcus Mariota,Over,203.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Marcus Mariota,Under,203.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Jared Goff,Over,250.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_pass_yds,Jared Goff,Under,250.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,David Montgomery,Over,10.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,David Montgomery,Under,10.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Sam LaPorta,Over,46.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Sam LaPorta,Under,46.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Amon-Ra St. Brown,Over,80.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Amon-Ra St. Brown,Under,80.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jeremy McNichols,Over,12.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jeremy McNichols,Under,12.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jahmyr Gibbs,Over,22.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jahmyr Gibbs,Under,22.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jaylin Lane,Over,29.5,-113
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jaylin Lane,Under,29.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Zach Ertz,Over,34.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Zach Ertz,Under,34.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jameson Williams,Over,45.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Jameson Williams,Under,45.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Chris Moore,Over,20.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Chris Moore,Under,20.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Deebo Samuel Sr.,Over,57.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_reception_yds,Deebo Samuel Sr.,Under,57.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Sam LaPorta,Over,4.5,118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Sam LaPorta,Under,4.5,-159
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Jeremy McNichols,Over,1.5,-148
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Jeremy McNichols,Under,1.5,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Chris Moore,Over,1.5,-167
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Chris Moore,Under,1.5,125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,David Montgomery,Over,1.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,David Montgomery,Under,1.5,-106
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Jameson Williams,Over,3.5,135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Jameson Williams,Under,3.5,-182
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Zach Ertz,Over,3.5,-162
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Zach Ertz,Under,3.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Deebo Samuel Sr.,Over,5.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Deebo Samuel Sr.,Under,5.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Jahmyr Gibbs,Over,2.5,-157
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Jahmyr Gibbs,Under,2.5,117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Amon-Ra St. Brown,Over,7.5,102
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Amon-Ra St. Brown,Under,7.5,-134
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Jaylin Lane,Over,2.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_receptions,Jaylin Lane,Under,2.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Chris Rodriguez Jr.,Over,26.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Chris Rodriguez Jr.,Under,26.5,-121
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,David Montgomery,Over,47.5,-112
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,David Montgomery,Under,47.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Jahmyr Gibbs,Over,69.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Jahmyr Gibbs,Under,69.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Jacory Croskey-Merritt,Over,32.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Jacory Croskey-Merritt,Under,32.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Marcus Mariota,Over,26.5,-114
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betrivers,player_rush_yds,Marcus Mariota,Under,26.5,-117
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,No Scorer,Yes,,7000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Chris Moore,Yes,,470
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Marcus Mariota,Yes,,380
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jeremy McNichols,Yes,,420
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Zach Ertz,Yes,,210
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Deebo Samuel Sr.,Yes,,200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,John Bates,Yes,,900
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Treylon Burks,Yes,,850
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Chris Rodriguez Jr.,Yes,,305
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Ben Sinnott,Yes,,1500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jacory Croskey-Merritt,Yes,,200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jaylin Lane,Yes,,360
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Washington Commanders D/ST,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jared Goff,Yes,,1300
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Ross Dwelley,Yes,,1500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Kalif Raymond,Yes,,660
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,David Montgomery,Yes,,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Craig Reynolds,Yes,,1500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Amon-Ra St. Brown,Yes,,-195
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Brock Wright,Yes,,530
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jameson Williams,Yes,,155
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Jahmyr Gibbs,Yes,,-150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Sam LaPorta,Yes,,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Sione Vaki,Yes,,1500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Dominic Lovett,Yes,,1500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Isaac TeSlaa,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_anytime_td,Detroit Lions D/ST,Yes,,420
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Jared Goff,Over,2.5,135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Jared Goff,Under,2.5,-175
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Marcus Mariota,Over,1.5,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_pass_tds,Marcus Mariota,Under,1.5,-190
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Marcus Mariota,Over,200.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Marcus Mariota,Under,200.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Jared Goff,Over,250.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_pass_yds,Jared Goff,Under,250.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,David Montgomery,Over,10.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,David Montgomery,Under,10.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jahmyr Gibbs,Over,20.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jahmyr Gibbs,Under,20.5,-105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jameson Williams,Over,45.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jameson Williams,Under,45.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Sam LaPorta,Over,45.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Sam LaPorta,Under,45.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Amon-Ra St. Brown,Over,80.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Amon-Ra St. Brown,Under,80.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Deebo Samuel Sr.,Over,55.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Deebo Samuel Sr.,Under,55.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jaylin Lane,Over,25.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Jaylin Lane,Under,25.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Zach Ertz,Over,35.5,-105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Zach Ertz,Under,35.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Chris Moore,Over,20.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_reception_yds,Chris Moore,Under,20.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Jahmyr Gibbs,Over,3.5,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Jahmyr Gibbs,Under,3.5,-205
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Amon-Ra St. Brown,Over,7.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Amon-Ra St. Brown,Under,7.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Sam LaPorta,Over,4.5,125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Sam LaPorta,Under,4.5,-170
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Jameson Williams,Over,3.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Jameson Williams,Under,3.5,-165
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Deebo Samuel Sr.,Over,5.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Deebo Samuel Sr.,Under,5.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Zach Ertz,Over,4.5,125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Zach Ertz,Under,4.5,-170
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,David Montgomery,Over,2.5,240
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,David Montgomery,Under,2.5,-375
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Jaylin Lane,Over,2.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Jaylin Lane,Under,2.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Chris Moore,Over,2.5,200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_receptions,Chris Moore,Under,2.5,-300
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Jahmyr Gibbs,Over,70.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Jahmyr Gibbs,Under,70.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,David Montgomery,Over,45.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,David Montgomery,Under,45.5,-105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Chris Rodriguez Jr.,Over,25.5,-140
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Chris Rodriguez Jr.,Under,25.5,105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Marcus Mariota,Over,30.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Marcus Mariota,Under,30.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Jacory Croskey-Merritt,Over,30.5,-140
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,fanatics,player_rush_yds,Jacory Croskey-Merritt,Under,30.5,105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jahmyr Gibbs,Yes,,-165
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Amon-Ra St. Brown,Yes,,-145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,David Montgomery,Yes,,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Sam LaPorta,Yes,,150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jameson Williams,Yes,,150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jacory Croskey-Merritt,Yes,,165
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Deebo Samuel Sr.,Yes,,195
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Zach Ertz,Yes,,200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Chris Rodriguez Jr.,Yes,,320
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Marcus Mariota,Yes,,400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jaylin Lane,Yes,,425
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jeremy McNichols,Yes,,425
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Chris Moore,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Detroit Lions D/ST,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Brock Wright,Yes,,525
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Isaac TeSlaa,Yes,,550
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Kalif Raymond,Yes,,700
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Washington Commanders D/ST,Yes,,750
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,John Bates,Yes,,950
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Treylon Burks,Yes,,950
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Robbie Chosen,Yes,,1400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Jared Goff,Yes,,1800
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Ben Sinnott,Yes,,2000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Colson Yankoff,Yes,,2000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Dominic Lovett,Yes,,2000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Ross Dwelley,Yes,,2200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Sione Vaki,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,Craig Reynolds,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_anytime_td,No Touchdown,Yes,,20000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Marcus Mariota,Over,1.5,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Marcus Mariota,Under,1.5,-190
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Jared Goff,Over,2.5,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_pass_tds,Jared Goff,Under,2.5,-190
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Marcus Mariota,Over,203.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Marcus Mariota,Under,203.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Jared Goff,Over,254.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_pass_yds,Jared Goff,Under,254.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Sam LaPorta,Over,45.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Sam LaPorta,Under,45.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jahmyr Gibbs,Over,21.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jahmyr Gibbs,Under,21.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jameson Williams,Over,44.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jameson Williams,Under,44.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,David Montgomery,Over,8.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,David Montgomery,Under,8.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Deebo Samuel Sr.,Over,55.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Deebo Samuel Sr.,Under,55.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Zach Ertz,Over,33.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Zach Ertz,Under,33.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Amon-Ra St. Brown,Over,81.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Amon-Ra St. Brown,Under,81.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Chris Moore,Over,19.5,105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Chris Moore,Under,19.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jeremy McNichols,Over,13.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jeremy McNichols,Under,13.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jaylin Lane,Over,26.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Jaylin Lane,Under,26.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Kalif Raymond,Over,7.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Kalif Raymond,Under,7.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Treylon Burks,Over,8.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Treylon Burks,Under,8.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Brock Wright,Over,6.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_reception_yds,Brock Wright,Under,6.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,David Montgomery,Over,1.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,David Montgomery,Under,1.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Amon-Ra St. Brown,Over,7.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Amon-Ra St. Brown,Under,7.5,-130
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Sam LaPorta,Over,4.5,125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Sam LaPorta,Under,4.5,-165
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Jameson Williams,Over,3.5,135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Jameson Williams,Under,3.5,-185
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Jahmyr Gibbs,Over,2.5,-145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Jahmyr Gibbs,Under,2.5,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Deebo Samuel Sr.,Over,5.5,-130
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Deebo Samuel Sr.,Under,5.5,100
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Zach Ertz,Over,3.5,-155
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Zach Ertz,Under,3.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Jaylin Lane,Over,2.5,-105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Jaylin Lane,Under,2.5,-130
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Chris Moore,Over,1.5,-160
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Chris Moore,Under,1.5,120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Kalif Raymond,Over,0.5,-235
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Kalif Raymond,Under,0.5,175
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Brock Wright,Over,0.5,-235
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Brock Wright,Under,0.5,175
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Treylon Burks,Over,0.5,-235
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_receptions,Treylon Burks,Under,0.5,170
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Marcus Mariota,Over,28.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Marcus Mariota,Under,28.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,David Montgomery,Over,48.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,David Montgomery,Under,48.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Jahmyr Gibbs,Over,73.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Jahmyr Gibbs,Under,73.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Chris Rodriguez Jr.,Over,28.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Chris Rodriguez Jr.,Under,28.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Jacory Croskey-Merritt,Over,33.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,betmgm,player_rush_yds,Jacory Croskey-Merritt,Under,33.5,-118
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Colson Yankoff,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Amon-Ra St. Brown,Yes,,-152
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Sam LaPorta,Yes,,140
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,John Bates,Yes,,1300
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jahmyr Gibbs,Yes,,-152
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jacory Croskey-Merritt,Yes,,200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Ben Sinnott,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Craig Reynolds,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jaylin Lane,Yes,,400
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Ross Dwelley,Yes,,2000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Marcus Mariota,Yes,,350
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Brock Wright,Yes,,625
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Deebo Samuel Sr.,Yes,,210
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Chris Rodriguez Jr.,Yes,,320
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Detroit Lions D/ST,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jeremy McNichols,Yes,,500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Zach Ertz,Yes,,220
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Treylon Burks,Yes,,1200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Washington Commanders D/ST,Yes,,900
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Sione Vaki,Yes,,2500
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Dominic Lovett,Yes,,2000
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jared Goff,Yes,,1800
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Isaac TeSlaa,Yes,,600
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Kalif Raymond,Yes,,725
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Chris Moore,Yes,,525
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Jameson Williams,Yes,,150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,David Montgomery,Yes,,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_anytime_td,Robbie Chosen,Yes,,1300
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_pass_tds,Jared Goff,Over,2.5,155
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_pass_tds,Jared Goff,Under,2.5,-210
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_pass_tds,Marcus Mariota,Over,1.5,150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_pass_tds,Marcus Mariota,Under,1.5,-200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_pass_yds,Jared Goff,Over,250.5,-105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_pass_yds,Jared Goff,Under,250.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_pass_yds,Marcus Mariota,Over,200.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_pass_yds,Marcus Mariota,Under,200.5,-105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Amon-Ra St. Brown,Over,79.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Amon-Ra St. Brown,Under,79.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,David Montgomery,Over,11.5,-105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,David Montgomery,Under,11.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Deebo Samuel Sr.,Over,56.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Deebo Samuel Sr.,Under,56.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Jahmyr Gibbs,Over,22.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Jahmyr Gibbs,Under,22.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Jameson Williams,Over,45.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Jameson Williams,Under,45.5,105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Jaylin Lane,Over,26.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Jaylin Lane,Under,26.5,105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Sam LaPorta,Over,45.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Sam LaPorta,Under,45.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Zach Ertz,Over,34.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_reception_yds,Zach Ertz,Under,34.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Amon-Ra St. Brown,Over,7.5,110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Amon-Ra St. Brown,Under,7.5,-145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,David Montgomery,Over,1.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,David Montgomery,Under,1.5,-105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Deebo Samuel Sr.,Over,5.5,-105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Deebo Samuel Sr.,Under,5.5,-125
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Jahmyr Gibbs,Over,3.5,150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Jahmyr Gibbs,Under,3.5,-200
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Jameson Williams,Over,3.5,115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Jameson Williams,Under,3.5,-150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Jaylin Lane,Over,2.5,-110
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Jaylin Lane,Under,2.5,-120
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Sam LaPorta,Over,4.5,115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Sam LaPorta,Under,4.5,-150
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Zach Ertz,Over,4.5,145
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_receptions,Zach Ertz,Under,4.5,-190
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_rush_yds,David Montgomery,Over,48.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_rush_yds,David Montgomery,Under,48.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_rush_yds,Jacory Croskey-Merritt,Over,35.5,105
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_rush_yds,Jacory Croskey-Merritt,Under,35.5,-135
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_rush_yds,Jahmyr Gibbs,Over,70.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_rush_yds,Jahmyr Gibbs,Under,70.5,-115
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_rush_yds,Marcus Mariota,Over,26.5,-130
+Detroit Lions,Washington Commanders,2025-11-09T17:35:37Z,bovada,player_rush_yds,Marcus Mariota,Under,26.5,100

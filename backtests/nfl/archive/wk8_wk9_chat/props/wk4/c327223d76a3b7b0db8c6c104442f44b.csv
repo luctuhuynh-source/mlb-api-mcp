@@ -1,0 +1,690 @@
+away,home,snapshot,book,market,player,side,point,price
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Aaron Jones,Yes,,-150
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Jordan Addison,Yes,,135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,T.J. Hockenson,Yes,,175
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Ollie Gordon II,Yes,,350
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Kyler Murray,Yes,,360
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Malik Washington,Yes,,370
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Jaylen Wright,Yes,,380
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Jauan Jennings,Yes,,425
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Minnesota Vikings D/ST,Yes,,475
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Malik Willis,Yes,,475
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Tai Felton,Yes,,550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Greg Dulcich,Yes,,550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Chris Bell,Yes,,600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Miami Dolphins D/ST,Yes,,650
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,DeeJay Dallas,Yes,,750
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Kevin Coleman Jr.,Yes,,950
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Demond Claiborne,Yes,,1000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Myles Price,Yes,,1000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Gavin Bartholomew,Yes,,1300
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Ryan Miller,Yes,,1400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Max Bredeson,Yes,,1600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Will Kacmarek,Yes,,1600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Jalen Tolbert,Yes,,2200
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Seydou Traore,Yes,,3000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Justin Joly,Yes,,3000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,DJ Herman,Yes,,3000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_anytime_td,Jeshaun Jones,Yes,,3000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_pass_tds,Kyler Murray,Over,1.5,112
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_pass_tds,Kyler Murray,Under,1.5,-143
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_pass_tds,Malik Willis,Over,0.5,-128
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_pass_tds,Malik Willis,Under,0.5,101
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_pass_yds,Kyler Murray,Over,204.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_pass_yds,Kyler Murray,Under,204.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_pass_yds,Malik Willis,Over,169.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_pass_yds,Malik Willis,Under,169.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Jordan Addison,Over,62.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Jordan Addison,Under,62.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Malik Washington,Over,39.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Malik Washington,Under,39.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,T.J. Hockenson,Over,38.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,T.J. Hockenson,Under,38.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Chris Bell,Over,33.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Chris Bell,Under,33.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Greg Dulcich,Over,30.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Greg Dulcich,Under,30.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Jauan Jennings,Over,27.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Jauan Jennings,Under,27.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Aaron Jones,Over,19.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Aaron Jones,Under,19.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Tai Felton,Over,15.5,-116
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Tai Felton,Under,15.5,-108
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Kevin Coleman Jr.,Over,14.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Kevin Coleman Jr.,Under,14.5,-107
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Ollie Gordon II,Over,7.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Ollie Gordon II,Under,7.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Jaylen Wright,Over,5.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Jaylen Wright,Under,5.5,-109
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Ryan Miller,Over,3.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_reception_yds,Ryan Miller,Under,3.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Jordan Addison,Over,4.5,104
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Jordan Addison,Under,4.5,-133
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Malik Washington,Over,4.5,104
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Malik Washington,Under,4.5,-132
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,T.J. Hockenson,Over,4.5,106
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,T.J. Hockenson,Under,4.5,-136
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Aaron Jones,Over,3.5,131
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Aaron Jones,Under,3.5,-168
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Greg Dulcich,Over,2.5,-165
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Greg Dulcich,Under,2.5,129
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Chris Bell,Over,2.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Chris Bell,Under,2.5,-112
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Jauan Jennings,Over,2.5,104
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Jauan Jennings,Under,2.5,-133
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Tai Felton,Over,1.5,-125
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Tai Felton,Under,1.5,-102
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Kevin Coleman Jr.,Over,1.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Kevin Coleman Jr.,Under,1.5,-108
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Ollie Gordon II,Over,1.5,156
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Ollie Gordon II,Under,1.5,-201
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Jaylen Wright,Over,1.5,188
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Jaylen Wright,Under,1.5,-244
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Ryan Miller,Over,0.5,-141
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_receptions,Ryan Miller,Under,0.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Aaron Jones,Over,66.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Aaron Jones,Under,66.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Malik Willis,Over,30.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Malik Willis,Under,30.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Jaylen Wright,Over,28.5,-116
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Jaylen Wright,Under,28.5,-108
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Ollie Gordon II,Over,25.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Ollie Gordon II,Under,25.5,-107
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Kyler Murray,Over,22.5,-108
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Kyler Murray,Under,22.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Malik Washington,Over,4.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,draftkings,player_rush_yds,Malik Washington,Under,4.5,-107
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Aaron Jones,Yes,,-148
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Jordan Addison,Yes,,131
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,T.J. Hockenson,Yes,,172
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Ollie Gordon II,Yes,,330
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Kyler Murray,Yes,,350
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Jaylen Wright,Yes,,370
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Malik Washington,Yes,,380
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Jauan Jennings,Yes,,400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Malik Willis,Yes,,450
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Tai Felton,Yes,,550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Greg Dulcich,Yes,,550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Chris Bell,Yes,,575
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,DeeJay Dallas,Yes,,700
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Kevin Coleman Jr.,Yes,,850
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Demond Claiborne,Yes,,850
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Myles Price,Yes,,950
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Gavin Bartholomew,Yes,,1100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Ryan Miller,Yes,,1500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Will Kacmarek,Yes,,1500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Max Bredeson,Yes,,1600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Jalen Tolbert,Yes,,2400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Jeshaun Jones,Yes,,2800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,DJ Herman,Yes,,2900
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Justin Joly,Yes,,3000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,williamhill_us,player_anytime_td,Seydou Traore,Yes,,3000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Aaron Jones,Yes,,-140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Jordan Addison,Yes,,135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,T.J. Hockenson,Yes,,180
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Ollie Gordon II,Yes,,340
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Kyler Murray,Yes,,370
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Jaylen Wright,Yes,,390
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Jauan Jennings,Yes,,400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Malik Washington,Yes,,410
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Malik Willis,Yes,,500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Greg Dulcich,Yes,,550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Tai Felton,Yes,,550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Minnesota Vikings Defense,Yes,,600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Chris Bell,Yes,,600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Miami Dolphins Defense,Yes,,650
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,DeeJay Dallas,Yes,,850
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Demond Claiborne,Yes,,850
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Kevin Coleman Jr.,Yes,,950
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Myles Price,Yes,,950
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Gavin Bartholomew,Yes,,1200
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Will Kacmarek,Yes,,1600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Max Bredeson,Yes,,1700
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Ryan Miller,Yes,,1800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Jalen Tolbert,Yes,,3000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,DJ Herman,Yes,,3300
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Seydou Traore,Yes,,3500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Jeshaun Jones,Yes,,3500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_anytime_td,Justin Joly,Yes,,3500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_pass_tds,Kyler Murray,Over,1.5,102
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_pass_tds,Kyler Murray,Under,1.5,-132
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_pass_tds,Malik Willis,Over,0.5,-130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_pass_tds,Malik Willis,Under,0.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_pass_yds,Kyler Murray,Over,207.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_pass_yds,Kyler Murray,Under,207.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_pass_yds,Malik Willis,Over,169.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_pass_yds,Malik Willis,Under,169.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Jordan Addison,Over,61.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Jordan Addison,Under,61.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Ollie Gordon II,Over,7.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Ollie Gordon II,Under,7.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Jaylen Wright,Over,5.5,-128
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Jaylen Wright,Under,5.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Kevin Coleman Jr.,Over,14.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Kevin Coleman Jr.,Under,14.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Ryan Miller,Over,4.5,-102
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Ryan Miller,Under,4.5,-125
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Greg Dulcich,Over,29.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Greg Dulcich,Under,29.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Jauan Jennings,Over,26.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Jauan Jennings,Under,26.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Malik Washington,Over,40.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Malik Washington,Under,40.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Chris Bell,Over,34.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Chris Bell,Under,34.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Tai Felton,Over,15.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Tai Felton,Under,15.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,T.J. Hockenson,Over,38.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,T.J. Hockenson,Under,38.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Aaron Jones,Over,19.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_reception_yds,Aaron Jones,Under,19.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,T.J. Hockenson,Over,4.5,-102
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,T.J. Hockenson,Under,4.5,-130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Jordan Addison,Over,4.5,102
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Jordan Addison,Under,4.5,-136
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Greg Dulcich,Over,2.5,-172
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Greg Dulcich,Under,2.5,128
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Ryan Miller,Over,0.5,-130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Ryan Miller,Under,0.5,-102
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Aaron Jones,Over,3.5,116
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Aaron Jones,Under,3.5,-154
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Ollie Gordon II,Over,1.5,134
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Ollie Gordon II,Under,1.5,-180
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Jauan Jennings,Over,2.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Jauan Jennings,Under,2.5,-132
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Tai Felton,Over,1.5,-130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Tai Felton,Under,1.5,-102
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Chris Bell,Over,2.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Chris Bell,Under,2.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Malik Washington,Over,4.5,102
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Malik Washington,Under,4.5,-136
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Jaylen Wright,Over,0.5,-250
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Jaylen Wright,Under,0.5,182
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Kevin Coleman Jr.,Over,1.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_receptions,Kevin Coleman Jr.,Under,1.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Kyler Murray,Over,21.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Kyler Murray,Under,21.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Malik Willis,Over,30.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Malik Willis,Under,30.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Ollie Gordon II,Over,23.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Ollie Gordon II,Under,23.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Malik Washington,Over,5.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Malik Washington,Under,5.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Aaron Jones,Over,65.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Aaron Jones,Under,65.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Jaylen Wright,Over,27.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanduel,player_rush_yds,Jaylen Wright,Under,27.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Aaron Jones,Yes,,-167
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Justin Joly,Yes,,2400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Seydou Traore,Yes,,2900
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Will Kacmarek,Yes,,1400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Jalen Tolbert,Yes,,1900
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Tai Felton,Yes,,550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Ryan Miller,Yes,,1400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Gavin Bartholomew,Yes,,1100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Max Bredeson,Yes,,1400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Myles Price,Yes,,900
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Chris Bell,Yes,,550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Kevin Coleman Jr.,Yes,,900
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,DeeJay Dallas,Yes,,700
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Malik Willis,Yes,,450
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Greg Dulcich,Yes,,550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Ollie Gordon II,Yes,,300
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Malik Washington,Yes,,350
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Jauan Jennings,Yes,,400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Demond Claiborne,Yes,,800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Kyler Murray,Yes,,350
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,T.J. Hockenson,Yes,,170
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Jaylen Wright,Yes,,325
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Jordan Addison,Yes,,120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Justin Jefferson,Yes,,120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_anytime_td,Jeshaun Jones,Yes,,2400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_pass_tds,Kyler Murray,Over,1.5,104
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_pass_tds,Kyler Murray,Under,1.5,-135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_pass_tds,Malik Willis,Over,0.5,-128
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_pass_tds,Malik Willis,Under,0.5,-101
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_pass_yds,Malik Willis,Over,169.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_pass_yds,Malik Willis,Under,169.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_pass_yds,Kyler Murray,Over,205.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_pass_yds,Kyler Murray,Under,205.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Jaylen Wright,Over,5.5,-123
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Jaylen Wright,Under,5.5,-104
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Greg Dulcich,Over,29.5,-116
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Greg Dulcich,Under,29.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Aaron Jones,Over,19.5,-116
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Aaron Jones,Under,19.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Jauan Jennings,Over,26.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Jauan Jennings,Under,26.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,T.J. Hockenson,Over,38.5,-116
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,T.J. Hockenson,Under,38.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Malik Washington,Over,40.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Malik Washington,Under,40.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Chris Bell,Over,34.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Chris Bell,Under,34.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Kevin Coleman Jr.,Over,14.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Kevin Coleman Jr.,Under,14.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Jordan Addison,Over,64.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Jordan Addison,Under,64.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Ryan Miller,Over,4.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Ryan Miller,Under,4.5,-130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Ollie Gordon II,Over,7.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Ollie Gordon II,Under,7.5,-112
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Tai Felton,Over,16.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_reception_yds,Tai Felton,Under,16.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Greg Dulcich,Over,2.5,-172
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Greg Dulcich,Under,2.5,132
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Chris Bell,Over,2.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Chris Bell,Under,2.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,T.J. Hockenson,Over,4.5,109
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,T.J. Hockenson,Under,4.5,-141
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Aaron Jones,Over,3.5,117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Aaron Jones,Under,3.5,-152
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Jaylen Wright,Over,1.5,167
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Jaylen Wright,Under,1.5,-222
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Jordan Addison,Over,4.5,-102
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Jordan Addison,Under,4.5,-127
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Malik Washington,Over,4.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Malik Washington,Under,4.5,-143
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Kevin Coleman Jr.,Over,1.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Kevin Coleman Jr.,Under,1.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Ryan Miller,Over,0.5,-130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Ryan Miller,Under,0.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Tai Felton,Over,1.5,-128
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Tai Felton,Under,1.5,-101
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Jauan Jennings,Over,2.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Jauan Jennings,Under,2.5,-130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Ollie Gordon II,Over,1.5,146
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_receptions,Ollie Gordon II,Under,1.5,-192
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Jaylen Wright,Over,28.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Jaylen Wright,Under,28.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Ollie Gordon II,Over,25.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Ollie Gordon II,Under,25.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Malik Washington,Over,4.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Malik Washington,Under,4.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Aaron Jones,Over,66.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Aaron Jones,Under,66.5,-112
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Kyler Murray,Over,21.5,-123
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Kyler Murray,Under,21.5,-104
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Malik Willis,Over,31.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betonlineag,player_rush_yds,Malik Willis,Under,31.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Jordan Addison,Yes,,112
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Chris Bell,Yes,,510
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Malik Washington,Yes,,475
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Kevin Coleman Jr.,Yes,,700
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Greg Dulcich,Yes,,650
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Seydou Traore,Yes,,3400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Jauan Jennings,Yes,,410
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Malik Willis,Yes,,370
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,DJ Herman,Yes,,1600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Ryan Miller,Yes,,1000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Jaylen Wright,Yes,,280
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Ollie Gordon II,Yes,,235
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Kyler Murray,Yes,,380
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Jeshaun Jones,Yes,,1400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Tai Felton,Yes,,425
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Justin Joly,Yes,,4000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Demond Claiborne,Yes,,1050
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Aaron Jones,Yes,,-139
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,DeeJay Dallas,Yes,,800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,T.J. Hockenson,Yes,,160
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Gavin Bartholomew,Yes,,1500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Will Kacmarek,Yes,,1800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Myles Price,Yes,,1400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Max Bredeson,Yes,,1700
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_anytime_td,Jalen Tolbert,Yes,,1900
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_pass_tds,Kyler Murray,Over,1.5,105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_pass_tds,Kyler Murray,Under,1.5,-139
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_pass_tds,Malik Willis,Over,0.5,-105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_pass_tds,Malik Willis,Under,0.5,-127
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_pass_yds,Kyler Murray,Over,200.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_pass_yds,Kyler Murray,Under,200.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_pass_yds,Malik Willis,Over,168.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_pass_yds,Malik Willis,Under,168.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Jauan Jennings,Over,25.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Jauan Jennings,Under,25.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Kevin Coleman Jr.,Over,14.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Kevin Coleman Jr.,Under,14.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Ollie Gordon II,Over,6.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Ollie Gordon II,Under,6.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,T.J. Hockenson,Over,37.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,T.J. Hockenson,Under,37.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Jaylen Wright,Over,5.5,-121
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Jaylen Wright,Under,5.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Chris Bell,Over,31.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Chris Bell,Under,31.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Greg Dulcich,Over,28.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Greg Dulcich,Under,28.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Jordan Addison,Over,63.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Jordan Addison,Under,63.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Malik Washington,Over,38.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Malik Washington,Under,38.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Tai Felton,Over,14.5,-118
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Tai Felton,Under,14.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Aaron Jones,Over,17.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_reception_yds,Aaron Jones,Under,17.5,-112
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Ollie Gordon II,Over,1.5,135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Greg Dulcich,Over,3.5,135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Chris Bell,Over,2.5,-104
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Aaron Jones,Over,3.5,133
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Tai Felton,Over,1.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Jaylen Wright,Over,0.5,-245
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Jauan Jennings,Over,2.5,105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Malik Washington,Over,4.5,120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Kevin Coleman Jr.,Over,1.5,-109
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,T.J. Hockenson,Over,4.5,106
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_receptions,Jordan Addison,Over,4.5,-106
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Ollie Gordon II,Over,24.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Ollie Gordon II,Under,24.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Malik Willis,Over,29.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Malik Willis,Under,29.5,-112
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Kyler Murray,Over,20.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Kyler Murray,Under,20.5,-112
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Aaron Jones,Over,64.5,-113
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Aaron Jones,Under,64.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Jaylen Wright,Over,26.5,-117
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betrivers,player_rush_yds,Jaylen Wright,Under,26.5,-114
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Tai Felton,Yes,,525
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Myles Price,Yes,,1200
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Jeshaun Jones,Yes,,2500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Miami Dolphins D/ST,Yes,,700
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Gavin Bartholomew,Yes,,1150
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Seydou Traore,Yes,,3500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Will Kacmarek,Yes,,1550
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Demond Claiborne,Yes,,750
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,T.J. Hockenson,Yes,,185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Ollie Gordon II,Yes,,280
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Jauan Jennings,Yes,,320
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,DJ Herman,Yes,,1700
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,DeeJay Dallas,Yes,,650
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Max Bredeson,Yes,,1700
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Malik Willis,Yes,,360
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Greg Dulcich,Yes,,400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Ryan Miller,Yes,,1600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Jaylen Wright,Yes,,310
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Aaron Jones,Yes,,-140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Kevin Coleman Jr.,Yes,,850
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Malik Washington,Yes,,325
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Chris Bell,Yes,,425
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Jordan Addison,Yes,,140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Kyler Murray,Yes,,310
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Minnesota Vikings D/ST,Yes,,425
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_anytime_td,Jalen Tolbert,Yes,,2800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_pass_tds,Kyler Murray,Over,1.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_pass_tds,Kyler Murray,Under,1.5,-135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_pass_tds,Malik Willis,Over,0.5,-125
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_pass_tds,Malik Willis,Under,0.5,-105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_pass_yds,Kyler Murray,Over,205.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_pass_yds,Kyler Murray,Under,205.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_pass_yds,Malik Willis,Over,169.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_pass_yds,Malik Willis,Under,169.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,T.J. Hockenson,Over,37.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,T.J. Hockenson,Under,37.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Aaron Jones,Over,21.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Aaron Jones,Under,21.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Ollie Gordon II,Over,5.5,-125
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Ollie Gordon II,Under,5.5,-105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Kevin Coleman Jr.,Over,14.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Kevin Coleman Jr.,Under,14.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Chris Bell,Over,33.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Chris Bell,Under,33.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Tai Felton,Over,14.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Tai Felton,Under,14.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Jauan Jennings,Over,28.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Jauan Jennings,Under,28.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Greg Dulcich,Over,28.5,-125
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Greg Dulcich,Under,28.5,-105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Jordan Addison,Over,63.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Jordan Addison,Under,63.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Malik Washington,Over,38.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Malik Washington,Under,38.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Jaylen Wright,Over,5.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_reception_yds,Jaylen Wright,Under,5.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Aaron Jones,Over,3.5,115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Aaron Jones,Under,3.5,-155
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Tai Felton,Over,1.5,-135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Tai Felton,Under,1.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,T.J. Hockenson,Over,4.5,105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,T.J. Hockenson,Under,4.5,-140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Jordan Addison,Over,4.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Jordan Addison,Under,4.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Jaylen Wright,Over,1.5,175
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Jaylen Wright,Under,1.5,-235
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Ollie Gordon II,Over,1.5,155
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Ollie Gordon II,Under,1.5,-210
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Greg Dulcich,Over,2.5,-185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Greg Dulcich,Under,2.5,135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Malik Washington,Over,3.5,-185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Malik Washington,Under,3.5,135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Jauan Jennings,Over,2.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Jauan Jennings,Under,2.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Chris Bell,Over,2.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_receptions,Chris Bell,Under,2.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_rush_yds,Aaron Jones,Over,66.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_rush_yds,Aaron Jones,Under,66.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_rush_yds,Malik Willis,Over,30.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_rush_yds,Malik Willis,Under,30.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_rush_yds,Ollie Gordon II,Over,24.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_rush_yds,Ollie Gordon II,Under,24.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_rush_yds,Jaylen Wright,Over,28.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,betmgm,player_rush_yds,Jaylen Wright,Under,28.5,-111
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,No Scorer,Yes,,2200
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Aaron Jones,Yes,,-145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Kyler Murray,Yes,,375
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,T.J. Hockenson,Yes,,140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Jauan Jennings,Yes,,400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Jordan Addison,Yes,,140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Tai Felton,Yes,,600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Gavin Bartholomew,Yes,,1300
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Myles Price,Yes,,950
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Max Bredeson,Yes,,1600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Demond Claiborne,Yes,,850
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Minnesota Vikings D/ST,Yes,,325
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Malik Willis,Yes,,450
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Greg Dulcich,Yes,,600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Jalen Tolbert,Yes,,2500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Ryan Miller,Yes,,1400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Jaylen Wright,Yes,,430
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Malik Washington,Yes,,410
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Ollie Gordon II,Yes,,370
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Chris Bell,Yes,,575
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Justin Joly,Yes,,2800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Seydou Traore,Yes,,2500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,DJ Herman,Yes,,2500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Will Kacmarek,Yes,,1500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Miami Dolphins D/ST,Yes,,475
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Kevin Coleman Jr.,Yes,,800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,DeeJay Dallas,Yes,,800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_anytime_td,Jeshaun Jones,Yes,,2500
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_pass_tds,Kyler Murray,Over,1.5,-105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_pass_tds,Kyler Murray,Under,1.5,-125
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_pass_yds,Kyler Murray,Over,205.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_pass_yds,Kyler Murray,Under,205.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_reception_yds,Chris Bell,Over,30.5,-135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_reception_yds,Chris Bell,Under,30.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_receptions,Greg Dulcich,Over,3.5,135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_receptions,Greg Dulcich,Under,3.5,-185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_rush_yds,Malik Willis,Over,30.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,fanatics,player_rush_yds,Malik Willis,Under,30.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Miami Dolphins D/ST,Yes,,625
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Aaron Jones,Yes,,-152
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Minnesota Vikings D/ST,Yes,,460
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Kyler Murray,Yes,,360
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Justin Joly,Yes,,2800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Jordan Addison,Yes,,135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Demond Claiborne,Yes,,1000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Max Bredeson,Yes,,1600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Will Kacmarek,Yes,,1600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,DJ Herman,Yes,,2800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,DeeJay Dallas,Yes,,725
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Jalen Tolbert,Yes,,2200
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,T.J. Hockenson,Yes,,175
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Jaylen Wright,Yes,,380
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Chris Bell,Yes,,600
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Malik Willis,Yes,,460
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Tai Felton,Yes,,525
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Seydou Traore,Yes,,2800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Malik Washington,Yes,,370
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Gavin Bartholomew,Yes,,1300
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Greg Dulcich,Yes,,525
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Ryan Miller,Yes,,1400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Ollie Gordon II,Yes,,350
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Jeshaun Jones,Yes,,2800
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Kevin Coleman Jr.,Yes,,900
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Myles Price,Yes,,1000
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_anytime_td,Jauan Jennings,Yes,,420
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_tds,Kyler Murray,Over,1.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_tds,Kyler Murray,Under,1.5,-145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_tds,Malik Willis,Over,0.5,-130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_tds,Malik Willis,Under,0.5,100
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Over,174.5,-250
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Under,174.5,185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Over,184.5,-190
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Under,184.5,145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Over,194.5,-145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Under,194.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Over,204.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Under,204.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Over,214.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Under,214.5,-145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Over,224.5,140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Under,224.5,-185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Over,234.5,175
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Kyler Murray,Under,234.5,-240
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,139.5,-260
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,139.5,190
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,149.5,-190
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,149.5,145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,159.5,-145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,159.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,169.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,169.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,179.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,179.5,-145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,189.5,140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,189.5,-185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Over,199.5,175
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_pass_yds,Malik Willis,Under,199.5,-240
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Aaron Jones,Over,19.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Aaron Jones,Under,19.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Over,23.5,-230
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Under,23.5,170
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Over,28.5,-160
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Under,28.5,120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Over,33.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Under,33.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Over,38.5,115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Under,38.5,-150
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Over,43.5,150
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Chris Bell,Under,43.5,-200
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Over,20.5,-245
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Under,20.5,180
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Over,25.5,-160
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Under,25.5,120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Over,30.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Under,30.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Over,35.5,120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Under,35.5,-160
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Over,40.5,155
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Greg Dulcich,Under,40.5,-210
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jauan Jennings,Over,27.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jauan Jennings,Under,27.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jaylen Wright,Over,5.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jaylen Wright,Under,5.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Over,52.5,-185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Under,52.5,140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Over,57.5,-145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Under,57.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Over,62.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Under,62.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Over,67.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Under,67.5,-145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Over,72.5,130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Jordan Addison,Under,72.5,-170
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Kevin Coleman Jr.,Over,14.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Kevin Coleman Jr.,Under,14.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,29.5,-215
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,29.5,160
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,34.5,-150
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,34.5,115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,39.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,39.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,44.5,115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,44.5,-150
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Over,49.5,145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Malik Washington,Under,49.5,-190
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Ollie Gordon II,Over,7.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Ollie Gordon II,Under,7.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Ryan Miller,Over,3.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Ryan Miller,Under,3.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Over,28.5,-215
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Under,28.5,160
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Over,33.5,-150
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Under,33.5,115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Over,38.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Under,38.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Over,43.5,115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Under,43.5,-150
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Over,48.5,145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,T.J. Hockenson,Under,48.5,-190
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Tai Felton,Over,15.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_reception_yds,Tai Felton,Under,15.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Aaron Jones,Over,3.5,130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Aaron Jones,Under,3.5,-170
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Chris Bell,Over,2.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Chris Bell,Under,2.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Greg Dulcich,Over,2.5,-170
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Greg Dulcich,Under,2.5,130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Jauan Jennings,Over,2.5,105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Jauan Jennings,Under,2.5,-135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Jaylen Wright,Over,1.5,185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Jaylen Wright,Under,1.5,-250
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Jordan Addison,Over,4.5,105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Jordan Addison,Under,4.5,-135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Kevin Coleman Jr.,Over,1.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Kevin Coleman Jr.,Under,1.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Malik Washington,Over,4.5,105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Malik Washington,Under,4.5,-135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Ollie Gordon II,Over,1.5,155
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Ollie Gordon II,Under,1.5,-210
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Ryan Miller,Over,0.5,-145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Ryan Miller,Under,0.5,110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,T.J. Hockenson,Over,4.5,105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,T.J. Hockenson,Under,4.5,-135
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Tai Felton,Over,1.5,-125
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_receptions,Tai Felton,Under,1.5,-105
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Over,46.5,-400
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Under,46.5,275
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Over,56.5,-200
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Under,56.5,150
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Over,66.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Under,66.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Over,76.5,145
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Under,76.5,-190
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Over,86.5,225
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Aaron Jones,Under,86.5,-310
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Over,18.5,-310
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Under,18.5,225
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Over,23.5,-185
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Under,23.5,140
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Over,28.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Under,28.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Over,33.5,120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Under,33.5,-160
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Over,38.5,170
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Jaylen Wright,Under,38.5,-230
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Kyler Murray,Over,22.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Kyler Murray,Under,22.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Washington,Over,4.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Washington,Under,4.5,-110
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,20.5,-280
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,20.5,205
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,25.5,-170
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,25.5,130
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,30.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,30.5,-115
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,35.5,125
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,35.5,-165
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Over,40.5,175
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Malik Willis,Under,40.5,-240
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Ollie Gordon II,Over,25.5,-120
+Miami Dolphins,Minnesota Vikings,2026-10-04T16:40:36Z,bovada,player_rush_yds,Ollie Gordon II,Under,25.5,-110

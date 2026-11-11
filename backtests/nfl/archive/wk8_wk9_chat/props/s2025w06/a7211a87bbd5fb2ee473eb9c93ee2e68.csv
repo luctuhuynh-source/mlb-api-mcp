@@ -1,0 +1,604 @@
+away,home,snapshot,book,market,player,side,point,price
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,De'Von Achane,Yes,,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Ladd McConkey,Yes,,135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Keenan Allen,Yes,,140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Jaylen Waddle,Yes,,155
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Hassan Haskins,Yes,,160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Kimani Vidal,Yes,,195
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Darren Waller,Yes,,235
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Oronde Gadsden II,Yes,,330
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Ollie Gordon II,Yes,,390
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Justin Herbert,Yes,,400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Malik Washington,Yes,,475
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Tre Harris,Yes,,550
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Miami Dolphins D/ST,Yes,,550
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Los Angeles Chargers D/ST,Yes,,550
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,KeAndre Lambert-Smith,Yes,,700
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Tyler Conklin,Yes,,750
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Nick Westbrook-Ikhine,Yes,,800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Will Dissly,Yes,,800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Julian Hill,Yes,,1000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Tahj Washington,Yes,,1400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Nyheim Hines,Yes,,1600
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Dee Eskridge,Yes,,2000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Tanner Conner,Yes,,2000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Tua Tagovailoa,Yes,,2200
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Tucker Fisk,Yes,,2500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_anytime_td,Alec Ingold,Yes,,3000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_pass_tds,Justin Herbert,Over,1.5,-145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_pass_tds,Justin Herbert,Under,1.5,114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_pass_tds,Tua Tagovailoa,Over,1.5,104
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_pass_tds,Tua Tagovailoa,Under,1.5,-133
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_pass_yds,Justin Herbert,Over,250.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_pass_yds,Justin Herbert,Under,250.5,-111
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_pass_yds,Tua Tagovailoa,Over,228.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_pass_yds,Tua Tagovailoa,Under,228.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Jaylen Waddle,Over,70.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Jaylen Waddle,Under,70.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Ladd McConkey,Over,67.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Ladd McConkey,Under,67.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Keenan Allen,Over,60.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Keenan Allen,Under,60.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Darren Waller,Over,41.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Darren Waller,Under,41.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,De'Von Achane,Over,35.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,De'Von Achane,Under,35.5,-111
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Oronde Gadsden II,Over,24.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Oronde Gadsden II,Under,24.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Malik Washington,Over,23.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_reception_yds,Malik Washington,Under,23.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Jaylen Waddle,Over,5.5,-146
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Jaylen Waddle,Under,5.5,114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Ladd McConkey,Over,5.5,-127
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Ladd McConkey,Under,5.5,-101
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Keenan Allen,Over,5.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Keenan Allen,Under,5.5,-106
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,De'Von Achane,Over,5.5,109
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,De'Von Achane,Under,5.5,-139
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Darren Waller,Over,3.5,-135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Darren Waller,Under,3.5,106
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Malik Washington,Over,3.5,114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Malik Washington,Under,3.5,-145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Oronde Gadsden II,Over,2.5,-121
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_receptions,Oronde Gadsden II,Under,2.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,De'Von Achane,Over,60.5,-111
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,De'Von Achane,Under,60.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Hassan Haskins,Over,44.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Hassan Haskins,Under,44.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Kimani Vidal,Over,29.5,-109
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Kimani Vidal,Under,29.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Justin Herbert,Over,24.5,-109
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Justin Herbert,Under,24.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Ollie Gordon II,Over,16.5,-117
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Ollie Gordon II,Under,16.5,-107
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Tua Tagovailoa,Over,3.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,draftkings,player_rush_yds,Tua Tagovailoa,Under,3.5,-111
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,De'Von Achane,Yes,,-121
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Keenan Allen,Yes,,135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Hassan Haskins,Yes,,140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Ladd McConkey,Yes,,150
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Jaylen Waddle,Yes,,160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Kimani Vidal,Yes,,205
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Darren Waller,Yes,,260
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Oronde Gadsden II,Yes,,350
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Ollie Gordon II,Yes,,350
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Justin Herbert,Yes,,370
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Malik Washington,Yes,,400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Tre Harris,Yes,,500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Nick Westbrook-Ikhine,Yes,,625
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,KeAndre Lambert-Smith,Yes,,675
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Will Dissly,Yes,,750
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Tyler Conklin,Yes,,800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Julian Hill,Yes,,900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Nyheim Hines,Yes,,1200
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Tahj Washington,Yes,,1300
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Tua Tagovailoa,Yes,,1500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Tanner Conner,Yes,,1800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Dee Eskridge,Yes,,1900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Alec Ingold,Yes,,2000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_anytime_td,Tucker Fisk,Yes,,2700
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_pass_tds,Justin Herbert,Over,1.5,-127
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_pass_tds,Justin Herbert,Under,1.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_pass_tds,Tua Tagovailoa,Over,1.5,120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_pass_tds,Tua Tagovailoa,Under,1.5,-170
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_pass_yds,Justin Herbert,Over,246.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_pass_yds,Justin Herbert,Under,246.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_pass_yds,Tua Tagovailoa,Over,224.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_pass_yds,Tua Tagovailoa,Under,224.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Malik Washington,Over,23.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Malik Washington,Under,23.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Darren Waller,Over,39.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Darren Waller,Under,39.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Oronde Gadsden II,Over,24.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Oronde Gadsden II,Under,24.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Ladd McConkey,Over,66.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Ladd McConkey,Under,66.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,De'Von Achane,Over,33.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,De'Von Achane,Under,33.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Keenan Allen,Over,60.5,-117
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Keenan Allen,Under,60.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Jaylen Waddle,Over,69.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_reception_yds,Jaylen Waddle,Under,69.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Jaylen Waddle,Over,5.5,-136
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Jaylen Waddle,Under,5.5,100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Keenan Allen,Over,5.5,-122
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Keenan Allen,Under,5.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,De'Von Achane,Over,4.5,-157
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,De'Von Achane,Under,4.5,115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Darren Waller,Over,3.5,-130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Darren Waller,Under,3.5,-102
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Malik Washington,Over,3.5,115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Malik Washington,Under,3.5,-159
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Oronde Gadsden II,Over,2.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Oronde Gadsden II,Under,2.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Ladd McConkey,Over,5.5,-124
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_receptions,Ladd McConkey,Under,5.5,-109
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Tua Tagovailoa,Over,2.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Tua Tagovailoa,Under,2.5,-107
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Kimani Vidal,Over,28.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Kimani Vidal,Under,28.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Ollie Gordon II,Over,16.5,-121
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Ollie Gordon II,Under,16.5,-111
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Hassan Haskins,Over,44.5,-130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Hassan Haskins,Under,44.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,De'Von Achane,Over,57.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,De'Von Achane,Under,57.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Justin Herbert,Over,22.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,williamhill_us,player_rush_yds,Justin Herbert,Under,22.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,De'Von Achane,Yes,,-140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Keenan Allen,Yes,,140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Hassan Haskins,Yes,,140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Ladd McConkey,Yes,,155
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Jaylen Waddle,Yes,,160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Kimani Vidal,Yes,,190
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Darren Waller,Yes,,280
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Ollie Gordon II,Yes,,330
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Justin Herbert,Yes,,340
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Oronde Gadsden II,Yes,,350
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Malik Washington,Yes,,410
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Tre Harris,Yes,,550
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Nick Westbrook-Ikhine,Yes,,650
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Los Angeles Chargers Defense,Yes,,650
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Miami Dolphins Defense,Yes,,750
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,KeAndre Lambert-Smith,Yes,,750
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Will Dissly,Yes,,900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Tyler Conklin,Yes,,1000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Julian Hill,Yes,,1000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Nyheim Hines,Yes,,1100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Tahj Washington,Yes,,1500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Tua Tagovailoa,Yes,,1500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Tanner Conner,Yes,,2000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Dee Eskridge,Yes,,2200
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Alec Ingold,Yes,,2200
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_anytime_td,Tucker Fisk,Yes,,3300
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_pass_tds,Justin Herbert,Over,1.5,-116
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_pass_tds,Justin Herbert,Under,1.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_pass_tds,Tua Tagovailoa,Over,1.5,134
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_pass_tds,Tua Tagovailoa,Under,1.5,-172
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_pass_yds,Justin Herbert,Over,247.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_pass_yds,Justin Herbert,Under,247.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_pass_yds,Tua Tagovailoa,Over,223.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_pass_yds,Tua Tagovailoa,Under,223.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Oronde Gadsden II,Over,23.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Oronde Gadsden II,Under,23.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Malik Washington,Over,23.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Malik Washington,Under,23.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,De'Von Achane,Over,32.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,De'Von Achane,Under,32.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Keenan Allen,Over,61.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Keenan Allen,Under,61.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Ladd McConkey,Over,66.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Ladd McConkey,Under,66.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Jaylen Waddle,Over,68.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Jaylen Waddle,Under,68.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Darren Waller,Over,40.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_reception_yds,Darren Waller,Under,40.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,De'Von Achane,Over,4.5,-142
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,De'Von Achane,Under,4.5,112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Malik Washington,Over,3.5,130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Malik Washington,Under,3.5,-166
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Oronde Gadsden II,Over,2.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Oronde Gadsden II,Under,2.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Keenan Allen,Over,5.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Keenan Allen,Under,5.5,-108
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Ladd McConkey,Over,5.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Ladd McConkey,Under,5.5,-108
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Darren Waller,Over,3.5,-122
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Darren Waller,Under,3.5,-106
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Jaylen Waddle,Over,5.5,-134
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_receptions,Jaylen Waddle,Under,5.5,106
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Justin Herbert,Over,22.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Justin Herbert,Under,22.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,De'Von Achane,Over,57.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,De'Von Achane,Under,57.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Ollie Gordon II,Over,17.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Ollie Gordon II,Under,17.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Tua Tagovailoa,Over,2.5,-126
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Tua Tagovailoa,Under,2.5,-102
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Hassan Haskins,Over,42.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Hassan Haskins,Under,42.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Kimani Vidal,Over,28.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanduel,player_rush_yds,Kimani Vidal,Under,28.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Tua Tagovailoa,Yes,,1400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Keenan Allen,Yes,,140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Justin Herbert,Yes,,325
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Tanner Conner,Yes,,1900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Jaylen Waddle,Yes,,150
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Alec Ingold,Yes,,1900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Julian Hill,Yes,,1000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,De'Von Achane,Yes,,-143
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Dee Eskridge,Yes,,1900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Hassan Haskins,Yes,,140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Malik Washington,Yes,,400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Tahj Washington,Yes,,1400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Ladd McConkey,Yes,,130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Will Dissly,Yes,,800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Nick Westbrook-Ikhine,Yes,,650
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Tucker Fisk,Yes,,2400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Tyler Conklin,Yes,,750
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Ollie Gordon II,Yes,,325
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,KeAndre Lambert-Smith,Yes,,700
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Oronde Gadsden II,Yes,,325
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Darren Waller,Yes,,230
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Tre Harris,Yes,,550
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Kimani Vidal,Yes,,190
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_anytime_td,Nyheim Hines,Yes,,1100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_pass_tds,Tua Tagovailoa,Under,1.5,-152
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_pass_tds,Tua Tagovailoa,Over,1.5,117
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_pass_tds,Justin Herbert,Under,1.5,110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_pass_tds,Justin Herbert,Over,1.5,-143
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_pass_yds,Tua Tagovailoa,Under,223.5,-111
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_pass_yds,Tua Tagovailoa,Over,223.5,-116
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_pass_yds,Justin Herbert,Over,250.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_pass_yds,Justin Herbert,Under,250.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Malik Washington,Under,23.5,-108
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Malik Washington,Over,23.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Jaylen Waddle,Over,68.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Jaylen Waddle,Under,68.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Darren Waller,Under,36.5,-102
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Darren Waller,Over,36.5,-127
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,De'Von Achane,Under,34.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,De'Von Achane,Over,34.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Keenan Allen,Under,61.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Keenan Allen,Over,61.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Ladd McConkey,Over,69.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Ladd McConkey,Under,69.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Oronde Gadsden II,Over,23.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_reception_yds,Oronde Gadsden II,Under,23.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Keenan Allen,Under,5.5,-106
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Keenan Allen,Over,5.5,-122
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Malik Washington,Over,3.5,115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Malik Washington,Under,3.5,-149
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,De'Von Achane,Under,4.5,130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,De'Von Achane,Over,4.5,-169
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Jaylen Waddle,Over,5.5,-137
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Jaylen Waddle,Under,5.5,106
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Darren Waller,Over,3.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Darren Waller,Under,3.5,-103
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Ladd McConkey,Under,5.5,105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Ladd McConkey,Over,5.5,-135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Oronde Gadsden II,Over,2.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_receptions,Oronde Gadsden II,Under,2.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,De'Von Achane,Over,57.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,De'Von Achane,Under,57.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Ollie Gordon II,Over,16.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Ollie Gordon II,Under,16.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Malik Washington,Over,6.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Malik Washington,Under,6.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Justin Herbert,Over,23.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Justin Herbert,Under,23.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Kimani Vidal,Under,29.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Kimani Vidal,Over,29.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Hassan Haskins,Under,44.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betonlineag,player_rush_yds,Hassan Haskins,Over,44.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Darren Waller,Yes,,230
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,De'Von Achane,Yes,,-127
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Nick Westbrook-Ikhine,Yes,,600
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Justin Herbert,Yes,,360
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Alec Ingold,Yes,,1800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Malik Washington,Yes,,310
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Ollie Gordon II,Yes,,310
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Tucker Fisk,Yes,,2200
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Dee Eskridge,Yes,,1300
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Will Dissly,Yes,,410
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Tahj Washington,Yes,,1400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Oronde Gadsden II,Yes,,340
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Kimani Vidal,Yes,,200
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Tre Harris,Yes,,525
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Tanner Conner,Yes,,1800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Keenan Allen,Yes,,165
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Tyler Conklin,Yes,,440
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Julian Hill,Yes,,1050
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,KeAndre Lambert-Smith,Yes,,550
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Ladd McConkey,Yes,,155
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Tua Tagovailoa,Yes,,1600
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Hassan Haskins,Yes,,130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_anytime_td,Jaylen Waddle,Yes,,145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_pass_tds,Justin Herbert,Over,1.5,-122
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_pass_tds,Justin Herbert,Under,1.5,-109
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_pass_tds,Tua Tagovailoa,Over,1.5,118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_pass_tds,Tua Tagovailoa,Under,1.5,-157
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_pass_yds,Tua Tagovailoa,Over,227.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_pass_yds,Tua Tagovailoa,Under,227.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_pass_yds,Justin Herbert,Over,250.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_pass_yds,Justin Herbert,Under,250.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,De'Von Achane,Over,34.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,De'Von Achane,Under,34.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Malik Washington,Over,24.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Malik Washington,Under,24.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Oronde Gadsden II,Over,24.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Oronde Gadsden II,Under,24.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Ladd McConkey,Over,65.5,-117
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Ladd McConkey,Under,65.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Darren Waller,Over,40.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Darren Waller,Under,40.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Jaylen Waddle,Over,71.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Jaylen Waddle,Under,71.5,-117
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Keenan Allen,Over,60.5,-114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_reception_yds,Keenan Allen,Under,60.5,-117
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Oronde Gadsden II,Over,2.5,-104
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Oronde Gadsden II,Under,2.5,-127
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Darren Waller,Over,3.5,-121
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Darren Waller,Under,3.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Ladd McConkey,Over,5.5,-124
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Ladd McConkey,Under,5.5,-108
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Keenan Allen,Over,5.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Keenan Allen,Under,5.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Malik Washington,Over,3.5,114
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Malik Washington,Under,3.5,-152
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,De'Von Achane,Over,4.5,-137
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,De'Von Achane,Under,4.5,104
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Jaylen Waddle,Over,5.5,-150
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_receptions,Jaylen Waddle,Under,5.5,112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Tua Tagovailoa,Over,3.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Tua Tagovailoa,Under,3.5,-127
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Kimani Vidal,Over,27.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Kimani Vidal,Under,27.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Hassan Haskins,Over,42.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Hassan Haskins,Under,42.5,-112
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Justin Herbert,Over,22.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,Justin Herbert,Under,22.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,De'Von Achane,Over,55.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betrivers,player_rush_yds,De'Von Achane,Under,55.5,-113
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Malik Washington,Yes,,400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Tre Harris,Yes,,525
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Nick Westbrook-Ikhine,Yes,,600
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Julian Hill,Yes,,900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Tanner Conner,Yes,,1800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Keenan Allen,Yes,,140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,KeAndre Lambert-Smith,Yes,,700
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Dee Eskridge,Yes,,1900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Nyheim Hines,Yes,,1000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,De'Von Achane,Yes,,-139
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Alec Ingold,Yes,,2000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Hassan Haskins,Yes,,140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Oronde Gadsden II,Yes,,350
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Jaylen Waddle,Yes,,160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Ollie Gordon II,Yes,,320
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Justin Herbert,Yes,,330
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Tucker Fisk,Yes,,2800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Tua Tagovailoa,Yes,,1300
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Kimani Vidal,Yes,,185
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Miami Dolphins Defense,Yes,,700
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Tahj Washington,Yes,,1300
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Darren Waller,Yes,,275
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Tyler Conklin,Yes,,900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Will Dissly,Yes,,800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Ladd McConkey,Yes,,150
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_anytime_td,Los Angeles Chargers Defense,Yes,,600
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_pass_tds,Justin Herbert,Over,1.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_pass_tds,Justin Herbert,Under,1.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_pass_tds,Tua Tagovailoa,Over,1.5,120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_pass_tds,Tua Tagovailoa,Under,1.5,-160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_pass_yds,Justin Herbert,Over,254.5,110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_pass_yds,Justin Herbert,Under,254.5,-145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_pass_yds,Tua Tagovailoa,Over,221.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_pass_yds,Tua Tagovailoa,Under,221.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Darren Waller,Over,36.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Darren Waller,Under,36.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,De'Von Achane,Over,31.5,-145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,De'Von Achane,Under,31.5,110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Jaylen Waddle,Over,68.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Jaylen Waddle,Under,68.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Keenan Allen,Over,60.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Keenan Allen,Under,60.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Ladd McConkey,Over,65.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Ladd McConkey,Under,65.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Malik Washington,Over,23.5,-130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_reception_yds,Malik Washington,Under,23.5,100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Darren Waller,Over,3.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Darren Waller,Under,3.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,De'Von Achane,Over,4.5,-170
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,De'Von Achane,Under,4.5,130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Jaylen Waddle,Over,5.5,-135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Jaylen Waddle,Under,5.5,105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Keenan Allen,Over,5.5,-130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Keenan Allen,Under,5.5,100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Ladd McConkey,Over,5.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Ladd McConkey,Under,5.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Malik Washington,Over,3.5,110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_receptions,Malik Washington,Under,3.5,-145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_rush_yds,De'Von Achane,Over,56.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_rush_yds,De'Von Achane,Under,56.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_rush_yds,Justin Herbert,Over,22.5,100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_rush_yds,Justin Herbert,Under,22.5,-130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_rush_yds,Ollie Gordon II,Over,16.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_rush_yds,Ollie Gordon II,Under,16.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_rush_yds,Tua Tagovailoa,Over,2.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,bovada,player_rush_yds,Tua Tagovailoa,Under,2.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,De'Von Achane,Yes,,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Hassan Haskins,Yes,,145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Jaylen Waddle,Yes,,145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Ladd McConkey,Yes,,155
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Keenan Allen,Yes,,160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Kimani Vidal,Yes,,225
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Darren Waller,Yes,,260
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Oronde Gadsden II,Yes,,400
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Justin Herbert,Yes,,425
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Ollie Gordon II,Yes,,425
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Malik Washington,Yes,,450
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Los Angeles Chargers D/ST,Yes,,550
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Tre Harris,Yes,,550
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Miami Dolphins D/ST,Yes,,650
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Tyler Conklin,Yes,,700
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Will Dissly,Yes,,700
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Nick Westbrook-Ikhine,Yes,,800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,KeAndre Lambert-Smith,Yes,,850
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Julian Hill,Yes,,950
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Tahj Washington,Yes,,1500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Dee Eskridge,Yes,,1800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Tanner Conner,Yes,,2000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Tua Tagovailoa,Yes,,2200
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Alec Ingold,Yes,,2500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,Tucker Fisk,Yes,,2800
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_anytime_td,No Touchdown,Yes,,10000
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_pass_tds,Tua Tagovailoa,Over,1.5,120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_pass_tds,Tua Tagovailoa,Under,1.5,-160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_pass_tds,Justin Herbert,Over,1.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_pass_tds,Justin Herbert,Under,1.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_pass_yds,Tua Tagovailoa,Over,223.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_pass_yds,Tua Tagovailoa,Under,223.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_pass_yds,Justin Herbert,Over,242.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_pass_yds,Justin Herbert,Under,242.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Malik Washington,Over,24.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Malik Washington,Under,24.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,De'Von Achane,Over,32.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,De'Von Achane,Under,32.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Darren Waller,Over,38.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Darren Waller,Under,38.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Julian Hill,Over,8.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Julian Hill,Under,8.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Jaylen Waddle,Over,68.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Jaylen Waddle,Under,68.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Kimani Vidal,Over,6.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Kimani Vidal,Under,6.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Will Dissly,Over,7.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Will Dissly,Under,7.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Keenan Allen,Over,57.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Keenan Allen,Under,57.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Ladd McConkey,Over,62.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Ladd McConkey,Under,62.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Hassan Haskins,Over,10.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Hassan Haskins,Under,10.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Oronde Gadsden II,Over,24.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Oronde Gadsden II,Under,24.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,KeAndre Lambert-Smith,Over,9.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,KeAndre Lambert-Smith,Under,9.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Tre Harris,Over,23.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Tre Harris,Under,23.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Nick Westbrook-Ikhine,Over,18.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_reception_yds,Nick Westbrook-Ikhine,Under,18.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Keenan Allen,Over,5.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Keenan Allen,Under,5.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,De'Von Achane,Over,5.5,110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,De'Von Achane,Under,5.5,-145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Jaylen Waddle,Over,5.5,-130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Jaylen Waddle,Under,5.5,100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Malik Washington,Over,3.5,120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Malik Washington,Under,3.5,-160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Darren Waller,Over,3.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Darren Waller,Under,3.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Nick Westbrook-Ikhine,Over,1.5,-160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Nick Westbrook-Ikhine,Under,1.5,120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Julian Hill,Over,1.5,135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Julian Hill,Under,1.5,-185
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Ladd McConkey,Over,5.5,-130
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Ladd McConkey,Under,5.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Kimani Vidal,Over,1.5,145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Kimani Vidal,Under,1.5,-190
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Hassan Haskins,Over,1.5,-150
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Hassan Haskins,Under,1.5,115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Oronde Gadsden II,Over,2.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Oronde Gadsden II,Under,2.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Tre Harris,Over,2.5,120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Tre Harris,Under,2.5,-160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,KeAndre Lambert-Smith,Over,1.5,175
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,KeAndre Lambert-Smith,Under,1.5,-235
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Will Dissly,Over,1.5,170
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_receptions,Will Dissly,Under,1.5,-225
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Malik Washington,Over,6.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Malik Washington,Under,6.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Tua Tagovailoa,Over,2.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Tua Tagovailoa,Under,2.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Justin Herbert,Over,21.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Justin Herbert,Under,21.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,De'Von Achane,Over,57.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,De'Von Achane,Under,57.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Ollie Gordon II,Over,16.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Ollie Gordon II,Under,16.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Kimani Vidal,Over,26.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Kimani Vidal,Under,26.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Hassan Haskins,Over,46.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,betmgm,player_rush_yds,Hassan Haskins,Under,46.5,-118
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,No Scorer,Yes,,3500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Darren Waller,Yes,,250
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,De'Von Achane,Yes,,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Miami Dolphins D/ST,Yes,,500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Ladd McConkey,Yes,,165
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Los Angeles Chargers D/ST,Yes,,470
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Alec Ingold,Yes,,1600
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Nick Westbrook-Ikhine,Yes,,660
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Dee Eskridge,Yes,,1300
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Jaylen Waddle,Yes,,160
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Tanner Conner,Yes,,1200
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Julian Hill,Yes,,740
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Malik Washington,Yes,,420
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Tahj Washington,Yes,,1050
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Ollie Gordon II,Yes,,360
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Keenan Allen,Yes,,155
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Tyler Conklin,Yes,,660
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Will Dissly,Yes,,660
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Hassan Haskins,Yes,,150
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Tucker Fisk,Yes,,1900
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Kimani Vidal,Yes,,215
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Oronde Gadsden II,Yes,,315
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Tre Harris,Yes,,500
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,KeAndre Lambert-Smith,Yes,,660
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Tua Tagovailoa,Yes,,1300
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_anytime_td,Justin Herbert,Yes,,380
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_pass_tds,Tua Tagovailoa,Over,1.5,110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_pass_tds,Tua Tagovailoa,Under,1.5,-145
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_pass_tds,Justin Herbert,Over,1.5,-140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_pass_tds,Justin Herbert,Under,1.5,105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_pass_yds,Tua Tagovailoa,Over,220.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_pass_yds,Tua Tagovailoa,Under,220.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_pass_yds,Justin Herbert,Over,250.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_pass_yds,Justin Herbert,Under,250.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Jaylen Waddle,Over,65.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Jaylen Waddle,Under,65.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Darren Waller,Over,40.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Darren Waller,Under,40.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Malik Washington,Over,20.5,-135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Malik Washington,Under,20.5,100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,De'Von Achane,Over,35.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,De'Von Achane,Under,35.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Ladd McConkey,Over,65.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Ladd McConkey,Under,65.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Keenan Allen,Over,60.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Keenan Allen,Under,60.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Oronde Gadsden II,Over,20.5,-140
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_reception_yds,Oronde Gadsden II,Under,20.5,105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Ladd McConkey,Over,5.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Ladd McConkey,Under,5.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,De'Von Achane,Over,5.5,135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,De'Von Achane,Under,5.5,-185
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Darren Waller,Over,3.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Darren Waller,Under,3.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Jaylen Waddle,Over,6.5,135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Jaylen Waddle,Under,6.5,-185
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Keenan Allen,Over,5.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Keenan Allen,Under,5.5,-115
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Malik Washington,Over,3.5,135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Malik Washington,Under,3.5,-185
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Oronde Gadsden II,Over,2.5,-120
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_receptions,Oronde Gadsden II,Under,2.5,-110
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,De'Von Achane,Over,55.5,-135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,De'Von Achane,Under,55.5,100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Kimani Vidal,Over,30.5,100
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Kimani Vidal,Under,30.5,-135
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Ollie Gordon II,Over,15.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Ollie Gordon II,Under,15.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Justin Herbert,Over,20.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Justin Herbert,Under,20.5,-105
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Hassan Haskins,Over,40.5,-125
+Los Angeles Chargers,Miami Dolphins,2025-10-12T16:35:38Z,fanatics,player_rush_yds,Hassan Haskins,Under,40.5,-105

@@ -1,0 +1,679 @@
+away,home,snapshot,book,market,player,side,point,price
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Woody Marks,Yes,,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Nico Collins,Yes,,120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Dalton Schultz,Yes,,195
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Malik Nabers,Yes,,225
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Isaiah Likely,Yes,,245
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Marvin Harrison Jr.,Yes,,295
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Cam Skattebo,Yes,,370
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Houston Texans D/ST,Yes,,425
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Jaylin Noel,Yes,,425
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Foster Moreau,Yes,,450
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Tyrone Tracy Jr.,Yes,,450
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,New York Giants D/ST,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,J.J. McCarthy,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,C.J. Stroud,Yes,,550
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Dare Ogunbowale,Yes,,550
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Malachi Fields,Yes,,600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Devin Singletary,Yes,,600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Xavier Hutchinson,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Kayshon Boutte,Yes,,700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Tank Dell,Yes,,850
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Darnell Mooney,Yes,,950
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Cade Stover,Yes,,1100
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Charlie Jones,Yes,,1600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Brevin Jordan,Yes,,2000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Thomas Fidone,Yes,,2200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Marlin Klein,Yes,,2200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Chris Manhertz,Yes,,3500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Jalin Hyatt,Yes,,3500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_anytime_td,Patrick Ricard,Yes,,6000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_pass_tds,C.J. Stroud,Over,1.5,-167
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_pass_tds,C.J. Stroud,Under,1.5,130
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_pass_tds,J.J. McCarthy,Over,0.5,-211
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_pass_tds,J.J. McCarthy,Under,0.5,164
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_pass_yds,C.J. Stroud,Over,256.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_pass_yds,C.J. Stroud,Under,256.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_pass_yds,J.J. McCarthy,Over,203.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_pass_yds,J.J. McCarthy,Under,203.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Malik Nabers,Over,69.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Malik Nabers,Under,69.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Nico Collins,Over,68.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Nico Collins,Under,68.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Isaiah Likely,Over,48.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Isaiah Likely,Under,48.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Over,28.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Marvin Harrison Jr.,Under,28.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Dalton Schultz,Over,27.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Dalton Schultz,Under,27.5,-109
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Jaylin Noel,Over,27.5,-109
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Jaylin Noel,Under,27.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Malachi Fields,Over,20.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Malachi Fields,Under,20.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Darnell Mooney,Over,16.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Darnell Mooney,Under,16.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Woody Marks,Over,15.5,-108
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Woody Marks,Under,15.5,-116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Xavier Hutchinson,Over,14.5,-108
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Xavier Hutchinson,Under,14.5,-116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Kayshon Boutte,Over,9.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Kayshon Boutte,Under,9.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Over,8.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Under,8.5,-109
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Foster Moreau,Over,8.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Foster Moreau,Under,8.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Devin Singletary,Over,7.5,-121
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Devin Singletary,Under,7.5,-103
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Tank Dell,Over,7.5,-117
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_reception_yds,Tank Dell,Under,7.5,-107
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Malik Nabers,Over,5.5,-140
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Malik Nabers,Under,5.5,110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Isaiah Likely,Over,5.5,106
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Isaiah Likely,Under,5.5,-136
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Nico Collins,Over,4.5,-134
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Nico Collins,Under,4.5,105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Dalton Schultz,Over,3.5,128
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Dalton Schultz,Under,3.5,-163
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Marvin Harrison Jr.,Over,2.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Marvin Harrison Jr.,Under,2.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Woody Marks,Over,2.5,102
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Woody Marks,Under,2.5,-130
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Jaylin Noel,Over,2.5,116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Jaylin Noel,Under,2.5,-148
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Malachi Fields,Over,1.5,-150
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Malachi Fields,Under,1.5,117
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Tyrone Tracy Jr.,Over,1.5,104
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Tyrone Tracy Jr.,Under,1.5,-133
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Devin Singletary,Over,1.5,110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Devin Singletary,Under,1.5,-140
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Darnell Mooney,Over,1.5,111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Darnell Mooney,Under,1.5,-142
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Foster Moreau,Over,1.5,127
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Foster Moreau,Under,1.5,-162
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Kayshon Boutte,Over,1.5,155
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Kayshon Boutte,Under,1.5,-200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Xavier Hutchinson,Over,1.5,163
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Xavier Hutchinson,Under,1.5,-211
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Tank Dell,Over,1.5,169
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_receptions,Tank Dell,Under,1.5,-219
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,Woody Marks,Over,63.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,Woody Marks,Under,63.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,Cam Skattebo,Over,28.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,Cam Skattebo,Under,28.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,J.J. McCarthy,Over,23.5,-116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,J.J. McCarthy,Under,23.5,-108
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Over,23.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Under,23.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,C.J. Stroud,Over,9.5,-109
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,draftkings,player_rush_yds,C.J. Stroud,Under,9.5,-116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Woody Marks,Yes,,-121
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Nico Collins,Yes,,127
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Dalton Schultz,Yes,,197
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Malik Nabers,Yes,,230
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Isaiah Likely,Yes,,240
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Marvin Harrison Jr.,Yes,,285
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Cam Skattebo,Yes,,350
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Jaylin Noel,Yes,,400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Foster Moreau,Yes,,425
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Tyrone Tracy Jr.,Yes,,425
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,J.J. McCarthy,Yes,,475
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Dare Ogunbowale,Yes,,475
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,C.J. Stroud,Yes,,525
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Devin Singletary,Yes,,550
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Malachi Fields,Yes,,625
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Xavier Hutchinson,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Kayshon Boutte,Yes,,675
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Tank Dell,Yes,,800
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Darnell Mooney,Yes,,850
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Cade Stover,Yes,,950
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Charlie Jones,Yes,,1400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Thomas Fidone,Yes,,1800
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Brevin Jordan,Yes,,2000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Marlin Klein,Yes,,2000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Chris Manhertz,Yes,,2700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Jalin Hyatt,Yes,,3300
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,williamhill_us,player_anytime_td,Patrick Ricard,Yes,,4000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Woody Marks,Yes,,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Nico Collins,Yes,,125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Dalton Schultz,Yes,,195
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Isaiah Likely,Yes,,250
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Malik Nabers,Yes,,250
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Marvin Harrison Jr.,Yes,,290
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Cam Skattebo,Yes,,360
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Jaylin Noel,Yes,,420
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Tyrone Tracy Jr.,Yes,,440
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Foster Moreau,Yes,,440
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Houston Texans Defense,Yes,,480
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,J.J. McCarthy,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Dare Ogunbowale,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Devin Singletary,Yes,,550
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,C.J. Stroud,Yes,,550
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Xavier Hutchinson,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Kayshon Boutte,Yes,,700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Malachi Fields,Yes,,700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Darnell Mooney,Yes,,850
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,New York Giants Defense,Yes,,950
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Tank Dell,Yes,,950
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Cade Stover,Yes,,1000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Charlie Jones,Yes,,1500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Thomas Fidone,Yes,,1700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Brevin Jordan,Yes,,2200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Marlin Klein,Yes,,2200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Chris Manhertz,Yes,,2700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Jalin Hyatt,Yes,,3300
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_anytime_td,Patrick Ricard,Yes,,5000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_pass_tds,C.J. Stroud,Over,1.5,-178
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_pass_tds,C.J. Stroud,Under,1.5,136
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_pass_tds,J.J. McCarthy,Over,0.5,-215
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_pass_tds,J.J. McCarthy,Under,0.5,162
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_pass_yds,J.J. McCarthy,Over,203.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_pass_yds,J.J. McCarthy,Under,203.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_pass_yds,C.J. Stroud,Over,255.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_pass_yds,C.J. Stroud,Under,255.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Devin Singletary,Over,6.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Devin Singletary,Under,6.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Isaiah Likely,Over,48.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Isaiah Likely,Under,48.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Kayshon Boutte,Over,10.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Kayshon Boutte,Under,10.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Over,29.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Marvin Harrison Jr.,Under,29.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Malik Nabers,Over,68.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Malik Nabers,Under,68.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Xavier Hutchinson,Over,13.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Xavier Hutchinson,Under,13.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Foster Moreau,Over,8.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Foster Moreau,Under,8.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Woody Marks,Over,14.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Woody Marks,Under,14.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Tank Dell,Over,8.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Tank Dell,Under,8.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Darnell Mooney,Over,17.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Darnell Mooney,Under,17.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Tyrone Tracy Jr.,Over,9.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Tyrone Tracy Jr.,Under,9.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Jaylin Noel,Over,26.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Jaylin Noel,Under,26.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Nico Collins,Over,68.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Nico Collins,Under,68.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Malachi Fields,Over,19.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Malachi Fields,Under,19.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Dalton Schultz,Over,26.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_reception_yds,Dalton Schultz,Under,26.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Jaylin Noel,Over,2.5,116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Jaylin Noel,Under,2.5,-154
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Kayshon Boutte,Over,1.5,148
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Kayshon Boutte,Under,1.5,-200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Foster Moreau,Over,1.5,124
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Foster Moreau,Under,1.5,-166
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Devin Singletary,Over,1.5,116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Devin Singletary,Under,1.5,-154
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Marvin Harrison Jr.,Over,2.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Marvin Harrison Jr.,Under,2.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Woody Marks,Over,2.5,-102
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Woody Marks,Under,2.5,-130
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Malachi Fields,Over,1.5,-138
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Malachi Fields,Under,1.5,104
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Darnell Mooney,Over,1.5,-102
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Darnell Mooney,Under,1.5,-130
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Isaiah Likely,Over,5.5,106
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Isaiah Likely,Under,5.5,-140
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Dalton Schultz,Over,3.5,134
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Dalton Schultz,Under,3.5,-180
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Malik Nabers,Over,5.5,-128
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Malik Nabers,Under,5.5,-104
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Tank Dell,Over,0.5,-225
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Tank Dell,Under,0.5,164
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Tyrone Tracy Jr.,Over,1.5,-108
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Tyrone Tracy Jr.,Under,1.5,-122
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Xavier Hutchinson,Over,1.5,154
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Xavier Hutchinson,Under,1.5,-210
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Nico Collins,Over,4.5,-140
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_receptions,Nico Collins,Under,4.5,106
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,J.J. McCarthy,Over,22.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,J.J. McCarthy,Under,22.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,Cam Skattebo,Over,28.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,Cam Skattebo,Under,28.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Over,23.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Under,23.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,C.J. Stroud,Over,9.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,C.J. Stroud,Under,9.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,Woody Marks,Over,63.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanduel,player_rush_yds,Woody Marks,Under,63.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Malik Nabers,Yes,,220
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Nico Collins,Yes,,120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Woody Marks,Yes,,-125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Dalton Schultz,Yes,,190
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Isaiah Likely,Yes,,240
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Chris Manhertz,Yes,,1900
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Patrick Ricard,Yes,,2900
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Cade Stover,Yes,,800
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Brevin Jordan,Yes,,1900
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Charlie Jones,Yes,,1300
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Dare Ogunbowale,Yes,,400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Darnell Mooney,Yes,,800
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Tyrone Tracy Jr.,Yes,,350
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,J.J. McCarthy,Yes,,450
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Malachi Fields,Yes,,600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Xavier Hutchinson,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,C.J. Stroud,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Kayshon Boutte,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Foster Moreau,Yes,,400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Jaylin Noel,Yes,,400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Cam Skattebo,Yes,,350
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Marvin Harrison Jr.,Yes,,270
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Tank Dell,Yes,,700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Devin Singletary,Yes,,550
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Thomas Fidone,Yes,,1700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_anytime_td,Marlin Klein,Yes,,1900
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_pass_tds,C.J. Stroud,Over,1.5,-172
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_pass_tds,C.J. Stroud,Under,1.5,133
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_pass_tds,J.J. McCarthy,Over,0.5,-222
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_pass_tds,J.J. McCarthy,Under,0.5,166
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_pass_yds,C.J. Stroud,Over,255.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_pass_yds,C.J. Stroud,Under,255.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_pass_yds,J.J. McCarthy,Over,203.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_pass_yds,J.J. McCarthy,Under,203.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Nico Collins,Over,68.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Nico Collins,Under,68.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Over,29.5,-122
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Marvin Harrison Jr.,Under,29.5,-106
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Tank Dell,Over,8.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Tank Dell,Under,8.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Foster Moreau,Over,8.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Foster Moreau,Under,8.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Isaiah Likely,Over,48.5,-116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Isaiah Likely,Under,48.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Jaylin Noel,Over,26.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Jaylin Noel,Under,26.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Malik Nabers,Over,68.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Malik Nabers,Under,68.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Over,8.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Under,8.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Xavier Hutchinson,Over,13.5,-116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Xavier Hutchinson,Under,13.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Devin Singletary,Over,6.5,-116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Devin Singletary,Under,6.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Kayshon Boutte,Over,10.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Kayshon Boutte,Under,10.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Darnell Mooney,Over,16.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Darnell Mooney,Under,16.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Dalton Schultz,Over,26.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Dalton Schultz,Under,26.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Malachi Fields,Over,19.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Malachi Fields,Under,19.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Woody Marks,Over,14.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_reception_yds,Woody Marks,Under,14.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Nico Collins,Over,4.5,-143
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Nico Collins,Under,4.5,110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Malik Nabers,Over,5.5,-128
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Malik Nabers,Under,5.5,-101
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Isaiah Likely,Over,5.5,-105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Isaiah Likely,Under,5.5,-123
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Dalton Schultz,Over,3.5,141
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Dalton Schultz,Under,3.5,-185
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Over,1.5,105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Under,1.5,-135
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Tank Dell,Over,1.5,165
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Tank Dell,Under,1.5,-217
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Kayshon Boutte,Over,1.5,144
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Kayshon Boutte,Under,1.5,-189
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Devin Singletary,Over,1.5,109
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Devin Singletary,Under,1.5,-141
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Foster Moreau,Over,1.5,126
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Foster Moreau,Under,1.5,-164
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Xavier Hutchinson,Over,1.5,139
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Xavier Hutchinson,Under,1.5,-182
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Marvin Harrison Jr.,Over,2.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Marvin Harrison Jr.,Under,2.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Jaylin Noel,Over,2.5,130
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Jaylin Noel,Under,2.5,-169
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Malachi Fields,Over,1.5,-154
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Malachi Fields,Under,1.5,118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Darnell Mooney,Over,1.5,-101
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Darnell Mooney,Under,1.5,-128
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Woody Marks,Over,2.5,110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_receptions,Woody Marks,Under,2.5,-143
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,C.J. Stroud,Over,9.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,C.J. Stroud,Under,9.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Over,23.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Under,23.5,-116
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,J.J. McCarthy,Over,24.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,J.J. McCarthy,Under,24.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,Cam Skattebo,Over,28.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,Cam Skattebo,Under,28.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,Woody Marks,Over,65.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betonlineag,player_rush_yds,Woody Marks,Under,65.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Malachi Fields,Yes,,750
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Xavier Hutchinson,Yes,,525
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Malik Nabers,Yes,,250
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,J.J. McCarthy,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Patrick Ricard,Yes,,1400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Cam Skattebo,Yes,,310
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Charlie Jones,Yes,,1700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Theo Johnson,Yes,,850
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Tank Dell,Yes,,700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Devin Singletary,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Dalton Schultz,Yes,,250
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Kayshon Boutte,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Chris Manhertz,Yes,,2200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Jaylin Noel,Yes,,440
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Nico Collins,Yes,,123
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Marvin Harrison Jr.,Yes,,260
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Brevin Jordan,Yes,,1600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Tyrone Tracy Jr.,Yes,,330
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Woody Marks,Yes,,-132
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Marlin Klein,Yes,,1200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,C.J. Stroud,Yes,,525
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Darnell Mooney,Yes,,525
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Cade Stover,Yes,,1050
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Dare Ogunbowale,Yes,,300
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Thomas Fidone,Yes,,1900
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Isaiah Likely,Yes,,245
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_anytime_td,Foster Moreau,Yes,,480
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_pass_tds,C.J. Stroud,Over,1.5,-182
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_pass_tds,C.J. Stroud,Under,1.5,135
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_pass_tds,J.J. McCarthy,Over,0.5,-200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_pass_tds,J.J. McCarthy,Under,0.5,145
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_pass_yds,J.J. McCarthy,Over,196.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_pass_yds,J.J. McCarthy,Under,196.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_pass_yds,C.J. Stroud,Over,250.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_pass_yds,C.J. Stroud,Under,250.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Isaiah Likely,Over,50.5,-117
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Isaiah Likely,Under,50.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Devin Singletary,Over,6.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Devin Singletary,Under,6.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Foster Moreau,Over,7.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Foster Moreau,Under,7.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Kayshon Boutte,Over,12.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Kayshon Boutte,Under,12.5,-117
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Malik Nabers,Over,65.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Malik Nabers,Under,65.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Xavier Hutchinson,Over,12.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Xavier Hutchinson,Under,12.5,-117
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Dalton Schultz,Over,26.5,-117
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Dalton Schultz,Under,26.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Tank Dell,Over,8.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Tank Dell,Under,8.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Over,8.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Under,8.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Jaylin Noel,Over,26.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Jaylin Noel,Under,26.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Nico Collins,Over,66.5,-117
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Nico Collins,Under,66.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Over,27.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Marvin Harrison Jr.,Under,27.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Malachi Fields,Over,17.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Malachi Fields,Under,17.5,-117
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Darnell Mooney,Over,17.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_reception_yds,Darnell Mooney,Under,17.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Jaylin Noel,Over,2.5,120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Tyrone Tracy Jr.,Over,1.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Xavier Hutchinson,Over,1.5,163
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Foster Moreau,Over,1.5,148
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Malachi Fields,Over,1.5,-148
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Dalton Schultz,Over,3.5,125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Kayshon Boutte,Over,1.5,145
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Devin Singletary,Over,1.5,108
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Isaiah Likely,Over,5.5,-106
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Marvin Harrison Jr.,Over,2.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Darnell Mooney,Over,1.5,105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Tank Dell,Over,1.5,170
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Malik Nabers,Over,5.5,-125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_receptions,Nico Collins,Over,4.5,-143
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,J.J. McCarthy,Over,21.5,-114
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,J.J. McCarthy,Under,21.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,Woody Marks,Over,62.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,Woody Marks,Under,62.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,C.J. Stroud,Over,8.5,-113
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,C.J. Stroud,Under,8.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Over,23.5,-112
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Under,23.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,Cam Skattebo,Over,28.5,-121
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betrivers,player_rush_yds,Cam Skattebo,Under,28.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Nico Collins,Yes,,135
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Cade Stover,Yes,,950
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,New York Giants D/ST,Yes,,675
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Marvin Harrison Jr.,Yes,,290
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Houston Texans D/ST,Yes,,360
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Chris Manhertz,Yes,,3500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Tyrone Tracy Jr.,Yes,,380
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Malachi Fields,Yes,,575
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Kayshon Boutte,Yes,,700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Dalton Schultz,Yes,,230
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Darnell Mooney,Yes,,850
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Woody Marks,Yes,,-130
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Xavier Hutchinson,Yes,,600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Jaylin Noel,Yes,,260
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Malik Nabers,Yes,,210
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Isaiah Likely,Yes,,225
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Foster Moreau,Yes,,600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,C.J. Stroud,Yes,,400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Patrick Ricard,Yes,,2800
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Cam Skattebo,Yes,,310
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Charlie Jones,Yes,,2000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Tank Dell,Yes,,825
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,J.J. McCarthy,Yes,,400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Devin Singletary,Yes,,475
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Dare Ogunbowale,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_anytime_td,Thomas Fidone,Yes,,1600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_pass_tds,J.J. McCarthy,Over,0.5,-210
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_pass_tds,J.J. McCarthy,Under,0.5,155
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_pass_tds,C.J. Stroud,Over,1.5,-165
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_pass_tds,C.J. Stroud,Under,1.5,125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_pass_yds,J.J. McCarthy,Over,202.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_pass_yds,J.J. McCarthy,Under,202.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_pass_yds,C.J. Stroud,Over,257.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_pass_yds,C.J. Stroud,Under,257.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Nico Collins,Over,68.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Nico Collins,Under,68.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Tank Dell,Over,8.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Tank Dell,Under,8.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Malik Nabers,Over,68.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Malik Nabers,Under,68.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Jaylin Noel,Over,25.5,-135
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Jaylin Noel,Under,25.5,100
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Kayshon Boutte,Over,11.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Kayshon Boutte,Under,11.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Over,27.5,-150
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Marvin Harrison Jr.,Under,27.5,110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Tyrone Tracy Jr.,Over,8.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Tyrone Tracy Jr.,Under,8.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Devin Singletary,Over,6.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Devin Singletary,Under,6.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Malachi Fields,Over,19.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Malachi Fields,Under,19.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Foster Moreau,Over,9.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Foster Moreau,Under,9.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Dalton Schultz,Over,28.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Dalton Schultz,Under,28.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Xavier Hutchinson,Over,13.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Xavier Hutchinson,Under,13.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Isaiah Likely,Over,51.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Isaiah Likely,Under,51.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Woody Marks,Over,14.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_reception_yds,Woody Marks,Under,14.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Kayshon Boutte,Over,1.5,145
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Kayshon Boutte,Under,1.5,-200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Marvin Harrison Jr.,Over,2.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Marvin Harrison Jr.,Under,2.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Foster Moreau,Over,1.5,130
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Foster Moreau,Under,1.5,-175
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Xavier Hutchinson,Over,1.5,125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Xavier Hutchinson,Under,1.5,-165
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Dalton Schultz,Over,3.5,120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Dalton Schultz,Under,3.5,-160
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Jaylin Noel,Over,2.5,110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Jaylin Noel,Under,2.5,-150
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Tyrone Tracy Jr.,Over,1.5,-105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Tyrone Tracy Jr.,Under,1.5,-125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Malik Nabers,Over,5.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Malik Nabers,Under,5.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Malachi Fields,Over,1.5,-140
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Malachi Fields,Under,1.5,105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Devin Singletary,Over,1.5,100
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Devin Singletary,Under,1.5,-135
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Isaiah Likely,Over,5.5,105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Isaiah Likely,Under,5.5,-140
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Nico Collins,Over,5.5,125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Nico Collins,Under,5.5,-165
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Darnell Mooney,Over,1.5,105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Darnell Mooney,Under,1.5,-140
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Woody Marks,Over,2.5,120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_receptions,Woody Marks,Under,2.5,-160
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,Tyrone Tracy Jr.,Over,23.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,Tyrone Tracy Jr.,Under,23.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,C.J. Stroud,Over,8.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,C.J. Stroud,Under,8.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,Cam Skattebo,Over,27.5,-125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,Cam Skattebo,Under,27.5,-105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,Woody Marks,Over,64.5,-111
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,Woody Marks,Under,64.5,-118
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,J.J. McCarthy,Over,21.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,betmgm,player_rush_yds,J.J. McCarthy,Under,21.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,C.J. Stroud,Yes,,525
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Kayshon Boutte,Yes,,700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Devin Singletary,Yes,,600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Patrick Ricard,Yes,,6000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Brevin Jordan,Yes,,2000
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Foster Moreau,Yes,,440
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Jaylin Noel,Yes,,420
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Xavier Hutchinson,Yes,,625
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Malachi Fields,Yes,,600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Tyrone Tracy Jr.,Yes,,440
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Cade Stover,Yes,,1100
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Marvin Harrison Jr.,Yes,,295
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Houston Texans D/ST,Yes,,420
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,New York Giants D/ST,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Cam Skattebo,Yes,,370
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Chris Manhertz,Yes,,3300
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Charlie Jones,Yes,,1600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Jalin Hyatt,Yes,,3300
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Marlin Klein,Yes,,2200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Nico Collins,Yes,,120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Dalton Schultz,Yes,,195
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Malik Nabers,Yes,,225
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Isaiah Likely,Yes,,245
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Woody Marks,Yes,,-117
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,J.J. McCarthy,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Dare Ogunbowale,Yes,,525
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Tank Dell,Yes,,825
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Thomas Fidone,Yes,,2200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_anytime_td,Darnell Mooney,Yes,,900
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_pass_tds,C.J. Stroud,Over,1.5,-170
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_pass_tds,C.J. Stroud,Under,1.5,130
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_pass_tds,J.J. McCarthy,Over,0.5,-215
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_pass_tds,J.J. McCarthy,Under,0.5,160
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_pass_yds,C.J. Stroud,Over,256.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_pass_yds,C.J. Stroud,Under,256.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_pass_yds,J.J. McCarthy,Over,203.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_pass_yds,J.J. McCarthy,Under,203.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Dalton Schultz,Over,27.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Dalton Schultz,Under,27.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Darnell Mooney,Over,16.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Darnell Mooney,Under,16.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Devin Singletary,Over,7.5,-125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Devin Singletary,Under,7.5,-105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Foster Moreau,Over,8.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Foster Moreau,Under,8.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Isaiah Likely,Over,48.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Isaiah Likely,Under,48.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Jaylin Noel,Over,27.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Jaylin Noel,Under,27.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Kayshon Boutte,Over,9.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Kayshon Boutte,Under,9.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Malachi Fields,Over,20.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Malachi Fields,Under,20.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Malik Nabers,Over,69.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Malik Nabers,Under,69.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Marvin Harrison Jr.,Over,28.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Marvin Harrison Jr.,Under,28.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Nico Collins,Over,68.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Nico Collins,Under,68.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Tank Dell,Over,7.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Tank Dell,Under,7.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Over,8.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Under,8.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Woody Marks,Over,15.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Woody Marks,Under,15.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Xavier Hutchinson,Over,14.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_reception_yds,Xavier Hutchinson,Under,14.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Dalton Schultz,Over,3.5,125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Dalton Schultz,Under,3.5,-165
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Darnell Mooney,Over,1.5,110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Darnell Mooney,Under,1.5,-145
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Devin Singletary,Over,1.5,110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Devin Singletary,Under,1.5,-145
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Foster Moreau,Over,1.5,125
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Foster Moreau,Under,1.5,-165
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Isaiah Likely,Over,5.5,105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Isaiah Likely,Under,5.5,-135
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Jaylin Noel,Over,2.5,115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Jaylin Noel,Under,2.5,-150
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Kayshon Boutte,Over,1.5,150
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Kayshon Boutte,Under,1.5,-200
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Malachi Fields,Over,1.5,-130
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Malachi Fields,Under,1.5,100
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Malik Nabers,Over,5.5,-145
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Malik Nabers,Under,5.5,110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Marvin Harrison Jr.,Over,2.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Marvin Harrison Jr.,Under,2.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Nico Collins,Over,4.5,-135
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Nico Collins,Under,4.5,105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Tank Dell,Over,1.5,170
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Tank Dell,Under,1.5,-230
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Tyrone Tracy Jr.,Over,1.5,105
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Tyrone Tracy Jr.,Under,1.5,-135
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Woody Marks,Over,2.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Woody Marks,Under,2.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Xavier Hutchinson,Over,1.5,160
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_receptions,Xavier Hutchinson,Under,1.5,-215
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,C.J. Stroud,Over,9.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,C.J. Stroud,Under,9.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,Cam Skattebo,Over,28.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,Cam Skattebo,Under,28.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,J.J. McCarthy,Over,23.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,J.J. McCarthy,Under,23.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Over,23.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Under,23.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,Woody Marks,Over,63.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,bovada,player_rush_yds,Woody Marks,Under,63.5,-115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Dalton Schultz,Yes,,160
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Dare Ogunbowale,Yes,,525
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Foster Moreau,Yes,,360
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Nico Collins,Yes,,115
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Brevin Jordan,Yes,,1300
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Kayshon Boutte,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,C.J. Stroud,Yes,,575
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Xavier Hutchinson,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Cade Stover,Yes,,750
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Jaylin Noel,Yes,,450
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Woody Marks,Yes,,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Marlin Klein,Yes,,1700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Marvin Harrison Jr.,Yes,,285
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Houston Texans D/ST,Yes,,400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Patrick Ricard,Yes,,4500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Chris Manhertz,Yes,,1700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Devin Singletary,Yes,,600
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Darnell Mooney,Yes,,900
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Isaiah Likely,Yes,,180
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Charlie Jones,Yes,,1700
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Malik Nabers,Yes,,250
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Tyrone Tracy Jr.,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,J.J. McCarthy,Yes,,500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Cam Skattebo,Yes,,400
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Thomas Fidone,Yes,,1900
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Malachi Fields,Yes,,650
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,New York Giants D/ST,Yes,,575
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Tank Dell,Yes,,900
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_anytime_td,Jalin Hyatt,Yes,,3500
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_pass_tds,C.J. Stroud,Over,1.5,-190
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_pass_tds,C.J. Stroud,Under,1.5,145
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_pass_yds,C.J. Stroud,Over,255.5,-120
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_pass_yds,C.J. Stroud,Under,255.5,-110
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_reception_yds,Nico Collins,Over,65.5,-135
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_reception_yds,Nico Collins,Under,65.5,100
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_receptions,Nico Collins,Over,5.5,145
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_receptions,Nico Collins,Under,5.5,-205
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_rush_yds,J.J. McCarthy,Over,20.5,-150
+New York Giants,Houston Texans,2026-10-25T05:38:46Z,fanatics,player_rush_yds,J.J. McCarthy,Under,20.5,110

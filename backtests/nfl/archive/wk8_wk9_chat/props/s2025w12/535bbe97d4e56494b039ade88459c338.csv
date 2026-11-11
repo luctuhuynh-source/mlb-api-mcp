@@ -1,0 +1,711 @@
+away,home,snapshot,book,market,player,side,point,price
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jahmyr Gibbs,Yes,,-370
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,David Montgomery,Yes,,-155
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Amon-Ra St. Brown,Yes,,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jameson Williams,Yes,,145
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Devin Singletary,Yes,,200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Brock Wright,Yes,,235
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Tyrone Tracy Jr.,Yes,,240
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Wan'Dale Robinson,Yes,,275
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Theo Johnson,Yes,,280
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Darius Slayton,Yes,,390
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Detroit Lions D/ST,Yes,,500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Isaac TeSlaa,Yes,,550
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Isaiah Hodgins,Yes,,550
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,New York Giants D/ST,Yes,,550
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Kalif Raymond,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Daniel Bellinger,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jameis Winston,Yes,,700
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Ross Dwelley,Yes,,1000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jalin Hyatt,Yes,,1300
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Anthony Firkser,Yes,,1500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jared Goff,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Gunner Olszewski,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Chris Manhertz,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Jacob Saylors,Yes,,2000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Sione Vaki,Yes,,2000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Eric Gray,Yes,,2200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Dominic Lovett,Yes,,3000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_anytime_td,Dalen Cambre,Yes,,4000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Jared Goff,Over,2.5,157
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Jared Goff,Under,2.5,-202
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Jameis Winston,Over,1.5,157
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_pass_tds,Jameis Winston,Under,1.5,-202
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Jared Goff,Over,255.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Jared Goff,Under,255.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Jameis Winston,Over,223.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_pass_yds,Jameis Winston,Under,223.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Amon-Ra St. Brown,Over,79.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Amon-Ra St. Brown,Under,79.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jameson Williams,Over,62.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jameson Williams,Under,62.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Wan'Dale Robinson,Over,52.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Wan'Dale Robinson,Under,52.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Darius Slayton,Over,37.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Darius Slayton,Under,37.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Theo Johnson,Over,34.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Theo Johnson,Under,34.5,-109
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jahmyr Gibbs,Over,30.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Jahmyr Gibbs,Under,30.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Brock Wright,Over,20.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Brock Wright,Under,20.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Isaiah Hodgins,Over,19.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Isaiah Hodgins,Under,19.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Over,14.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Tyrone Tracy Jr.,Under,14.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Kalif Raymond,Over,10.5,-116
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Kalif Raymond,Under,10.5,-108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Isaac TeSlaa,Over,9.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,Isaac TeSlaa,Under,9.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,David Montgomery,Over,9.5,-106
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_reception_yds,David Montgomery,Under,9.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Amon-Ra St. Brown,Over,6.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Amon-Ra St. Brown,Under,6.5,117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Wan'Dale Robinson,Over,5.5,-103
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Wan'Dale Robinson,Under,5.5,-124
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Jameson Williams,Over,3.5,-151
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Jameson Williams,Under,3.5,118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Theo Johnson,Over,3.5,-144
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Theo Johnson,Under,3.5,113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Jahmyr Gibbs,Over,3.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Jahmyr Gibbs,Under,3.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Darius Slayton,Over,2.5,-152
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Darius Slayton,Under,2.5,119
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Brock Wright,Over,2.5,-134
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Brock Wright,Under,2.5,105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Tyrone Tracy Jr.,Over,2.5,-102
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Tyrone Tracy Jr.,Under,2.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Isaiah Hodgins,Over,1.5,-181
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Isaiah Hodgins,Under,1.5,141
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,David Montgomery,Over,1.5,110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,David Montgomery,Under,1.5,-141
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Kalif Raymond,Over,1.5,117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_receptions,Kalif Raymond,Under,1.5,-149
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jahmyr Gibbs,Over,73.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jahmyr Gibbs,Under,73.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,David Montgomery,Over,55.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,David Montgomery,Under,55.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Over,43.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Tyrone Tracy Jr.,Under,43.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Devin Singletary,Over,27.5,-108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Devin Singletary,Under,27.5,-116
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jameis Winston,Over,9.5,-106
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jameis Winston,Under,9.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jared Goff,Over,0.5,139
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,draftkings,player_rush_yds,Jared Goff,Under,0.5,-176
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jahmyr Gibbs,Yes,,-320
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,David Montgomery,Yes,,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Amon-Ra St. Brown,Yes,,-121
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jameson Williams,Yes,,148
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Devin Singletary,Yes,,194
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Tyrone Tracy Jr.,Yes,,215
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Wan'Dale Robinson,Yes,,245
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Brock Wright,Yes,,250
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Theo Johnson,Yes,,270
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Darius Slayton,Yes,,350
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Isaiah Hodgins,Yes,,525
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Kalif Raymond,Yes,,525
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jameis Winston,Yes,,575
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Daniel Bellinger,Yes,,625
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Isaac TeSlaa,Yes,,650
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Ross Dwelley,Yes,,1000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jalin Hyatt,Yes,,1000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Anthony Firkser,Yes,,1400
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jared Goff,Yes,,1400
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Gunner Olszewski,Yes,,1600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Dominic Lovett,Yes,,1750
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Jacob Saylors,Yes,,1750
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Sione Vaki,Yes,,1800
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Chris Manhertz,Yes,,1800
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Eric Gray,Yes,,2000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_anytime_td,Dalen Cambre,Yes,,4500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Jared Goff,Over,1.5,-205
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Jared Goff,Under,1.5,152
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Jameis Winston,Over,1.5,156
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_pass_tds,Jameis Winston,Under,1.5,-209
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Jared Goff,Over,255.5,-121
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Jared Goff,Under,255.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Jameis Winston,Over,226.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_pass_yds,Jameis Winston,Under,226.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Amon-Ra St. Brown,Over,79.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Amon-Ra St. Brown,Under,79.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Kalif Raymond,Over,11.5,-121
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Kalif Raymond,Under,11.5,-109
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,David Montgomery,Over,8.5,-109
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,David Montgomery,Under,8.5,-121
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Tyrone Tracy Jr.,Over,15.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Tyrone Tracy Jr.,Under,15.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Brock Wright,Over,20.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Brock Wright,Under,20.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Isaac TeSlaa,Over,9.5,-122
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Isaac TeSlaa,Under,9.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jameson Williams,Over,62.5,-122
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jameson Williams,Under,62.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jahmyr Gibbs,Over,29.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Jahmyr Gibbs,Under,29.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Theo Johnson,Over,35.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Theo Johnson,Under,35.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Isaiah Hodgins,Over,19.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Isaiah Hodgins,Under,19.5,-107
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Wan'Dale Robinson,Over,54.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Wan'Dale Robinson,Under,54.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Darius Slayton,Over,40.5,-122
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_reception_yds,Darius Slayton,Under,40.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,David Montgomery,Over,1.5,111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,David Montgomery,Under,1.5,-148
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Brock Wright,Over,2.5,-127
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Brock Wright,Under,2.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Theo Johnson,Over,3.5,-152
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Theo Johnson,Under,3.5,113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jameson Williams,Over,3.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jameson Williams,Under,3.5,112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jahmyr Gibbs,Over,3.5,-128
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Jahmyr Gibbs,Under,3.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Wan'Dale Robinson,Over,5.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Wan'Dale Robinson,Under,5.5,-127
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Isaiah Hodgins,Over,1.5,-190
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Isaiah Hodgins,Under,1.5,138
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Kalif Raymond,Over,1.5,112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Kalif Raymond,Under,1.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Amon-Ra St. Brown,Over,6.5,-141
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Amon-Ra St. Brown,Under,6.5,107
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Darius Slayton,Over,2.5,-170
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Darius Slayton,Under,2.5,127
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Tyrone Tracy Jr.,Over,2.5,-109
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_receptions,Tyrone Tracy Jr.,Under,2.5,-121
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Devin Singletary,Over,28.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Devin Singletary,Under,28.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Jahmyr Gibbs,Over,75.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Jahmyr Gibbs,Under,75.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Jameis Winston,Over,9.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Jameis Winston,Under,9.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Tyrone Tracy Jr.,Over,44.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,Tyrone Tracy Jr.,Under,44.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,David Montgomery,Over,54.5,-121
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,williamhill_us,player_rush_yds,David Montgomery,Under,54.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jahmyr Gibbs,Yes,,-425
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,David Montgomery,Yes,,-145
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Amon-Ra St. Brown,Yes,,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jameson Williams,Yes,,160
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Devin Singletary,Yes,,195
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Tyrone Tracy Jr.,Yes,,230
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Brock Wright,Yes,,250
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Wan'Dale Robinson,Yes,,270
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Theo Johnson,Yes,,270
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Darius Slayton,Yes,,350
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Isaiah Hodgins,Yes,,550
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Detroit Lions Defense,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Kalif Raymond,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jameis Winston,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Isaac TeSlaa,Yes,,650
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Daniel Bellinger,Yes,,700
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,New York Giants Defense,Yes,,1200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Ross Dwelley,Yes,,1200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jared Goff,Yes,,1300
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jalin Hyatt,Yes,,1500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Jacob Saylors,Yes,,2000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Chris Manhertz,Yes,,2200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Gunner Olszewski,Yes,,2200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Eric Gray,Yes,,2500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Anthony Firkser,Yes,,2700
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Dominic Lovett,Yes,,3300
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_anytime_td,Dalen Cambre,Yes,,4500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Jameis Winston,Over,1.5,162
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Jameis Winston,Under,1.5,-210
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Jared Goff,Over,1.5,-192
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_pass_tds,Jared Goff,Under,1.5,150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Jameis Winston,Over,225.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Jameis Winston,Under,225.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Jared Goff,Over,254.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_pass_yds,Jared Goff,Under,254.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jahmyr Gibbs,Over,29.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jahmyr Gibbs,Under,29.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Amon-Ra St. Brown,Over,78.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Amon-Ra St. Brown,Under,78.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Brock Wright,Over,19.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Brock Wright,Under,19.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Tyrone Tracy Jr.,Over,15.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Tyrone Tracy Jr.,Under,15.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jameson Williams,Over,63.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Jameson Williams,Under,63.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,David Montgomery,Over,8.5,-108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,David Montgomery,Under,8.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Theo Johnson,Over,35.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Theo Johnson,Under,35.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Isaac TeSlaa,Over,9.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Isaac TeSlaa,Under,9.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Darius Slayton,Over,41.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Darius Slayton,Under,41.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Isaiah Hodgins,Over,18.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Isaiah Hodgins,Under,18.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Kalif Raymond,Over,11.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Kalif Raymond,Under,11.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Wan'Dale Robinson,Over,53.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_reception_yds,Wan'Dale Robinson,Under,53.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Darius Slayton,Over,2.5,-176
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Darius Slayton,Under,2.5,138
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Tyrone Tracy Jr.,Over,2.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Tyrone Tracy Jr.,Under,2.5,-116
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Jahmyr Gibbs,Over,3.5,-126
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Jahmyr Gibbs,Under,3.5,-102
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Brock Wright,Over,2.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Brock Wright,Under,2.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,David Montgomery,Over,1.5,112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,David Montgomery,Under,1.5,-142
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Amon-Ra St. Brown,Over,7.5,126
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Amon-Ra St. Brown,Under,7.5,-160
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Jameson Williams,Over,3.5,-142
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Jameson Williams,Under,3.5,112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Theo Johnson,Over,4.5,140
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Theo Johnson,Under,4.5,-180
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Isaiah Hodgins,Over,1.5,-192
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Isaiah Hodgins,Under,1.5,150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Wan'Dale Robinson,Over,5.5,102
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Wan'Dale Robinson,Under,5.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Kalif Raymond,Over,1.5,120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_receptions,Kalif Raymond,Under,1.5,-154
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Over,43.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Tyrone Tracy Jr.,Under,43.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jared Goff,Over,0.5,144
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jared Goff,Under,0.5,-182
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jahmyr Gibbs,Over,74.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jahmyr Gibbs,Under,74.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,David Montgomery,Over,55.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,David Montgomery,Under,55.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Devin Singletary,Over,29.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Devin Singletary,Under,29.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jameis Winston,Over,9.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanduel,player_rush_yds,Jameis Winston,Under,9.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jahmyr Gibbs,Yes,,-500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Amon-Ra St. Brown,Yes,,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Wan'Dale Robinson,Yes,,260
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jameis Winston,Yes,,650
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jared Goff,Yes,,1300
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jameson Williams,Yes,,140
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Devin Singletary,Yes,,190
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,David Montgomery,Yes,,-167
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Tyrone Tracy Jr.,Yes,,220
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Brock Wright,Yes,,240
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Isaiah Hodgins,Yes,,550
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Theo Johnson,Yes,,270
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Dominic Lovett,Yes,,2900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Kalif Raymond,Yes,,550
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jalin Hyatt,Yes,,1100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Daniel Bellinger,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Isaac TeSlaa,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Chris Manhertz,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Gunner Olszewski,Yes,,1700
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Jacob Saylors,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Sione Vaki,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Craig Reynolds,Yes,,2400
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_anytime_td,Darius Slayton,Yes,,325
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Jared Goff,Over,1.5,-213
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Jared Goff,Under,1.5,160
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Jameis Winston,Over,1.5,158
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_pass_tds,Jameis Winston,Under,1.5,-208
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Jameis Winston,Over,226.5,-123
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Jameis Winston,Under,226.5,-104
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Jared Goff,Over,257.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_pass_yds,Jared Goff,Under,257.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Brock Wright,Over,20.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Brock Wright,Under,20.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,David Montgomery,Over,8.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,David Montgomery,Under,8.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jahmyr Gibbs,Over,29.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jahmyr Gibbs,Under,29.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Kalif Raymond,Over,11.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Kalif Raymond,Under,11.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Over,14.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Tyrone Tracy Jr.,Under,14.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Theo Johnson,Over,35.5,-116
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Theo Johnson,Under,35.5,-111
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Wan'Dale Robinson,Over,53.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Wan'Dale Robinson,Under,53.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Darius Slayton,Over,39.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Darius Slayton,Under,39.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jameson Williams,Over,64.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Jameson Williams,Under,64.5,-108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Isaiah Hodgins,Over,20.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Isaiah Hodgins,Under,20.5,-108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Amon-Ra St. Brown,Over,84.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_reception_yds,Amon-Ra St. Brown,Under,84.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Wan'Dale Robinson,Over,5.5,-102
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Wan'Dale Robinson,Under,5.5,-127
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Kalif Raymond,Over,1.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Kalif Raymond,Under,1.5,-149
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jameson Williams,Over,3.5,-149
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jameson Williams,Under,3.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,David Montgomery,Over,1.5,112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,David Montgomery,Under,1.5,-145
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jahmyr Gibbs,Over,3.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Jahmyr Gibbs,Under,3.5,-108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Theo Johnson,Over,3.5,-149
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Theo Johnson,Under,3.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Brock Wright,Over,2.5,-128
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Brock Wright,Under,2.5,-101
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Over,2.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Tyrone Tracy Jr.,Under,2.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Amon-Ra St. Brown,Over,7.5,117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Amon-Ra St. Brown,Under,7.5,-152
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Isaiah Hodgins,Over,1.5,-208
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_receptions,Isaiah Hodgins,Under,1.5,158
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Jahmyr Gibbs,Over,75.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Jahmyr Gibbs,Under,75.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Devin Singletary,Over,27.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Devin Singletary,Under,27.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Jameis Winston,Over,9.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Jameis Winston,Under,9.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,David Montgomery,Over,54.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,David Montgomery,Under,54.5,-108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Over,44.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betonlineag,player_rush_yds,Tyrone Tracy Jr.,Under,44.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jacob Saylors,Yes,,650
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Sione Vaki,Yes,,2000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Isaiah Hodgins,Yes,,550
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Isaac TeSlaa,Yes,,500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Theo Johnson,Yes,,255
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Kalif Raymond,Yes,,525
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jahmyr Gibbs,Yes,,-360
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Darius Slayton,Yes,,335
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jameis Winston,Yes,,650
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Tyrone Tracy Jr.,Yes,,185
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Devin Singletary,Yes,,185
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Dominic Lovett,Yes,,1300
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Wan'Dale Robinson,Yes,,245
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Amon-Ra St. Brown,Yes,,-127
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,David Montgomery,Yes,,-136
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Chris Manhertz,Yes,,1500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Brock Wright,Yes,,240
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jared Goff,Yes,,1500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jalin Hyatt,Yes,,950
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Ross Dwelley,Yes,,900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Gunner Olszewski,Yes,,1400
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Daniel Bellinger,Yes,,575
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Jameson Williams,Yes,,155
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Dalen Cambre,Yes,,3500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Eric Gray,Yes,,2400
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_anytime_td,Anthony Firkser,Yes,,1500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Jared Goff,Over,1.5,-220
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Jared Goff,Under,1.5,160
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Jameis Winston,Over,1.5,155
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_pass_tds,Jameis Winston,Under,1.5,-210
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Jameis Winston,Over,219.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Jameis Winston,Under,219.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Jared Goff,Over,253.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_pass_yds,Jared Goff,Under,253.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Theo Johnson,Over,35.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Theo Johnson,Under,35.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Wan'Dale Robinson,Over,53.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Wan'Dale Robinson,Under,53.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Amon-Ra St. Brown,Over,78.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Amon-Ra St. Brown,Under,78.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Brock Wright,Over,20.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Brock Wright,Under,20.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jahmyr Gibbs,Over,31.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jahmyr Gibbs,Under,31.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,David Montgomery,Over,9.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,David Montgomery,Under,9.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Darius Slayton,Over,39.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Darius Slayton,Under,39.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Kalif Raymond,Over,11.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Kalif Raymond,Under,11.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jameson Williams,Over,62.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Jameson Williams,Under,62.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Over,15.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_reception_yds,Tyrone Tracy Jr.,Under,15.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Darius Slayton,Over,2.5,-175
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Darius Slayton,Under,2.5,128
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Brock Wright,Over,2.5,-134
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Brock Wright,Under,2.5,102
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Tyrone Tracy Jr.,Over,2.5,-104
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Tyrone Tracy Jr.,Under,2.5,-129
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Kalif Raymond,Over,1.5,108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Kalif Raymond,Under,1.5,-143
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Amon-Ra St. Brown,Over,6.5,-143
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Amon-Ra St. Brown,Under,6.5,108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,David Montgomery,Over,1.5,112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,David Montgomery,Under,1.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Jahmyr Gibbs,Over,3.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Jahmyr Gibbs,Under,3.5,-107
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Jameson Williams,Over,3.5,-165
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Jameson Williams,Under,3.5,123
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Wan'Dale Robinson,Over,5.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Wan'Dale Robinson,Under,5.5,-134
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Theo Johnson,Over,3.5,-143
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_receptions,Theo Johnson,Under,3.5,108
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Jahmyr Gibbs,Over,74.5,-117
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Jahmyr Gibbs,Under,74.5,-114
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Over,44.5,-113
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Tyrone Tracy Jr.,Under,44.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Devin Singletary,Over,28.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Devin Singletary,Under,28.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Jameis Winston,Over,9.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,Jameis Winston,Under,9.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,David Montgomery,Over,54.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betrivers,player_rush_yds,David Montgomery,Under,54.5,-112
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Amon-Ra St. Brown,Yes,,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jahmyr Gibbs,Yes,,-350
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Detroit Lions D/ST,Yes,,420
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jameis Winston,Yes,,550
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Wan'Dale Robinson,Yes,,225
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,New York Giants D/ST,Yes,,500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,David Montgomery,Yes,,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jameson Williams,Yes,,150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Tyrone Tracy Jr.,Yes,,225
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Devin Singletary,Yes,,190
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Theo Johnson,Yes,,270
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Brock Wright,Yes,,225
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Kalif Raymond,Yes,,470
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Isaiah Hodgins,Yes,,500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Isaac TeSlaa,Yes,,580
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Daniel Bellinger,Yes,,530
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jalin Hyatt,Yes,,850
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Gunner Olszewski,Yes,,1200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Ross Dwelley,Yes,,700
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jared Goff,Yes,,1050
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Dominic Lovett,Yes,,1050
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Jacob Saylors,Yes,,1300
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Sione Vaki,Yes,,1200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Chris Manhertz,Yes,,1200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Darius Slayton,Yes,,400
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Eric Gray,Yes,,1700
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_anytime_td,Anthony Firkser,Yes,,1800
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Jared Goff,Over,2.5,160
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Jared Goff,Under,2.5,-210
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Jameis Winston,Over,1.5,150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_pass_tds,Jameis Winston,Under,1.5,-200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Jameis Winston,Over,220.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Jameis Winston,Under,220.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Jared Goff,Over,255.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_pass_yds,Jared Goff,Under,255.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jameson Williams,Over,60.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jameson Williams,Under,60.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Amon-Ra St. Brown,Over,80.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Amon-Ra St. Brown,Under,80.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Brock Wright,Over,20.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Brock Wright,Under,20.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Tyrone Tracy Jr.,Over,15.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Tyrone Tracy Jr.,Under,15.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Theo Johnson,Over,35.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Theo Johnson,Under,35.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Kalif Raymond,Over,10.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Kalif Raymond,Under,10.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jahmyr Gibbs,Over,30.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Jahmyr Gibbs,Under,30.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,David Montgomery,Over,10.5,110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,David Montgomery,Under,10.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Isaiah Hodgins,Over,20.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Isaiah Hodgins,Under,20.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Wan'Dale Robinson,Over,50.5,-135
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Wan'Dale Robinson,Under,50.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Darius Slayton,Over,35.5,-135
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Darius Slayton,Under,35.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Isaac TeSlaa,Over,10.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_reception_yds,Isaac TeSlaa,Under,10.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Jahmyr Gibbs,Over,3.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Jahmyr Gibbs,Under,3.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Jameson Williams,Over,4.5,140
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Jameson Williams,Under,4.5,-195
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Amon-Ra St. Brown,Over,6.5,-165
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Amon-Ra St. Brown,Under,6.5,120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Brock Wright,Over,3.5,170
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Brock Wright,Under,3.5,-245
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Wan'Dale Robinson,Over,5.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Wan'Dale Robinson,Under,5.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,David Montgomery,Over,1.5,110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,David Montgomery,Under,1.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Tyrone Tracy Jr.,Over,2.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Tyrone Tracy Jr.,Under,2.5,-135
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Theo Johnson,Over,4.5,135
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Theo Johnson,Under,4.5,-185
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Kalif Raymond,Over,1.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Kalif Raymond,Under,1.5,-155
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Darius Slayton,Over,3.5,145
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_receptions,Darius Slayton,Under,3.5,-205
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Jahmyr Gibbs,Over,75.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Jahmyr Gibbs,Under,75.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Tyrone Tracy Jr.,Over,45.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Tyrone Tracy Jr.,Under,45.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_rush_yds,David Montgomery,Over,55.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_rush_yds,David Montgomery,Under,55.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Devin Singletary,Over,25.5,-135
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,fanatics,player_rush_yds,Devin Singletary,Under,25.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jahmyr Gibbs,Yes,,-300
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Amon-Ra St. Brown,Yes,,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,David Montgomery,Yes,,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jameson Williams,Yes,,155
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Devin Singletary,Yes,,210
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Tyrone Tracy Jr.,Yes,,230
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Brock Wright,Yes,,240
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Theo Johnson,Yes,,275
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Wan'Dale Robinson,Yes,,275
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Darius Slayton,Yes,,400
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Isaiah Hodgins,Yes,,500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Detroit Lions D/ST,Yes,,525
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Daniel Bellinger,Yes,,550
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Kalif Raymond,Yes,,575
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,New York Giants D/ST,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jameis Winston,Yes,,700
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Isaac TeSlaa,Yes,,750
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jalin Hyatt,Yes,,850
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Ross Dwelley,Yes,,1200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Gunner Olszewski,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Chris Manhertz,Yes,,2000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jared Goff,Yes,,2000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Jacob Saylors,Yes,,2800
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Sione Vaki,Yes,,2800
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,Dominic Lovett,Yes,,3000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_anytime_td,No Touchdown,Yes,,15000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Jared Goff,Over,1.5,-220
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Jared Goff,Under,1.5,160
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Jameis Winston,Over,1.5,155
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_pass_tds,Jameis Winston,Under,1.5,-210
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Jared Goff,Over,259.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Jared Goff,Under,259.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Jameis Winston,Over,229.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_pass_yds,Jameis Winston,Under,229.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Wan'Dale Robinson,Over,57.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Wan'Dale Robinson,Under,57.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Theo Johnson,Over,37.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Theo Johnson,Under,37.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Amon-Ra St. Brown,Over,80.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Amon-Ra St. Brown,Under,80.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jameson Williams,Over,62.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jameson Williams,Under,62.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Brock Wright,Over,21.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Brock Wright,Under,21.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Kalif Raymond,Over,12.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Kalif Raymond,Under,12.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Daniel Bellinger,Over,11.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Daniel Bellinger,Under,11.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Devin Singletary,Over,6.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Devin Singletary,Under,6.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Darius Slayton,Over,38.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Darius Slayton,Under,38.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,David Montgomery,Over,7.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,David Montgomery,Under,7.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Tyrone Tracy Jr.,Over,13.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Tyrone Tracy Jr.,Under,13.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Isaac TeSlaa,Over,10.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Isaac TeSlaa,Under,10.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jahmyr Gibbs,Over,28.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_reception_yds,Jahmyr Gibbs,Under,28.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Jameson Williams,Over,3.5,-155
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Jameson Williams,Under,3.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Jahmyr Gibbs,Over,3.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Jahmyr Gibbs,Under,3.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Brock Wright,Over,2.5,-135
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Brock Wright,Under,2.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,David Montgomery,Over,1.5,105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,David Montgomery,Under,1.5,-140
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Wan'Dale Robinson,Over,5.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Wan'Dale Robinson,Under,5.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Theo Johnson,Over,3.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Theo Johnson,Under,3.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Amon-Ra St. Brown,Over,6.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Amon-Ra St. Brown,Under,6.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Tyrone Tracy Jr.,Over,2.5,110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Tyrone Tracy Jr.,Under,2.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Kalif Raymond,Over,1.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Kalif Raymond,Under,1.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Darius Slayton,Over,2.5,-165
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Darius Slayton,Under,2.5,130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Devin Singletary,Over,1.5,110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Devin Singletary,Under,1.5,-145
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Isaac TeSlaa,Over,0.5,-250
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_receptions,Isaac TeSlaa,Under,0.5,185
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jahmyr Gibbs,Over,77.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jahmyr Gibbs,Under,77.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Tyrone Tracy Jr.,Over,44.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Tyrone Tracy Jr.,Under,44.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jameson Williams,Over,0.5,140
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jameson Williams,Under,0.5,-190
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Devin Singletary,Over,27.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Devin Singletary,Under,27.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,David Montgomery,Over,52.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,David Montgomery,Under,52.5,-118
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jameis Winston,Over,11.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,betmgm,player_rush_yds,Jameis Winston,Under,11.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Eric Gray,Yes,,2200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Dalen Cambre,Yes,,4000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Gunner Olszewski,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Ross Dwelley,Yes,,1000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Brock Wright,Yes,,235
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Devin Singletary,Yes,,200
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Detroit Lions D/ST,Yes,,500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Dominic Lovett,Yes,,2800
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Theo Johnson,Yes,,280
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Tyrone Tracy Jr.,Yes,,240
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jameson Williams,Yes,,145
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,David Montgomery,Yes,,-157
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jalin Hyatt,Yes,,1300
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Sione Vaki,Yes,,2000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jared Goff,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Kalif Raymond,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Chris Manhertz,Yes,,1900
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jacob Saylors,Yes,,2000
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Daniel Bellinger,Yes,,600
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Isaiah Hodgins,Yes,,525
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Isaac TeSlaa,Yes,,525
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Darius Slayton,Yes,,390
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Anthony Firkser,Yes,,1500
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Amon-Ra St. Brown,Yes,,-132
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jameis Winston,Yes,,700
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Wan'Dale Robinson,Yes,,225
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_anytime_td,Jahmyr Gibbs,Yes,,-375
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_pass_tds,Jameis Winston,Over,1.5,160
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_pass_tds,Jameis Winston,Under,1.5,-215
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_pass_tds,Jared Goff,Over,1.5,-210
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_pass_tds,Jared Goff,Under,1.5,155
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_pass_yds,Jameis Winston,Over,226.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_pass_yds,Jameis Winston,Under,226.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_pass_yds,Jared Goff,Over,252.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_pass_yds,Jared Goff,Under,252.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Amon-Ra St. Brown,Over,79.5,-135
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Amon-Ra St. Brown,Under,79.5,105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Brock Wright,Over,20.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Brock Wright,Under,20.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Darius Slayton,Over,39.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Darius Slayton,Under,39.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,David Montgomery,Over,8.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,David Montgomery,Under,8.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jahmyr Gibbs,Over,27.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jahmyr Gibbs,Under,27.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jameson Williams,Over,60.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Jameson Williams,Under,60.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Kalif Raymond,Over,11.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Kalif Raymond,Under,11.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Theo Johnson,Over,35.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Theo Johnson,Under,35.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Over,14.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Tyrone Tracy Jr.,Under,14.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Wan'Dale Robinson,Over,53.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_reception_yds,Wan'Dale Robinson,Under,53.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Amon-Ra St. Brown,Over,7.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Amon-Ra St. Brown,Under,7.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Brock Wright,Over,2.5,-135
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Brock Wright,Under,2.5,105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Darius Slayton,Over,2.5,-185
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Darius Slayton,Under,2.5,140
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,David Montgomery,Over,1.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,David Montgomery,Under,1.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Jahmyr Gibbs,Over,3.5,-125
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Jahmyr Gibbs,Under,3.5,-105
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Jameson Williams,Over,3.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Jameson Williams,Under,3.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Kalif Raymond,Over,1.5,115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Kalif Raymond,Under,1.5,-150
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Theo Johnson,Over,3.5,-145
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Theo Johnson,Under,3.5,110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Tyrone Tracy Jr.,Over,2.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Tyrone Tracy Jr.,Under,2.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Wan'Dale Robinson,Over,5.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_receptions,Wan'Dale Robinson,Under,5.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_rush_yds,David Montgomery,Over,52.5,-130
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_rush_yds,David Montgomery,Under,52.5,100
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_rush_yds,Devin Singletary,Over,28.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_rush_yds,Devin Singletary,Under,28.5,-115
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_rush_yds,Jahmyr Gibbs,Over,75.5,-110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_rush_yds,Jahmyr Gibbs,Under,75.5,-120
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Over,47.5,110
+New York Giants,Detroit Lions,2025-11-23T17:35:37Z,bovada,player_rush_yds,Tyrone Tracy Jr.,Under,47.5,-145
