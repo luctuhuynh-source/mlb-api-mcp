@@ -10,7 +10,8 @@ Usage:
   - props_dir: one raw JSON per game from get_event_odds, markets player_pass_yds, player_pass_tds, player_rush_yds,
     player_reception_yds, player_receptions, player_anytime_td (american odds), saved verbatim.
   - nflverse file: stats_player_week_<season>.csv from the nflverse-data stats_player release; weeks before <week> feed the role gate.
-  - LineStar raw file: optional, ownership logging only. LineStar is NOT in the v1.8 projection.
+  - LineStar raw file: the newest backtests/nfl/linestar/live/*_raw.json.gz. LineStar is NOT in the v1.8 projection; it is used for the
+    ownership log and to drop skill players it projects at 0.5 or less (not expected to play). Without it the run is NOT FULL.
 Writes <out_upload.csv> and <out_upload>_lineups.json = the manifest (live 15, the v1.6 shadow, the C2-amended shadow, compliance, run check).
 
 Rules as run (C1-C7 of the 11/1 list):
@@ -25,7 +26,7 @@ Rules as run (C1-C7 of the 11/1 list):
   C5 bring-back WR/TE from the QB's opponent must pass the role gate.
   C6 overlap <= 5 with every earlier lineup; exposure <= 7 of 15 (QB and D-ST exempt); non-stack pair <= 6; lineups 2-5 of a QB keep at
      least one stack partner of lineup 1, use a different D-ST and at most 2 of lineup 1's RBs.
-  If a lineup cannot be built, the Week 9 relaxations are tried in order (overlap 6; then exposure 8 and pair 7) and reported as NOT FULL.
+  If a lineup cannot be built, the Week 9 relaxations are tried in order (overlap 6; then overlap 6 with exposure 8) and reported as NOT FULL.
 Shadows (logged, never entered): v1.6 = props + salary formula 50/50; C2-amended = a pass-catching RB (receptions line 3.0+ or target share
   12%+) may play with his own QB.
 
@@ -34,8 +35,9 @@ Phong, word for word, and is saved in the manifest under "protocol_run". The che
   env NFL_RATIFIED_SHA = the script hash written in the protocol record (v1.8 section)
   env NFL_REFRESH      = Pacific time the inactives / injury tags were last checked, e.g. "9:35 AM"
   env NFL_LOCK         = lock time, Pacific; default "10:00 AM"
+  env NFL_KEEP_OUT     = optional: comma-separated FanDuel names ruled out by news but not yet tagged by FanDuel; treated as Out
 """
-VERSION='NFL FD v1.8 live + shadows (build_live.py 2026-11-11a)'
+VERSION='NFL FD v1.8 live + shadows (build_live.py 2026-11-11b)'
 import pandas as pd, numpy as np, json, glob, re, sys, os, csv, itertools, hashlib, datetime, gzip, collections
 import pulp
 if len(sys.argv)<8: sys.exit('PROTOCOL RUN: STOPPED - build_live.py needs 7 arguments (usage at the top of the file). Nothing built. Tell Phong.')
@@ -61,6 +63,8 @@ p=pd.read_csv(POOL)
 p=p.rename(columns={'Id':'id','Position':'pos','Nickname':'name','Salary':'salary','Team':'team','Opponent':'opp','Injury Indicator':'inj','FPPG':'fppg','Played':'played','Game':'game'})
 p=p[p['id'].notna()][['id','pos','name','salary','team','opp','inj','fppg','played','game']].copy()
 p['inj']=p['inj'].fillna('')
+KEEP_OUT=set(x.strip() for x in (os.environ.get('NFL_KEEP_OUT') or '').split(',') if x.strip())    # players ruled out by news that FanDuel has not tagged yet
+KO_MISS=sorted(KEEP_OUT-set(p['name'])); p.loc[p['name'].isin(KEEP_OUT),'inj']='O'
 p['itt']=p['team'].map(ITT); p['total']=p['team'].map(TOT); p['spread']=p['team'].map(SPR); p['opp_itt']=p['opp'].map(ITT)
 nol=sorted(set(p.loc[p['itt'].isna(),'team']))
 if nol: sys.exit(f'PROTOCOL RUN: STOPPED - no line in {os.path.basename(LINESF)} for team(s) {nol} on the FanDuel list. Nothing built. Tell Phong.')
@@ -130,6 +134,7 @@ def run(mode,c2amend=False,quiet=False):
     OUT=q0['inj'].isin(['O','IR','NA','D'])
     elig=q0[(~OUT)&q0['priced']&q0['proj'].notna()].copy()
     elig=elig[~((elig['pos'].isin(['WR','TE']))&(elig['salary']<4500))]
+    elig=elig[~((elig['pos']!='D')&(elig['ls_proj'].fillna(1)<=0.5))]      # LineStar says not expected to play (kept by Phong 11/11); needs the LineStar file
     unpriced=q0[(~OUT)&(~q0['priced'])&(q0['pos']!='D')&(q0['salary']>=5000)][['name','pos','team','salary']]
     elig['stack_ok']=(elig['ngames'].isna())|(elig['wopr2']>=0.30)|(elig['tshare2']>=0.18)
     rb_gate=(elig['pos']!='RB')|elig['ngames'].isna()|(elig['carry_share2']>=0.35)
@@ -190,8 +195,8 @@ def run(mode,c2amend=False,quiet=False):
                 OVERLAP=6; sel=build_one(qb,list(lineups),exposure,pairs,first)
                 if sel is not None: relaxed.append(f'{qb} lineup {k+1}: overlap raised to 6')
                 else:
-                    EXP_CAP=8; PAIR_CAP=7; sel=build_one(qb,list(lineups),exposure,pairs,first)
-                    if sel is not None: relaxed.append(f'{qb} lineup {k+1}: overlap 6, exposure 8, pair 7')
+                    EXP_CAP=8; sel=build_one(qb,list(lineups),exposure,pairs,first)
+                    if sel is not None: relaxed.append(f'{qb} lineup {k+1}: overlap 6, exposure 8')
                 OVERLAP=5; EXP_CAP=7; PAIR_CAP=6
             if sel is None: missing.append(f'{qb} lineup {k+1}'); continue
             if first is None: first=sel
@@ -229,7 +234,7 @@ for nm,(md,c2) in {'shadow_v16':('v16',False),'shadow_c2_amended':('v18',True)}.
 def sha(f):
     try: return hashlib.sha256(open(f,'rb').read()).hexdigest()[:16]
     except Exception: return None
-man=dict(version=VERSION,script_sha=sha(os.path.realpath(__file__)),built_utc=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),week=WEEK,
+man=dict(keep_out=sorted(KEEP_OUT),version=VERSION,script_sha=sha(os.path.realpath(__file__)),built_utc=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),week=WEEK,
          inputs=dict(fd_players=dict(file=os.path.basename(POOL),sha=sha(POOL)),lines=dict(file=os.path.basename(LINESF),sha=sha(LINESF)),props_files=len(PFILES),props_pulled_utc=sorted(PULLED)[:1]+sorted(PULLED)[-1:],
                      nflverse=dict(file=os.path.basename(NVF),through_week=min(NVMAX,WEEK-1)),fd_template=dict(file=os.path.basename(TPL),sha=sha(TPL)),linestar_raw=os.path.basename(LSRAW) if LSRAW else None),
          live=LIVE,shadows=SH)
@@ -289,6 +294,10 @@ def run_check():
     else: ok.append(f'{npri} skill players priced')
     if NVMAX<WEEK-1: miss.append(f'nflverse stats stop at week {NVMAX}; the role gate needs week {WEEK-1}')
     else: ok.append(f'nflverse role gate through week {WEEK-1}')
+    if not (LSRAW and os.path.exists(LSRAW)) or p['ls_proj'].notna().sum()<100: miss.append('no usable LineStar file was passed - the not-expected-to-play filter (LineStar projection 0.5 or less) was NOT applied')
+    else: ok.append('LineStar not-expected-to-play filter applied')
+    if KO_MISS: miss.append('NFL_KEEP_OUT name(s) not matched to the FanDuel list, so they were NOT excluded: '+', '.join(KO_MISS))
+    if KEEP_OUT: notes.append('ruled out by hand (NFL_KEEP_OUT): '+', '.join(sorted(KEEP_OUT)))
     if not (p['inj']!='').any(): miss.append('the FanDuel list carries no injury tags at all')
     rf=clock(os.environ.get('NFL_REFRESH'))
     if rf is None: miss.append('the time the inactives and injury tags were checked is not recorded - pass NFL_REFRESH="9:35 AM" (Pacific)')

@@ -3,7 +3,7 @@ The NFL protocol has no Claude Doc; until one exists THIS FILE is the written re
 Written 2026-11-11 from the protocol log (v1.8 ruling of 11/8, constraint list of 11/1) and the Week 8/9 builder code.
 
 - Canonical script: `backtests/nfl/live/build_live.py`, run as-is, never retyped. If it can't be found, the build stops and Phong is told; no rebuild from notes. Full run or notify (Phong, 11/11): every reply that carries lineups opens with the script's result, word for word: PROTOCOL RUN: FULL, or NOT FULL with each missing item, or STOPPED with the reason.
-- **Ratified script: build_live.py 2026-11-11a, hash 4fe8cee66680b29c.** A run on any other hash, or on a copy that is not the repo's, is NOT FULL.
+- **Ratified script: build_live.py 2026-11-11b, hash a70565062078aa3f.** A run on any other hash, or on a copy that is not the repo's, is NOT FULL.
 - Projection (v1.8, Phong 11/8 "go with your suggestion"): props only. Median main line across books; FD points = 0.04 pass yd + 4 pass TD + 0.1 rush yd + 0.1 rec yd + 0.5 rec + 6 x E[TD]; E[TD] = -ln(1 - p), p = median anytime-TD implied probability x 0.92; QB -0.6. D-ST = (30 - opponent implied total, floor 2) x 0.55. LineStar is out of the projection (ownership file logged only).
 - 3 QBs x 5 = 15 lineups.
 - C1 QB + 2 or 3 of his own WR/TE in every lineup.
@@ -17,7 +17,11 @@ Written 2026-11-11 from the protocol log (v1.8 ruling of 11/8, constraint list o
 - Kill switch: back to v1.6 after 3 slates if 9 or fewer of 45 cash or the median lineup is below the field's 45th percentile; after 5 if 15 or fewer of 75 or the average median is below the 40th. Slate 1 = Week 10.
 - Watch item, not a rule: D-ST exposure above 5 of 15 (the script prints it).
 
-## Differences from the Week 9 code that Phong should know
-1. The Week 9 builder dropped skill players whose LineStar projection was 0.5 or less. v1.8 takes LineStar out, so this script does not use that filter; a player the books still price stays eligible unless FanDuel tags him O / IR / NA / D.
-2. Replacement-RB exceptions to the 35% carry gate were typed in by hand each week. The script has no such list; a back who needs the exception is a NOT-covered item to raise before the build.
-3. When no legal lineup exists the script tries the two Week 9 relaxations and reports them as NOT FULL items needing Phong's OK.
+## Calls recorded 11/11
+1. LineStar "not expected to play" filter KEPT (Phong, 11/11 "Keep it"): a skill player LineStar projects at 0.5 or less is dropped. LineStar stays out of the projection. The build therefore needs the Sunday 9:25 LineStar pull; without it the run is NOT FULL.
+2. Players ruled out by news that FanDuel has not tagged yet are passed by name in NFL_KEEP_OUT and recorded in the manifest (Week 9 had seven).
+3. Replacement-RB exceptions to the 35% carry gate are not in the script; raise them before the build.
+4. When no legal lineup exists the script tries the Week 9 relaxations (overlap 6, then overlap 6 with exposure 8) and reports them as NOT FULL items needing Phong's OK.
+
+## Test record
+On the real Week 9 files (post-inactives list, props, lines, 9:25 LineStar pull, the seven hand exclusions) the script's v1.6 shadow equals the v1.6 lineups built on 11/8, 15 of 15 in order, and it picks the same three QBs (Goff, Prescott, Mahomes). v1.8 itself has no past live build; Week 10 is its first.
