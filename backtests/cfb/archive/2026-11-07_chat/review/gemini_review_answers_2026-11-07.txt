@@ -1,0 +1,128 @@
+1. Top 5 Problems Ranked by Expected Cost
+ * Untested v1.3-Hybrid Projection & In-Sample Position Rescaling (P1 / P5 / G1)
+   * Evidence: v1.3-hybrid (50% LineStar / 50% props) is live with zero backtest. Worse, raw props came in below LineStar by position (RB 0.80×, WR 0.88×, TE 0.92×, QB 0.94×) and were rescaled to LineStar’s average level on the exact same 10/31 slate. Because only 151 of 370 players had props, multiplying raw RB props by 1 / 0.80 = 1.25\times artificially inflated the 151 prop-covered RBs relative to uncovered players and QBs. This directly explains why the optimizer put RBs in all 3 SuperFLEX slots on 10/31 (scoring 3.4, 2.1, and 33.7 FP) despite v1.2 choosing 2 QBs on most historical slates.
+   * Exact Fix: Revert live builds immediately to v1.2 (100% LineStar) (ADOPT NOW). Demote v1.3-hybrid to shadow until the 6-week (~3,400 credit) historical props backtest is completed with out-of-sample calibration (BACKTEST FIRST).
+ * SuperFLEX Free Choice Under Props Distortion (C1 / G3)
+   * Evidence: In the 56-slate backtest, forcing 1 QB cost 3.2 FP (118.3 vs 121.5 FP) and dropped double-up cash rate from 70% to 62%, whereas forcing 2 QBs (121.2 FP) had the highest simulated cash rates in the packet (72% double-up, 68% GPP min-cash). On 10/31, 83% of the live field and 97 of the top 100 finishers used a QB at SuperFLEX; our build went 0-for-3.
+   * Exact Fix: Lock C1 to require a 2nd QB in the SuperFLEX by default (ADOPT NOW). Do not add a heuristic "cheap rushing QB" bias without testing (REJECT); let the optimizer pick the best projected 2nd QB under salary constraints.
+ * Playing GPPs with a Median-Projection Optimizer (B1 / B2 / G7 / G10)
+   * Evidence: Rule B1 dictates preferring double-ups, and B2 says GPPs must optimize for ceiling + correlation. Yet only maximum-median-projection objectives have been built or tested, and 100% of live bankroll on 10/31 ($60 across 3 entries) went into a 4,761-entry GPP. Meanwhile, the real field top 20% (136.6 FP) was 7.6 FP sharper than the simulated top 20% (129 FP), while the real median (112.1 FP) was only 2.1 FP above the simulated median (110 FP).
+   * Exact Fix: Enforce B1 strictly: allocate 100% of the 3 entries to Double-Ups/50-50s where the target is the field median (~112.1 FP), which matches a median-projection optimizer (ADOPT NOW).
+ * Uncalibrated Tail Variance in Field Simulation (Part 4 / G2)
+   * Evidence: The backtest simulator generates random lineups weighted by realized ownership plus a flat +4 FP NBA offset. On 10/31, that flat offset estimated the median reasonably well (110 sim vs 112.1 real), but severely underestimated the right tail: top 20% was 129 sim vs 136.6 real (+7.6 FP gap). Random-by-ownership sampling fails to capture correlated stacks and 83% 2-QB concentration, inflating simulated GPP min-cash rates (64%–68%).
+   * Exact Fix: Re-parameterize the field simulator to enforce an 83% 2-QB rate and team-stack correlation, and calibrate both mean and standard deviation (or quantiles) against real standings CSVs rather than using a single additive +4 FP shift (BACKTEST FIRST).
+ * Un-Audited Backtest Code & Ungraded Shadow Lineups (Part 4 / G6 / G9)
+   * Evidence: The 10/31 evening audit of the 56-slate backtest was never recorded, leaving potential post-lock injury updates and post-lock projection overwrites unchecked. Furthermore, v1.2 shadow lineups on 10/31 were never graded, Violating Liem governance by leaving us blind to whether v1.2 would have avoided the 0-for-3 RB SuperFLEX error.
+   * Exact Fix: Grade the 10/31 v1.2 shadow lineups immediately and add an automated post-slate script to grade all shadow models (ADOPT NOW). Complete and record the backtest code audit (ADOPT NOW).
+2. Protocol Rule-by-Rule Critique Table
+| Rule | Action | One Line of Evidence from Packet | Tag |
+|---|---|---|---|
+| F1 (OUT ineligible) | KEEP | FanDuel prices OUT players at $4,000 with full-season FPPG, trapping the optimizer without this gate. | ADOPT NOW |
+| F2 (QB starter gate) | CHANGE | Excluded OSU and ASU QBs at build time on 10/31; allow active book passing-prop lines from The Odds API to serve as credible starter evidence. | ADOPT NOW |
+| F3 (Small-sample gate) | KEEP | Provisional structure preventing 1-game sample core errors (seen in Round 1 Gemini build); low cost to retain. | ADOPT NOW |
+| F4 (Q ineligible / P active) | KEEP | Tested as neutral structure in the 56-slate backtest; prevents taking zeros on questionable players. | ADOPT NOW |
+| F5 (Playable floor ≥6/≥10) | KEEP | Removing F5 cost −1.0 FP across the 56-slate backtest and was never better on any slate. | ADOPT NOW |
+| P1 (v1.2 100% LineStar) | KEEP | Beat v1.1a by +5.4 FP (90% CI: +2.0, +8.5) and achieved 70% simulated double-up cash rate. | ADOPT NOW |
+| P1-hybrid (50/50 Props) | CUT (to shadow) | Zero backtest, fitted in-sample on 10/31, and caused 0-for-3 RB SuperFLEX selection on the live slate. | ADOPT NOW |
+| P2 (Shrinkage engine) | KEEP (shadow) | Blending 70/30 cost ~1.9 FP vs pure LineStar (119.6 vs 121.5 FP); keep strictly in shadow. | ADOPT NOW |
+| P3 (Blowout haircut) | KEEP (shadow) | Cost 3.5 FP in the 56-slate backtest because LineStar already prices blowout risk. | ADOPT NOW |
+| P4 (Option QB cap) | KEEP (shadow) | Redundant double-counting alongside LineStar projections. | ADOPT NOW |
+| P5 (Props integration) | CHANGE | Move back to shadow until tested across 6 historical weeks (~3,400 API credits). | BACKTEST FIRST |
+| P6 (Weather ≥20mph wind) | KEEP | Manual review of passing games at ≥20 mph wind avoids blind algorithmic double-counting. | ADOPT NOW |
+| C1 (SuperFLEX choice) | CHANGE | Force 2nd QB by default: got 72% DU / 68% GPP cash in backtest (121.2 FP), while 1-QB lost 3.2 FP and 97/100 live top finishers used 2 QBs. | ADOPT NOW |
+| C1-v1.4 (Cheap rush QB bias) | CUT | Unwritten preference for "cheap rushing QB" is overfitted to 10/31 winner Castellanos ($5,400). | REJECT |
+| C2 (Mandatory stack ≥8 FP) | KEEP | Neutral in backtest (±0.3 FP), enforces real-world correlation needed against sharper fields. | ADOPT NOW |
+| C3 (Team cap 3 / 4 stack) | KEEP | Neutral in backtest; prevents over-concentration in a single game script. | ADOPT NOW |
+| C4 (Salary floor $58,500) | KEEP | Neutral in backtest; prevents sub-optimal salary waste on 7-slot slates. | ADOPT NOW |
+| C5 (Overlap ≤5, Exp ≤2/3) | CHANGE | Allowed 2 named core exceptions (Hawkins, Chambliss ×3 on 10/31); tie 3/3 exception eligibility to ≥20% projected ownership or +2.0 FP edge. | ADOPT NOW |
+| C6 (Contrarian slot <5%) | KEEP (shadow) | Unproven in backtest and unnecessary for double-up contests. | ADOPT NOW |
+| C7 (Swap gate +2.0 FP) | KEEP | Scales NBA's ~1.2% swap threshold (+3.5 on ~300 FP) appropriately to CFB (~150 FP). | ADOPT NOW |
+| C8 (Max 1 RB per team) | KEEP | Neutral in backtest; avoids negative correlation of same-team RB carry splits. | ADOPT NOW |
+| O1 (30m pre-lock own pull) | KEEP | Captures actual pre-lock LineStar ownership rather than stale 3 AM numbers (missed on 10/31). | ADOPT NOW |
+| O2 (Fade >35% chalk) | CHANGE | Provisional rule untested in backtest; suspend in Double-Ups where high-owned chalk (like Hawkins 27.6%) shouldn't be faded. | BACKTEST FIRST |
+| O3 (Post-slate CSV check) | KEEP | Essential for calibrating the field simulation and tracking ownership accuracy. | ADOPT NOW |
+| B1 (1% cap, prefer DU) | KEEP | Directly supported by real field data showing median (112.1) is much closer to sim (110) than top tails. | ADOPT NOW |
+| B2 (GPP ceiling / DU med) | CHANGE | No ceiling/correlation objective exists yet; restrict live entries to Double-Ups until a GPP objective is backtested. | BACKTEST FIRST |
+| N1–N5 (Process & audits) | KEEP | N5 caught outside model hallucinations (salaries >$60k, invented stats) on 10/31. | ADOPT NOW |
+3. Answers to Q1–Q10
+Q1: SuperFLEX
+ * Ruling: Make 2 QBs (QB in SuperFLEX) mandatory by default (ADOPT NOW), but REJECT the heuristic preference for a "cheap QB with a rushing role" unless proven in a backtest (BACKTEST FIRST). Allow a 1-QB lineup only if the top available RB/WR out-projects the best available 2nd QB by ≥2.0 FP (matching the C7 swap gate) and is printed for manual override (ADOPT NOW).
+ * Reasoning: In the 56-slate backtest, forcing 1 QB lost 3.2 FP (118.3 vs 121.5 FP) and cost 8% in double-up cash rate (62% vs 70%). Forcing 2 QBs scored 121.2 FP (statistically indistinguishable from 121.5 FP) and posted the highest double-up cash rate (72%) and GPP min-cash rate (68%) in the entire table. Furthermore, 83% of the live 10/31 field and 97/100 top finishers rostered 2 QBs. However, preferring a "cheap rushing QB" is a classic single-result story (violating Liem governance) reactive to Castellanos ($5,400, 31.5 FP) on 10/31.
+ * Backtest Design (No 10/31 Re-fit): On the 56 historical slates (which end at 2026 W8 and exclude 10/31), test two 2-QB selection methods under v1.2:
+   * Pure Projection: Optimizer selects the highest-projected 2-QB lineup.
+   * Value/Rushing Tilted: Apply a salary cap or rushing-floor filter to the SF QB slot.
+   * Pass Bar: The Value/Rushing tilt must beat Pure Projection (v1.2 with 2 QBs forced, 121.2 FP) by ≥ +1.0 FP with a 90% CI lower bound > 0.0 FP across the 56 slates to be adopted. Otherwise, use Pure Projection 2-QB.
+Q2: Props Hybrid
+ * Ruling: Revert live builds to v1.2 (100% LineStar) immediately and move v1.3-hybrid to shadow (ADOPT NOW). Run the 6-week historical props backtest before ever putting props live again (BACKTEST FIRST).
+ * Critique of Conversion & Rescaling:
+   * Missing Scoring Categories: The formula (0.04/pass yd, 4/pass TD, 0.1/rush or rec yd, 0.5/rec, 6 × anytime-TD prob) omits rushing/receiving TDs beyond the first (multi-TD equity)—an massive flaw in CFB where high-usage RBs and mobile QBs frequently score 2+ TDs, whereas "Anytime TD" caps probability at \ge 1 TD (6 \times P(\text{TD} \ge 1) maxes out under 6 FP). Conversely, it fails to subtract interceptions and fumbles lost. This explains why raw props systematically underscored LineStar across all positions, especially RB (0.80×).
+   * Selection Bias & In-Sample Rescaling Distortion: Only 151 of 370 players had props on 10/31. Rescaling those 151 players by position (RB / 0.80 = 1.25×, QB / 0.94 = 1.06×) on the target slate itself created two distortions: (a) RBs with props got a +25% multiplier to compensate for the missing multi-TD formula, artificially boosting mid-tier prop RBs (like Turbo Richard and Dierre Hill) past QBs in the SuperFLEX; (b) the 219 players without props were left on raw LineStar, creating an apples-to-oranges player pool.
+   * Redundancy: Props already correlated at r = 0.95 with LineStar on 10/31.
+ * Backtest Design & Pass Bar: Pull the 6 weeks of historical props (~3,400 credits). Fix the TD math (use Poisson expected TDs \lambda = -\ln(1 - P(\text{Anytime TD})) so \text{E}[\text{TD pts}] = 6\lambda, rather than 6 \times P(\text{Anytime TD})) and compute any positional calibration factors strictly out-of-sample (expanding window prior to the test slate). Pass Bar: Must beat pure LineStar (v1.2) by \ge +1.0\text{ FP} average across the 6 weeks (18 lineups) with a 90% CI lower bound > 0.0\text{ FP} and improve simulated Double-Up cash rate.
+Q3: Field Simulation
+ * Ruling: Replace the flat +4 FP NBA offset with a two-parameter (location + scale) quantile match and structural 2-QB enforcement (BACKTEST FIRST).
+ * Critique of +4 FP Offset: A flat +4 FP additive shift is not defensible for GPPs or top-20% thresholds. On 10/31, Random-by-ownership + 4 FP gave a median of ~110 FP (close to real 112.1 FP) and a top 20% of ~129 FP (7.6 FP below the real 136.6 FP). Why? Because random sampling picks players independently by ownership, producing too many 1-QB lineups, unstacked passing QBs, and sub-$58,500 rosters. Real players correlate stacks and put QBs in SuperFLEX 83% of the time, which stretches the right tail (variance) much more than the median.
+ * Calibration Method (1 CSV now + 1/week going forward):
+   * Structural Sim Fix: Constrain the random-by-ownership generator so 83% of simulated lineups have 2 QBs, salary is \ge \$58,000, and passing QBs are paired with a teammate WR/TE.
+   * Affine Calibration: For each slate t with a real standings CSV, record the real field mean \mu_{\text{real}, t} and standard deviation \sigma_{\text{real}, t} (or 50th and 80th percentiles: 112.1 and 136.6 on 10/31). Transform raw simulated lineup scores S_i via:
+     
+   * Bayesian Updating Weekly: Start with the 10/31 ratio (\text{gap}_{\text{median}} = +2.1\text{ FP}, \text{spread}_{\text{80-50}} = 24.5\text{ real vs } 19.0\text{ sim} \rightarrow \text{scale factor} \approx 1.29\times) and update the rolling average of (\mu_{\text{offset}}, \sigma_{\text{scale}}) each Saturday as new CSVs arrive. Pass Bar: Calibrated sim 50th and 80th percentiles must fall within \pm 2.0\text{ FP} of out-of-sample weekly CSVs.
+Q4: Contest Choice
+ * Ruling: Allocate all 3 entries per slate to Double-Ups / 50-50s (3 Double-Ups, 0 GPPs) until 10 live slates are logged (ADOPT NOW).
+ * Evidence from Packet:
+   * Protocol rule B1 explicitly states: "prefer double-ups over GPPs (NBA ROI finding: edge in the body of the field, no ceiling)".
+   * The optimizer only maximizes median projection; it has no ceiling or ownership-leverage objective (G10).
+   * On 10/31, the real field median was 112.1 FP (very close to the 110 FP sim median where v1.2 cashed 70%), whereas the real GPP top 20% was 136.6 FP (7.6 FP harder than the 129 FP sim). Even with 0-for-3 RB busts at SuperFLEX, our 3 lineups scored 150.72, 134.42, and 128.22 FP—all three easily cleared the 112.1 FP median (16 to 38 FP cushion), whereas 128.22 missed the 136.6 FP GPP cash line.
+ * Breakeven Cash Rate: Exact FanDuel double-up/50-50 rake is not in packet (note: standard FanDuel 50/50s pay 1.8x, requiring a 55.6% cash rate, and standard Double-Ups cash ~43%–45% of the field, requiring a ~50% cash rate to beat rake). In the backtest, v1.2 hit a 70%–72% double-up cash rate, providing a massive margin of safety over the median. If Phong insists on GPP action, cap it at 2 Double-Ups / 1 GPP (using the highest-ceiling lineup) (ADOPT NOW).
+Q5: Exposure (C5)
+ * Ruling: Keep C5's 2/3 default cap (max 2 of 3 lineups), and restrict the "max 2 named core exceptions" (3/3 lineups) to players who EITHER have projected ownership \ge 25\% OR project \ge +2.0\text{ FP} clear of the next-best positional pivot (ADOPT NOW). Test dynamic ownership-weighted exposure in the simulator later (BACKTEST FIRST).
+ * What 10/31 Says About Hawkins ×3: Playing Hawkins in all 3 lineups at 27.6% ownership (scoring 48.5 FP) was a massive win. In a 3-lineup portfolio, going 3/3 (100% exposure) on a 27.6% owned chalk RB gives you +72.4\% leverage on the field when he hits, and if he busts, 27.6% of the field dies with you. Conversely, going 3/3 on a sub-10% owned speculative play carries catastrophic portfolio ruin risk if he busts. Tying the 2 allowed core exceptions (3/3 slots) to high projected confidence (+2.0 FP gap) or solid chalk (\ge 25\% own) preserves Hawkins ×3 and Chambliss ×3 (30.0 FP) while preventing 3/3 exposure on fragile punts.
+Q6: QB Starter Gate (F2)
+ * Ruling: Upgrade F2 so that an active passing yardage prop on The Odds API (when the backup has no prop) counts as "credible evidence he starts today" when partnered with a LineStar projection \ge 10\text{ FP} (ADOPT NOW).
+ * Reasoning: On a 14-game slate, completely excluding two major offenses (such as OSU and ASU on 10/31) because beat writers haven't tweeted an official starter confirmation by 8:30 AM PT costs valuable correlation and player pool depth. Sportsbooks take real money risk on passing props; if The Odds API (pulled at 8:30 AM PT) shows an active passing yardage line for one QB on a team and none for the others, and LineStar projects him \ge 10\text{ FP} (F5), the market has priced him as the starter. For 12:30 PM or 4:00 PM PT games, still log a same-window pivot and verify at the 12:00 PM / 3:30 PM PT QB audit.
+Q7: F3 Small-Sample Gate and F5 Playable Floor
+ * Ruling: Leave both F3 (≤2 games needs role + ≥8 FP, max 1) and F5 (≥6 FP skill / ≥10 FP QB) in place as permanent structure; do not spend backtest degrees of freedom re-testing them (ADOPT NOW).
+ * Reasoning: F5 is already proven in the 56-slate backtest: removing it cost −1.0 FP on average and was never better on any single slate. It prevents the optimizer from punting a slot with a 4-FP dead roster spot just to jam an expensive RB. F3 directly prevents the failure mode seen in Round 1 (where Gemini built its core on 1-game samples). With only 56 slates in the historical dataset, grid-searching thresholds (e.g., 5 FP vs 6 FP vs 7 FP) will only invite multiple-testing overfitting (G5).
+Q8: Multiple Testing
+ * Ruling: Only two findings from the 56-slate backtest survive multiple-testing scrutiny: (1) cutting the 70/30 engine blend + blowout haircuts in favor of 100% LineStar (v1.2 vs v1.1a), and (2) banning 1-QB lineups (2-QB / Free vs Forced 1-QB). All construction rules (C2, C3, C4, C8) have zero proven point edge (+0.1 FP vs "Plain LineStar, no rules at all"). Validate via a chronological walk-forward split (BACKTEST FIRST).
+ * Analysis of the 7 Variants:
+   * v1.2 (121.5) vs v1.1a (116.2) gained +5.4 FP with a 90% CI of (+2.0, +8.5). A +5.4 FP gain whose 90% CI lower bound is +2.0 FP easily survives a Bonferroni or Holm-Bonferroni correction across k = 7 comparisons (\alpha adjusted from 0.10 to 0.10/7 \approx 0.014, roughly 2.46\sigma; here \text{SE} \approx (8.5 - 2.0)/(2 \times 1.645) = 1.98, so t = 5.4 / 1.98 = 2.73, two-sided p \approx 0.008 < 0.014).
+   * v1.2 (121.5) vs Plain LineStar, no rules at all (121.4) is +0.1 FP. The construction rules (C2, C3, C4, C8) add zero statistically detectable points; they are kept solely for variance/correlation hygiene.
+ * Walk-Forward Split & Statistic to Report:
+   * Split: Train/select rules on 2023 W1 – 2024 Final; evaluate strictly out-of-sample on 2025 W1 – 2026 W8.
+   * Statistic: Report the paired slate-level mean FP difference (\Delta \text{FP}), paired t-statistic, Holm-Bonferroni adjusted p-value, and Wilcoxon signed-rank p-value (to guard against single-slate outlier blowups) comparing v1.2 (2-QB forced) vs v1.1a and Plain LineStar. Pass Bar: Out-of-sample 2025–26 \Delta \text{FP} > 0 against v1.1a with p < 0.05.
+Q9: Leakage in LineStar-History Backtest
+ * Ruling: Run three numeric audit checks on the 56-slate dataset before running any further backtests (ADOPT NOW).
+ * Three Potential Leaks & Exact Numeric Checks:
+   * Post-Lock Projection Overwrites (Late-Swap / Halftime API Scrape Leak): Historical DFS databases sometimes overwrite a whole slate's "pre-lock projection" column with the final projection pull of the night (e.g., 4:00 PM PT pull after 9:00 AM PT games have finished, or post-injury scratch adjustments).
+     * Numeric Check: Compute the correlation between LineStar Projection and Actual FP separately for the 9:00 AM PT window, 12:30 PM PT window, and 4:00 PM PT window across the 56 slates, and check if any player who suffered an in-game Q1 injury in a 9:00 AM game has a historical projection < 6\text{ FP}. If 9:00 AM projections reflect in-game injuries or correlate significantly higher with actuals than 4:00 PM projections, the timestamps were overwritten post-lock.
+   * Post-Lock Injury Tag Leak (Caveat a / G6): Players ruled OUT at 12:15 PM PT or 3:45 PM PT may be tagged O in the historical file used at the simulated 8:30 AM PT build, giving the backtest perfect foresight on afternoon game-time decisions.
+     * Numeric Check: Count the number of players in the 56-slate history with LineStar Projection ≥ 10 FP AND Injury Status == 'O'. On live slates, a player ruled out days early has his projection zeroed out by LineStar; a player with a full ≥10 FP projection and an O tag in the historical snapshot indicates the O tag was stamped onto the row after the initial projection run.
+   * Realized Ownership Selection Leak in Sim: Using realized contest ownership in the field simulator leaks late-breaking news (e.g., an afternoon RB starter announcement that caused the real field to late-swap to 40% ownership, while the 8:30 AM backtest optimizer didn't know).
+     * Numeric Check: Compare the average actual FP of high-owned afternoon players (Realized Own > 25%, kickoff \ge 12:30 PM PT) whose historical LineStar projection was low (< 10 FP). If the simulated field is rostering 30%-owned afternoon backup RBs that scored 25 FP while their LineStar projection was 5 FP, the sim is getting post-lock late-swap news that the 8:30 AM backtest optimizer lacked.
+Q10: Priorities, Weekly Data Capture, and Proposed v1.4 Changes
+ * Single Change Most Likely to Raise Cash Rate (at 3 Entries/Slate):
+   Revert to 100% LineStar (v1.2), force a 2nd QB in the SuperFLEX (C1), and enter all 3 lineups in Double-Ups (B1) (ADOPT NOW). Removing the uncalibrated props RB distortion and locking in a 2nd QB directly fixes the 0-for-3 SuperFLEX hole from 10/31, while moving from GPPs (136.6 FP cash line) to Double-Ups (112.1 FP median) aligns the contest with our median-projection optimizer.
+ * Three Data Items to Capture Every Saturday From Now On:
+   * Graded Shadow Lineup Scores (v1.2 pure LineStar vs v1.3-hybrid props) recorded against the real contest cash lines immediately post-slate (fixes G9).
+   * 8:30 AM PT Pre-Lock Archive Snapshot (exact timestamped CSV of LineStar projections, injury tags, 8:30 AM ownership, and Odds API props) saved locally before kickoffs so future backtests have guaranteed zero-leakage point-in-time data (fixes G6).
+   * FanDuel Contest Standings CSV Metrics (real field 2-QB %, median score, Double-Up cash line, GPP 20% min-cash line, and MSE of LineStar projected ownership vs realized ownership) (fixes G2, O3).
+ * Proposed v1.4 Rule Changes (In Priority Order):
+   * P1 / P5: Revert live projection to 100% LineStar (v1.2); move v1.3-hybrid (props blend) to shadow until the 6-week historical backtest is run and passes out-of-sample calibration (ADOPT NOW).
+   * C1 (SuperFLEX): Mandate a 2nd QB in the SuperFLEX by default (chosen by highest projection under salary cap). Allow RB/WR in SuperFLEX only via manual override if the RB/WR out-projects the best available QB by \ge 2.0\text{ FP} with a printed comparison (ADOPT NOW).
+   * C1 (Cheap Rushing QB Heuristic): Do not hardcode a preference for cheap rushing QBs at SuperFLEX (REJECT).
+   * B1 / B2 (Contest Selection): Enter 100% Double-Ups / 50-50s (or max 2 DU + 1 GPP) at the 1% bankroll cap until 10 live slates are logged or a ceiling/leverage GPP optimizer is backtested (ADOPT NOW).
+   * N1 / G9 (Shadow Grading Gate): Require every post-slate ledger update to print the exact FP scores and cash results of all shadow models (v1.2, v1.3-hybrid) alongside live entries (ADOPT NOW).
+   * F2 (QB Starter Gate): Accept an active passing yardage prop in The Odds API (where team backups have none) + LineStar projection \ge 10\text{ FP} as credible starter evidence at build time (ADOPT NOW).
+   * C5 (Core Exposure Gate): Restrict the 2 allowed core exceptions (3/3 lineups) to players with \ge 25\% projected ownership OR a \ge +2.0\text{ FP} projection edge over the next positional pivot (ADOPT NOW).
+   * Sim Calibration: Replace the +4 FP NBA offset with a 2-QB constrained simulator calibrated to match both the 50th and 80th percentiles of real CFB contest CSVs (BACKTEST FIRST).
+4. Where I Am Unsure — And What Data Would Settle It
+ * Why "Free Choice" Picked 2 QBs in the Backtest (121.5 FP) But 0 QBs Live on 10/31:
+   * The Uncertainty: The packet states that in the v1.2 backtest, free choice was nearly identical to forced 2 QBs (121.5 vs 121.2 FP) and picked 2 QBs on most slates. Yet on 10/31, our live v1.3-hybrid lineups picked 0 QBs in SuperFLEX, and the Round 3 same-projection test on the 10/31 pool also showed best 1-QB (124.5) > best 2-QB (122.0). Because the v1.2 shadow lineups on 10/31 were never graded or printed in the packet (G9), I cannot be 100% certain whether pure v1.2 also preferred RBs in SuperFLEX on 10/31 (due to tight 10/31 QB pricing or F2 excluding OSU/ASU QBs) or if the 0.80× RB props rescaling alone caused it.
+   * What Data Settles It: Pull and grade the ungraded 10/31 v1.2 shadow lineups to see who pure LineStar placed in the SuperFLEX on 10/31.
+ * Real FanDuel CFB Double-Up Cash Lines vs GPP Medians:
+   * The Uncertainty: We only have 1 contest CSV, and it is from a 4,761-entry $20 GPP (median 112.1 FP, top 20% 136.6 FP). Exact FanDuel CFB Double-Up rake and Double-Up cash lines are not in packet. In DFS, Double-Up fields are often slightly sharper at the median (50th–55th percentile) than large-field GPPs because casual multi-entry players cluster in GPPs.
+   * What Data Settles It: Enter at least one $5 or $20 Single-Entry Double-Up this Saturday and download its standings CSV to compare the real Double-Up cash line against the GPP median.
+ * Whether the 56-Slate Backtest Contains Post-Lock Leakage:
+   * The Uncertainty: Because the 10/31 evening auditor review was never recorded in the packet, I cannot verify whether LineStar's historical archive reflects true 8:30 AM PT pre-lock states or post-lock updated injury tags/projections.
+   * What Data Settles It: The output of the auditor review plus the three numeric leakage checks outlined in Q9.

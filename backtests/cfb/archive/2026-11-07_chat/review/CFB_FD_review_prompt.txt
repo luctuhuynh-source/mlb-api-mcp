@@ -1,0 +1,157 @@
+CFB FANDUEL DFS PROTOCOL — INDEPENDENT REVIEW PACKET (11/7/2026)
+
+YOUR ROLE
+You are reviewing a FanDuel college-football DFS protocol built by Claude for Phong (San Diego). Claude is the manager and makes the final rulings; your job is to find what is wrong, what is untested, and what would most improve the cash rate. Rules of engagement:
+- Use ONLY the numbers in this packet. Do not invent ownership, ceilings, salaries or results. If a number is missing, say "not in packet".
+- Every proposal must be tagged ADOPT NOW (no test needed, low risk) / BACKTEST FIRST (say exactly what test and what pass bar) / REJECT.
+- Say clearly where you are unsure. One live slate exists; do not draw conclusions from it as if it were a sample.
+- Report only. Do not rewrite the whole protocol; critique it rule by rule and answer Q1–Q10 at the end.
+
+====================================================================
+PART 1 — FORMAT AND DATA SOURCES
+====================================================================
+FanDuel CFB classic: QB, RB, RB, WR, WR, WR, SuperFLEX (QB/RB/WR). TEs are WR-eligible. Salary cap $60,000. FanDuel limits: max 4 players per team, at least 3 teams and 2 games. Late swap allowed; each player locks at his own kickoff. Typical Saturday main slate: ~14 games, ~370 projected players, 9:00 AM PT first lock, later windows 12:30 PM and 4:00–4:30 PM PT.
+
+Data sources:
+- LineStar (paid subscription, same-day pull automated from Phong's Mac): salary, projection (PP), floor/ceiling, injury status, Vegas spread/total, projected ownership. LineStar history pulled 10/31: 60 weeks, 56 usable main slates, 2023 W1 – 2026 W8, with pre-lock projections, actual FanDuel points and realized contest ownership.
+- The Odds API: player props (passing/rushing/receiving yards, receptions, anytime TD). Coverage 10/31: 151 of 370 projected players, all 14 games. ~56 credits per slate pull, ~560 credits per historical week.
+- get_cfb_qb_status (Phong's own MCP tool): who started each team's last game.
+- Standings CSVs from FanDuel after each contest (real field distribution and ownership).
+
+Governance: the protocol sits under "Liem" (Phong's betting/DFS rule stack): decision quality over outcomes, no single-result stories, no rule promoted or retired on W-L at small n, every build prints missing inputs and APPROVED or PAPER-ONLY. Phong makes every lineup decision; Claude builds and recommends.
+
+====================================================================
+PART 2 — THE PROTOCOL AS IT STANDS (v1.2 rulings + v1.3-hybrid, live 10/31)
+====================================================================
+Version history in one line: v1.0 draft (10/31 3 AM, ChatGPT+Gemini debate round 1) → v1.1 (round 2 rulings) → v1.1a (rules written during the 10/31 build) → v1.2 (56-slate backtest rulings) → v1.3-hybrid (props blend, Phong's call, LIVE and UNTESTED) → v1.4 proposed (SuperFLEX rule, not written).
+
+FILTERS
+F1  OUT (O) = ineligible. FanDuel prices OUT players at $4,000 with full-season FPPG, so the optimizer picks them without this. A player confirmed OUT by news is excluded even if FanDuel hasn't tagged him.
+F2  QB starter gate (v1.1 wording): a QB needs credible evidence he starts today, source and time recorded; last start counts as support, not proof. Unresolved team = every QB on that team ineligible. For a later-window game an unresolved QB may go in only with a named same-window pivot and a swap check before that window.
+F3  Small-sample gate: a skill player with ≤2 games played needs a verified current role (news/depth chart) AND a LineStar projection ≥8 FP; max 1 per lineup; provisional.
+F4  Q is ineligible until news says he plays. P is active after a news check.
+F5  Playable floor: skill player needs LineStar projection ≥6 FP; QB needs ≥10 FP (10 also marks the likely starter). Reason: outside models kept filling a slot with 4-FP players to afford expensive RBs. Backtest: removing F5 was −1.0 FP, never better on any slate → KEEP.
+
+PROJECTION
+P1  (v1.2) Projection = 100% LineStar. The 70/30 LineStar/engine blend cost ~1.9 FP per lineup in the backtest (opposite of NBA, where the blend helped). Engine kept as a shadow.
+    (v1.3-hybrid, LIVE 10/31, UNTESTED) Projection = 50% LineStar + 50% props-derived points for players with ≥1 yardage or receptions prop; LineStar alone for everyone else. No salary formula/engine.
+    Props → FD points: 0.04/pass yd, 4/pass TD, 0.1/rush or rec yd, 0.5/reception, 6 × anytime-TD probability (de-vigged).
+    Calibration: raw props came out below LineStar by position (QB 0.94×, RB 0.80×, TE 0.92×, WR 0.88×), so props are rescaled by position to LineStar's level before blending. Correlation props vs LineStar on 10/31: 0.95.
+P2  Engine (shadow only): FPPG shrunk toward a position prior, rate × N/(N+6) + prior × 6/(N+6), N = games played, × (team implied total ÷ slate-average implied total)^0.6.
+P3  Blowout haircut: CUT to shadow. Cost 3.5 FP in the backtest; LineStar already prices blowouts. A QB-only version also lost.
+P4  Option-offense (Navy/Army/Air Force) QB cap: CUT to shadow, same double-counting reason.
+P5  Props: was shadow-only in v1.2; became live via v1.3-hybrid.
+P6  Weather: sustained wind ≥20 mph → manual review of passing players at build time, no automatic downgrade.
+
+CONSTRUCTION
+C1  SuperFLEX is a free optimizer choice (QB or RB/WR), no threshold. Backtest: forcing 1 QB cost 3.2 FP; forcing 2 QBs was even with free choice (121.2 vs 121.5), and free choice picked 2 QBs on most historical slates.
+    v1.4 PROPOSED (not written): SuperFLEX = second QB by default, cheap QB with a rushing role preferred; RB/WR at SuperFLEX only with a printed comparison. Origin: 10/31 real field (see Part 4).
+C2  Mandatory stack for passing QBs: QB + at least one of his own WR/TE with LineStar projection ≥8 FP. Option QBs exempt. Bring-back optional. Backtest: neutral (±0.3 FP) → KEEP as structure.
+C3  Team cap: max 3 per team, 4 for the primary stack team. Neutral → KEEP.
+C4  Salary floor $58,500 (CFB has only 7 slots; NBA uses $59,500). Unused salary logged. Neutral → KEEP.
+C5  Overlap/exposure: any two lineups share ≤5 of 7 players; each player in at most two-thirds of entries (rounded up), max 2 named core exceptions.
+C6  Contrarian slot (<5% projected ownership): CUT, shadow only.
+C7  Swap gate +2.0 FP (NBA's +3.5 on ~300-pt lineups ≈ 1.2%; CFB lineups score ~150). OVERRIDE tags and RECOMMENDED format carry over from NBA.
+C8  Max 1 RB per team per lineup (carry splits). Neutral → KEEP.
+
+OWNERSHIP
+O1  LineStar projected ownership arrives ~30 min before first lock; chalk is not faded automatically.
+O2  A chalk play above 35% ownership is faded only if a same-salary pivot loses ≤5% projected points (provisional).
+O3  Every slate: compare projected ownership to actual ownership from the standings CSV.
+
+BANKROLL / CONTESTS
+B1  Until a backtest and live slates show an edge: cap CFB at 1% of DFS bankroll per slate; prefer double-ups over GPPs (NBA ROI finding: edge in the body of the field, no ceiling). 10/31 was an exception because 3 × $20 GPP entries were already placed.
+B2  GPPs optimized for ceiling with correlation; double-ups on median projection.
+
+PROCESS RULES
+N1  Every build prints missing inputs, suspended rules, and APPROVED or PAPER-ONLY.
+N2  No-entry gate: a slate that fails N1 badly → recommend not entering.
+N3  Role-change override: news of a promotion or a teammate's injury beats season FPPG.
+N4  Check FanDuel CFB scoring matches what LineStar projects.
+N5  Any lineup or number from an outside model is re-checked against the player file before use (salary, player present, every stat).
+
+SLATE TIMELINE: 8:30 AM PT LineStar pull → build + QB gate for 9:00 AM games; 12:00 PM QB audit + late swap for 12:30–12:45 games; 3:30 PM QB audit + late swap for 4:00–4:30 games.
+
+QUEUED FOR BACKTEST (never run): pace multiplier; field simulation + portfolio objective; per-position projection error; stack required vs free (only tested as neutral); overlap settings; the CFB props backtest (6 weeks historical props ≈ 3,400 credits).
+
+====================================================================
+PART 3 — DEBATE RECORD (10/31) AND MODEL GRADES
+====================================================================
+Round 1 (independent strategies): ChatGPT B+ — rigorous; adopted shrinkage formula, blowout tiers, QB starter gate, overlap ≤5, 1% bankroll; but its own lineups ran on raw FPPG and put Navy's option QB in all 3 against its own warning. Gemini C — adopted two-QB default and OUT filter; its lineups broke its own stacking rule and built the core on 1-game samples.
+Round 2 (critique of Claude's draft): ChatGPT more rigorous but "would rebuild everything before using anything"; Gemini more practical but misattributed which rule removed the option QB's projection.
+Round 3 (live-data lineups, 3 AM pull): ChatGPT's lineups were legal; it added an upside+ownership objective term (not adopted) and chose 2 QBs in all 3; leverage find Byrum Brown (AUB QB, 19.1 floor / 41.3 ceiling / 3.8% own). Gemini FAILED the data check: all 3 lineups over the $60k cap ($64,200 / $65,100 / $62,800), one player not in the pool, invented ceilings and ownership → origin of rule N5.
+Same-projection test on 10/31 pool: best 2-QB lineup 122.0 vs best 1-QB 124.5 → called noise.
+
+====================================================================
+PART 4 — BACKTEST: 56 MAIN SLATES, NO-PEEK, 3 LINEUPS PER SLATE (→ v1.2)
+====================================================================
+Setup: LineStar history 2023 W1 – 2026 W8 (56 usable main slates). Engine used only earlier weeks' actual points. Cash rates from a SIMULATED field built on realized ownership (random-by-ownership) plus a +4 FP calibration offset borrowed from NBA; the CFB offset itself was NEVER calibrated.
+
+Version                              Avg FP (3 LUs)  vs v1.1a (90% CI)   Double-up cash  GPP min-cash (best of 3)  Top 1%
+v1.1a (70/30 blend + haircuts)       116.2           —                   58%             54%                       2%
+No haircut, still 70/30              119.6           +3.5 (−0.1, +7.1)   66%             50%                       6%
+LineStar 100%, no haircut (= v1.2)   121.5           +5.4 (+2.0, +8.5)   70%             64%                       8%
+v1.2 with 2 QBs forced               121.2           +5.1                72%             68%                       6%
+v1.2 with 1 QB forced                118.3           +2.1                62%             60%                       6%
+Plain LineStar, no rules at all      121.4           +5.2                70%             62%                       6%
+Hindsight-perfect lineup             227.1
+
+Simulated field median ≈110, top 20% ≈129.
+
+Rulings taken from it: P1 → 100% LineStar; P3/P4 cut; C1 free choice; F5 keep; C2/C3/C4/C8/F4 keep as neutral structure; B1 keep double-up preference and 1% bankroll until ~10 live slates.
+Caveats written at the time: (a) LineStar's historical injury status may have been updated after lock (mild leak, hits every version equally); (b) the field simulation is random-by-ownership so a real field is sharper; (c) only maximum-projection objectives were tested, ownership leverage untested; (d) ~7 variants compared on the same 56 slates, no multiple-testing correction; (e) note that "plain LineStar, no rules at all" (121.4) is within 0.1 FP of v1.2 (121.5) — the construction rules are not shown to add points.
+
+An independent "auditor" review of the backtest code (leakage, legality, field sim, multiple testing) was launched 10/31 evening; its findings were NOT recorded in the protocol doc or memory. Treat the backtest as un-audited.
+
+====================================================================
+PART 5 — LIVE LEDGER (1 slate)
+====================================================================
+10/31/2026, slate 135975, contest 281304497 (GPP, 4,761 entries), 3 × $20 entries, built on v1.3-hybrid (v1.2 built as shadow but its shadow score was never graded — gap).
+Scores: 150.72 (460th, top 9.7%, won $30) · 134.42 (1,043rd, top 21.9%, won $30) · 128.22 (1,374th, top 28.9%, $0).
+Result: 2 of 3 cashed, $60 won on $60 fees → net $0.
+Real field (from the standings CSV): median 112.1, top 20% 136.6, top 5% 161.5, top 1% 180.5, winner 200.58.
+Real field vs simulation: sim median ≈110 vs real 112.1; sim top 20% ≈129 vs real 136.6 → the real field is sharper at the top than the simulation, exactly as caveat (b) warned. The backtest's "70% double-up cash" has not been tested against a real double-up.
+Winner's roster: Castellanos (QB, $5,400, 31.5 FP, 22% own) + Hawkins + Bo Jackson + Young / Becker / Wilde + Mestemaker at SuperFLEX.
+Our hits: Hawkins 48.5 FP (in all 3, 27.6% owned), Flora 34.1 (×1, 9.3% own), Chambliss 30.0 (×3), Young 22.8 (×2).
+Our busts: Turbo Richard 3.4 (×2, at SuperFLEX), Dierre Hill 2.1 (SuperFLEX), Odom 3.9, Dallas Wilson 4.4 (×2), Deuce Alexander 9.0 (×2).
+Rosters as entered (v1.3-hybrid):
+ L1: QB Chambliss (MISS) · RB Hawkins (OKST) · RB Bo Jackson (OSU) · WR Young (OKST) · WR Alexander (MISS) · WR D. Wilson (UF) · SF RB Turbo Richard (IND)
+ L2: QB Chambliss · RB Hawkins · RB Turbo Richard · WR Young · WR Alexander · WR Shipp (UNC) · SF RB Dierre Hill (ORE)
+ L3: QB Dampier (UTAH) · RB Hawkins · RB Flora (ISU) · WR Shipp · WR Pegan (UTAH) · WR D. Wilson · SF RB Bo Jackson
+STRUCTURAL FINDING: 97 of the top 100 finishers and 83% of the whole field put a QB in SuperFLEX; all 3 of our lineups put an RB there (0 for 3). Castellanos ($5,400, 22% own) was in 77 of the top 100. Note the tension: the backtest said free choice ≈ forced 2 QBs, yet on the one live slate the free choice (under the props blend) chose RBs every time and those RBs scored 3.4 / 2.1 / 33.7.
+Missing inputs printed on the 10/31 build: ownership from the 3 AM pull, OSU and ASU QBs unresolved at build time, no CFB props backtest.
+
+====================================================================
+PART 6 — KNOWN GAPS (Claude's own list)
+====================================================================
+G1 v1.3-hybrid is live with zero backtest; the per-position props calibration (0.80× RB etc.) was fitted on the same slate it was used on.
+G2 Field simulation uncalibrated to real CFB standings (one CSV so far).
+G3 SuperFLEX: backtest and live field disagree; v1.4 rule proposed but untested.
+G4 "Plain LineStar, no rules" ties v1.2 — construction rules unproven.
+G5 Multiple testing on 56 slates, no walk-forward split (2023–24 vs 2025–26) reported.
+G6 Injury-status leak possibility in the LineStar history.
+G7 Double-up preference (B1) never tested live; only GPPs entered.
+G8 Rules decided in chat were not always written into the protocol file the same day (fixed as a process rule, but the SuperFLEX rule is still unwritten).
+G9 v1.2 shadow lineups from 10/31 never graded, so the live hybrid-vs-LineStar comparison is missing.
+G10 No ownership-leverage objective; exposure rule C5 is count-based, not ownership-aware (Hawkins ×3 at 27.6% own).
+G11 Only one slate of real standings data; ten live slates were set as the bar before any promotion.
+
+====================================================================
+PART 7 — QUESTIONS (answer each, tagged ADOPT NOW / BACKTEST FIRST / REJECT)
+====================================================================
+Q1 SuperFLEX. Given the backtest (free choice ≈ forced 2 QBs, forced 1 QB −3.2 FP) and the live field (97/100 top finishers with a QB at SuperFLEX), what should the rule be? If "2 QBs default", how should the second QB be chosen (cheap rushing QB vs best projection), and what backtest on the 56 slates would confirm it WITHOUT re-fitting to the 10/31 slate?
+Q2 Props hybrid. Should v1.3-hybrid stay live, revert to v1.2, or go to shadow until the 6-week historical props backtest runs? Critique the props→FP conversion and the per-position rescaling. What is the right pass bar for the backtest (FP gain, CI, cash rate)?
+Q3 Field simulation. How would you calibrate the simulated field to real FanDuel CFB standings with 1 CSV now and 1 per week going forward? Is a fixed +4 FP offset defensible, or should the sim model the top of the field (sharper players) differently?
+Q4 Contest choice. The protocol prefers double-ups (B1) but has only played GPPs. With 3 entries/slate, what split (double-up / 50-50 / GPP) do the numbers support, and what breakeven cash rate applies at FanDuel's rake?
+Q5 Exposure. C5 is count-based (≤2/3 of entries). Should exposure be tied to projected ownership (e.g., allow 3/3 only when own ≥X%, cap 1/3 when own <Y%)? What does the 10/31 field say about Hawkins ×3?
+Q6 QB gate. Two teams had unresolved starters at build time and the rule excluded them. Is that the right default for a 14-game slate, or should an unresolved QB with a props line (markets posted a passing line for one candidate and none for the other) count as evidence?
+Q7 F3 small-sample gate and F5 playable floor. Are the thresholds (≤2 games, ≥8 FP; ≥6 FP skill / ≥10 FP QB) sensible for CFB roster churn, and would you test them or leave them as structure?
+Q8 Multiple testing. ~7 variants on 56 slates. Which v1.2 rulings survive a correction? Specify the walk-forward split and the statistic you would report.
+Q9 Leakage. Beyond post-lock injury status and realized ownership in the sim, what other leaks could be in a LineStar-history backtest, and what one numeric check would expose each?
+Q10 Priorities. Name the single change most likely to raise the cash rate at 3 entries per slate, and the three data items we should capture every Saturday from now on. Then list your proposed v1.4 rule changes in order, each tagged.
+
+OUTPUT FORMAT
+1. Top 5 problems ranked by expected cost, each with evidence from this packet and the exact fix.
+2. A table: rule | KEEP / CHANGE / CUT | one line of evidence | tag (ADOPT NOW / BACKTEST FIRST / REJECT).
+3. Answers to Q1–Q10.
+4. Where you are unsure, and what data would settle it.

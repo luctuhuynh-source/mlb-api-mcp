@@ -1,0 +1,41 @@
+CFB FanDuel DFS — archive of the 11/7/2026 build chat (session 4050550f). Written 2026-11-11. Files copied as-is, nothing rebuilt or edited.
+
+FILES (bytes  path)
+  101956  101956
+  101983  101983
+    1183  1183
+ 1450134  1450134
+  169220  169220
+  169584  169584
+  169921  169921
+   18191  18191
+    2241  2241
+    2303  2303
+   25616  25616
+   32402  32402
+    4067  4067
+   68702  68702
+     775  775
+     789  789
+     820  820
+   92792  92792
+   99072  99072
+
+NOTES
+- attachments/: FanDuel players-list + entries-upload-template CSVs for slate 136266 (11/7). Attachment-id prefixes stripped; -1/-3 suffixes are FanDuel's own (later re-exports with 8 entries).
+- cfb/engine.csv: pre-flight shadow-engine projection (shrunk FPPG x implied total), 11/7 1:28 AM. cfb/final.csv: 100% LineStar projection + projected ownership merged into the FD pool, 8:35 AM (built the FINAL file). cfb/lines.csv + odds.json: Odds API spreads/totals for the 14 games. cfb/lineups.csv = pre-flight L1-L4; cfb/lineups_final.csv = v1.4 final L1-L4 (Id:Name per slot, QB RB RB WR WR WR SF).
+- cfbcode/build_v14.py: v1.4 optimizer (PuLP <3). Usage: python3 build_v14.py <pool.csv> <out.csv> "<comma-separated eligible QB names>" "<comma-separated core names at 4/4>". Pool columns as in cfb/final.csv.
+- uploads_sent/: the three upload files sent to Phong on 11/7 (PREFLIGHT, PREFLIGHT-8entries, v14-FINAL = entered).
+- standings/: FanDuel standings CSV for 10/31 contest 281304497 (the only CFB standings file on disk).
+- review/: the 11/7 review packet and the Gemini + ChatGPT answer sets that produced v1.4 (rulings in the protocol doc, sections 15-17).
+- LineStar same-day pulls are NOT duplicated here; they live in backtests/cfb/linestar/live/ (2026-10-31_* and 2026-11-07_0830_*).
+
+MISSING (not on disk in this session; list as of 2026-11-11)
+- FanDuel CFB players-list CSV for 10/31 (slate 135975) — attached in the 10/31 chat (a58e0f91), not this one
+- FanDuel CFB entries-upload-template CSV for 10/31 — same
+- 10/31 backtest code and results from the 10/31 chat sandbox: cfbcode/cfb_bt.py, run_bt.py, run_bt2.py, fieldsim.py, an_bt.py, an_bt2.py, build_cfb12.py, build_cfb_hyb.py; cfb/bt_results.csv, bt_results2.csv, field_lines.csv, bt_eng.pkl, slate_with_props.csv — sandbox gone
+- 10/31 upload files (FanDuel-CFB-2026-10-31-upload-v12.csv, -HYBRID.csv, -HYBRID-0830.csv) — same sandbox
+- v1.2 shadow lineups for 10/31 — never scored, same sandbox
+- 11/7 standings CSV for contests 281406592 / 281406599 — not yet sent
+- 11/7 props pull (none was made that morning)
+- Fable audit output from 10/31 evening — never saved

@@ -1,0 +1,404 @@
+Worked for 10m 11s
+
+Recommended ruling: restore v1.2’s 100% LineStar projection for live builds, put the props hybrid back into shadow, and retain free SuperFLEX choice while requiring a printed comparison of the best legal one-QB and two-QB builds.
+
+The packet does not establish that the hybrid is harmful, that forcing two QBs improves cash rate, or that double-ups offer a CFB edge. It does establish that an untested projection change entered production before its contemporaneous control was graded.
+
+All evidence below comes from your packet. Calculated figures are identified. The confidence levels and promotion criteria I propose are evaluation standards, not additional observed results.
+
+1. Top five problems, ranked by likely cost
+
+This is a qualitative priority ranking. Expected dollar costs cannot be estimated from the packet.
+
+1. The live projection changed without a valid comparison
+
+The hybrid applies a 50/50 blend whenever a player has even one yardage or receptions prop. That does not establish that the props-derived total includes all relevant scoring components. Position rescaling can align averages while leaving individual rankings wrong.
+
+The historical loss from the old LineStar/engine blend does not measure the effect of the new props blend. Its effect is unknown because the props backtest was never run and the v1.2 shadow was never graded. [Packet: Parts 2, 5–6]
+
+ADOPT NOW — Exact fix: restore 100% LineStar for live builds; preserve the hybrid in shadow; reconcile its component accounting before testing it.
+
+2. The historical evidence is unaudited and was reused for rule selection
+
+The 56-slate study is useful exploratory evidence. It is not clean confirmation after roughly seven variants were compared on it. Historical injury information may also contain information unavailable at the decision time.
+
+The claim that an injury leak “hits every version equally” does not resolve this. Different projections and constraints select different players and replacements, so shared contaminated inputs can change relative rankings. [Packet: Part 4]
+
+ADOPT NOW — Exact fix: recover the missing audit, verify point-in-time inputs and grading, and label performance conclusions provisional. Reconstruct a chronological evaluation, then freeze candidates for genuinely unseen slates.
+
+3. Simulated cash percentages are being asked to support decisions they cannot support
+
+The field uses realized ownership and an NBA-derived adjustment. Its reported 70% double-up cash rate has never been tested against a real double-up.
+
+The metrics also have different denominators: “GPP min-cash, best of three” measures whether a portfolio produces a cash, not how many entries cash or whether the portfolio profits. The live slate demonstrates the distinction: two cashes produced zero net profit. [Packet: Parts 4–5]
+
+ADOPT NOW — Exact fix: separate entry cash rate, probability of at least one cash, and net ROI. Use actual contest payout cutoffs. Withdraw the claim that the simulation establishes a double-up advantage.
+
+4. The SuperFLEX diagnosis changes two things at once
+
+The historical free-choice result used 100% LineStar. The live all-RB SuperFLEX result used the props hybrid. That is not a controlled test of SuperFLEX construction.
+
+Historical free choice averaged 121.5 actual points, forced two QBs 121.2, and forced one QB 118.3. Those results support allowing two QBs; they do not demonstrate a benefit from requiring two. [Packet: Parts 2, 4–5]
+
+ADOPT NOW — Exact fix: restore the projection baseline and compare complete one-QB and two-QB builds under identical eligibility and construction rules.
+
+BACKTEST FIRST — a mandatory second QB or a special preference for cheap rushing QBs.
+
+5. The live ledger does not reconcile
+
+Several discrepancies need resolution before attributing outcomes to rules:
+
+- Chambliss is listed as appearing three times, but the rosters show him only in L1 and L2.
+- Odom appears in the bust list but in none of the listed rosters.
+- Turbo Richard appears twice, but only L1 places him at SuperFLEX.
+- Using the listed player scores, L1 totals 151.8 points, calculated. That matches none of the three reported lineup totals. The nearest is 150.72, a difference larger than ordinary rounding of seven one-decimal player scores.
+
+The reported scores also are not explicitly mapped to entry IDs and L1–L3. [Packet: Part 5]
+
+ADOPT NOW — Exact fix: reconcile accepted entry IDs, player IDs, rosters and official actual points. Then grade the originally frozen v1.2 shadows. If those original shadows cannot be recovered, report the comparison as unavailable.
+
+2. Rule-by-rule rulings
+
+“KEEP” below means retain as the provisional operating baseline. It does not mean the rule has demonstrated a cash-rate benefit.
+
+Rule	KEEP / CHANGE / CUT	Evidence or issue	Tag
+
+F1 — OUT exclusion	KEEP	Direct eligibility protection; the packet identifies misleading salary/FPPG inputs for OUT players.	ADOPT NOW
+F2 — QB starter gate	CHANGE	Keep current starter evidence; strengthen the late-window exception to require a complete, legal pivot plan.	ADOPT NOW
+F3 — Small-sample gate	KEEP provisionally	Role verification is useful; the game-count, eight-point and one-player limits have no isolated validation. Test relaxation under Q7.	BACKTEST FIRST
+F4 — Q/P handling	KEEP provisionally	An explicit uncertainty policy; its historical “neutrality” is suspect if status fields were updated after lock.	ADOPT NOW
+F5 — Projection floors	KEEP	Removing it reportedly lost 1.0 actual FP and never helped; confirm changed-slate counts and grading.	ADOPT NOW
+P1 — Live projection	CHANGE	Restore 100% LineStar; the props hybrid has no graded comparison.	ADOPT NOW
+P2 — Engine	KEEP in shadow	The old blend lost about 1.9 FP against LineStar after haircuts were removed; audit prior construction.	ADOPT NOW
+P3 — Blowout haircut	KEEP out of live builds	Reported results do not justify reinstatement; “double counting” remains an explanation, not a proven mechanism.	ADOPT NOW
+P4 — Option-QB cap	KEEP out of live builds	No evidence supplied that reinstating the cap improves outcomes.	ADOPT NOW
+P5 — Props	CHANGE to shadow	Incomplete-component and conversion questions remain unresolved.	ADOPT NOW
+P6 — Weather review	KEEP	Manual review does not impose an untested numerical penalty.	ADOPT NOW
+C1 — SuperFLEX	KEEP free choice	Forced two QBs did not improve mean actual FP; add a mandatory full-build comparison.	ADOPT NOW
+C2 — Passing-QB stack	KEEP provisionally	Neutral point estimate does not establish benefit or equivalence; include the second QB consistently.	ADOPT NOW
+C3 — Team cap	KEEP provisionally	No demonstrated gain from the extra restriction; distinguish it from FanDuel’s mandatory limits.	ADOPT NOW
+C4 — Salary floor	KEEP provisionally	Neutral evidence; do not treat spending more as independently valuable.	ADOPT NOW
+C5 — Exposure/overlap	CHANGE documentation	Keep as concentration policy; record core exceptions before lock and separate its different objectives.	ADOPT NOW
+C6 — Mandatory contrarian slot	KEEP cut	No evidence supports forcing a sub-5% player into a lineup.	REJECT reinstatement
+C7 — Swap gate	CHANGE	Eligibility repairs must bypass the discretionary +2 FP threshold; the threshold itself is unvalidated.	ADOPT NOW
+C8 — One RB per team	KEEP provisionally	Carry-split reasoning is plausible; the reported test does not demonstrate incremental value.	ADOPT NOW
+O1 — Ownership timing	CHANGE execution	Save the latest available ownership snapshot and its time; the live build used the 3 AM pull.	ADOPT NOW
+O2 — Chalk pivot condition	CHANGE interpretation	The 35%/5% condition limits a fade’s cost; it does not establish a reason to fade.	ADOPT NOW
+O3 — Ownership grading	KEEP	Compare genuine pre-lock forecasts with realized ownership, separately by contest type.	ADOPT NOW
+B1 — Bankroll/contest preference	CHANGE	Retain the 1% ceiling; remove the claim that CFB evidence establishes a double-up preference.	ADOPT NOW
+B2 — Ceiling versus median objective	CHANGE status	Only maximum-projection objectives were tested; the exact live objective and meaning of “median” are not in packet.	ADOPT NOW
+N1 — Build status	CHANGE	Define required inputs and permitted suspensions explicitly; “APPROVED” must not imply proven profitability.	ADOPT NOW
+N2 — No-entry gate	CHANGE	Replace “fails badly” with specified hard failures; optional missing inputs need not invalidate the baseline.	ADOPT NOW
+N3 — Role-change override	KEEP	Current role matters; record the evidence and any numerical projection adjustment.	ADOPT NOW
+N4 — Scoring reconciliation	KEEP and enforce	Essential to auditing the props conversion and inconsistent live totals.	ADOPT NOW
+N5 — Data verification	EXPAND	Apply it to Claude’s own calculations and ledger as well as outside-model outputs.	ADOPT NOW
+
+
+3. Answers to Q1–Q10
+
+Q1. What should the SuperFLEX rule be?
+
+ADOPT NOW — Retain free choice under 100% LineStar, with a required comparison of the best legal one-QB and two-QB builds.
+
+Choose the second QB according to the value of the complete resulting lineup, including salary opportunity cost, required receivers and eligibility. Neither the highest individual QB projection nor the cheapest rushing QB necessarily produces the best complete roster.
+
+REJECT — An unmeasured “cheap rushing QB preferred” bonus. Rushing production belongs in the projection; salary matters through the teammates it permits. Adding a separate preference needs its own definition and test.
+
+The live field is a useful diagnostic: 83% used two QBs, versus 97 of the top 100. But those are correlated entries from one shared set of game outcomes. Castellanos appeared in 77 of those top 100, so one successful player could explain a substantial part of the pattern. [Packet: Part 5]
+
+Also, Bo Jackson’s listed 33.7 exceeded Castellanos’s 31.5. This does not prove the RB construction was better, but it prevents a blanket conclusion that all three RB SuperFLEX selections failed. With three RBs rostered, their RB/SuperFLEX labels are interchangeable; the question is which third RB or second QB belongs in the complete lineup.
+
+BACKTEST FIRST — Forced two QBs.
+
+Exact test:
+
+- Compare free choice with forced two QBs using identical LineStar inputs, starter gates, stacks, salary rules, exposure settings and portfolio-building procedure.
+- Evaluate three-lineup portfolios on each slate.
+- Use the chronological design in Q8; exclude 10/31 from rule selection and threshold tuning.
+- Report paired actual-FP differences and the number of slates on which the policies actually produce different rosters.
+
+Pass bar: to promote it as a cash-rate rule, require a positive paired improvement in entry cash rate against real, matched target contests, with a multiplicity-adjusted 95% lower confidence bound above zero. Report the mean-FP tradeoff separately.
+
+The existing 56-slate score data can nominate a candidate. Without real contest cutoffs, they cannot confirm a cash-rate advantage.
+
+Q2. Should the props hybrid remain live?
+
+ADOPT NOW — Revert to v1.2 and shadow the hybrid.
+
+There are six conversion issues to resolve.
+
+1. A prop threshold is not automatically an expected statistic. A yardage line and its prices do not, by themselves, identify expected yards. The conversion method needs a documented distributional interpretation.
+
+2. Anytime-TD probability is not expected TD count. Expected TD count equals the probability of at least one TD, plus the probability of at least two, and so on. Therefore, six times anytime-TD probability omits the contribution from multiple-TD outcomes.
+
+3. The passing-TD input is unspecified. The formula includes four points per passing TD, but the listed data sources do not identify a passing-TD market or another expected passing-TD input. That input is not in packet. Anytime-TD settlement definitions also must match the scoring component being modeled.
+
+4. Missing components cannot silently become zero. One receiving-yards prop is not a complete fantasy projection. The rule permitting a blend after just one qualifying prop creates inconsistent completeness across players.
+
+5. The full scoring reconciliation is absent. Treatment of unquoted scoring components and deductions is not in packet.
+
+6. “De-vigged” needs an auditable method. A lone quoted price does not uniquely identify a fair probability. The available market sides, timestamps and normalization assumptions need documentation.
+
+These are accounting and modeling issues, not evidence that betting markets lack predictive value. [Packet: Parts 1–2]
+
+On position rescaling: if the reported ratios mean raw props divided by corresponding LineStar totals, the implied multipliers are approximately 1.064 for QB, 1.250 for RB, 1.087 for TE and 1.136 for WR, calculated.
+
+That does not prove RBs were inflated relative to LineStar. If normalization matches each covered position group’s LineStar average, its average is preserved. The risks are distorted individual rankings, incomplete components, and differences between covered and uncovered players.
+
+Likewise, fitting a transformation to two sources available before lock is not inherently outcome leakage. It is an unvalidated normalization rule. Whether the ratios use matched players, ratios of averages, or averages of ratios is not in packet.
+
+The 0.95 correlation does not establish incremental value. The useful question is whether props information predicts LineStar’s errors out of sample.
+
+BACKTEST FIRST — A frozen props challenger.
+
+Use the six historical weeks to reproduce the as-built hybrid, audit availability and scoring, and develop one corrected candidate. Keep construction identical to the LineStar control. Report:
+
+- Paired mean actual-FP difference by slate.
+- Its slate-level confidence interval.
+- Bias and forecast error by position and coverage group.
+- Which roster selections changed and why.
+- Actual contest cash outcomes where genuine standings are available.
+
+If the conversion changes after examining results, the corrected version is a new candidate; it does not inherit the original version’s validation.
+
+Pass bar: before promotion, freeze that candidate for the next ten genuinely unseen slates. Require positive mean actual-FP improvement with a 95% lower confidence bound above zero. Report real-contest cash-rate differences and their interval as a separate outcome. A claim of improved cash rate requires its own positive lower confidence bound.
+
+I would not invent a required two- or three-point gain: its economic significance is not in packet. Six historical weeks are a diagnostic stage, and ten future slates are a scheduled evaluation point—not automatic proof.
+
+Q3. How should the field simulation be calibrated?
+
+ADOPT NOW — First establish whether the simulation and real-field figures are matched to the same slate.
+
+The packet does not establish that the approximately 110 median and 129 top-20% cutoff came from a specific 10/31 simulation. They may summarize historical slates. Comparing a historical summary with one live slate mixes scoring-environment differences with field-model error.
+
+If those figures are matched, the calculated residual gaps are approximately:
+
+- Median: 2.1 points.
+- Top-20% cutoff: 7.6 points.
+
+A single additive shift cannot close both. If they are not matched, those differences are not valid calibration estimates. [Packet: Parts 4–5]
+
+REJECT — Treating the inherited +4 FP adjustment as validated CFB calibration, or replacing it with a new constant fitted to one CSV and declaring the problem solved.
+
+ADOPT NOW — Use the current CSV for reconstruction and diagnosis. Score frozen candidate lineups against actual standings and the actual payout ladder. The 134.42 lineup cashed despite falling below the 136.6 top-20% threshold, so top 20% is not this contest’s actual cash cutoff.
+
+BACKTEST FIRST — A more realistic field generator.
+
+Generate legal lineups that reflect salary spending, QB count, stacking and joint player selections. A component favoring stronger projected rosters can be tested, but it must be defined from pre-lock information and earlier contests, not from the evaluated slate’s eventual winners.
+
+For each new slate:
+
+- Fit only on earlier CSVs.
+- Predict the median, actual cash cutoff and upper-tail cutoffs before results.
+- Keep cash-contest and GPP calibration separate.
+- Compare forecast cutoff errors against the existing simulator.
+
+Pass bar: for a cash-contest simulator, require lower held-out cash-cutoff mean absolute error, with a paired 95% lower confidence bound for improvement above zero, and no deterioration in median error. A claim of improved top-tail modeling needs the corresponding held-out improvement at the top-1% cutoff.
+
+One CSV cannot supply that validation.
+
+Q4. What three-entry contest split is supported, and what is breakeven?
+
+REJECT — Calling any specific double-up/50-50/GPP split empirically optimal from this packet.
+
+There is no real double-up or 50-50 comparison. The NBA finding cannot establish a CFB advantage, and one break-even GPP slate cannot establish the opposite.
+
+ADOPT NOW — Keep the 1% bankroll ceiling as a risk limit. It is a maximum, not a target or a statement of positive expected return.
+
+The arithmetic depends on actual gross payouts:
+
+- Fixed payout: if a successful entry returns M times its fee, including the original stake, break-even cash rate is 1 / M.
+- True 2x double-up: break-even cash rate is 50%. Rake reduces the fraction of entrants paid; it should not be deducted again from a payout already specified as twice the fee.
+- Exactly half-paid 50-50: with rake fraction r, no overlay and equal winning payouts, the gross multiplier is 2 × (1 − r). Breakeven is 1 / [2 × (1 − r)].
+- GPP: no single break-even cash rate exists without the distribution of payouts.
+
+The actual rake and complete payout schedules are not in packet.
+
+On 10/31, each $30 cash on a $20 entry returned 1.5 times the fee. If every cash were only that amount, the calculated break-even cash rate would be two-thirds—exactly the slate’s result. That is not a general GPP break-even rate. [Packet: Part 5]
+
+BACKTEST FIRST — Contest allocation. Score frozen lineups against real contests of each proposed type on matched slates, using equal total fees per allocation and actual payouts, including ties.
+
+Pass bar: require a positive lower 95% confidence bound for the paired improvement in fee-normalized net return before claiming one allocation is better. Require positive absolute net ROI with its own uncertainty assessment before claiming an edge.
+
+Until then, a split reflects Phong’s risk preference, not a result established by these numbers.
+
+Q5. Should exposure depend on projected ownership?
+
+REJECT — Hard ownership-to-exposure thresholds.
+
+The packet supplies no basis for choosing X or Y. Popularity alone does not establish how much a player contributes to a lineup’s cash probability. With three entries, exposure restrictions also make large discrete changes.
+
+Hawkins’s 48.5 points and 27.6% realized ownership neither validate nor invalidate three-of-three exposure. They describe one favorable realization. The relevant pre-lock projected ownership and the recorded core-exception designation are not in packet. [Packet: Part 5]
+
+Calculated from the listed rosters:
+
+- L1/L2 share five players.
+- L1/L3 share three.
+- L2/L3 share two.
+- Only Hawkins appears in all three.
+
+Thus, the overlap rule was satisfied. Hawkins’s exposure was permitted if he was a named core exception.
+
+ADOPT NOW — Keep C5 as a documented concentration policy, with exceptions recorded before lock.
+
+Be precise about its objective: holding lineup cash probabilities fixed, correlation changes portfolio variance and the chance of at least one cash. It does not change the expected number of cashes. Exposure restrictions improve expected cash count only if the resulting substitutions improve the individual lineups’ cash probabilities.
+
+For O2, “fade only if the pivot loses no more than 5%” is a restriction on a contemplated fade. It is not sufficient evidence to make that fade.
+
+BACKTEST FIRST — Any ownership-based selection policy. Freeze the exact rule, use genuinely pre-lock ownership, and compare against the same-projection baseline. Apply the cash-rate pass bar for cash contests or the actual-return pass bar for GPPs.
+
+Q6. Should a passing prop resolve an uncertain QB starter?
+
+ADOPT NOW — Count it as supporting evidence, not confirmation.
+
+A posted line for one candidate is informative. The absence of a line for another is weaker evidence because coverage is incomplete: only 151 of 370 projected players had props. QB-specific coverage is not in packet. [Packet: Part 1]
+
+Retain the default exclusion when the current starter remains unresolved. A previous start and a posted prop can justify further investigation without automatically satisfying the gate.
+
+A 14-game slate makes conservative exclusion plausible, but the number and quality of remaining eligible QBs are not in packet. Therefore, the opportunity cost of excluding OSU or ASU cannot be quantified.
+
+ADOPT NOW — Strengthen the late-window exception.
+
+A valid contingency must specify a complete legal replacement, including:
+
+- An eligible pivot who remains unlocked at the decision time.
+- Sufficient salary.
+- Any required receiver-stack changes.
+- Team and portfolio-limit compliance.
+- A recheck before the earliest relevant kickoff.
+
+A named QB alone is insufficient if replacing him requires changes to receivers who have already locked.
+
+Q7. Are F3 and F5 sensible?
+
+They deserve different treatment.
+
+F3 — ADOPT NOW: retain verified current-role evidence for low-history players and material role changes.
+
+F3 — BACKTEST FIRST: the extra eight-point floor and one-player-per-lineup cap. Game count is a rough uncertainty proxy; it does not directly measure the certainty of a newly established role.
+
+Exact test: compare current F3 with verified-role-only eligibility for those players, leaving F5 and every other rule unchanged. This tests removal of the extra F3 restrictions as a package; it does not identify which restriction caused any difference.
+
+Pass bar: use paired actual FP as the historical screening statistic and the adjusted 95% criterion in Q8. A cash-rate promotion requires real contest cutoffs and the corresponding cash-rate criterion.
+
+If contemporaneous role evidence cannot be reconstructed, mark F3 historically untestable. Knowledge of who ultimately played cannot substitute.
+
+F5 — ADOPT NOW: keep the six-point skill-player and ten-point QB floors provisionally. Its reported removal lost 1.0 FP and never improved a slate, which is more supporting evidence than F3 has. [Packet: Part 2]
+
+Two qualifications:
+
+- “Never better” needs counts of changed, better, worse and tied slates. Unchanged lineups provide no new comparison.
+- Confirm that the reported loss concerns actual points. Relaxing a constraint cannot reduce an exact optimizer’s maximum projected objective when the objective and everything else remain fixed.
+
+The ten-point QB floor is not starter confirmation. F2 still applies.
+
+REJECT — Retuning these thresholds from the single live slate.
+
+Q8. Which rulings survive multiple-testing correction?
+
+None can be certified as surviving from the supplied summaries. That does not mean all fail.
+
+The strongest reported contrast is the combined move from v1.1a to v1.2: +5.4 FP, with a 90% interval from +2.0 to +8.5. It may survive an appropriate correction, but the packet does not supply enough information to establish that.
+
+Other limitations:
+
+- The haircut-only interval, −0.1 to +7.1, already includes zero before correction.
+- The combined v1.2 result does not isolate the approximately 1.9-point incremental effect of switching from the no-haircut blend to LineStar.
+- Forced-QB comparisons and the 0.1-point difference between plain LineStar and v1.2 lack paired intervals.
+- “Neutral” does not establish statistical equivalence.
+- The exact testing family, including abandoned thresholds and experiments, is not in packet. [Packet: Part 4]
+
+ADOPT NOW — Retain the simple LineStar/no-extra-haircut baseline provisionally without claiming that each component has a demonstrated edge.
+
+BACKTEST FIRST — Reconstruct this chronological analysis:
+
+1. 2023–24: development and parameter selection.
+2. 2025: chronological evaluation with the decision rules fixed.
+3. 2026 W1–W8: further retrospective evaluation; update only nuisance estimates using earlier data under a previously fixed method.
+4. Next ten unseen slates: frozen prospective evaluation.
+
+All 56 historical slates already influenced decisions. Splitting them now can expose instability and fitting leakage, but it cannot make them untouched holdouts.
+
+For each comparison, one observation should be the slate-level difference in average actual points across the three lineups. Do not treat 168 lineups as independent observations.
+
+Report:
+
+- Equal-weight mean paired difference.
+- A 95% confidence interval resampling whole slates, with a dependence check for adjacent weeks.
+- Holm-adjusted p-values or simultaneous intervals across the complete documented candidate family.
+- Entry cash rate, at-least-one-cash frequency and net ROI separately.
+
+Shared pass standards for proposed tests:
+
+- Projection improvement: positive paired mean actual-FP gain with an adjusted 95% lower bound above zero.
+- Cash-rate improvement: positive paired entry-cash improvement against real target contests with the same adjusted lower-bound requirement.
+- GPP objective or allocation improvement: positive paired net-return improvement using actual payouts.
+
+For C2/C3/C4/C8, test one predeclared removal at a time against the fixed baseline. For C7, compare the existing discretionary threshold with no discretionary threshold using archived decision-time updates; mandatory eligibility repairs bypass both. Missing historical update snapshots make that swap test unavailable.
+
+Q9. What other leaks should be checked?
+
+ADOPT NOW — Run the following provenance checks. These are potential failures to investigate, not claims that they occurred.
+
+A zero count is the proposed integrity requirement for inappropriate information use. If timestamps or source archives are missing, report the check as unverified rather than passed.
+
+Possible leak or integrity failure	One numeric diagnostic
+
+Historical projections, ceilings or ownership forecasts overwritten after lock	Count of used fields updated after their permitted decision cutoff or inconsistent with saved pre-lock snapshots.
+Target-week actuals included in FPPG or games played	Count of feature-contributing games from the target or a later week.
+Position priors or outcome-based calibrations fitted using future observations	Count of fitting records after the applicable training cutoff.
+Closing or live props/lines substituted for build-time quotes	Count of used quotes timestamped after the simulated decision time.
+The QB-status tool supplying retrospectively known starter information	Count of starter decisions supported only by later games or later news.
+A survivor-biased historical player pool	Count of pre-lock pool players omitted without a documented, time-valid eligibility reason.
+Missing actuals causing selected DNPs to disappear from grading	Count of selected roster slots omitted from the scored denominator.
+Current team, salary or position records contaminating earlier slates	Count of discrepancies against archived official slate files.
+Target actuals or realized ownership entering lineup selection	With seeds fixed, count changed rosters after permuting those target-slate fields before construction.
+Late-swap replay changing already-locked players	Count of changed locked slots or decisions using information unavailable at that replay time.
+Selective omission of historical weeks	Count of the four omitted weeks lacking an objective documented usability reason.
+Supposed holdout results inspected before candidate selection	Count of evaluated holdout slates inspected before the final code and rule freeze.
+
+
+The permutation check separates construction from evaluation: target actual scores properly enter grading, and realized ownership can properly describe the completed field. They must not influence what the simulated decision maker selected beforehand.
+
+ADOPT NOW — Recover the missing auditor report and reconcile its findings with the actual code version. Merely launching an audit is not evidence that it passed.
+
+REJECT — Calling a leak mild because all variants shared it. After correcting suspect inputs, report how each paired strategy difference changes.
+
+Q10. What should happen first, and what should be captured?
+
+Single highest-priority change — ADOPT NOW: restore 100% LineStar live and shadow the hybrid.
+
+Projection methodology can affect every slot. This is the most defensible immediate correction because it removes an unvalidated production change. Its expected cash-rate gain cannot be quantified from the packet.
+
+ADOPT NOW — Capture these three datasets every Saturday:
+
+1. Timestamped decision inputs. Full player file; LineStar projections and ownership; complete available prop markets, prices and timestamps; eligibility and starter evidence; and the snapshots used at later kickoff windows.
+
+2. Versioned lineup/action ledger. Accepted live entries, frozen shadow entries, optimizer version and objective, missing inputs, core exceptions, and each swap with its decision-time evidence.
+
+3. Contest settlement records. Full standings, official actual points, fees, complete payouts and ties, realized ownership and net return. Capture the cash-contest formats being considered as well as GPPs.
+
+Proposed v1.4 changes, in order:
+
+1. ADOPT NOW — Restore LineStar and classify the hybrid as shadow.
+2. ADOPT NOW — Reconcile the 10/31 ledger and grade recoverable frozen shadows.
+3. ADOPT NOW — Require complete one-QB/two-QB comparisons while preserving free choice.
+4. ADOPT NOW — Strengthen late-window pivots and exempt necessary eligibility repairs from the +2 FP gate.
+5. ADOPT NOW — Define approval failures, input suspensions, objective labels and pre-lock core exceptions explicitly.
+6. ADOPT NOW — Label simulated cash rates unvalidated and remove the unsupported claim of a CFB double-up advantage.
+7. BACKTEST FIRST — Test the corrected props challenger, mandatory two-QB construction and F3 relaxation as separate candidates under the specified evaluation standards.
+8. REJECT — Add ownership-based exposure thresholds, forced contrarian slots or a cheap-rushing-QB bonus without a defined policy and supporting test.
+
+The proposed SuperFLEX change should be written into the protocol before use. “Ten live slates” should remain a scheduled review point, not an automatic promotion trigger.
+
+4. Where I am unsure, and what would settle it
+
+- Did the hybrid improve or hurt the live portfolio? The reconciled entry ledger and original v1.2 shadow would settle the one-slate comparison. Repeated frozen comparisons are needed for a general conclusion.
+- Does forcing two QBs raise cash rate? Same-model comparisons against actual target-contest cutoffs are needed.
+- Is the props total complete and correctly calibrated? Market-level records, conversion code, missing-component treatment and held-out outcomes are needed.
+- How much confidence should v1.2 receive? The audit, point-in-time input archives and full paired slate results are needed.
+- Are double-ups preferable to 50-50s or GPPs? Matched real standings and complete payout schedules are needed.
+- Was Hawkins’s concentration justified before lock? The original projection comparison and exception record are needed; his final score cannot answer that.
+- Do the construction rules add value? Their isolated paired results are needed. A 0.1-point aggregate difference does not establish that the rules help, nor does it prove every rule is harmless.
+
+The supported decision today is to use the simpler, better-supported projection baseline and improve the comparison record. A cash-rate edge remains unestablished.
