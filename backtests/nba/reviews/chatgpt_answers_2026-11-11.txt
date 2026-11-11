@@ -1,0 +1,289 @@
+Worked for 13m 59s
+
+Q1. Field model
+
+Verdict: MODIFY
+
+Why: The mean is an accounting identity when ownership fractions and player scores come from the same complete contest. The 1–3 FP discrepancies need reconciliation. The SD formula is an approximation: its multiplier absorbs the covariance created by roster construction and the particular slate’s results. Four fixed z cutoffs do not define a complete percentile distribution. The 16-entry check is weak validation if those contests also helped fit the model. Your central-percentile estimates look useful; your tail estimates remain unsuitable for measuring tournament profitability.
+
+Rule: Use exact ranks whenever standings exist. Label other ranks “estimated.” Restrict the field model to mean percentile, cash rate and top-10% diagnostics. Do not use it to establish top-1%, top-0.1% or actual ROI.
+
+Test: For each of the 18 contests:
+
+- Recompute ownership from its complete standings and reconcile the field mean.
+- Hold out every contest on that slate date together.
+- Fit the SD multiplier and an empirical standardized score distribution on the remaining dates, weighting dates equally.
+- Predict every held-out entry’s percentile. Report bias and absolute error overall, around cash and around top 10%, with uncertainty calculated across dates.
+
+Also test one predetermined alternative: replace player points in the SD formula with “points minus field mean divided by nine,” then refit the multiplier. Unlike the original formula, this remains unchanged when every player receives the same added number of points. Adopt it only if held-out calibration improves.
+
+Label: REASONED
+
+Q2. AggProj and R2
+
+Verdict: MODIFY
+
+Why: Removing the 30% last-five component is supported. The full CAL advantage is less secure. Final projections can contain information unavailable at your actual build time; an earlier coefficient-training period does not fix that. The eight-slate candidate comparison changes both projection and construction, so it does not isolate AggProj. The seven-slate pre-lock AggProj MAE advantage is supportive, but it does not establish the reported lineup gain. Missing-field handling, changes in eligible players and selection of rules after viewing the test period could also inflate the apparent advantage.
+
+Rule: Freeze:
+
+P = -0.26 + 0.14 × LS + 0.86 × AggProj
+
+Use LS alone when AggProj is missing or unavailable at the executable build cutoff. Remove last-five averaging.
+
+Define the objective explicitly:
+
+U = P + 0.1 × (LS ceiling − LS projection)
+
+“Ceiling minus CAL” would be a different rule.
+
+Block adoption if AggProj’s pre-lock availability cannot be verified. As a conservative deployment gate, use pure LS for paid builds if CAL loses to LS on both pre-lock player MAE and mean actual lineup FP; retain CAL as a shadow.
+
+Test: On each of the eight archived slate dates, compare CAL against pure LS using the same snapshot, recorded eligibility, candidate construction, ceiling add-on and deterministic tie-breaking. Freeze the existing coefficients. Measure eligible-player MAE and the four-lineup mean actual score and percentile, paired by slate.
+
+Repeat using final projection values while keeping the pre-lock eligible pool fixed. This separates projection revisions from eligibility changes. Never backfill historical starter or injury status from final values.
+
+A confidence interval crossing zero means uncertainty; it does not establish that CAL is harmful.
+
+Label: REASONED
+
+Q3. Expected value and forced diversification
+
+Verdict: AGREE
+
+Why: Holding each entry’s marginal payout distribution fixed, covariance changes portfolio variance and the probability that all four miss; it does not change expected total payout. But marginal payouts can change through your own entries competing for ranks and splitting ties. Within-lineup construction can also change the payout distribution. Therefore, payout additivity does not prove that four independently selected highest-projection lineups maximize expected return. Nothing here establishes arbitrary lineup distance, mandatory stacks or low ownership as an expected-value improvement.
+
+Rule: Keep overlap six temporarily as a controlled baseline. Test it against “four distinct lineups,” meaning overlap eight is permitted, with no exposure cap in either arm.
+
+Build sequentially with the same objective and deterministic tie-breaking. Do not add a requirement to produce at least one cash.
+
+Test: Compare both arms on the 164 final-data slates and eight pre-lock slates, reporting those samples separately.
+
+On dates with actual standings, substitute the complete four-lineup portfolio for your original entries, preserve contest size and recompute ranks and tied payouts where the payout schedule is reconstructible. Measure mean percentile, actual return, all-four-miss rate and at-least-one top-10% finish. Pair comparisons by slate.
+
+The neutral overlap-five/six/seven result does not answer the overlap-eight question.
+
+Label: REASONED
+
+Q4. Three-of-four exposure cap
+
+Verdict: DISAGREE
+
+Why: Drop the cap provisionally. The supplied comparison favors no cap by 2.6 percentile points, with SE 0.7, while all-four-miss rises only from 24% to 25%. That supports accepting more repeated players under overlap six. The 32% all-miss result belongs to the separate four-best-distinct arm. Using it against exposure-cap removal would conflate two changes. The evidence supports better central performance, not established profitability.
+
+Rule: Permit a player in all four lineups. Retain overlap six and the other construction rules during this comparison.
+
+If the live protocol becomes uncapped, replace R8’s uncapped shadow with the capped candidate; otherwise that shadow duplicates the live build.
+
+Test: Compare maximum exposure three versus four using identical CAL inputs, eligibility and overlap six. Run the comparison on the eight pre-lock slates and continue it prospectively. Record slate-level differences in mean percentile, cash rate, top-10% rate, all-four-miss rate and exact payouts where available.
+
+Do not count the same four lineups entered in another contest as four additional independent observations.
+
+Label: DATA-BACKED
+
+Q5. Increasing top-0.1% frequency
+
+Verdict: MODIFY
+
+Why: No change in this packet is demonstrated to increase top-0.1% frequency. A higher cash rate does not establish that result. The candidate’s censored return of 0.90 is also not actual ROI. Four lineups across 18 contests provide at most 72 evaluated entries: at a 0.1% benchmark, that is only 0.072 expected hits. Repeated dates and lineups further limit independent information. This dataset can inspect proposed tail strategies, but it cannot reliably confirm modest improvements in such a rare outcome.
+
+Rule: Make no paid-rule change specifically justified as a proven tail improvement.
+
+One explicit shadow experiment is to double the ceiling coefficient from 0.1 to 0.2 while holding every other rule fixed:
+
+U_tail = P + 0.2 × (LS ceiling − LS projection)
+
+This tests a hypothesis about the ceiling field. It does not treat a sum of player ceilings as a lineup tail probability.
+
+Test: Score both portfolios against the actual standings on all available matching dates. Report:
+
+- Direct top-0.1% finishes per entry.
+- Slates with at least one such finish.
+- Score distance from the actual top-0.1% cutoff.
+- Exact tied payouts in the 11 contests with payout data.
+
+Identify final-input runs as retrospective diagnostics. Continue the experiment with archived pre-lock inputs. Smaller cutoff gaps are diagnostic; they are not proof of a higher hit rate. Do not select a winner using field-model tail estimates.
+
+Label: SPECULATIVE
+
+Q6. Conditional ownership leverage
+
+Verdict: MODIFY
+
+Why: A general ownership penalty has no demonstrated benefit. A small ownership preference among otherwise near-equal lineups remains testable. The realized-ownership value buckets do not prove that ownership itself causes better results: player quality, salary and late information are mixed into that comparison. Your lineups were already unique on every slate of five or more games, so avoiding exact duplication is a weak justification for sacrificing projection in those contests.
+
+Rule: Shadow this rule only:
+
+Keep baseline lineups one and two unchanged. For lineup three, then lineup four:
+
+1. Find the highest objective U available under the existing constraints; call it U-best.
+2. Among legal lineups within 1.0 FP of U-best, choose the lowest sum of pre-lock projected ownership.
+3. Break ties by higher U, then stable player IDs.
+
+The 1.0 FP allowance is a proposed test setting, not an estimated optimum. Add no low-ownership quota.
+
+Test: Compare the baseline and shadow on identical inputs. Use projected ownership for construction and realized ownership only for evaluation. Report actual score, mean percentile, objective sacrificed, exact duplicates, direct tail ranks and actual payouts.
+
+Run the eight pre-lock dates separately from the final-data history. Any subsequent live evaluation must use newly collected dates and the frozen allowance.
+
+Label: SPECULATIVE
+
+Q7. A narrow late-swap rule
+
+Verdict: MODIFY
+
+Why: Two corrections matter. Section 4.6 identifies starters named after the last snapshot, not necessarily after first lock. “83% in games tipping after lock” describes game times, not announcement times. Also, R5 is not unchanged: written v1.3 already permits a healthy-player swap after a late starter is ruled out when the lineup gains 3.5 FP. R5 removes that exception. Finally, an attractive new-starter class does not imply a large upgrade over an already optimized lineup; affordability, locked players and existing selections can absorb much of its value.
+
+Rule: Keep ruled-out-player repairs mandatory. Shadow this narrow voluntary exception:
+
+At a scheduled later-game check, allow at most one healthy-player replacement per lineup when:
+
+- The incoming player has newly become a confirmed starter following a newly ruled-out teammate.
+- Both incoming and outgoing players remain unlocked.
+- The resulting lineup is legal.
+- Its total current CAL projection improves by at least 3.5 FP.
+
+Evaluate both players using the same current snapshot. Choose the largest qualifying improvement. Freeze all locked players and make no other healthy-player changes.
+
+Test: Existing pre-lock snapshots can test the implementation before first lock. They cannot validate its post-lock performance.
+
+For a valid forward test, archive the same input fields and status confirmations at each later check. Compare out-only repairs against out-plus-this-exception, paired by slate, using actual scores and field percentiles. Final projections cannot reconstruct what was actionable at an earlier tip.
+
+Label: SPECULATIVE
+
+Q8. Freshness and manual upload timing
+
+Verdict: MODIFY
+
+Why: The freshness gain is plausible because new information changes both player values and eligibility. But five paired dates do not establish a general “six FP per extra 30 minutes” relationship. Some starting snapshots were extremely stale. The strongest conclusion is operational: fixed clock-time pulls are unsuitable when lock varies. The optimal final build time also depends on upload duration, which the packet does not measure.
+
+Rule: Start with this operating schedule, relative to actual first lock T:
+
+- At T minus 15 minutes, take a synchronized snapshot and run the canonical build.
+- Finish upload and verify the loaded player IDs by T minus five minutes.
+- Recheck rostered-player status before lock; repair newly ruled-out players.
+- Schedule later-game checks relative to each actual tip, initially at 15 minutes before tip.
+
+The five-minute buffer is an operating choice, not a measured optimum. Log snapshot age, build duration, upload completion and verification.
+
+Do not schedule a fresh full-portfolio rebuild so late that manual upload becomes unreliable.
+
+Test: Rebuild the frozen protocol from each member of the five existing snapshot pairs. Report every slate’s snapshot ages and four-lineup mean score difference. Use only status and starter information recorded at that time.
+
+During the live trial, measure build-to-verified-upload duration and deadline failures. Those observations determine whether the initial timing is feasible. Section 1 does not explicitly confirm archived injury flags; missing historical flags must be disclosed, not replaced with final statuses.
+
+Label: REASONED
+
+Q9. Contest selection
+
+Verdict: MODIFY
+
+Why: This packet cannot choose between 150-max, single-entry, 3-max and 20-max because it contains no comparison fields from those alternatives. The presence of mass entrants does not establish the size of their advantage. Overlay is better supported: with the same guaranteed prize pool, 16% filled rake and 87–88% fill imply approximately 3.45–4.55% effective rake. But final fill is unavailable when an earlier entry decision must be made. The double-up estimate merely reaches the stated break-even rate using final inputs.
+
+Rule: Keep double-ups excluded. Set a total slate-fee budget before selecting contests.
+
+At the last feasible entry time, record current entries, fee and guaranteed prize pool. Among otherwise comparable choices, prefer lower current effective rake:
+
+1 − guaranteed prizes / (current entries × entry fee)
+
+Treat that as conditional on current fill. Do not increase the slate budget to obtain apparent overlay, and do not change contest format based solely on entry limits.
+
+Test: With the existing 18 files, score the same lineups against available same-slate contests and compare fee-normalized payouts and field thresholds.
+
+For format comparisons, collect the same standings and payout files for the alternative formats. First compare lineup one across formats, then compare legal portfolios: one lineup in single-entry, three in 3-max and four in the larger limits.
+
+Record entry-time and final fill, payout concentration, field size, users, entries per user, duplicates and ownership. Historical final fill alone cannot validate an earlier contest-selection rule.
+
+Label: REASONED
+
+Q10. Unjustified complexity
+
+Verdict: MODIFY
+
+Why: Delete the contrarian cap. Its estimated effect is too weak to justify retaining it merely because it already exists; that is not a claim that the effect is exactly zero. Keep the 0.1 ceiling term provisionally: dropping it has a weak unfavorable estimate. Team cap three and the two-cheap-teammates cap lack direct supporting comparisons. They remain unvalidated restrictions. The four-plus-game B77 sample also does not validate the separate rules for two- and three-game slates.
+
+Rule: For the initial frozen trial:
+
+- Remove the contrarian cap.
+- Retain the explicitly defined 0.1 ceiling term.
+- Hold team cap three and cheap-teammate cap two temporarily.
+
+Run a predetermined four-arm ablation combining team cap three versus the legal cap four, and cheap-teammate cap two versus no cheap-teammate cap.
+
+Test: Repeat contrarian-cap removal under the final chosen exposure setting; its reported neutrality under the capped candidate need not carry over exactly.
+
+For the four-arm team/cheap-player comparison, use identical projections, eligibility, overlap and tie-breaking. Evaluate the 164 historical dates and eight pre-lock dates separately. Report paired score, percentile and exact-payout differences, plus how often each restriction actually binds.
+
+Do not choose an arm from these development results and then describe the same dates as its independent validation. Analyze smaller slates separately.
+
+Label: REASONED
+
+Q11. Required live sample and stopping rules
+
+Verdict: MODIFY
+
+Why: The packet does not provide the SD of a slate’s four-lineup mean percentile, so it cannot identify the required number of slates. Neither the FP standard error nor the paired historical improvement’s standard error supplies that missing quantity. A raw mean below 50 after 15 slates is a spending cutoff, not convincing evidence of underperformance. Four correlated lineups and their duplicate contest entries do not supply independent observations. The existing eight dates have already informed this draft and should count as development evidence.
+
+Rule: Define one primary observation per slate:
+
+Y = mean percentile of the four unique lineups in one primary contest designated before the build
+
+Use exact standings for confirmation. Freeze the protocol, primary metric and required sample size before new dates arrive.
+
+At 15 slates, audit implementation and data quality. Do not declare performance success or failure from the raw mean.
+
+At the single predetermined final assessment:
+
+- Lower 95% confidence limit above 50: continue; evidence supports above-chance mean percentile.
+- Upper limit below 50: stop; evidence supports underperformance.
+- Interval crossing 50: unconfirmed; do not promote or extend the same test until significance appears.
+
+Report the estimated magnitude separately. Passing this test does not establish positive ROI.
+
+Test: OUTSIDE — high confidence in the conventional statistical method; the protocol’s variance is unknown.
+
+For a planning approximation using two-sided 5% significance, 80% power and a ten-point improvement:
+
+N = ceiling(7.85 × s² / 100)
+
+Here, s is the SD of the slate-level Y values. Estimate it from the eight pre-lock replays, acknowledging the uncertainty of that estimate.
+
+For illustration, not as measured protocol variances:
+
+- If s is 20, approximately 32 slates.
+- If s is 30, approximately 71 slates.
+
+Use a slate-level confidence interval at the final assessment. The planning calculation assumes independent slate dates, not independent lineups.
+
+Label: REASONED
+
+Q12. Biggest risk and next three analyses
+
+Verdict: MODIFY
+
+Why: The biggest risk is treating improvements selected using final information as a demonstrated, deployable GPP profit edge. The coefficient holdout does not establish that construction rules were selected without examining those same test dates. The live implementation also differed from the written protocol. Several reported summaries do not reconcile. These issues do not erase the direction of the evidence, but they prevent treating the reported effect sizes as fully audited.
+
+Rule: Every run must preserve one manifest containing the script commit, configuration, source timestamps, input identity, eligible-player list, objective definition and exported lineups. Verify uploaded player IDs against that export.
+
+A starter’s zero projection must trigger review; it must not automatically change the backup’s starter flag. Require recorded confirmation for that change.
+
+Test: Run these three analyses next, in order:
+
+1. Reconcile accounting and implementation. The twelve displayed live percentiles average 50.25, not 47. If 47 uses entry weighting or different contest references, publish that definition. On the displayed B77 rows, the structure improvement is 5.7 FP rather than 5.5; the cash improvement is 9.3 points rather than 9.5; and candidate-versus-v1.3 mean-percentile improvement is 12.5 rather than 12.8. Recompute on identical matched keys and weights. Reconstruct the actual 11/9 and 11/10 implementations separately from canonical v1.3.
+
+2. Separate projection, exposure and freshness. On all eight pre-lock dates, cross LS versus CAL with exposure three versus unrestricted, holding overlap six fixed. On the five dates with paired snapshots, repeat at both times. Repeat with final projections as a separately labeled diagnostic. This identifies which improvement survives executable inputs.
+
+3. Audit evaluation, then freeze confirmation. Complete Q1’s date-held-out field calibration on the 18 standings files and reconcile actual payout calculations on the 11 payout files. Then begin Q11’s prospective trial on new dates. Keep final-data history, pre-lock development results and prospective confirmation as separate reported samples.
+
+Label: REASONED
+
+Top three changes, in priority order
+
+1. Fix execution and freshness first. — DATA-BACKED
+   Implement R1 with configuration and input logging, use actual lock-relative timing, and verify the upload. Two live builds did not follow the written protocol, and stale snapshots have a demonstrated cost. Those failures contaminate both performance and your ability to evaluate it.
+
+2. Remove the last-five drag and ownership-based exposure restrictions. — DATA-BACKED
+   Drop the 30% last-five component. Use CAL provisionally under Q2’s pre-lock gate, with pure LS as fallback. Allow four-of-four exposure while retaining overlap six during the controlled trial. The packet supports these directions more strongly than another ownership bonus, penalty or starter bump.
+
+3. Replace the 15-slate raw-mean stop with a frozen, slate-level validation plan. — REASONED
+   Keep three useful shadows: canonical v1.3, capped CAL with overlap six, and pure LS with the live structure. Predetermine the sample size and final decision rule. Track actual payouts, but reserve profitability and tail claims for evidence that can measure them.

@@ -1,0 +1,62 @@
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+2026-10-31 done
+2026-11-02 done
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+2026-11-04 done
+2026-11-05 done
+2026-11-06 done
+2026-11-07 done
+2026-11-09 done
+2026-11-10 done
+
+LAST PRE-LOCK SNAPSHOT (8 dates)
+  v1.3                               slates 8 | FP  295.8 | percentile  42.0 (exact-standings dates  47.7, n=6) | cashes 5/32 | exact payouts: $48 on $180 fees = 0.27 per $1 | dead 1 | best score vs top-0.1% line -72
+  LS_cap3                            slates 8 | FP  293.8 | percentile  39.8 (exact-standings dates  45.4, n=6) | cashes 2/32 | exact payouts: $34 on $180 fees = 0.19 per $1 | dead 0 | best score vs top-0.1% line -73
+  LS_nocap                           slates 8 | FP  297.7 | percentile  43.1 (exact-standings dates  47.3, n=6) | cashes 3/32 | exact payouts: $50 on $180 fees = 0.28 per $1 | dead 0 | best score vs top-0.1% line -73
+  CAL_cap3                           slates 8 | FP  305.2 | percentile  51.4 (exact-standings dates  64.5, n=6) | cashes 11/32 | exact payouts: $154 on $180 fees = 0.86 per $1 | dead 1 | best score vs top-0.1% line -66
+  CAL_nocap                          slates 8 | FP  311.0 | percentile  56.7 (exact-standings dates  70.9, n=6) | cashes 13/32 | exact payouts: $190 on $180 fees = 1.06 per $1 | dead 0 | best score vs top-0.1% line -60
+  CAL_nocap_ov8                      slates 8 | FP  310.7 | percentile  56.0 (exact-standings dates  69.6, n=6) | cashes 10/32 | exact payouts: $152 on $180 fees = 0.84 per $1 | dead 0 | best score vs top-0.1% line -64
+  CAL_nocap_nocaps                   slates 8 | FP  317.0 | percentile  60.9 (exact-standings dates  72.0, n=6) | cashes 13/32 | exact payouts: $190 on $180 fees = 1.06 per $1 | dead 0 | best score vs top-0.1% line -55
+  2x2 effects:
+  projection, cap 3: +11.4 FP (se 7.6), percentile +11.6 (se 8.0), better on 6 of 8 dates
+  projection, no cap: +13.4 FP (se 9.5), percentile +13.6 (se 9.7), better on 6 of 8 dates
+  exposure, LS: +3.9 FP (se 2.2), percentile +3.4 (se 2.2), better on 4 of 8 dates
+  exposure, CAL: +5.8 FP (se 1.1), percentile +5.3 (se 1.0), better on 7 of 8 dates
+  overlap 8 vs 6 (no cap): -0.3 FP (se 3.6), percentile -0.7 (se 2.9), better on 4 of 8 dates
+  drop contrarian + cheap-teammate caps: +6.0 FP (se 5.0), percentile +4.2 (se 3.3), better on 2 of 8 dates
+  final v1.4 structure vs v1.3: +21.2 FP (se 7.5), percentile +18.9 (se 7.2), better on 7 of 8 dates
+
+LOOK-AHEAD DECOMPOSITION (7 dates with a final record; DIAG rows are not executable)
+  CAL_nocap                          slates 7 | FP  312.7 | percentile  54.1 (exact-standings dates  70.1, n=5) | cashes 10/28 | exact payouts: $160 on $156 fees = 1.03 per $1 | dead 0 | best score vs top-0.1% line -62
+  DIAG finalproj+prepool CAL_nocap   slates 7 | FP  320.2 | percentile  60.0 (exact-standings dates  69.7, n=5) | cashes 10/28 | exact payouts: $150 on $156 fees = 0.96 per $1 | dead 0 | best score vs top-0.1% line -55
+  DIAG final all CAL_nocap           slates 7 | FP  321.0 | percentile  60.7 (exact-standings dates  70.4, n=5) | cashes 11/28 | exact payouts: $166 on $156 fees = 1.06 per $1 | dead 0 | best score vs top-0.1% line -55
+  LS_nocap                           slates 7 | FP  301.9 | percentile  43.9 (exact-standings dates  49.3, n=5) | cashes 3/28 | exact payouts: $50 on $156 fees = 0.32 per $1 | dead 0 | best score vs top-0.1% line -73
+  DIAG finalproj+prepool LS_nocap    slates 7 | FP  303.5 | percentile  46.9 (exact-standings dates  53.0, n=5) | cashes 6/28 | exact payouts: $78 on $156 fees = 0.50 per $1 | dead 0 | best score vs top-0.1% line -77
+  DIAG final all LS_nocap            slates 7 | FP  303.8 | percentile  45.8 (exact-standings dates  51.0, n=5) | cashes 5/28 | exact payouts: $60 on $156 fees = 0.38 per $1 | dead 0 | best score vs top-0.1% line -75
+  projection revisions after the snapshot (pool fixed), CAL: +7.5 FP (se 6.1), percentile +5.9 (se 5.9), better on 5 of 7 dates
+  eligibility/status changes after the snapshot, CAL: +0.9 FP (se 0.6), percentile +0.6 (se 0.5), better on 2 of 7 dates
+  projection revisions, LS: +1.5 FP (se 7.4), percentile +3.0 (se 6.1), better on 4 of 7 dates
+  eligibility changes, LS: +0.3 FP (se 2.4), percentile -1.1 (se 1.5), better on 1 of 7 dates
+
+TWO-SNAPSHOT DATES (6 dates), snapshot = early (30 min before the last)
+  LS_cap3                            slates 6 | FP  293.5 | percentile  39.8 (exact-standings dates  39.8, n=6) | cashes 3/24 | exact payouts: $48 on $180 fees = 0.27 per $1 | dead 0 | best score vs top-0.1% line -82
+  LS_nocap                           slates 6 | FP  292.9 | percentile  38.7 (exact-standings dates  38.7, n=6) | cashes 4/24 | exact payouts: $68 on $180 fees = 0.38 per $1 | dead 0 | best score vs top-0.1% line -81
+  CAL_cap3                           slates 6 | FP  314.1 | percentile  60.4 (exact-standings dates  60.4, n=6) | cashes 7/24 | exact payouts: $116 on $180 fees = 0.64 per $1 | dead 0 | best score vs top-0.1% line -52
+  CAL_nocap                          slates 6 | FP  319.7 | percentile  65.8 (exact-standings dates  65.8, n=6) | cashes 9/24 | exact payouts: $152 on $180 fees = 0.84 per $1 | dead 0 | best score vs top-0.1% line -46
+
+TWO-SNAPSHOT DATES (6 dates), snapshot = last (last pre-lock)
+  LS_cap3                            slates 6 | FP  300.9 | percentile  45.4 (exact-standings dates  45.4, n=6) | cashes 2/24 | exact payouts: $34 on $180 fees = 0.19 per $1 | dead 0 | best score vs top-0.1% line -68
+  LS_nocap                           slates 6 | FP  303.1 | percentile  47.3 (exact-standings dates  47.3, n=6) | cashes 3/24 | exact payouts: $50 on $180 fees = 0.28 per $1 | dead 0 | best score vs top-0.1% line -68
+  CAL_cap3                           slates 6 | FP  318.7 | percentile  64.5 (exact-standings dates  64.5, n=6) | cashes 11/24 | exact payouts: $154 on $180 fees = 0.86 per $1 | dead 0 | best score vs top-0.1% line -50
+  CAL_nocap                          slates 6 | FP  325.8 | percentile  70.9 (exact-standings dates  70.9, n=6) | cashes 13/24 | exact payouts: $190 on $180 fees = 1.06 per $1 | dead 0 | best score vs top-0.1% line -44
+  fresher snapshot, LS_cap3: +7.4 FP (se 6.6), better on 2, worse on 2 of 6
+  fresher snapshot, LS_nocap: +10.2 FP (se 7.8), better on 3, worse on 1 of 6
+  fresher snapshot, CAL_cap3: +4.6 FP (se 3.7), better on 3, worse on 1 of 6
+  fresher snapshot, CAL_nocap: +6.1 FP (se 2.7), better on 4, worse on 0 of 6
+
+PER DATE (last snapshot): mean FP / mean percentile / $ won
+  v1.3               10-31 284/39/est | 11-02 274/11/est | 11-04 286/39/$10 | 11-05 297/40/$0 | 11-06 311/43/$0 | 11-07 329/68/$16 | 11-09 295/32/$0 | 11-10 292/65/$22
+  LS_nocap           10-31 292/47/est | 11-02 271/14/est | 11-04 276/28/$0 | 11-05 302/47/$16 | 11-06 326/56/$0 | 11-07 336/73/$34 | 11-09 310/42/$0 | 11-10 268/37/$0
+  CAL_cap3           10-31 261/15/est | 11-02 268/9/est | 11-04 331/83/$30 | 11-05 322/74/$48 | 11-06 321/52/$10 | 11-07 338/72/$46 | 11-09 307/41/$0 | 11-10 293/66/$20
+  CAL_nocap          10-31 265/20/est | 11-02 268/8/est | 11-04 340/86/$40 | 11-05 326/81/$48 | 11-06 329/58/$10 | 11-07 346/80/$62 | 11-09 314/46/$0 | 11-10 300/75/$30
+  CAL_nocap_nocaps   10-31 265/20/est | 11-02 309/35/est | 11-04 340/86/$40 | 11-05 326/81/$48 | 11-06 329/58/$10 | 11-07 346/80/$62 | 11-09 321/52/$0 | 11-10 300/75/$30

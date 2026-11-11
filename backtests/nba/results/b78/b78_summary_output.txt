@@ -1,0 +1,84 @@
+check: average entry capped return 0.521 uncapped 0.846
+B78a slates 164
+config                    n     FP   pct  cash% top10%  top1%  >=360 %ofOpt  L1pct  L4pct  0of4  ret/$
+CAL_free                164  313.2  65.0   42.5   20.7   1.52   11.0   71.6   68.3   56.1  23.8   0.91
+CAL_hyb                 164  314.0  65.9   43.4   22.3   1.68   11.7   71.7   68.3   59.6  23.8   0.94
+CAL_c4o6                164  316.1  67.6   45.9   22.9   2.13   12.8   72.2   68.3   66.4  25.0   1.00
+CAL_free_noSub          164  313.4  65.2   42.5   20.9   1.68   11.1   71.6   68.1   56.5  24.4   0.92
+CAL_free_noBoth         164  313.8  65.4   43.6   21.2   2.29   11.4   71.7   70.0   55.9  21.3   0.96
+CAL_c4_noBoth           164  316.8  68.3   47.3   23.3   2.59   12.7   72.4   70.0   67.6  23.8   1.03
+CAL_free_lam25          164  312.0  63.9   40.7   19.7   2.44   10.5   71.3   68.3   53.8  24.4   0.90
+CAL_c4_lam25            164  314.9  66.5   45.3   22.0   2.59   12.0   71.9   68.3   64.0  24.4   0.98
+CAL_c4_stack6           163  315.4  67.3   45.4   21.8   2.45   12.1   72.1   68.1   67.0  25.2   1.00
+CAL_c4_stack7           163  314.8  66.4   45.2   22.7   2.45   13.2   72.0   68.1   64.8  28.8   0.99
+CAL_c4_cum285           164  316.1  67.6   45.6   22.9   2.13   13.0   72.2   68.3   66.3  25.0   0.99
+PAIRED:
+  CAL_c4o6 - CAL_free: n=164 | FP +2.90 (se 0.71) | pct +2.56 (se 0.66) | cash +3.4 (se 1.3) | top10 +2.1 (se 1.0) | top1 +0.61 (se 0.37) | slates differing 164
+  CAL_hyb - CAL_free: n=164 | FP +0.85 (se 0.50) | pct +0.86 (se 0.47) | cash +0.9 (se 1.0) | top10 +1.5 (se 0.7) | top1 +0.15 (se 0.26) | slates differing 128
+  CAL_c4o6 - CAL_hyb: n=164 | FP +2.05 (se 0.68) | pct +1.71 (se 0.63) | cash +2.4 (se 1.2) | top10 +0.6 (se 1.0) | top1 +0.46 (se 0.40) | slates differing 156
+  CAL_free_noSub - CAL_free: n=164 | FP +0.18 (se 0.21) | pct +0.13 (se 0.20) | cash +0.0 (se 0.5) | top10 +0.2 (se 0.2) | top1 +0.15 (se 0.15) | slates differing 11
+  CAL_free_noBoth - CAL_free: n=164 | FP +0.59 (se 0.89) | pct +0.37 (se 0.78) | cash +1.1 (se 1.5) | top10 +0.5 (se 1.3) | top1 +0.76 (se 0.66) | slates differing 132
+  CAL_c4_noBoth - CAL_c4o6: n=164 | FP +0.76 (se 0.83) | pct +0.73 (se 0.72) | cash +1.4 (se 1.5) | top10 +0.5 (se 1.4) | top1 +0.46 (se 0.66) | slates differing 115
+  CAL_free_lam25 - CAL_free: n=164 | FP -1.21 (se 0.66) | pct -1.11 (se 0.62) | cash -1.8 (se 1.4) | top10 -1.1 (se 1.0) | top1 +0.91 (se 0.52) | slates differing 156
+  CAL_c4_lam25 - CAL_c4o6: n=164 | FP -1.17 (se 0.67) | pct -1.13 (se 0.58) | cash -0.6 (se 1.4) | top10 -0.9 (se 1.1) | top1 +0.46 (se 0.59) | slates differing 160
+  CAL_c4_stack6 - CAL_c4o6: n=163 | FP -0.32 (se 0.68) | pct -0.19 (se 0.60) | cash -0.3 (se 1.4) | top10 -0.8 (se 1.3) | top1 +0.31 (se 0.61) | slates differing 137
+  CAL_c4_stack7 - CAL_c4o6: n=163 | FP -0.94 (se 0.80) | pct -1.02 (se 0.71) | cash -0.5 (se 1.8) | top10 +0.2 (se 1.6) | top1 +0.31 (se 0.69) | slates differing 161
+lineups 3-4 only:
+config                    n     FP   pct  cash% top10%  top1%  >=360 %ofOpt  L1pct  L4pct  0of4  ret/$
+CAL_free                164  310.2  62.6   38.4   17.7   0.61    9.5   70.9   68.3   56.1  23.8   0.81
+CAL_free_lam25          164  307.8  60.4   34.8   15.5   2.44    8.5   70.3   68.3   53.8  24.4   0.79
+CAL_c4o6                164  316.0  67.8   45.1   22.0   1.83   13.1   72.2   68.3   66.4  25.0   0.98
+CAL_c4_lam25            164  313.7  65.5   43.9   20.1   2.74   11.6   71.6   68.3   64.0  24.4   0.95
+  CAL_free_lam25 - CAL_free [L3-4]: n=164 | FP -2.42 (se 1.32) | pct -2.23 (se 1.23) | cash -3.7 (se 2.8) | top10 -2.1 (se 2.0) | top1 +1.83 (se 1.05) | slates differing 156
+  CAL_c4_lam25 - CAL_c4o6 [L3-4]: n=164 | FP -2.34 (se 1.34) | pct -2.26 (se 1.17) | cash -1.2 (se 2.8) | top10 -1.8 (se 2.2) | top1 +0.91 (se 1.18) | slates differing 160
+lineups 2-4 only:
+config                    n     FP   pct  cash% top10%  top1%  >=360 %ofOpt  L1pct  L4pct  0of4  ret/$
+CAL_c4o6                164  315.8  67.4   44.9   22.8   2.03   12.4   72.1   68.3   66.4  25.0   0.98
+CAL_c4_stack6           163  315.0  67.0   44.4   21.5   2.45   11.7   72.0   68.1   67.0  25.2   0.99
+CAL_c4_stack7           163  314.2  65.9   44.2   22.7   2.45   13.1   71.8   68.1   64.8  28.8   0.98
+  CAL_c4_stack6 - CAL_c4o6 [L2-4]: n=163 | FP -0.42 (se 0.90) | pct -0.25 (se 0.80) | cash -0.4 (se 1.9) | top10 -1.0 (se 1.7) | top1 +0.41 (se 0.82) | slates differing 137
+  CAL_c4_stack7 - CAL_c4o6 [L2-4]: n=163 | FP -1.25 (se 1.07) | pct -1.36 (se 0.95) | cash -0.6 (se 2.4) | top10 +0.2 (se 2.1) | top1 +0.41 (se 0.91) | slates differing 161
+4-game slates only: 27
+config                    n     FP   pct  cash% top10%  top1%  >=360 %ofOpt  L1pct  L4pct  0of4  ret/$
+CAL_c4o6                 27  294.2  58.9   33.3   20.4   1.85    3.7   72.5   64.8   58.7  33.3   0.78
+CAL_c4_cum285            27  294.4  59.0   29.6   20.4   1.85    5.6   72.5   64.8   58.4  33.3   0.74
+  CAL_c4_cum285 - CAL_c4o6 [L3-4]: n=27 | FP +0.20 (se 1.79) | pct +0.09 (se 1.77) | cash -3.7 (se 4.5) | top10 +0.0 (se 2.6) | top1 +0.00 (se 0.00) | slates differing 11
+CAL_free players used 16.6, players in all 4: 0.00 | mean cum own L1 238 L4 197 | max from one game L1 3.41
+CAL_hyb players used 16.0, players in all 4: 1.41 | mean cum own L1 238 L4 209 | max from one game L1 3.41
+CAL_c4o6 players used 15.5, players in all 4: 3.87 | mean cum own L1 238 L4 229 | max from one game L1 3.41
+first-tip share of pool 0.31 ; stackable games 3.6
+
+B78h slates 164 | late new-starter-like per slate 8.3, early 3.8, flips applied 2.62, of which ineligible pre-lock 0.65
+config fin                n     FP   pct  cash% top10%  top1%  >=360 %ofOpt  L1pct  L4pct  0of4  ret/$
+fin_V0                  158  298.9  52.5   24.4   10.3   0.79    5.2    nan   55.2   49.0  35.4   0.49
+fin_LS_free             164  303.6  56.4   30.3   12.7   1.68    6.6    nan   59.6   54.1  37.8   0.66
+fin_CAL_free            164  313.2  65.0   42.5   20.7   1.52   11.0    nan   68.3   56.1  23.8   0.91
+fin_CAL_c4o6            164  316.1  67.6   45.9   22.9   2.13   12.8    nan   68.3   66.4  25.0   1.00
+config hair               n     FP   pct  cash% top10%  top1%  >=360 %ofOpt  L1pct  L4pct  0of4  ret/$
+hair_V0                 158  298.1  51.7   22.9    8.5   0.47    4.7    nan   54.8   47.8  39.9   0.46
+hair_LS_free            164  301.7  54.7   28.7   10.7   1.68    6.1    nan   58.6   52.0  38.4   0.64
+hair_CAL_free           164  311.8  64.0   40.5   19.5   1.22    9.1    nan   67.5   55.4  23.2   0.86
+hair_CAL_c4o6           164  315.1  66.8   43.3   22.1   1.83   11.0    nan   67.5   66.7  26.8   0.95
+config noNS               n     FP   pct  cash% top10%  top1%  >=360 %ofOpt  L1pct  L4pct  0of4  ret/$
+noNS_V0                 144  295.3  50.0   20.1    7.1   0.69    3.8    nan   53.0   45.2  45.1   0.42
+noNS_LS_free            163  300.2  53.7   26.7   10.0   1.99    5.2    nan   56.1   50.8  41.1   0.60
+noNS_CAL_free           163  309.1  62.1   35.9   15.3   1.53    8.1    nan   64.4   53.5  27.0   0.79
+noNS_CAL_c4o6           164  312.2  64.6   39.3   16.9   1.98    9.5    nan   64.1   64.6  29.3   0.86
+  fin_V0 - hair_V0: n=158 | FP +0.84 (se 0.45) | pct +0.81 (se 0.40) | cash +1.4 (se 1.0) | top10 +1.7 (se 0.7) | top1 +0.32 (se 0.22) | slates differing 53
+  fin_V0 - noNS_V0: n=144 | FP +2.45 (se 0.79) | pct +2.31 (se 0.76) | cash +4.5 (se 1.4) | top10 +2.6 (se 1.1) | top1 +0.00 (se 0.35) | slates differing 107
+  fin_LS_free - hair_LS_free: n=164 | FP +1.90 (se 0.63) | pct +1.72 (se 0.57) | cash +1.7 (se 1.0) | top10 +2.0 (se 0.8) | top1 +0.00 (se 0.37) | slates differing 55
+  fin_LS_free - noNS_LS_free: n=163 | FP +3.07 (se 1.05) | pct +2.55 (se 0.96) | cash +3.5 (se 1.8) | top10 +2.6 (se 1.2) | top1 -0.31 (se 0.48) | slates differing 121
+  fin_CAL_free - hair_CAL_free: n=164 | FP +1.38 (se 0.47) | pct +1.00 (se 0.44) | cash +2.0 (se 1.1) | top10 +1.2 (se 0.9) | top1 +0.30 (se 0.21) | slates differing 62
+  fin_CAL_free - noNS_CAL_free: n=163 | FP +3.84 (se 1.03) | pct +2.97 (se 0.95) | cash +6.7 (se 2.0) | top10 +5.4 (se 1.3) | top1 +0.00 (se 0.43) | slates differing 120
+  fin_CAL_c4o6 - hair_CAL_c4o6: n=164 | FP +1.02 (se 0.60) | pct +0.75 (se 0.52) | cash +2.6 (se 1.1) | top10 +0.8 (se 0.9) | top1 +0.30 (se 0.37) | slates differing 60
+  fin_CAL_c4o6 - noNS_CAL_c4o6: n=164 | FP +3.82 (se 1.17) | pct +2.95 (se 1.07) | cash +6.6 (se 2.2) | top10 +5.9 (se 1.5) | top1 +0.15 (se 0.46) | slates differing 122
+  fin_CAL_free - fin_LS_free: n=164 | FP +9.56 (se 1.61) | pct +8.64 (se 1.47) | cash +12.2 (se 2.7) | top10 +8.1 (se 2.2) | top1 -0.15 (se 0.70) | slates differing 164
+  fin_CAL_free - fin_V0: n=158 | FP +14.20 (se 1.49) | pct +12.76 (se 1.36) | cash +18.2 (se 2.7) | top10 +10.8 (se 2.0) | top1 +0.79 (se 0.69) | slates differing 158
+  fin_CAL_c4o6 - fin_CAL_free: n=164 | FP +2.90 (se 0.71) | pct +2.56 (se 0.66) | cash +3.4 (se 1.3) | top10 +2.1 (se 1.0) | top1 +0.61 (se 0.37) | slates differing 164
+  hair_CAL_free - hair_LS_free: n=164 | FP +10.08 (se 1.63) | pct +9.36 (se 1.49) | cash +11.9 (se 2.6) | top10 +8.8 (se 2.1) | top1 -0.46 (se 0.66) | slates differing 164
+  hair_CAL_free - hair_V0: n=158 | FP +13.78 (se 1.49) | pct +12.67 (se 1.40) | cash +17.9 (se 2.7) | top10 +11.4 (se 1.9) | top1 +0.79 (se 0.57) | slates differing 158
+  hair_CAL_c4o6 - hair_CAL_free: n=164 | FP +3.26 (se 0.71) | pct +2.81 (se 0.66) | cash +2.7 (se 1.3) | top10 +2.6 (se 1.0) | top1 +0.61 (se 0.30) | slates differing 164
+  noNS_CAL_free - noNS_LS_free: n=163 | FP +8.90 (se 1.70) | pct +8.31 (se 1.55) | cash +9.2 (se 2.8) | top10 +5.4 (se 1.9) | top1 -0.46 (se 0.67) | slates differing 163
+  noNS_CAL_free - noNS_V0: n=144 | FP +12.63 (se 1.60) | pct +12.04 (se 1.48) | cash +14.8 (se 2.8) | top10 +8.5 (se 1.9) | top1 +0.69 (se 0.60) | slates differing 144
+  noNS_CAL_c4o6 - noNS_CAL_free: n=163 | FP +3.18 (se 0.62) | pct +2.83 (se 0.59) | cash +3.7 (se 1.2) | top10 +1.7 (se 0.8) | top1 +0.46 (se 0.26) | slates differing 163
+late new starters per lineup: fin_V0_ns 0.65, fin_LS_free_ns 0.88, fin_CAL_free_ns 0.92, fin_CAL_c4o6_ns 0.98

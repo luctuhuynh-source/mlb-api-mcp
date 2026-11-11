@@ -1,0 +1,109 @@
+You are a senior daily-fantasy-sports (DFS) quant reviewing a FanDuel NBA lineup protocol. Read the whole packet below, then answer the questions at the end. Be specific and quantitative. If you recommend a change, say how to test it and what result would confirm or reject it. Do not pad with general DFS advice we already apply.
+
+=====================================================================
+1. CONTEST FORMAT AND HOW WE PLAY
+=====================================================================
+- FanDuel NBA classic: 9 slots - PG, SG, SF, PF, C, G/F (any guard or forward), F/C (any forward or center), UTIL, UTIL. $60,000 salary cap. FD scoring (pts 1, reb 1.2, ast 1.5, stl 3, blk 3, TO -1).
+- We enter 4 unique lineups per slate (overlap capped at 6 of 9 players between any pair), each lineup in two large-field GPPs: the main "NBA Shot" ($6-$9, 13k-40k entries, ~23% paid, cash line ~1.1x median) and a second GPP ($3-$9, 4k-20k entries). Fees $48-$72 per slate. Micro-stakes test phase: 10 graded slates required before any sizing change.
+- Lock = first tip (usually 4:00 PM PT). FanDuel allows late swap of players whose game has not started, but publishes no live ownership.
+
+=====================================================================
+2. PROTOCOL IN FORCE (NBA FD v1.2b, written 11/3/2026)
+=====================================================================
+DATA (slate day):
+- 3:00 PM PT: refresh ESPN box-score game logs (hoopR) for the season to date.
+- 3:15 PM and 3:45 PM PT: pull LineStar's same-day FanDuel feed (subscription): projection, floor, ceiling, injury status, Vegas line/total, projected ownership. Same-day pull also used for a lock-time injury re-check.
+- Starting lineups from RotoWire (expected/confirmed) + ESPN injury report.
+PROJECTION:
+- Live projection = 70% LineStar projection + 30% our own "engine" (recency: last-5 FD average for the base pair; 50/50 blend for the variant pair).
+- Engine = projected minutes x per-minute rate. Minutes = 0.6 x last-3 average + 0.4 x season average, confirmed starters floored at 28. Rate = (season FD pts + 0.9 x 250) / (season minutes + 250), i.e. shrunk toward 0.9 FD/min with a 250-minute prior. Injuries move minutes, not rate.
+- Vacated minutes (injured starter): go to remaining starters + next man at the position first; bench gets only leftovers, capped at the bench player's own recent high.
+- Pace = possessions; Vegas total used as a sanity check only.
+CONSTRUCTION (optimizer, PuLP):
+- Objective = projection + 0.1 x (ceiling - projection), i.e. small upside weight (lambda 0.1, from backtest B70).
+- Spend floor $59,500. Max 3 players per team; max 2 sub-$5k players per team. On 8+ game slates: max 1 of a team's two highest-priced players per lineup.
+- Role gate: any player under $6,500 must be an expected starter or have averaged 24+ minutes over his last 3 games. Players tagged Out/Questionable/Doubtful at build time are excluded.
+- Ownership: projected ownership x 1.35 (LineStar under-projects chalk, backtest B71). Chalk is PLAYED, not faded. At most 1 "contrarian" slot (<10% projected own) per lineup on 8+ game slates, 2 on <=3-game slates. Cumulative-ownership band (140-175% big slates / 250-330% small) is a logged target, not a constraint.
+- Exposure cap across the 4 lineups: round(2N/3) = 3 of 4, unless the player's adjusted ownership >= 25% (then no cap).
+- Depleted-team rule: a team with <=8 healthy players (3+ GP) gets >= 240/n minutes per healthy player (cap 42) and is exempt from the team caps.
+- Small slates (<=3 games): overlap cap 8 of 9, no top-two-salary limit.
+LATE SWAP: trigger-based only (lineup change / ruling-out / projection move past +0.5 cash / +3.5 GPP). Early-game players in fixed slots, late-game players in G/F, F/C, UTIL.
+GRADING: median percentile of the 4 lineups + cash rate; leverage (exposure - ownership) per player.
+
+=====================================================================
+3. RESULTS LEDGER (every protocol slate, graded from FanDuel standings CSVs)
+=====================================================================
+Date     Games  Entries  Scores (4 lineups unless noted)      Cash line  Median  Beat%(median LU)  Cashed  Net
+10/21    many   4        275.7, 268.9 (2 lineups x2)          ~330       ~305    bottom 17%       0/4    -$36
+10/27    many   2        268.7, 265.7                         ~320       ~300    ~30%             0/2    -$12
+10/29    3      2        254.8, 248.0                         ~310       ~285    bottom 8%        0/2    -$18
+10/30    8      4        314.1, 290.8, 286.0, 275.1           314.8      ~293    ~45%             1/4    -$14
+11/2     12     12 (6 LU x2) best 337.3, worst 227.9 (DNP)    355        ~325    ~40%             0/12   -$72
+11/4     8      8 (4x2)  295.3, 292.7, 264.1, 263.8           324.0      300.9   ~28%             0/8    -$60
+11/5     2      8 (4x2)  301.3, 292.9, 284.3, 281.1           321.8      302.9   ~30%             0/8    -$48
+11/6     7      8 (4x2)  314.4, 306.3, 303.1, 279.7           347.9      320.5   ~37% (Shot)      0/8    -$60
+TOTAL: 1 cash in 50 protocol entries. Net about -$392 on 56 entries including 6 pre-protocol entries.
+Field reference (large-field Shot GPPs): top 1% of lineups averages 195% cumulative ownership vs ~180% for the field; winners are slightly CHALKIER than the field, not more contrarian. Top-100 lineups spend ~$59.9k (same as field).
+
+=====================================================================
+4. WHAT WENT WRONG, SLATE BY SLATE (post-mortems)
+=====================================================================
+10/21: unconfirmed cheap plays (Melton 6.4, Filipowski 6.0, Gafford 15.1) -> role gate added.
+10/29 (3 games): pro-rata 240-minute redistribution put minutes on bench players who did not get them -> starters-first vacated-minutes rule.
+10/30: Flagg 58.8 in all 4 was right; Dunn 20.5 / Barrett 18.1 / Walter 17.1 sat in all 4 lineups (exposure cap not enforced). Giannis 69.6 was in 66 of the top 100 and we had zero.
+11/2: Oubre 0.0 DNP announced after lock, no swap window; Wembanyama 39.7 in all 6 while Jokic/SGA anchored the top 100 (third straight "anchor miss" - the top-100 lineups are built around the night's best-scoring star and we keep rostering a different one).
+11/4: Jarrett Allen 1.2 (injured 2 min in, variance) in 3 of 4; Caleb Wilson 11.0, Boozer 21.2, Peterson 17.9 each in 3 of 4 -> three lineups sank together. Keyonte George 66.9 at 5.6% own (88 of top 100) and Derrick White 46.3 (76 of top 100) unowned; both were starters whose team had a star out. With a healthy Allen, one lineup would have been at the cash line.
+11/5 (2 games): Giannis 38.8 at $11.6k in all 4 (3.3x salary). Top 1% all had Booker 49.2, Franz Wagner 53.1, Wendell Carter 48.6, Bridges 46.1, Lendeborg 45.6. Our lock-time swap put Ighodaro (10.5) in for Carter (48.6). NOTE: the engine-only pre-flight built at noon (no LineStar) had Booker/Wagner/Carter/Bridges and no Giannis; it would have scored 351.2 / 351.2 / 355.8 / 253.8 = 3 of 4 cashed near the top of both contests.
+11/6 (7 games): at the 3:45 rebuild LineStar zeroed Barnes and Quickley (TOR) but our starter list was not refreshed, so the role gate blocked Jamal Shead and Collin Murray-Boyles (the night's two most-owned players at 70%/74%, 42.6 and 42.4 FP). Corrected rebuild scores 324.5 / 291.3 / 314.4 / 313.6 - still no cash (cash 347.9). Core busts: Myles Turner 15.4 (3 LU), Kyrie 28.4 (4 LU), Embiid 19.9, LeBron 23.9, D. Murray 19.4. Tatum 59.1 (18% own) unowned.
+Recurring themes: (a) the night's top star is usually absent from our lineups (4 of the last 6 slates); (b) 3-4 core players shared across 3 of 4 lineups bust together; (c) cheap confirmed-starter chalk missed twice through process errors; (d) our lineups rarely beat 45% of the field, so the 4-lineup set is not reaching the top tail GPPs pay.
+
+=====================================================================
+5. BACKTESTS RUN (LineStar history Jan 2025 - Nov 2026, ~300 main slates, ~40k player-slates)
+=====================================================================
+B74 - projection accuracy (40,929 player-slates): engine (point-in-time minutes x rate, no injury info) MAE 7.95; LineStar 7.62; naive season average 8.20. Engine with ACTUAL minutes: 5.82 -> the entire gap is minutes, not the rate model. When engine and LineStar disagree by 6+ FP, LineStar is right more often (8.2 vs 9.9 MAE). 70/30 LineStar/engine blend 7.58 (best). Value picks >=5.5x salary: engine hits 6x 34% of the time vs LineStar 44%.
+B75 - component (pts/reb/ast separately) vs direct FD-point projection: identical in a linear engine; no gain.
+B71 - ownership: LineStar projected ownership correlates 0.84 with realized, but under-projects chalk by ~1.35x. Players 30%+ owned average 5.1x salary and hit 6x 29% of the time -> play chalk, do not fade it.
+B70 - objective: lambda 0.1 on (ceiling - projection) keeps the same mean and lowers cumulative ownership 221% -> 196%. Adopted for GPP.
+B69 - wide salary range beats tight only among good projections.
+Teammate-out projection bump (11/4): players whose teammate (25+ FD avg) was newly ruled out beat LineStar by only +0.3 to +1.1 FP (starters) / +1.7 to +2.3 (bench); 6x-hit rate 49% vs 33% at equal projected value; the field already owns them 5-10 points more. Applying the bump in the optimizer, fitted on 2024-25 and tested on 128 2025-26 slates: -0.52 FP per lineup (SE 1.05), 49% win rate on changed slates. REJECTED.
+Upside-weight for those players (11/4): lambda 0.3 / 0.6 / 1.0 instead of 0.1 for teammate-out players. 0.6 was best on 2024-25 (+2.2) and WORST on 2025-26 (-2.8, SE 2.6); 0.3 = +0.7 (noise). More weight = more big wins AND more big losses. REJECTED as overfit.
+Engine-only vs LineStar-only vs 70/30 blend, last 10 slates (10/26-11/6), 4 lineups each, same simplified construction, point-in-time data:
+  date   games  MAE: LS / eng / blend   avg lineup FP: eng / LS / blend   best lineup: eng / LS / blend
+  10/26    9     9.4 / 10.1 / 9.5        313.2 / 310.2 / 312.0            343.5 / 329.1 / 358.1
+  10/27    4     7.3 /  8.4 / 7.2        289.4 / 280.8 / 276.3            295.6 / 284.6 / 290.5
+  10/28   12     7.5 /  8.0 / 7.4        264.3 / 322.8 / 287.5            275.0 / 329.7 / 300.4
+  10/30    8     8.5 /  9.0 / 8.4        287.4 / 256.8 / 267.2            308.3 / 271.8 / 290.3
+  10/31    6     8.7 /  8.6 / 8.6        308.7 / 306.0 / 321.4            329.7 / 314.1 / 325.0
+  11/1     3     7.5 /  8.2 / 6.9        308.1 / 349.3 / 333.9            326.4 / 364.2 / 355.2
+  11/2    12     8.3 /  8.7 / 8.3        286.3 / 251.8 / 270.3            297.2 / 284.8 / 294.3
+  11/4     8     8.6 /  9.2 / 8.5        240.2 / 309.5 / 274.9            252.8 / 319.1 / 300.9
+  11/5     2     7.8 /  7.0 / 7.7        334.0 / 287.6 / 286.2            357.4 / 298.3 / 300.2
+  11/6     7     9.2 /  8.8 / 9.1        318.1 / 329.1 / 314.0            327.9 / 357.5 / 324.5
+  AVERAGE                                 295.0 / 300.4 / 294.4
+  Per-player accuracy: LineStar or blend best on 8 of 10 nights. Lineup level: engine higher on 6 of 10 nights but LineStar higher on average by ~5 FP; nightly swings of 30-70 FP either way. The live blend (294.4) scored slightly BELOW LineStar alone (300.4) at lineup level despite equal-or-better MAE.
+
+=====================================================================
+6. DATA AND TOOLS AVAILABLE
+=====================================================================
+- LineStar history: 369 slate-days (Jan 2025 - Nov 2026) with salary, projection, floor, ceiling, injury status, Vegas line/total, actual FD points, realized ownership per contest (342 days), projected ownership.
+- ESPN box-score game logs for 3 seasons with FD points and minutes.
+- FanDuel standings CSVs for every slate we entered (every lineup, score, ownership, winnings).
+- RotoWire starting lineups and ESPN injury report via our own MCP tools; same-day LineStar pulls at 3:15 and 3:45 PM PT.
+- Optimizer: Python + PuLP (CBC). Backtests run on a Mac; any construction rule can be simulated on the full history.
+- No field simulation / no sims-based ownership model yet.
+
+=====================================================================
+7. QUESTIONS - ANSWER EACH, NUMBERED
+=====================================================================
+Q1. Diagnosis. With 1 cash in 50 entries and median lineups beating only 30-45% of the field, which of these is the dominant cause, and how do you know from the data above: (a) projection quality, (b) the 70/30 blend itself, (c) lineup construction / exposure rules, (d) late-swap and process errors, (e) small sample and variance? Rank them with your confidence.
+Q2. The "anchor miss". On 4 of the last 6 slates the night's top-scoring star (Giannis 69.6, Jokic/SGA, Keyonte George, Tatum) was in most top-100 lineups and in none of ours, while our chosen star (Wembanyama 39.7, Giannis 38.8) underperformed. Is this bad luck, a projection artifact (LineStar projects stars conservatively), or a construction flaw (max 1 of the two highest-priced players, no star-pairing)? Propose a concrete, testable rule for how a 4-lineup set should allocate its top-priced slots, and the backtest that would validate it.
+Q3. Correlated busts. On 11/4 and 11/6, 3-4 players shared across 3 of the 4 lineups busted together and sank the whole set. Our exposure cap is 3 of 4 (none for >=25% own). Give a specific exposure / construction scheme for N=4 (e.g. core-and-satellite, one lineup per game-stack, differentiated anchors) that keeps expected value while reducing the chance all four miss. State the expected cost in average points.
+Q4. Engine vs LineStar. Given the 10-slate table: LineStar is more accurate per player but the engine wins at lineup level on 6 of 10 nights with huge swings. What does that pattern suggest (e.g. the engine is less accurate but less correlated with the field's projections, so it finds different players)? Should the blend weight change, should we run 2 lineups off each source, or is this noise? What sample size would settle it and what metric should decide?
+Q5. Cheap chalk. Twice the field's most-owned cheap starters (Drummond 10/20, Shead / Murray-Boyles 11/6) were in nearly every top lineup and in none of ours, once through a stale starter list. Beyond fixing the process, is there a rule for sub-$4.5k confirmed starters (minutes-driven value) that should override the role gate or the contrarian cap? How would you test it on the LineStar history?
+Q6. Ownership. Winners in these fields are slightly chalkier than the field (195% vs 180% cum-own). Our lineups on 11/5 (2 games) ran 540-580% cum-own and on 11/6 220-270%. Is our ownership handling (x1.35 adjustment, 1 contrarian slot, no cap) right for these contest sizes, or should ownership enter the objective directly (e.g. maximize projection minus k x ownership)? Suggest k and a test.
+Q7. Late swap. We have no live ownership and lock-time pulls at 3:45 PM for a 4:00 lock. Given the 11/2 Oubre DNP and the 11/5 Ighodaro-for-Carter swap that lost 38 points, what should the late-swap rule actually be? When should we NOT swap?
+Q8. Sample size and stopping rule. We committed to 10 graded slates before judging EV. Given GPP payout variance, how many slates (or entries) are needed to tell a +10% ROI protocol from a -20% one at these field sizes? Propose a better metric than cash rate for 4-lineup sets (e.g. median percentile, top-10% rate, expected payout from the standings file).
+Q9. Highest-value next backtest. Name the ONE backtest you would run first on the data we have, with the exact hypothesis, the metric, and the decision rule.
+Q10. Anything in the protocol above that is wrong, redundant, or actively harmful? Be blunt.
+
+Format: numbered answers, each with (i) the claim, (ii) the evidence from the packet, (iii) the concrete rule or test, (iv) your confidence (low/medium/high). Keep each answer under 250 words. No general DFS advice we already apply.

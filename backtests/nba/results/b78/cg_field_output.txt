@@ -1,0 +1,40 @@
+FIELD-MEAN RECONCILIATION: actual mean minus sum(own x pts); tracked ownership total
+          date                            name      n    mean  mu_own  sum_own   gap  gap_after_offset
+0   2026-11-04  $200K Wed NBA Shot ($50K to 1s  39628  298.60  298.21     8.99  0.39              0.25
+1   2026-11-04  $40K Wed NBA Crossover ($10K t   5289  311.47  311.35     9.00  0.12              0.08
+2   2026-11-05  $40K Thu NBA Floater ($10K to   15858  302.67  302.40     8.99  0.28              0.18
+3   2026-11-05  $100K Thu NBA Shot ($20K to 1s  13192  303.86  303.05     8.98  0.80              0.52
+4   2026-11-06  $175K Fri NBA Shot ($40K to 1s  34682  316.78  316.41     8.99  0.36              0.23
+5   2026-11-06  $30K Fri NBA Crossover ($10K t   3968  339.70  339.71     9.00 -0.01              0.00
+6   2026-11-07  $50K Sat NBA Floater ($10K to   19816  310.22  309.85     8.99  0.37              0.25
+7   2026-11-07  $111K Sat NBA Shot ($20K to 1s  12734  311.24  311.08     9.00  0.16              0.11
+8   2026-11-09  $50K Mon NBA Floater ($10K to   19833  315.54  315.43     9.00  0.12              0.10
+9   2026-11-09  $111K Mon NBA Shot ($20K to 1s  12950  319.03  319.01     9.00  0.02              0.02
+10  2026-11-10  $175K Tue NBA Shot ($40K to 1s  34698  278.38  277.57     8.99  0.82              0.74
+11  2026-10-26                                  16510  340.51  340.02     8.99  0.49              0.34
+12  2026-10-20                                  37749  284.39  281.11     8.90  3.28              2.04
+13  2026-10-21                                  24159  304.64  303.59     8.97  1.05              0.66
+14  2026-10-21                                  23789  305.11  304.87     8.99  0.25              0.15
+15  2026-10-22                                  20510  256.80  256.19     8.98  0.61              0.35
+16  2026-10-23                                  38030  277.43  276.38     8.97  1.05              0.64
+17  2026-10-28                                  39623  281.30  280.90     8.99  0.39              0.25
+kappa original: mean 0.346 sd 0.041 cv 0.118 | shift-invariant: mean 0.910 sd 0.134 cv 0.147
+
+DATE-HELD-OUT entry-level calibration (percentile points; mean across 12 dates, SE across dates):
+  original         bias +0.52 (se 0.21) | abs error all 2.06 (se 0.44) | near cash line 2.39 (bias +0.50, se 0.84) | near top 10% 2.29 (bias +0.09, se 0.81) | near top 1% 0.56 (bias -0.18) | worst date abs error 5.36 | cash-line FP error mean abs 2.30
+  shift-invariant  bias +0.56 (se 0.24) | abs error all 2.05 (se 0.58) | near cash line 2.48 (bias +0.46, se 1.04) | near top 10% 2.10 (bias +0.03, se 0.88) | near top 1% 0.52 (bias -0.17) | worst date abs error 6.48 | cash-line FP error mean abs 2.44
+  shift-invariant minus original, abs error: -0.01 (se 0.33), better on 5 of 12 dates
+
+SAME-SLATE CONTESTS:
+          date                            name  fee      n   fill   rake maxent  users  top10share  share_150     mean   cash     q90      q99     q999
+0   2026-11-04  $200K Wed NBA Shot ($50K to 1s  6.0  39628  1.000  0.159    150  10000       0.038      0.381  298.597  324.0  339.10  366.973  385.300
+1   2026-11-04  $40K Wed NBA Crossover ($10K t  9.0   5289  1.000  0.160    150    792       0.284      0.662  311.471  333.8  346.80  372.548  388.056
+2   2026-11-05  $40K Thu NBA Floater ($10K to   3.0  15858  1.000  0.159    150   2875       0.095      0.467  302.675  321.8  335.40  357.900  366.500
+3   2026-11-05  $100K Thu NBA Shot ($20K to 1s  9.0  13192  1.000  0.158    150   3352       0.114      0.482  303.856  320.6  335.50  359.800  369.400
+4   2026-11-06  $175K Fri NBA Shot ($40K to 1s  6.0  34682  1.000  0.159    150   7567       0.043      0.421  316.776  347.9  364.60  391.819  409.132
+5   2026-11-06  $30K Fri NBA Crossover ($10K t  9.0   3968  1.000  0.160    119    476       0.300      0.630  339.698  362.5  374.90  397.800  410.853
+6   2026-11-07  $50K Sat NBA Floater ($10K to   3.0  19816  1.000  0.159    150   3924       0.076      0.486  310.217  333.5  353.20  382.900  400.456
+7   2026-11-07  $111K Sat NBA Shot ($20K to 1s  9.0  12734  0.868  0.031    150   3233       0.118      0.467  311.236  334.7  355.07  383.567  401.353
+8   2026-11-09  $50K Mon NBA Floater ($10K to   3.0  19833  1.000  0.160    150   3580       0.076      0.513  315.543  343.1  367.90  405.300  430.700
+9   2026-11-09  $111K Mon NBA Shot ($20K to 1s  9.0  12950  0.882  0.048    150   3135       0.116      0.498  319.032  346.9  372.90  412.602  432.425
+10  2026-11-10  $175K Tue NBA Shot ($40K to 1s  6.0  34698  1.000  0.159    150   7826       0.043      0.376  278.383  299.9  314.90  339.500  355.300

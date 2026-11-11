@@ -1,0 +1,57 @@
+date,src,lu,frozen,rule17,full,n_locked,n_dead,dead,swapped_in
+2026-10-31,blend,1,290.09999999999997,290.09999999999997,306.2,1,0,,"CJ McCollum,Joan Beringer,Peyton Watson,Victor Wembanyama"
+2026-10-31,blend,2,325.7,325.7,308.2,0,0,,"James Harden,Jeremiah Fears,Joan Beringer,Peyton Watson,Stephon Castle"
+2026-10-31,blend,3,269.8,269.8,308.2,0,0,,"Cameron Boozer,Jarrett Allen,Jeremiah Fears,Joan Beringer,Stephon Castle,Victor Wembanyama"
+2026-10-31,blend,4,248.39999999999998,286.7,286.7,2,1,Ty Jerome,"Cameron Boozer,Darius Acuff,Jeremiah Fears,Joan Beringer,Kevin Durant,Stephon Castle"
+2026-10-31,LS,1,258.3,258.3,308.2,0,0,,"Joan Beringer,Victor Wembanyama"
+2026-10-31,LS,2,268.0,302.6,308.2,0,1,Ty Jerome,"Jeremiah Fears,Joan Beringer,Peyton Watson,Stephon Castle,Victor Wembanyama"
+2026-10-31,LS,3,323.6,323.6,308.2,0,0,,"Cameron Boozer,James Harden,Jarrett Allen,Jeremiah Fears,Joan Beringer,Peyton Watson,Stephon Castle"
+2026-10-31,LS,4,269.9,306.40000000000003,286.7,2,1,Rudy Gobert,"Cameron Boozer,Darius Acuff,James Harden,Jeremiah Fears,Joan Beringer,Kevin Durant,Stephon Castle"
+2026-11-02,blend,1,295.79999999999995,295.79999999999995,272.4,4,0,,"Ace Bailey,Jeremiah Fears,Neemias Queta,Victor Wembanyama"
+2026-11-02,blend,2,236.3,236.3,249.1,4,0,,"De'Aaron Fox,Dylan Harper,Jeremiah Fears,Neemias Queta,Victor Wembanyama"
+2026-11-02,blend,3,280.6,280.6,280.4,7,0,,Jeremiah Fears
+2026-11-02,blend,4,284.4,284.4,260.4,6,0,,"Cooper Flagg,Jeremiah Fears,Victor Wembanyama"
+2026-11-02,LS,1,242.20000000000002,242.20000000000002,243.8,6,0,,"Jeremiah Fears,Neemias Queta,Victor Wembanyama"
+2026-11-02,LS,2,313.2,313.2,319.90000000000003,6,0,,"Jeremiah Fears,Neemias Queta,Victor Wembanyama"
+2026-11-02,LS,3,287.20000000000005,287.20000000000005,287.2,7,0,,
+2026-11-02,LS,4,293.5,293.5,255.2,5,0,,"Cooper Flagg,Jeremiah Fears,Neemias Queta,Victor Wembanyama"
+2026-11-04,blend,1,266.59999999999997,266.59999999999997,266.59999999999997,6,0,,
+2026-11-04,blend,2,245.79999999999998,245.79999999999998,232.9,5,0,,"Aday Mara,Cameron Boozer,Ivica Zubac"
+2026-11-04,blend,3,301.0,301.0,282.7,5,0,,"Ivica Zubac,Kenrich Williams"
+2026-11-04,blend,4,328.69999999999993,328.69999999999993,289.50000000000006,7,0,,"Cameron Boozer,Ivica Zubac"
+2026-11-04,LS,1,310.9,310.9,310.90000000000003,6,0,,
+2026-11-04,LS,2,280.59999999999997,280.59999999999997,280.59999999999997,5,0,,
+2026-11-04,LS,3,270.4,270.4,255.7,3,0,,"Aday Mara,Cameron Boozer"
+2026-11-04,LS,4,257.29999999999995,257.29999999999995,248.8,6,0,,"Cameron Boozer,Cedric Coward,Ivica Zubac"
+2026-11-05,blend,1,301.29999999999995,301.29999999999995,307.7,3,0,,Yaxel Lendeborg
+2026-11-05,blend,2,292.9,292.9,299.3,3,0,,Yaxel Lendeborg
+2026-11-05,blend,3,281.09999999999997,281.09999999999997,287.5,3,0,,Yaxel Lendeborg
+2026-11-05,blend,4,311.3,311.3,336.29999999999995,6,0,,"Bam Adebayo,Davion Mitchell"
+2026-11-05,LS,1,296.59999999999997,296.59999999999997,296.59999999999997,3,0,,
+2026-11-05,LS,2,299.6,299.6,299.6,4,0,,
+2026-11-05,LS,3,326.2,326.2,326.20000000000005,4,0,,
+2026-11-05,LS,4,293.6,293.6,300.6,6,0,,"Bam Adebayo,Davion Mitchell"
+2026-11-06,blend,1,323.0,323.0,305.99999999999994,1,0,,"Ace Bailey,Jaxson Hayes"
+2026-11-06,blend,2,331.09999999999997,331.09999999999997,319.7,2,0,,"Ace Bailey,Jamal Shead,LaMelo Ball,Shai Gilgeous-Alexander"
+2026-11-06,blend,3,305.40000000000003,305.40000000000003,337.40000000000003,5,0,,"Collin Murray-Boyles,RJ Barrett"
+2026-11-06,blend,4,283.99999999999994,283.99999999999994,319.19999999999993,4,0,,"Collin Murray-Boyles,LaMelo Ball,RJ Barrett"
+2026-11-06,LS,1,337.8,337.8,337.8,3,0,,"Ace Bailey,LaMelo Ball"
+2026-11-06,LS,2,294.2,294.2,294.2,4,0,,
+2026-11-06,LS,3,321.09999999999997,321.09999999999997,340.69999999999993,4,0,,"Collin Murray-Boyles,Cooper Flagg,RJ Barrett,Rudy Gobert"
+2026-11-06,LS,4,316.7,316.7,318.69999999999993,5,0,,"Collin Murray-Boyles,RJ Barrett,Shai Gilgeous-Alexander"
+2026-11-07,blend,1,333.29999999999995,333.29999999999995,318.09999999999997,3,0,,"Deni Avdija,Franz Wagner,Stephon Castle"
+2026-11-07,blend,2,330.79999999999995,330.79999999999995,347.9,4,0,,Anthony Black
+2026-11-07,blend,3,339.4,339.4,346.4,3,0,,"Devin Booker,Draymond Green,Tristan da Silva"
+2026-11-07,blend,4,312.59999999999997,312.59999999999997,309.29999999999995,2,0,,"Alperen Sengün,Draymond Green,Tristan da Silva"
+2026-11-07,LS,1,329.0,329.0,329.0,2,0,,
+2026-11-07,LS,2,314.4,314.4,347.6,4,0,,"Anthony Black,Draymond Green,Yaxel Lendeborg"
+2026-11-07,LS,3,365.99999999999994,365.99999999999994,350.9,3,0,,"Deni Avdija,Devin Vassell,Draymond Green"
+2026-11-07,LS,4,366.90000000000003,366.90000000000003,371.70000000000005,3,0,,"Alperen Sengün,Draymond Green,Franz Wagner,Tristan da Silva"
+2026-11-09,blend,1,308.20000000000005,308.20000000000005,303.19999999999993,4,0,,"Gui Santos,Stephen Curry"
+2026-11-09,blend,2,255.0,255.0,287.29999999999995,6,0,,"Brandin Podziemski,Jabari Smith"
+2026-11-09,blend,3,326.99999999999994,326.99999999999994,307.1,4,0,,"Brandin Podziemski,Draymond Green,Jabari Smith"
+2026-11-09,blend,4,289.4,289.4,294.0,3,0,,"Brandin Podziemski,Devin Booker,Draymond Green,Jabari Smith,Stephen Curry"
+2026-11-09,LS,1,303.2,303.2,303.19999999999993,4,0,,
+2026-11-09,LS,2,293.7,293.7,270.8,6,0,,"Draymond Green,Stephen Curry"
+2026-11-09,LS,3,267.6,267.6,292.3,5,0,,"Alperen Sengün,Devin Booker,Draymond Green,Jabari Smith"
+2026-11-09,LS,4,259.09999999999997,259.09999999999997,273.70000000000005,3,0,,"Brandin Podziemski,Devin Booker,Draymond Green,Jabari Smith,Jeremiah Fears,Stephen Curry"

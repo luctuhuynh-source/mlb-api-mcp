@@ -1,0 +1,85 @@
+Q1.
+Verdict: MODIFY
+Why: The mean formula is exact (linearity of expectation), which explains the ≤1 FP error in 17 of 18 contests. However, SD = 0.35 × sqrt(sum own(1-own)points²) omits pairwise covariance: salary-cap packing (negative correlation between stars) and game stacking/correlated basketball outcomes (positive correlation) push the multiplier between 0.26 and 0.41 depending on slate size and chalk concentration. Furthermore, Gaussian z-lines ignore right-skewness at the tail. You can shrink both biases directly from the 18 full-standings contests without touching your 380-slate structure.
+Rule: Replace fixed multiplier 0.35 with linear OLS prediction m_hat = b0 + b1*(slate_games) + b2*(sum(realized_own^2)) fitted on the 18 contests, and replace normal z-mapping with the empirical pooled standardized distribution F_emp((score - mean) / SD_hat) across all entries in the 18 contests.
+Test: Run Leave-One-Contest-Out cross-validation across the 18 real contests (11 with payouts); adopt if MAE on cash-line FP and top-1% FP threshold both decrease vs fixed 0.35 and fixed z.
+Label: DATA-BACKED
+Q2.
+Verdict: MODIFY
+Why: Because LineStar's daily archive stores "FINAL (post-lock) values" and 83% of the 4.1 new starters plus 95% of the 3.0 scratches occur after lock, AggProj could be an aggregator that keeps scraping third-party late-news updates through the final tip-off while base LS freezes earlier or updates slower. That look-ahead contamination would inflate B77's +8.6 FP gain. Note also that section 4.7 tested candidate vs v1.3 (confounding projection with structure), not CAL vs LS head-to-head on pre-lock data.
+Rule: Keep R2 (CAL = -0.26 + 0.14*LS + 0.86*AggProj) ONLY IF AggProj proves uncontaminated on pre-lock snapshots; otherwise revert R2 to 1.0 * LS.
+Test: On the 8 pre-lock snapshots: (1) split player-rows by tip time (tip == lock vs tip > lock) and compare (Final_AggProj - PreLock_AggProj) correlation with actual FP against LS; (2) run paired lineup rebuilds (CAL vs pure LS, holding v1.4 structure fixed) on the 8 pre-lock snapshots. Stop R2 if pre-lock CAL minus pure LS is ≤ 0 FP or if AggProj's post-lock MAE drop on late-tip games exceeds LS's by >0.5 FP.
+Label: DATA-BACKED
+Q3.
+Verdict: MODIFY
+Why: By linearity of expectation, forcing lineups apart never raises expected payout unless: (1) lineups duplicate themselves (impossible with distinctness constraint), or (2) a lineup lands in a heavily duplicated chalk cluster where splitting first-place ties destroys the 2,398x top-0.01% payout. Arbitrary overlap caps just degrade Lineup 4 from 66th to 56th percentile (-2.9 FP across the set). However, OUTSIDE (high confidence: basic NBA GPP math), winning a 15,000-40,000 entry tournament requires correlated game environments (overtime/shootout) so multiple players exceed ceiling simultaneously.
+Rule: Set overlap_cap = 7 (8 on ≤3 games). For Lineups 2–4 only, require a game stack: at least 3 players from the same NBA game (at least 1 from each team) from a game whose combined starter CAL projections rank in the top half of the slate.
+Test: Simulate payouts directly against the actual entry distributions of the 18 historical standings files (computing exact tie-split payouts for every historical score rank) comparing 4 best distinct vs overlap 7 + game stack.
+Label: REASONED
+Q4.
+Verdict: DISAGREE
+Why: Drop the 3-of-4 exposure cap. In B77 (164 slates), removing the exposure cap raised mean percentile by +2.6 (SE 0.7, t = 3.71), cash rate from 42.5% to 45.9%, top-10% from 20.7% to 22.9%, and lifted Lineup 4's percentile from 56 to 66. In the 8-slate no-look-ahead live rebuild (4.7), no exposure cap beat 3-of-4 cap again (56.7 vs 51.4 percentile, 13 vs 11 cashes). Paying 2.6 percentile points per slate just to reduce "0-for-4" slates from 25% to 24% sacrifices steep GPP equity for negligible variance smoothing. Exception: cap late-tip uncertain players pre-lock so 10/31-style late scratches (5–7 scratches) don't nuke all 4 lineups if you miss late swap.
+Rule: Allow max_exposure = 4 for players in games tipping at lock (tip == lock) with confirmed starting lineups; set max_exposure = 3 for players in games tipping >30 minutes after lock.
+Test: Re-run the 8-slate pre-lock rebuild (4.7) and 164-slate B77 segmented by tip == lock vs tip > lock to verify full +2.6 percentile capture on early games while capping late-scratch wipeouts on 10/31 and 11/2.
+Label: DATA-BACKED
+Q5.
+Verdict: MODIFY
+Why: Top-0.1% pays 130x–2,398x (41% of prize pool), where right-tail variance beats mean projection. Dropping the 0.1 ceiling term already cost 1.0 percentile (SE 0.6). Because the parametric field model fails at z = 2.74, you must bypass it entirely and test directly against the 18 real contest standings files (~300,000+ real opponent lineups) and Slate-Winner distance.
+Rule: Increase ceiling weight across the portfolio: keep objective = CAL + 0.10*(LS_ceil - LS) for Lineups 1–2, and set objective = CAL + 0.25*(LS_ceil - LS) for Lineups 3–4.
+Test: Two non-parametric tail tests without the field SD formula: (1) Across the 18 real contests, count how often generated lineups beat the actual 99th and 99.9th percentile contest scores and compute real payout ROI; (2) Across all 164 AggProj slates, measure Actual_FP / Optimal_9_Man_Slate_Score (pct of perfect lineup) and top-score frequency >= 360 FP.
+Label: REASONED
+Q6.
+Verdict: MODIFY
+Why: Linear ownership penalties failed (-0.1 percentile) because projected ownership is strongly correlated with raw value: 35%+ owned players hit 6x 38% of the time vs 16% for ≤2%, and top-1% lineups carry more chalk (298% sum ownership vs 256% field). Penalizing 35% chalk forces bad fades. Leverage only works horizontally—breaking ties between two similarly priced, identically projected plays—and capping extreme low-owned dead weight on small slates where duplicates spike (64% duplicates on 2-game slates).
+Rule: Do not penalize individual player ownership on 5+ game slates. In Lineups 3–4 only, add constraint sum(proj_own_rescaled) <= 285% on 2–4 game slates, and apply a tie-breaker -0.02 * proj_own ONLY among players within $300 salary and 0.8 FP of CAL at the same position.
+Test: Test on the 18 real standings files (checking duplicate collision rates on ≤4-game slates and simulated payout EV) and run paired B77 on 164 slates checking that mean percentile drops by less than 0.3 while top-1% empirical hits in the 18 contests rise.
+Label: REASONED
+Q7.
+Verdict: MODIFY
+Why: Full re-optimization gained only +1.3 FP (SE 3.5) over Out-only swaps because swapping healthy players for tiny +0.5 FP drifts introduces noise and breaks salary structure, drowning out true news. Yet 4.1 new starters are named post-lock (83% in late games) and return 5.8x salary (38% hit 6x). V1.3 already had a 3.5 FP late-starter swap rule on paper, whereas R5 deletes it! Keep healthy-swap locked except when a newly named starter creates a massive value jump.
+Rule: Five minutes before each post-lock tip window, refresh LineStar. Unlock remaining unstarted slots in a lineup ONLY IF: (a) a rostered unstarted player is Out/Doubtful, OR (b) a non-rostered player in an unstarted game newly flips starter_flag from 0 to 1 AND re-optimizing unlocked slots raises total lineup CAL projection by >= 5.0 FP (swapping at most 2 healthy players to fit salary).
+Test: Simulate on the 28 pre-lock lineups across the 7 live slates (comparing Out-only vs >= 5.0 FP new-starter trigger), plus synthesize pre-lock baselines on the 164-slate archive by masking post-lock value spikes (CAL - last_5 >= 8 FP in late games) to measure paired FP gain and swap frequency.
+Label: DATA-BACKED
+Q8.
+Verdict: MODIFY
+Why: Completely plausible. NBA injury/starting-lineup releases mandate reporting 30 minutes before tip-off (OUTSIDE, 99% sure: NBA league policy), and 4.6 proves snapshots 75–135 minutes old miss huge value shifts (+6.0 to +11.9 FP over 30 minutes, never negative). However, uploading 4 lineups of 9 slots manually on a phone takes 4–7 minutes; building at T-15 leaves zero margin if FanDuel's mobile UI lags or an upload CSV fails, which is why the operator cut corners on 11/9–11/10. Pre-reserve entries early using dummy lineups, then upload one CSV right before lock.
+Rule: Enter contests >2 hours before lock with placeholder lineups. Automated cron pulls LineStar at T-45, T-30, T-15, and T-10 minutes relative to actual min(game_time). Run canonical script automatically at T-12 minutes to output a ready FanDuel upload CSV to cloud folder (e.g., Drive/Dropbox), and upload CSV via mobile browser (not manual tap-entry) at T-8 minutes.
+Test: Compare the T-12 snapshot vs final archive across the next 15 live slates; verify scratch miss-rate drops below the historical 3.0/slate and audit upload completion timestamps (target: 100% uploaded before T-3, zero re-typed scripts).
+Label: DATA-BACKED
+Q9.
+Verdict: MODIFY
+Why: Playing 4 lineups into filled 150-max GPPs at 16% rake hands structural coverage and late-swap portfolio edge to the 40–105 sharks running 100–150 entries, while putting 47% of your fees into a top-1% lottery pool (where non-jackpot return is $0.90 per $1 even for the candidate). However, 4.8 reveals a massive anomaly: the $9 $111K 150-max only filled 87–88% twice, slashing effective rake from 16% to 3–5%. A 3–5% rake beats any filled single-entry or 3-max contest at 16% rake (raises candidate non-jackpot return from $0.90 to ~$1.03 per $1).
+Rule: Prioritize any GPP with projected fill < 92% at T-15 (effective rake < 9%), regardless of max-entry cap. When all $3–$9 150-max contests are >= 96% full at T-15, route the 4 lineups into Single-Entry, 3-Max, and 5-Max GPPs ($3–$9) instead of filled 150-maxes. Keep zero double-ups.
+Test: Log entries_at_T15 / max_entries, final_fill_pct, cash_line, and top_1pct_line across 150-max, 3-max, and SE contests in the $3–$9 tier over 20 slates; compare simulated percentile and ROI of your 4 lineups across contest types.
+Label: DATA-BACKED
+Q10.
+Verdict: MODIFY
+Why: Delete the contrarian cap (max 1 player <10% own) and the max 2 sub-$5k per team cap. Section 4.3 explicitly proved the contrarian cap has zero effect (+0.3 percentile, SE 0.8), and 4.5 showed CAL naturally gravitates toward high-owned chalk anyway—keeping dead constraints caused the 11/9–11/10 manual script bugs (5% vs 10% typos). Likewise, if injuries wipe out an NBA rotation and 3 starters on one team cost <$5k with top CAL projections, max 2 sub-$5k per team blocks optimal chalk (the general max 3 per team cap already prevents 4-man team stacks). Keep the 0.1 ceiling term (dropping it cost 1.0 percentile, SE 0.6).
+Rule: Delete max 1 player <10% ownership constraint and delete max 2 players <$5,000 per team constraint. Retain only FanDuel rules, max 3 players per team, exposure/overlap rules, and the 0.1 ceiling objective term.
+Test: Run paired B77 across all 164 AggProj slates comparing R3 with vs without those two constraints; confirm mean percentile and cash rate change by < 0.3 points with fewer solver constraints.
+Label: DATA-BACKED
+Q11.
+Verdict: MODIFY
+Why: Inferring from 4.3 (candidate vs v1.3 paired difference SE = 1.4 over 164 slates => single-slate 4-lineup mean SD ≈ 1.4 * sqrt(164) ≈ 18 percentile points; verified by 4.7 where SE = 7.2 FP ≈ 7–8 percentile points over 8 slates => SD ≈ 20–22), your slate-level mean percentile has SD ≈ 20. At N = 15 slates, standard error is 20 / sqrt(15) = 5.2 percentile points! A true 60-percentile system has only ~60% power to clear 50 at 2-sigma in 15 slates, while a 55-percentile winner fails your <50 stop rule ~17% of the time on pure variance (especially with 5-scratch variance slates). Furthermore, compare live results to pure LS shadow paired on the same slates to cancel slate luck.
+Rule: Set evaluation window to N = 25 slates ($600–$900 risk at $24–$36/slate). Hard stop early ONLY IF: (a) cumulative mean percentile < 44 after 15 slates (>3 SE below 60), OR (b) paired difference (Live v1.4 - Shadow Pure LS) is < -2.0 FP/lineup after 15 slates. At 25 slates, continue if mean percentile >= 55 (2 SE above 50 matches 50 + 2*(20/5) = 58; >= 55 gives 89% power if true mean is 61).
+Test: Bootstrap 10,000 15-slate and 25-slate blocks from the 164-slate B77 candidate slate-means to verify false-stop rate (< 5% if true mean = 60) and false-continue rate (< 10% if true mean = 50).
+Label: DATA-BACKED
+Q12.
+Verdict: MODIFY
+Why: Single biggest risk: Post-lock look-ahead contamination in B77 (AggProj + true starters). Every B77 headline (+12.8 percentile, 42.5% cash, $0.90 non-jackpot ROI) used post-lock final files knowing all 4.1 late starters and avoiding all 3.0 post-lock scratches. When tested honestly without look-ahead on 8 live slates (4.7) and 14 current-season slates (4.3), candidate percentile fell from 65.0 to 51.4 (pre-lock) and 56.0 (2026–27 season)—meaning up to 75% of the apparent edge over chance (50) could vanish under real pre-lock uncertainty if AggProj updates post-lock or 2026–27 pricing tightened.
+Rule: Freeze stake expansion until the three diagnostic backtests below confirm pre-lock edge.
+Test: Run these exact three analyses next with Section 1 data:
+ * Pre-Lock vs Final AggProj Audit (Data b + a): On the 8 live slates, compute Final - PreLock deltas for AggProj vs LS segmented by game_time == lock vs game_time > lock, and run paired lineup builds (CAL vs pure LS, identical v1.4 structure) strictly on the pre-lock snapshots.
+ * Synthetic Pre-Lock Haircut on 164 Slates (Data a + c): Strip look-ahead from the 164-slate archive by reverting post-lock starters (players in games >30m after lock whose starter_flag == 1 today but 0 in prior game) to their 3-game average FP at rate 83%, and zeroing out 3.0 random late-game players per slate at empirical scratch rates—then re-score B77 with vs without the Q7 late-swap rule.
+ * Direct Contest Standings Payout Simulation (Data d): Score all B77 variants directly inside the 18 full-standings contests (computing exact rank, tie-splits, top-0.1% hit rate, and realized ROI) to validate tail performance without the parametric 0.35 SD model.
+   Label: DATA-BACKED
+TOP 3 CHANGES IN PRIORITY ORDER
+ * Automate T-12 Lock-Relative Builds + Canonical Repo Script + CSV Mobile Upload (Upgrades R1 & R4 — DATA-BACKED)
+   * Why: Process leakage and stale snapshots cost you +6.0 to +11.9 FP per lineup (4.6) and caused live rule-typos on 11/9–11/10 (4.8)—an immediate, guaranteed drag equal to your entire projection upgrade, carrying zero look-ahead risk.
+   * Codeable Rule: Commit one version-stamped script; schedule automated LineStar pulls every 15m starting T-60 from min(game_time) plus T-12; reserve contest dummy entries early and upload the generated CSV at T-8 on mobile.
+ * Adopt CAL Projection ONLY After Passing the 8-Slate Pre-Lock Contamination Gate + Strip Dead Caps + Drop Early-Game Exposure Cap (Upgrades R2 & R3 — DATA-BACKED)
+   * Why: CAL + looser structure adds +12.8 percentile in B77, and dropping the 3-of-4 exposure cap adds another +2.6 percentile (SE 0.7) in B77 and +5.3 percentile in the 8-slate pre-lock test (56.7 vs 51.4), while contrarian and sub-$5k caps are proven dead weight. However, AggProj must pass the Q2 pre-lock test first to prove it isn't leaking post-lock news.
+   * Codeable Rule: Run CAL = -0.26 + 0.14*LS + 0.86*AggProj + 0.1*(LS_ceil - LS) (provided Q2 pre-lock paired test beats pure LS), max_exposure = 4 for confirmed lock-time games (3 for late tips), overlap = 6 (8 on ≤3 games), max 3/team, deleting ownership tiers, contrarian caps, and sub-$5k team caps.
+ * Add Targeted >= +5.0 FP New-Starter Late Swap + Overlay/Contest Routing (Upgrades R5 & R7 — DATA-BACKED)
+   * Why: 83% of the 4.1 post-lock new starters (5.8x return, 38% 6x rate) and 95% of scratches occur after lock (4.6), and under-filled $9 contests cut rake from 16% to 3–5% (+13% direct ROI boost, turning $0.90 non-jackpot return into >$1.00).
+   * Codeable Rule: Check 5 minutes before each post-lock tip window and swap unlocked slots only on Out/Doubtful OR a newly flagged starter lifting lineup CAL by >= 5.0 FP; at T-15, enter any GPP <92% full first, otherwise route to Single-Entry/3-Max over filled 150-maxes.

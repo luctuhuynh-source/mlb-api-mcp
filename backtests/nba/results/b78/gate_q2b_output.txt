@@ -1,0 +1,53 @@
+2026-10-31 done
+2026-11-02 done
+2026-11-04 done
+2026-11-05 done
+2026-11-06 done
+2026-11-07 done
+2026-11-09 done
+2026-11-10 done
+
+PRE-LOCK builds, per slate mean FP per lineup:
+      date  games  pre_v1.3_fp  pre_LS_free_fp  pre_CAL_free_fp  pre_AGG_free_fp  pre_LS_c4_fp  pre_CAL_c4_fp
+2026-10-31      6        283.5           280.6            261.2            262.1         292.0          265.4
+2026-11-02     12        274.3           264.7            268.2            279.6         270.8          267.9
+2026-11-04      8        285.5           276.6            331.0            327.3         276.3          339.8
+2026-11-05      2        296.6           304.0            322.2            322.2         302.5          326.4
+2026-11-06      7        310.9           312.6            320.8            318.5         326.0          329.0
+2026-11-07      6        329.0           330.8            338.5            344.2         335.9          345.9
+2026-11-09      8        294.9           310.6            307.2            320.4         310.1          314.1
+2026-11-10      5        291.9           270.6            292.5            287.8         267.9          299.8
+PRE-LOCK builds, per slate mean field percentile:
+      date  pre_v1.3_pct  pre_LS_free_pct  pre_CAL_free_pct  pre_AGG_free_pct  pre_LS_c4_pct  pre_CAL_c4_pct
+2026-10-31          38.7             35.1              15.3              17.1           47.4            19.9
+2026-11-02          11.0             10.6               8.5              10.8           13.9             8.3
+2026-11-04          38.7             28.5              83.0              79.3           28.3            86.0
+2026-11-05          39.9             49.2              74.1              74.1           47.2            80.9
+2026-11-06          42.6             43.5              51.5              50.3           55.6            58.2
+2026-11-07          68.1             67.6              72.1              77.6           73.2            79.7
+2026-11-09          32.1             42.6              40.7              52.8           42.1            45.6
+2026-11-10          64.7             41.1              65.9              59.0           37.4            75.0
+
+TOTALS pre-lock (8 slates, 32 lineups each):
+  v1.3      FP 295.8  pct 42.0  cashes 5/32  top10 1  dead spots 1
+  LS_free   FP 293.8  pct 39.8  cashes 2/32  top10 1  dead spots 0
+  CAL_free  FP 305.2  pct 51.4  cashes 11/32  top10 1  dead spots 1
+  AGG_free  FP 307.8  pct 52.6  cashes 8/32  top10 2  dead spots 1
+  LS_c4     FP 297.7  pct 43.1  cashes 3/32  top10 1  dead spots 0
+  CAL_c4    FP 311.0  pct 56.7  cashes 13/32  top10 2  dead spots 0
+
+PAIRED, pre-lock:
+  CAL - pure LS, max 3 of 4: +11.4 FP/lineup (se 7.6), pct +11.6 (se 8.0), better on 6 of 8 slates
+  CAL - pure LS, no exposure cap: +13.4 FP/lineup (se 9.5), pct +13.6 (se 9.7), better on 6 of 8 slates
+  AggProj alone - LS, max 3 of 4: +13.9 FP/lineup (se 6.7), pct +12.8 (se 7.0), better on 7 of 8 slates
+  candidate - v1.3: +9.4 FP/lineup (se 7.2), pct +9.4 (se 7.5), better on 6 of 8 slates
+  no cap - max 3 of 4 (CAL): +5.8 FP/lineup (se 1.1), pct +5.3 (se 1.0), better on 7 of 8 slates
+
+LOOK-AHEAD HAIRCUT (same 7 slates): final-data build vs pre-lock build
+  v1.3      final 301.9 FP / pct 42.3 / cashes 4/28 | pre-lock 296.4 / 38.7 / 3/28 | haircut +5.5 FP (se 7.3), +3.5 pct (se 6.9)
+  LS_free   final 304.2 FP / pct 46.4 / cashes 6/28 | pre-lock 297.1 / 39.6 / 2/28 | haircut +7.1 FP (se 4.9), +6.8 pct (se 4.8)
+  CAL_free  final 316.6 FP / pct 56.6 / cashes 8/28 | pre-lock 307.0 / 49.3 / 9/28 | haircut +9.5 FP (se 7.3), +7.3 pct (se 7.4)
+  AGG_free  final 317.6 FP / pct 57.1 / cashes 8/28 | pre-lock 310.6 / 51.7 / 7/28 | haircut +7.0 FP (se 6.4), +5.4 pct (se 6.0)
+  LS_c4     final 303.8 FP / pct 45.8 / cashes 5/28 | pre-lock 301.9 / 43.9 / 3/28 | haircut +1.8 FP (se 6.4), +1.8 pct (se 6.1)
+  CAL_c4    final 321.0 FP / pct 60.7 / cashes 11/28 | pre-lock 312.7 / 54.1 / 10/28 | haircut +8.4 FP (se 6.0), +6.6 pct (se 5.8)
+  paired on FINAL data:   CAL - LS (final data): +12.4 FP/lineup (se 6.0), pct +10.2 (se 5.5), better on 5 of 7 slates

@@ -1,0 +1,47 @@
+2026-10-31 done
+2026-11-02 done
+2026-11-04 done
+2026-11-05 done
+2026-11-06 done
+2026-11-07 done
+2026-11-09 done
+
+=== pre-lock CAL lineups, structure free: 28 lineups, 7 slates (SE across slates) ===
+  frozen                      mean  307.0 | vs frozen  +0.0 (slate se 0.0; better 0, worse 0) | fresh-pull slates  +0.0, stale-pull  +0.0 | players swapped 0, re-uploads 0 in 0 lineups
+  out-only (v1.3 17a)         mean  307.9 | vs frozen  +0.9 (slate se 0.9; better 1, worse 0) | fresh-pull slates  +0.0, stale-pull  +1.6 | players swapped 0, re-uploads 0 in 0 lineups
+  trig k2 t5.0 (Gemini)       mean  311.0 | vs frozen  +4.0 (slate se 2.1; better 3, worse 0) | fresh-pull slates  +1.9, stale-pull  +5.5 | players swapped 11, re-uploads 6 in 6 lineups
+  trig k1 t3.5 (v1.3 17b)     mean  310.4 | vs frozen  +3.4 (slate se 1.7; better 3, worse 0) | fresh-pull slates  +1.9, stale-pull  +4.6 | players swapped 3, re-uploads 3 in 3 lineups
+  any k2 t3.5                 mean  315.8 | vs frozen  +8.8 (slate se 4.4; better 3, worse 0) | fresh-pull slates  +4.4, stale-pull +12.1 | players swapped 19, re-uploads 10 in 9 lineups
+  any k9 t3.5                 mean  321.8 | vs frozen +14.8 (slate se 7.8; better 3, worse 0) | fresh-pull slates  +6.6, stale-pull +20.9 | players swapped 32, re-uploads 11 in 10 lineups
+  full                        mean  320.4 | vs frozen +13.4 (slate se 7.9; better 4, worse 2) | fresh-pull slates +10.1, stale-pull +15.8 | players swapped 55, re-uploads 21 in 18 lineups
+  full, first 2 windows       mean  320.9 | vs frozen +13.9 (slate se 7.7; better 4, worse 2) | fresh-pull slates +11.2, stale-pull +15.8 | players swapped 54, re-uploads 20 in 17 lineups
+  CONTROL full, no new info   mean  311.7 | vs frozen  +4.7 (slate se 4.5; better 2, worse 1) | fresh-pull slates  -2.8, stale-pull +10.3 | players swapped 24, re-uploads 9 in 9 lineups
+rule        frozen  out-only (v1.3 17a)  trig k2 t5.0 (Gemini)  trig k1 t3.5 (v1.3 17b)  any k2 t3.5  any k9 t3.5   full  full, first 2 windows  CONTROL full, no new info
+date                                                                                                                                                                      
+2026-10-31   261.2                267.5                  274.8                    271.8        288.7        293.6  281.2                  281.2                      275.8
+2026-11-02   268.2                268.2                  276.6                    275.8        289.0        319.4  319.4                  319.4                      295.0
+2026-11-04   331.0                331.0                  331.0                    331.0        331.0        331.0  338.5                  338.5                      331.0
+2026-11-05   322.2                322.2                  322.2                    322.2        322.2        322.2  322.2                  322.2                      322.2
+2026-11-06   320.8                320.8                  326.6                    326.6        333.9        340.7  347.0                  347.0                      320.8
+2026-11-07   338.5                338.5                  338.5                    338.5        338.5        338.5  330.6                  330.6                      338.5
+2026-11-09   307.2                307.2                  307.2                    307.2        307.2        307.2  303.7                  307.2                      298.7
+
+=== pre-lock CAL lineups, structure c4: 28 lineups, 7 slates (SE across slates) ===
+  frozen                      mean  312.7 | vs frozen  +0.0 (slate se 0.0; better 0, worse 0) | fresh-pull slates  +0.0, stale-pull  +0.0 | players swapped 0, re-uploads 0 in 0 lineups
+  out-only (v1.3 17a)         mean  312.7 | vs frozen  +0.0 (slate se 0.0; better 0, worse 0) | fresh-pull slates  +0.0, stale-pull  +0.0 | players swapped 0, re-uploads 0 in 0 lineups
+  trig k2 t5.0 (Gemini)       mean  316.2 | vs frozen  +3.5 (slate se 2.3; better 2, worse 0) | fresh-pull slates  +0.0, stale-pull  +6.1 | players swapped 10, re-uploads 5 in 5 lineups
+  trig k1 t3.5 (v1.3 17b)     mean  313.0 | vs frozen  +0.3 (slate se 0.3; better 1, worse 0) | fresh-pull slates  +0.8, stale-pull  +0.0 | players swapped 1, re-uploads 1 in 1 lineups
+  any k2 t3.5                 mean  321.5 | vs frozen  +8.8 (slate se 4.9; better 3, worse 0) | fresh-pull slates  +3.2, stale-pull +13.1 | players swapped 21, re-uploads 11 in 10 lineups
+  any k9 t3.5                 mean  328.4 | vs frozen +15.7 (slate se 9.0; better 3, worse 0) | fresh-pull slates  +5.5, stale-pull +23.4 | players swapped 37, re-uploads 11 in 10 lineups
+  full                        mean  327.7 | vs frozen +15.1 (slate se 9.2; better 4, worse 2) | fresh-pull slates  +8.6, stale-pull +19.9 | players swapped 56, re-uploads 21 in 18 lineups
+  full, first 2 windows       mean  328.9 | vs frozen +16.2 (slate se 9.2; better 4, worse 2) | fresh-pull slates  +9.8, stale-pull +21.0 | players swapped 54, re-uploads 19 in 17 lineups
+  CONTROL full, no new info   mean  317.3 | vs frozen  +4.6 (slate se 4.5; better 2, worse 1) | fresh-pull slates  -1.9, stale-pull  +9.5 | players swapped 28, re-uploads 9 in 9 lineups
+rule        frozen  out-only (v1.3 17a)  trig k2 t5.0 (Gemini)  trig k1 t3.5 (v1.3 17b)  any k2 t3.5  any k9 t3.5   full  full, first 2 windows  CONTROL full, no new info
+date                                                                                                                                                                      
+2026-10-31   265.4                265.4                  277.0                    265.4        297.8        296.4  287.6                  292.2                      273.5
+2026-11-02   267.9                267.9                  280.8                    267.9        287.8        330.6  330.6                  330.6                      297.8
+2026-11-04   339.8                339.8                  339.8                    339.8        339.8        339.8  342.8                  342.8                      339.8
+2026-11-05   326.4                326.4                  326.4                    326.4        326.4        326.4  326.4                  326.4                      326.4
+2026-11-06   329.0                329.0                  329.0                    331.2        338.6        345.4  355.4                  355.4                      329.0
+2026-11-07   345.9                345.9                  345.9                    345.9        345.9        345.9  340.4                  340.4                      345.9
+2026-11-09   314.1                314.1                  314.1                    314.1        314.1        314.1  310.6                  314.1                      308.4

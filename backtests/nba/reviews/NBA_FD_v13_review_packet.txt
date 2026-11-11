@@ -1,0 +1,134 @@
+NBA FANDUEL PROTOCOL REVIEW - v1.3 AUDIT AND v1.4 DRAFT (prepared 11/10/2026)
+
+YOUR ROLE
+You are an outside reviewer of a FanDuel NBA DFS tournament (GPP) protocol. I am the manager: I will grade your answer and adopt, test or reject each point. Critique the evidence and my draft recommendations, then tell me how to improve the protocol. Be blunt. Do not flatter and do not pad.
+
+HARD RULES FOR YOUR ANSWER
+- Use only the numbers in this packet. If you bring outside knowledge, label it OUTSIDE and say how sure you are. Never invent a statistic, a study or a source.
+- Every proposal must be a rule I could code, plus the exact test I can run with the data listed in section 1.
+- Label each point DATA-BACKED (supported by numbers here), REASONED, or SPECULATIVE.
+- Answer Q1-Q12 in order using the format at the end. Then give your top 3 changes in priority order.
+
+1. SETUP
+- Game: FanDuel NBA classic, $60,000 cap, 9 slots (PG, SG, SF, PF, C, G/F, F/C, UTIL, UTIL), max 4 per team.
+- What we play: 4 lineups per slate in large 150-max GPPs at $3-$9 (15,000-40,000 entries). Each lineup usually goes into two contests. Lineups are built once, 10-75 minutes before lock, by a script (linear optimizer). Late swap is manual and rare.
+- Data we hold: (a) LineStar daily file for 380 slate-days, Jan 2025-Nov 2026: salary, LineStar projection (LS), floor, ceiling, LineStar "AggProj" (a second projection field, present since Oct 2025), starter flag, projected ownership per slate, realized ownership per tracked contest, actual FanDuel points, game times. These are LineStar's FINAL (post-lock) values. (b) Pre-lock LineStar snapshots for 8 live slates (taken 15-135 minutes before lock). (c) Player game logs for 3 seasons. (d) Full standings files (every entry's lineup, score, payout) for 18 real contests. (e) Our own entered lineups.
+- We do not have: play-by-play, minutes projections of our own, other sites' projections, or historical standings beyond those 18 contests.
+
+2. PROTOCOL v1.3 AS WRITTEN (in force since 11/7/2026)
+Data: one synchronized refresh of starters, injuries, LineStar file and game logs before any build. LineStar pulls at 3:15 and 3:45 PM PT (Saturday 2:15 and 2:45). A starter with a zero projection triggers a status check and promotion of his backup.
+Projection: 0.7 x LS + 0.3 x the player's last-5-game FanDuel average. Objective = projection + 0.1 x (LS ceiling - LS projection).
+Eligibility: not Out/Questionable/Doubtful, LS projection > 0, and (listed starter OR 18+ minutes averaged over his last 3 games).
+Construction: max 3 players per team; max 2 players under $5,000 per team; max 1 player under 10% projected ownership per lineup (2 on slates of 3 games or fewer). Projected ownership is rescaled so the slate sums to 900%.
+Exposure across the 4 lineups, by projected ownership: 35%+ may appear in 3 of 4; 15-35% in 2 of 4; under 15% in 1 of 4. Nobody in all 4.
+Overlap: any two lineups share at most 4 of 9 players on 6+ game slates, 5 on 4-5 games, 8 on 3 or fewer.
+Late swap: never swap two healthy players. Swap only when a rostered player is ruled out, or a late-game starter is newly out and the replacement lifts the full lineup projection by 3.5+.
+Grading target: median best-of-4 contest percentile of 82 or better; stop if under 65 after 15 slates.
+History: v1.3 came from a 242-slate backtest ("B76") that compared rule sets against each other on fantasy points and best-of-4 score. It never measured them against the field.
+
+3. LIVE RECORD
+- All NBA entries since 10/20: 76 entries, about -$469. Protocol entries: 68, with 4 cashes.
+- v1.2b (11/4-11/6, 3 slates): 0 cashes in 24 entries; mean lineup percentile 25; best-of-4 percentiles 43, 48, 44.
+- v1.3 (3 slates, 12 lineups, 20 entries): 3 cashes, $120 fees, $43 won.
+    11/7 (6 games): lineup percentiles 97, 66, 48, 35
+    11/9 (8 games): 43, 28, 21, 7
+    11/10 (5 games): 88, 70, 68, 32
+  Mean lineup percentile 47. Best-of-4: 97, 43, 88.
+
+4. NEW EVIDENCE
+
+4.1 Field model (from the 18 real contests)
+- The field's average score equals sum(realized ownership x actual points) to within about 1 FP in 17 of the 18 contests (3 FP in the other). So the field mean is known for every historical slate with tracked ownership.
+- Standardized by field mean and SD, the lines are stable across contests: cash line z = 0.72 (SD across contests 0.04; 11 contests with payout data), top 10% z = 1.27 (0.05), top 1% z = 2.17 (0.16), top 0.1% z = 2.74 (0.27).
+- Field SD = 0.35 x sqrt(sum own x (1 - own) x points^2). The multiplier ranged 0.26-0.41 across contests (SD 0.04).
+- Check on 16 of our real entries in 4 contests: the model misses their true percentile by 1.5 points on average (largest miss 4.4).
+- Limits: mean percentile is robust to the multiplier (moves 1-2 points between 0.31 and 0.39); cash rate moves about 4 points; estimated top-1% rate moves from 0.8% to 4.9%, so top-1% and better CANNOT be measured reliably.
+
+4.2 Payout structure (11 contests with payout data)
+- 23-26% of entries are paid. Rake is 16% when the contest fills.
+- Average payout as a multiple of the fee, by finish: top 0.01% 2,398x; 0.01-0.1% 130x; 0.1-0.5% 8.6x; 0.5-1% 4.0x; 1-2% 3.1x; 2-5% 2.4x; 5-10% 2.0x; 10-15% 1.8x; 15-20% 1.8x; 20-25% 1.4x.
+- 41% of all prize money goes to the top 0.1% of entries and 47% to the top 1%. With jackpots excluded (any top-0.1% finish counted as an ordinary 8.6x prize) an average entry gets back 51 cents per $1.
+- Four random field lineups have a median best-of-4 percentile of 84. Our v1.3 target (82) is below chance.
+
+4.3 Field-relative backtest ("B77"). Per-lineup results. Chance = mean percentile 50, cash 24.5%, top-10% 10%.
+Full history, 237 main slates of 4+ games:
+    v1.3 as written ............ 298.2 FP | mean percentile 52.7 | cash 24.3% | top-10% 9.3% | best-of-4 median 83.5
+    v1.3 with pure LS .......... 300.0 FP | 54.5 | 25.9% | 9.7%   (paired +1.9 FP, SE 0.7, positive in all 3 seasons)
+AggProj era, 164 slates (Oct 2025-Nov 2026). "CAL" = -0.26 + 0.14 x LS + 0.86 x AggProj:
+    v1.3 as written ............ 298.9 FP | 52.5 | 24.4% | 10.3% | lineup 1 percentile 55, lineup 4 percentile 49
+    CAL, v1.3 structure ........ 307.5 FP | 60.5 | 33.2% | 14.1% | lineup 1: 69, lineup 4: 51
+    CAL, max 3 of 4, overlap 6 . 313.2 FP | 65.0 | 42.5% | 20.7% | lineup 1: 68, lineup 4: 56   <- v1.4 candidate
+    CAL, no exposure cap, ov 6 . 316.1 FP | 67.6 | 45.9% | 22.9% | lineup 4: 66
+    CAL, 4 best distinct ....... 316.1 FP | 67.7 | 45.4% | 23.8% | all four miss the cash 32% of slates (candidate: 24%)
+    LS,  max 3 of 4, overlap 6 . 303.6 FP | 56.4 | 30.3% | 12.7%
+    blend, max 3 of 4, overlap 6 298.9 FP | 52.2 | 22.0% | 8.5%
+- Paired: CAL vs blend, same structure: +8.6 FP per lineup (SE 1.3), cash +8.7 points (SE 2.3). Looser structure vs tiers under CAL: +5.5 FP (SE 1.0), cash +9.5 points (SE 2.2). Candidate vs v1.3: cash +18.2 points (SE 2.7), mean percentile +12.8 (SE 1.4).
+- Out of sample (CAL weights fitted Oct 2025-Feb 2026, tested on 56 slates Mar-Nov 2026): v1.3 51.7 percentile / 25.0% cash; candidate 64.0 / 40.2% / top-10% 16.1%.
+- This season only (14 slates): v1.3 44.5 / 20.8%; candidate 56.0 / 32.1%.
+- Return per $1 with any top-0.1% finish counted as an ordinary 8.6x prize (jackpots excluded): v1.3 0.48; CAL with v1.3 structure 0.70; candidate 0.90; average entry 0.51.
+- No measurable effect under the candidate: contrarian cap on or off (+0.3 percentile, SE 0.8); overlap 5 vs 6 vs 7 (within about 1); ownership penalty of 0.03 FP per ownership point (-0.1). Dropping the 0.1 ceiling term costs 1.0 percentile (SE 0.6). Tested under the v1.3 structure with CAL, also no effect: a bonus for high ownership (-0.3 FP, SE 0.5) and a +0.8 FP bump for new starters (+0.4 FP, SE 0.5).
+- Double-ups: the $2 double-up field averages 13 FP above the GPP field. Lineup 1 would cash an estimated 33-35% under v1.3 and about 50% under CAL; break-even is 50%.
+- CAVEAT: every B77 number uses LineStar's final projections and the true starters. See 4.7 for the pre-lock check.
+
+4.4 Projection audit (30,664 eligible player-slates)
+- Error (MAE): LS 8.04; v1.3 blend 8.15; last-5 average 9.09. The blend is worse than LS in all three seasons.
+- Regression: actual = 1.35 + 0.92 x LS + 0.04 x last-5. The data want a 4% weight on last-5, not 30%.
+- The blend is wrong exactly where it matters. When LS is 8+ FP above the last-5 average (role going up; 4% of rows) the blend under-projects by 3.1 FP, and those players reach 6x salary 37% of the time (20% baseline). When LS is 8+ below (role shrinking) the blend over-projects by 2.6 and they reach 6x 11% of the time.
+- AggProj vs LS (19,150 rows): MAE 7.79 vs 8.03; better in 10 of 10 months and on 74% of slates. Fitted on Oct 2025-Feb 2026 and tested on Mar-Nov 2026: CAL 7.68, AggProj 7.74, LS 8.01, blend 8.13. Once AggProj is in, last-5 and projected ownership add nothing.
+- Pre-lock check on 7 live slates: AggProj MAE 8.15 vs LS 8.32 at the last snapshot before lock.
+- By salary tier, LS bias is within 0.5 FP everywhere (including $10k+). There is no "star" projection bias.
+
+4.5 Exposure tiers and ownership
+- Projected ownership rescaled to 900% is well calibrated on average (bucket means 1.2/3.2/7.3/12.3/19.1/29.5/40.7 projected vs 1.2/3.4/7.0/10.9/17.4/28.3/41.0 realized, 250 slates).
+- But the tiers bind hard: on 8-9 game slates only 1.9 players project 35%+, 13.6 project 15-35% and 112 are under 15%. 41% of each slate's top-5 projected players and 51% of its top-10 value players sit in the under-15% tier, so they may appear in only 1 of our 4 lineups.
+- Example 11/9: Luka Doncic was the top projection (61 FP), projected 13% owned, realized 47-52%; the tier capped him at 1 lineup. He scored 71.6.
+- High ownership is good, not bad: players realized 35%+ owned return 5.6x salary and reach 6x 38% of the time; players at 2% or less return 3.8x and 16%.
+- In the 11 real contests, top-1% lineups carry 298% cumulative ownership (field 256%, ours 234%) and 0.8 players under 10% owned (field 1.7, ours 2.1).
+
+4.6 Lock-time information (7 live slates, last pre-lock snapshot vs final)
+- After our last snapshot, per slate: 4.1 new starters are named (83% in games tipping after lock; they return 5.8x and reach 6x 38% of the time vs 4.5x and 22% for the pool), 3.0 players are scratched (95% after lock), 5.7 projections rise 5+ FP.
+- Late-swap pricing on 28 rebuilt lineups: frozen 298.6; replacing only ruled-out players 301.1; re-optimizing every unlocked slot on final projections 302.4 (+3.8 vs frozen, SE 3.5). The extra gain from aggressive swapping is +1.3, noise.
+- Freshness: same slate and rules, built from a snapshot 30 minutes later: +11.9 FP per lineup for v1.3 and +6.0 for the candidate over 5 slates, never negative.
+- Our snapshot times are fixed (3:15 / 3:45 PM) but lock varies. On 11/5 and 11/7 the last snapshot was 135 and 105 minutes before lock; on 11/10 the build used one 75 minutes old.
+
+4.7 Live-window rebuild, no look-ahead (8 live slates, last pre-lock snapshot only; scored on the real field for 6 slates and on the field model for 2)
+    v1.3 as written ............ mean percentile 42.0 | 5 cashes in 32
+    candidate .................. 51.4 | 11 in 32
+    candidate, no exposure cap . 56.7 | 13 in 32
+  Paired candidate vs v1.3: +9.4 FP per lineup (SE 7.2), better on 6 of 8 slates. The candidate was worse on 10/31 and 11/2 (15th and 9th percentile vs 39th and 11th for v1.3); those slates had 5 and 7 players scratched after the snapshot.
+
+4.8 Process and contest facts
+- The 11/9 and 11/10 lineups were built from re-typed scripts, not the saved one. Deviations: contrarian cutoff 5% instead of 10% on both nights; on 11/10 the ceiling term was omitted, lineups 3-4 used a 50/50 blend, and the build used the 3:15 snapshot with no later re-check (lock was 4:30).
+- All contests are 150-max. The $3-$9 fields have roughly 2,900-10,000 users; 40-105 of them hold 100+ entries. Our lineups were unique on every slate of 5+ games; on a 2-game slate 64% of all entries were duplicates.
+- Overlay: the $9 $111K contest filled only 87-88% on two of the nights we played it, cutting rake from 16% to 3-5%. The $3 contest filled both nights.
+
+5. MANAGER'S DRAFT FOR v1.4 (not in force)
+R1. One canonical build script, committed to the repo and run unchanged. Every build prints its version and logs shadow sets.
+R2. Projection = -0.26 + 0.14 x LS + 0.86 x AggProj (LS alone if AggProj is missing). Drop the last-5 term. Keep the 0.1 ceiling term.
+R3. Replace ownership tiers and the 4-of-9 overlap cap with: any player in at most 3 of 4 lineups; any two lineups share at most 6 of 9 (8 on 3 games or fewer). Keep team cap 3 and max 2 sub-$5k per team. Keep the contrarian cap (no measured effect).
+R4. Build from a snapshot no older than 15 minutes before lock. Pull every 15 minutes through lock and set the build time from the actual lock.
+R5. Late swap unchanged: replace only players ruled out. Add one check before each later tip.
+R6. Grade against the field: mean lineup percentile (chance 50), cash rate (24.5%), top-10% rate (10%), fee-weighted ROI. Drop the best-of-4 target. Stop rule: mean lineup percentile under 50 after 15 slates.
+R7. Contests: no double-ups. When two contests are available, favor the one that is under-filled at lock.
+R8. Log three shadows every slate: v1.3 as written; CAL with no exposure cap; pure LS with the new structure.
+
+6. QUESTIONS
+Q1. Field model: is mean = sum(own x points), SD = 0.35 x sqrt(sum own(1-own)points^2), with fixed z lines, a sound way to turn backtest scores into field percentiles? Name the biases and how to shrink them with the data in section 1.
+Q2. AggProj: the gain is large (+8.6 FP per lineup). What could make it illusory (for example, the final value differing from what is visible before lock)? Give the cleanest test using our 8 pre-lock snapshots, and say what result should stop us from adopting R2.
+Q3. Each entry is paid on its own score, so expected payout is the sum over lineups. Is there any expected-value reason to force our 4 lineups apart, beyond variance? If lineup differences should be driven by something else (game stacks, ceiling, uniqueness against the field), give a codeable rule and its test.
+Q4. Exposure cap: allowing a player in all 4 lineups scored +2.6 percentile (SE 0.7) over a 3-of-4 cap, and raised "all four miss" from 24% to 25%. Keep the cap or drop it?
+Q5. Payouts are top-heavy and our tail cannot be measured. The candidate lifts cash rate to 42% but we cannot show a top-1% gain. What changes specifically raise top-0.1% frequency, and how can they be tested when the field model is unreliable in the tail?
+Q6. Ownership penalties were neutral on mean percentile. Is there a form of leverage worth testing (for example only among near-equal projections, or only in lineups 3-4)? State the rule and the test.
+Q7. New starters named after lock are the best value class (5.8x, 38% reach 6x), yet full late-swap re-optimization gained only +1.3 FP. Is there a narrow swap rule that captures them without churning healthy players? State it precisely.
+Q8. Freshness looks as large as any rule change (+6 to +12 FP for 30 minutes). Is that plausible? What is the best build timing when lock varies and the operator uploads by hand from a phone?
+Q9. Contest selection for 4 lineups at $3-$9: is the 150-max large field right, or should we move to single-entry, 3-max or 20-max contests? What does the evidence here imply, and what should we record to decide?
+Q10. What in the candidate is still unjustified complexity (contrarian cap, team cap, sub-$5k cap, ceiling term)? What would you delete?
+Q11. Validation: how many live slates do we need to confirm a move from mean percentile 50 to about 60, given 4 correlated lineups per slate? Propose the stop and continue rules.
+Q12. The single biggest flaw or risk in this review, and the next three analyses you would run with the data in section 1.
+
+ANSWER FORMAT (for each Q)
+Verdict: AGREE / DISAGREE / MODIFY
+Why: 120 words or fewer
+Rule: the exact rule text, if you propose one
+Test: the exact backtest or live check
+Label: DATA-BACKED / REASONED / SPECULATIVE
