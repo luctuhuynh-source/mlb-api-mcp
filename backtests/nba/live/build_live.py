@@ -25,9 +25,9 @@ Checked by the script itself: it is the unmodified repo copy; live set = v14; Li
 day, taken no more than 25 minutes before lock; projections present for every game; AggProj on 90%+ of the eligible players; ownership
 slate matches the FanDuel slate; game logs current; five starters matched per team; every starter and exclusion name matched; no listed
 starter without a projection; the three shadow sets built; the upload file re-read and validated (slots, salary, team cap, overlap,
-entry ids); contests in the template within rules 19-20.
+entry ids); contests in the template within rule 19 (rule 20 was dropped by Phong on 2026-11-11).
 """
-VERSION='NBA FD v1.4 live + shadows (build_live.py 2026-11-11e)'
+VERSION='NBA FD v1.4 live + shadows (build_live.py 2026-11-11f)'
 import pandas as pd, numpy as np, pulp, re, unicodedata, sys, csv, json, gzip, os, hashlib, datetime
 HERE=os.path.dirname(os.path.abspath(__file__))
 R=os.environ.get('NBA_REPO') or (os.path.join(HERE,'..','') if os.path.exists(os.path.join(HERE,'..','nba_player_games_2026-27.csv')) else '/home/claude/luctuhuynh-source/mlb-api-mcp/backtests/nba/')   # repo folder backtests/nba/
@@ -304,7 +304,7 @@ def run_check():
     if len(seen)!=min(4,len(ent)): bad.append(f'{len(seen)} different lineups in the file for {len(ent)} entries')
     if bad: miss.append('the upload file failed validation: '+'; '.join(bad))
     else: ok.append(f'upload file valid ({len(w)-1} entries: slots, salary, team cap, overlap {ovl})')
-    # 9. contests (rules 19-20)
+    # 9. contests (rule 19; rule 20 dropped 2026-11-11)
     cs={}
     for r in ent:
         c=cs.setdefault(r[1],dict(name=r[2],fee=r[3],n=0)); c['n']+=1
@@ -315,8 +315,6 @@ def run_check():
     if not ent: miss.append('the upload template has no entries - rule 19')
     if len(ent) and len(ent)<4: notes.append(f'only {len(ent)} entries in the template - lineups {len(ent)+1}-4 are built but not entered')
     if len(cs)>2: miss.append(f'{len(cs)} contests in the template; a primary and at most one secondary are allowed - rule 19')
-    banned=[c['name'] for c in cs.values() if re.search(r'double.?up|crossover',c['name'],re.I)]
-    if banned: miss.append('a double-up or Crossover contest is entered: '+'; '.join(banned)+' - rule 20')
     over=[c['name'] for c in cs.values() if c['n']>4]
     if over: miss.append('more than four entries in one contest, so a lineup repeats inside it: '+'; '.join(over)+' - rule 19')
     if len(cs)==1: prim=list(cs.values())[0]['name']
