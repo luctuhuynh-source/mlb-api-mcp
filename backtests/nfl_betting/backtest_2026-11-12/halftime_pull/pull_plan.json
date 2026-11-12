@@ -1,0 +1,2708 @@
+[
+{
+"events_date": "2023-09-07T23:50:00Z",
+"game_ids": [
+"2023_01_DET_KC"
+],
+"items": "Kansas City Chiefs|2023-09-08T01:44:47Z|2023-09-08T01:51:12Z"
+},
+{
+"events_date": "2023-09-10T16:30:00Z",
+"game_ids": [
+"2023_01_ARI_WAS",
+"2023_01_CAR_ATL",
+"2023_01_CIN_CLE",
+"2023_01_HOU_BAL",
+"2023_01_JAX_IND",
+"2023_01_SF_PIT",
+"2023_01_TB_MIN",
+"2023_01_TEN_NO",
+"2023_01_GB_CHI",
+"2023_01_LA_SEA",
+"2023_01_LV_DEN",
+"2023_01_MIA_LAC",
+"2023_01_PHI_NE"
+],
+"items": "Washington Commanders|2023-09-10T18:41:13Z|2023-09-10T18:48:02Z;Atlanta Falcons|2023-09-10T18:24:24Z|2023-09-10T18:31:35Z;Cleveland Browns|2023-09-10T18:42:16Z|2023-09-10T18:49:43Z;Baltimore Ravens|2023-09-10T18:32:07Z|2023-09-10T18:38:31Z;Indianapolis Colts|2023-09-10T18:31:27Z|2023-09-10T18:38:51Z;Pittsburgh Steelers|2023-09-10T18:47:58Z|2023-09-10T18:54:39Z;Minnesota Vikings|2023-09-10T18:39:53Z|2023-09-10T18:47:29Z;New Orleans Saints|2023-09-10T18:46:29Z|2023-09-10T18:53:33Z;Chicago Bears|2023-09-10T21:56:11Z|2023-09-10T22:02:33Z;Seattle Seahawks|2023-09-10T21:51:58Z|2023-09-10T21:58:20Z;Denver Broncos|2023-09-10T21:52:37Z|2023-09-10T21:59:47Z;Los Angeles Chargers|2023-09-10T22:06:06Z|2023-09-10T22:12:26Z;New England Patriots|2023-09-10T21:58:31Z|2023-09-10T22:07:36Z"
+},
+{
+"events_date": "2023-09-10T23:50:00Z",
+"game_ids": [
+"2023_01_DAL_NYG"
+],
+"items": "New York Giants|2023-09-11T01:57:21Z|2023-09-11T02:04:48Z"
+},
+{
+"events_date": "2023-09-11T23:45:00Z",
+"game_ids": [
+"2023_01_BUF_NYJ"
+],
+"items": "New York Jets|2023-09-12T01:39:15Z|2023-09-12T01:45:30Z"
+},
+{
+"events_date": "2023-09-14T23:45:00Z",
+"game_ids": [
+"2023_02_MIN_PHI"
+],
+"items": "Philadelphia Eagles|2023-09-15T01:43:44Z|2023-09-15T01:50:29Z"
+},
+{
+"events_date": "2023-09-17T16:30:00Z",
+"game_ids": [
+"2023_02_BAL_CIN",
+"2023_02_CHI_TB",
+"2023_02_GB_ATL",
+"2023_02_IND_HOU",
+"2023_02_KC_JAX",
+"2023_02_LAC_TEN",
+"2023_02_LV_BUF",
+"2023_02_SEA_DET",
+"2023_02_NYG_ARI",
+"2023_02_SF_LA",
+"2023_02_NYJ_DAL",
+"2023_02_WAS_DEN"
+],
+"items": "Cincinnati Bengals|2023-09-17T18:33:34Z|2023-09-17T18:40:28Z;Tampa Bay Buccaneers|2023-09-17T18:28:57Z|2023-09-17T18:36:19Z;Atlanta Falcons|2023-09-17T18:33:16Z|2023-09-17T18:39:44Z;Houston Texans|2023-09-17T18:36:26Z|2023-09-17T18:42:36Z;Jacksonville Jaguars|2023-09-17T18:36:26Z|2023-09-17T18:42:52Z;Tennessee Titans|2023-09-17T18:28:27Z|2023-09-17T18:34:55Z;Buffalo Bills|2023-09-17T18:32:40Z|2023-09-17T18:39:39Z;Detroit Lions|2023-09-17T18:26:59Z|2023-09-17T18:33:26Z;Arizona Cardinals|2023-09-17T21:33:58Z|2023-09-17T21:40:35Z;Los Angeles Rams|2023-09-17T21:40:54Z|2023-09-17T21:47:34Z;Dallas Cowboys|2023-09-17T21:55:03Z|2023-09-17T22:01:27Z;Denver Broncos|2023-09-17T22:04:34Z|2023-09-17T22:11:51Z"
+},
+{
+"events_date": "2023-09-17T23:50:00Z",
+"game_ids": [
+"2023_02_MIA_NE",
+"2023_02_NO_CAR"
+],
+"items": "New England Patriots|2023-09-18T01:50:05Z|2023-09-18T01:56:37Z;Carolina Panthers|2023-09-19T00:47:58Z|2023-09-19T00:55:10Z"
+},
+{
+"events_date": "2023-09-18T23:45:00Z",
+"game_ids": [
+"2023_02_CLE_PIT"
+],
+"items": "Pittsburgh Steelers|2023-09-19T02:09:57Z|2023-09-19T02:17:04Z"
+},
+{
+"events_date": "2023-09-21T23:45:00Z",
+"game_ids": [
+"2023_03_NYG_SF"
+],
+"items": "San Francisco 49ers|2023-09-22T01:46:09Z|2023-09-22T01:53:15Z"
+},
+{
+"events_date": "2023-09-24T16:30:00Z",
+"game_ids": [
+"2023_03_ATL_DET",
+"2023_03_BUF_WAS",
+"2023_03_DEN_MIA",
+"2023_03_HOU_JAX",
+"2023_03_IND_BAL",
+"2023_03_LAC_MIN",
+"2023_03_NE_NYJ",
+"2023_03_NO_GB",
+"2023_03_TEN_CLE",
+"2023_03_CAR_SEA",
+"2023_03_CHI_KC",
+"2023_03_DAL_ARI"
+],
+"items": "Detroit Lions|2023-09-24T18:29:45Z|2023-09-24T18:36:04Z;Washington Commanders|2023-09-24T18:30:55Z|2023-09-24T18:38:06Z;Miami Dolphins|2023-09-24T18:49:36Z|2023-09-24T18:56:14Z;Jacksonville Jaguars|2023-09-24T18:37:36Z|2023-09-24T18:44:13Z;Baltimore Ravens|2023-09-24T18:26:39Z|2023-09-24T18:33:07Z;Minnesota Vikings|2023-09-24T18:39:32Z|2023-09-24T18:46:03Z;New York Jets|2023-09-24T18:34:32Z|2023-09-24T18:41:34Z;Green Bay Packers|2023-09-24T18:29:17Z|2023-09-24T18:36:23Z;Cleveland Browns|2023-09-24T18:35:07Z|2023-09-24T18:41:35Z;Seattle Seahawks|2023-09-24T21:51:14Z|2023-09-24T21:57:55Z;Kansas City Chiefs|2023-09-24T22:03:49Z|2023-09-24T22:10:11Z;Arizona Cardinals|2023-09-24T21:59:29Z|2023-09-24T22:05:58Z"
+},
+{
+"events_date": "2023-09-24T23:50:00Z",
+"game_ids": [
+"2023_03_PIT_LV",
+"2023_03_PHI_TB"
+],
+"items": "Las Vegas Raiders|2023-09-25T01:55:23Z|2023-09-25T02:02:31Z;Tampa Bay Buccaneers|2023-09-26T00:49:37Z|2023-09-26T00:55:57Z"
+},
+{
+"events_date": "2023-09-25T23:45:00Z",
+"game_ids": [
+"2023_03_LA_CIN"
+],
+"items": "Cincinnati Bengals|2023-09-26T01:51:43Z|2023-09-26T01:57:58Z"
+},
+{
+"events_date": "2023-09-28T23:45:00Z",
+"game_ids": [
+"2023_04_DET_GB"
+],
+"items": "Green Bay Packers|2023-09-29T01:47:48Z|2023-09-29T01:54:59Z"
+},
+{
+"events_date": "2023-10-01T13:00:00Z",
+"game_ids": [
+"2023_04_ATL_JAX",
+"2023_04_BAL_CLE",
+"2023_04_CIN_TEN",
+"2023_04_DEN_CHI",
+"2023_04_LA_IND",
+"2023_04_MIA_BUF",
+"2023_04_MIN_CAR",
+"2023_04_PIT_HOU",
+"2023_04_TB_NO",
+"2023_04_WAS_PHI",
+"2023_04_LV_LAC",
+"2023_04_ARI_SF",
+"2023_04_NE_DAL"
+],
+"items": "Jacksonville Jaguars|2023-10-01T14:56:31Z|2023-10-01T15:03:11Z;Cleveland Browns|2023-10-01T18:40:53Z|2023-10-01T18:48:12Z;Tennessee Titans|2023-10-01T18:38:09Z|2023-10-01T18:44:35Z;Chicago Bears|2023-10-01T18:27:07Z|2023-10-01T18:33:31Z;Indianapolis Colts|2023-10-01T18:27:14Z|2023-10-01T18:33:37Z;Buffalo Bills|2023-10-01T18:42:34Z|2023-10-01T18:48:58Z;Carolina Panthers|2023-10-01T18:27:09Z|2023-10-01T18:33:45Z;Houston Texans|2023-10-01T18:37:50Z|2023-10-01T18:45:39Z;New Orleans Saints|2023-10-01T18:34:24Z|2023-10-01T18:41:28Z;Philadelphia Eagles|2023-10-01T18:35:26Z|2023-10-01T18:42:34Z;Los Angeles Chargers|2023-10-01T21:43:16Z|2023-10-01T21:49:46Z;San Francisco 49ers|2023-10-01T21:52:17Z|2023-10-01T21:58:47Z;Dallas Cowboys|2023-10-01T22:00:16Z|2023-10-01T22:06:56Z"
+},
+{
+"events_date": "2023-10-01T23:50:00Z",
+"game_ids": [
+"2023_04_KC_NYJ"
+],
+"items": "New York Jets|2023-10-02T01:58:21Z|2023-10-02T02:05:06Z"
+},
+{
+"events_date": "2023-10-02T23:45:00Z",
+"game_ids": [
+"2023_04_SEA_NYG"
+],
+"items": "New York Giants|2023-10-03T01:56:15Z|2023-10-03T02:02:41Z"
+},
+{
+"events_date": "2023-10-05T23:45:00Z",
+"game_ids": [
+"2023_05_CHI_WAS"
+],
+"items": "Washington Commanders|2023-10-06T01:42:54Z|2023-10-06T01:49:27Z"
+},
+{
+"events_date": "2023-10-08T13:00:00Z",
+"game_ids": [
+"2023_05_JAX_BUF",
+"2023_05_BAL_PIT",
+"2023_05_CAR_DET",
+"2023_05_HOU_ATL",
+"2023_05_NO_NE",
+"2023_05_NYG_MIA",
+"2023_05_TEN_IND",
+"2023_05_CIN_ARI",
+"2023_05_PHI_LA",
+"2023_05_KC_MIN",
+"2023_05_NYJ_DEN"
+],
+"items": "Buffalo Bills|2023-10-08T15:09:46Z|2023-10-08T15:16:11Z;Pittsburgh Steelers|2023-10-08T18:29:28Z|2023-10-08T18:35:56Z;Detroit Lions|2023-10-08T18:41:41Z|2023-10-08T18:48:03Z;Atlanta Falcons|2023-10-08T18:38:34Z|2023-10-08T18:45:34Z;New England Patriots|2023-10-08T18:35:42Z|2023-10-08T18:42:03Z;Miami Dolphins|2023-10-08T18:36:13Z|2023-10-08T18:43:02Z;Indianapolis Colts|2023-10-08T18:29:14Z|2023-10-08T18:35:46Z;Arizona Cardinals|2023-10-08T21:41:08Z|2023-10-08T21:47:44Z;Los Angeles Rams|2023-10-08T21:30:51Z|2023-10-08T21:37:21Z;Minnesota Vikings|2023-10-08T21:56:26Z|2023-10-08T22:03:03Z;Denver Broncos|2023-10-08T21:52:09Z|2023-10-08T21:58:47Z"
+},
+{
+"events_date": "2023-10-08T23:50:00Z",
+"game_ids": [
+"2023_05_DAL_SF"
+],
+"items": "San Francisco 49ers|2023-10-09T02:04:14Z|2023-10-09T02:11:29Z"
+},
+{
+"events_date": "2023-10-09T23:45:00Z",
+"game_ids": [
+"2023_05_GB_LV"
+],
+"items": "Las Vegas Raiders|2023-10-10T01:43:14Z|2023-10-10T01:49:56Z"
+},
+{
+"events_date": "2023-10-12T23:45:00Z",
+"game_ids": [
+"2023_06_DEN_KC"
+],
+"items": "Kansas City Chiefs|2023-10-13T01:45:22Z|2023-10-13T01:52:39Z"
+},
+{
+"events_date": "2023-10-15T13:00:00Z",
+"game_ids": [
+"2023_06_BAL_TEN",
+"2023_06_CAR_MIA",
+"2023_06_IND_JAX",
+"2023_06_MIN_CHI",
+"2023_06_NO_HOU",
+"2023_06_SEA_CIN",
+"2023_06_SF_CLE",
+"2023_06_WAS_ATL",
+"2023_06_NE_LV",
+"2023_06_ARI_LA",
+"2023_06_DET_TB",
+"2023_06_PHI_NYJ"
+],
+"items": "Tennessee Titans|2023-10-15T15:01:54Z|2023-10-15T15:08:36Z;Miami Dolphins|2023-10-15T18:35:15Z|2023-10-15T18:41:37Z;Jacksonville Jaguars|2023-10-15T18:32:45Z|2023-10-15T18:38:49Z;Chicago Bears|2023-10-15T18:35:27Z|2023-10-15T18:41:46Z;Houston Texans|2023-10-15T18:33:15Z|2023-10-15T18:40:55Z;Cincinnati Bengals|2023-10-15T18:24:10Z|2023-10-15T18:30:29Z;Cleveland Browns|2023-10-15T18:43:55Z|2023-10-15T18:50:24Z;Atlanta Falcons|2023-10-15T18:32:36Z|2023-10-15T18:38:56Z;Las Vegas Raiders|2023-10-15T21:38:48Z|2023-10-15T21:45:20Z;Los Angeles Rams|2023-10-15T21:59:42Z|2023-10-15T22:06:20Z;Tampa Bay Buccaneers|2023-10-15T21:54:38Z|2023-10-15T22:01:44Z;New York Jets|2023-10-15T22:04:54Z|2023-10-15T22:11:26Z"
+},
+{
+"events_date": "2023-10-15T23:50:00Z",
+"game_ids": [
+"2023_06_NYG_BUF"
+],
+"items": "Buffalo Bills|2023-10-16T02:08:11Z|2023-10-16T02:14:55Z"
+},
+{
+"events_date": "2023-10-16T23:45:00Z",
+"game_ids": [
+"2023_06_DAL_LAC"
+],
+"items": "Los Angeles Chargers|2023-10-17T01:48:41Z|2023-10-17T01:55:12Z"
+},
+{
+"events_date": "2023-10-19T23:45:00Z",
+"game_ids": [
+"2023_07_JAX_NO"
+],
+"items": "New Orleans Saints|2023-10-20T01:50:28Z|2023-10-20T01:57:45Z"
+},
+{
+"events_date": "2023-10-22T16:30:00Z",
+"game_ids": [
+"2023_07_ATL_TB",
+"2023_07_BUF_NE",
+"2023_07_CLE_IND",
+"2023_07_DET_BAL",
+"2023_07_LV_CHI",
+"2023_07_WAS_NYG",
+"2023_07_ARI_SEA",
+"2023_07_PIT_LA",
+"2023_07_GB_DEN",
+"2023_07_LAC_KC"
+],
+"items": "Tampa Bay Buccaneers|2023-10-22T18:32:41Z|2023-10-22T18:39:29Z;New England Patriots|2023-10-22T18:26:28Z|2023-10-22T18:32:59Z;Indianapolis Colts|2023-10-22T18:50:42Z|2023-10-22T18:57:28Z;Baltimore Ravens|2023-10-22T18:38:09Z|2023-10-22T18:44:47Z;Chicago Bears|2023-10-22T18:31:40Z|2023-10-22T18:38:15Z;New York Giants|2023-10-22T18:39:47Z|2023-10-22T18:46:30Z;Seattle Seahawks|2023-10-22T21:44:10Z|2023-10-22T21:50:52Z;Los Angeles Rams|2023-10-22T21:32:55Z|2023-10-22T21:39:12Z;Denver Broncos|2023-10-22T21:54:00Z|2023-10-22T22:00:48Z;Kansas City Chiefs|2023-10-22T21:52:10Z|2023-10-22T21:58:51Z"
+},
+{
+"events_date": "2023-10-22T23:50:00Z",
+"game_ids": [
+"2023_07_MIA_PHI"
+],
+"items": "Philadelphia Eagles|2023-10-23T01:50:24Z|2023-10-23T01:57:21Z"
+},
+{
+"events_date": "2023-10-23T23:45:00Z",
+"game_ids": [
+"2023_07_SF_MIN"
+],
+"items": "Minnesota Vikings|2023-10-24T01:36:29Z|2023-10-24T01:43:07Z"
+},
+{
+"events_date": "2023-10-26T23:45:00Z",
+"game_ids": [
+"2023_08_TB_BUF"
+],
+"items": "Buffalo Bills|2023-10-27T01:46:10Z|2023-10-27T01:53:04Z"
+},
+{
+"events_date": "2023-10-29T16:30:00Z",
+"game_ids": [
+"2023_08_ATL_TEN",
+"2023_08_HOU_CAR",
+"2023_08_JAX_PIT",
+"2023_08_LA_DAL",
+"2023_08_MIN_GB",
+"2023_08_NE_MIA",
+"2023_08_NO_IND",
+"2023_08_NYJ_NYG",
+"2023_08_PHI_WAS",
+"2023_08_CLE_SEA",
+"2023_08_BAL_ARI",
+"2023_08_CIN_SF",
+"2023_08_KC_DEN"
+],
+"items": "Tennessee Titans|2023-10-29T18:38:24Z|2023-10-29T18:44:58Z;Carolina Panthers|2023-10-29T18:29:51Z|2023-10-29T18:37:25Z;Pittsburgh Steelers|2023-10-29T18:39:01Z|2023-10-29T18:45:45Z;Dallas Cowboys|2023-10-29T18:40:05Z|2023-10-29T18:46:33Z;Green Bay Packers|2023-10-29T18:39:26Z|2023-10-29T18:46:28Z;Miami Dolphins|2023-10-29T18:33:16Z|2023-10-29T18:40:01Z;Indianapolis Colts|2023-10-29T18:41:06Z|2023-10-29T18:47:37Z;New York Giants|2023-10-29T18:48:25Z|2023-10-29T18:55:17Z;Washington Commanders|2023-10-29T18:32:28Z|2023-10-29T18:38:41Z;Seattle Seahawks|2023-10-29T21:41:12Z|2023-10-29T21:47:40Z;Arizona Cardinals|2023-10-29T21:53:51Z|2023-10-29T22:00:19Z;San Francisco 49ers|2023-10-29T21:50:56Z|2023-10-29T21:57:52Z;Denver Broncos|2023-10-29T21:58:01Z|2023-10-29T22:04:36Z"
+},
+{
+"events_date": "2023-10-29T23:50:00Z",
+"game_ids": [
+"2023_08_CHI_LAC"
+],
+"items": "Los Angeles Chargers|2023-10-30T01:52:28Z|2023-10-30T01:59:07Z"
+},
+{
+"events_date": "2023-10-30T23:45:00Z",
+"game_ids": [
+"2023_08_LV_DET"
+],
+"items": "Detroit Lions|2023-10-31T01:45:25Z|2023-10-31T01:52:06Z"
+},
+{
+"events_date": "2023-11-02T23:45:00Z",
+"game_ids": [
+"2023_09_TEN_PIT"
+],
+"items": "Pittsburgh Steelers|2023-11-03T01:51:30Z|2023-11-03T01:57:51Z"
+},
+{
+"events_date": "2023-11-05T14:00:00Z",
+"game_ids": [
+"2023_09_MIA_KC",
+"2023_09_ARI_CLE",
+"2023_09_CHI_NO",
+"2023_09_LA_GB",
+"2023_09_MIN_ATL",
+"2023_09_SEA_BAL",
+"2023_09_TB_HOU",
+"2023_09_WAS_NE",
+"2023_09_IND_CAR",
+"2023_09_DAL_PHI",
+"2023_09_NYG_LV"
+],
+"items": "Kansas City Chiefs|2023-11-05T16:08:50Z|2023-11-05T16:15:37Z;Cleveland Browns|2023-11-05T19:30:09Z|2023-11-05T19:36:32Z;New Orleans Saints|2023-11-05T19:30:10Z|2023-11-05T19:36:55Z;Green Bay Packers|2023-11-05T19:37:45Z|2023-11-05T19:44:17Z;Atlanta Falcons|2023-11-05T19:37:04Z|2023-11-05T19:44:31Z;Baltimore Ravens|2023-11-05T19:37:57Z|2023-11-05T19:45:05Z;Houston Texans|2023-11-05T19:37:07Z|2023-11-05T19:44:37Z;New England Patriots|2023-11-05T19:30:13Z|2023-11-05T19:36:27Z;Carolina Panthers|2023-11-05T22:39:37Z|2023-11-05T22:46:51Z;Philadelphia Eagles|2023-11-05T23:00:39Z|2023-11-05T23:06:56Z;Las Vegas Raiders|2023-11-05T22:59:02Z|2023-11-05T23:05:48Z"
+},
+{
+"events_date": "2023-11-06T00:50:00Z",
+"game_ids": [
+"2023_09_BUF_CIN"
+],
+"items": "Cincinnati Bengals|2023-11-06T02:55:23Z|2023-11-06T03:04:20Z"
+},
+{
+"events_date": "2023-11-07T00:45:00Z",
+"game_ids": [
+"2023_09_LAC_NYJ"
+],
+"items": "New York Jets|2023-11-07T02:53:41Z|2023-11-07T03:00:04Z"
+},
+{
+"events_date": "2023-11-10T00:45:00Z",
+"game_ids": [
+"2023_10_CAR_CHI"
+],
+"items": "Chicago Bears|2023-11-10T02:46:59Z|2023-11-10T02:53:18Z"
+},
+{
+"events_date": "2023-11-12T14:00:00Z",
+"game_ids": [
+"2023_10_IND_NE",
+"2023_10_CLE_BAL",
+"2023_10_GB_PIT",
+"2023_10_HOU_CIN",
+"2023_10_NO_MIN",
+"2023_10_SF_JAX",
+"2023_10_TEN_TB",
+"2023_10_ATL_ARI",
+"2023_10_DET_LAC",
+"2023_10_NYG_DAL",
+"2023_10_WAS_SEA"
+],
+"items": "New England Patriots|2023-11-12T15:57:17Z|2023-11-12T16:03:45Z;Baltimore Ravens|2023-11-12T19:49:45Z|2023-11-12T19:56:35Z;Pittsburgh Steelers|2023-11-12T19:33:15Z|2023-11-12T19:40:46Z;Cincinnati Bengals|2023-11-12T19:31:51Z|2023-11-12T19:38:13Z;Minnesota Vikings|2023-11-12T19:37:14Z|2023-11-12T19:43:46Z;Jacksonville Jaguars|2023-11-12T19:35:22Z|2023-11-12T19:41:46Z;Tampa Bay Buccaneers|2023-11-12T19:24:53Z|2023-11-12T19:31:39Z;Arizona Cardinals|2023-11-12T22:29:47Z|2023-11-12T22:36:19Z;Los Angeles Chargers|2023-11-12T22:37:30Z|2023-11-12T22:44:22Z;Dallas Cowboys|2023-11-12T23:03:52Z|2023-11-12T23:11:29Z;Seattle Seahawks|2023-11-12T23:04:49Z|2023-11-12T23:12:06Z"
+},
+{
+"events_date": "2023-11-13T00:50:00Z",
+"game_ids": [
+"2023_10_NYJ_LV"
+],
+"items": "Las Vegas Raiders|2023-11-13T02:53:10Z|2023-11-13T03:00:41Z"
+},
+{
+"events_date": "2023-11-14T00:45:00Z",
+"game_ids": [
+"2023_10_DEN_BUF"
+],
+"items": "Buffalo Bills|2023-11-14T02:54:16Z|2023-11-14T03:01:14Z"
+},
+{
+"events_date": "2023-11-17T00:45:00Z",
+"game_ids": [
+"2023_11_CIN_BAL"
+],
+"items": "Baltimore Ravens|2023-11-17T03:02:48Z|2023-11-17T03:09:27Z"
+},
+{
+"events_date": "2023-11-19T17:30:00Z",
+"game_ids": [
+"2023_11_ARI_HOU",
+"2023_11_CHI_DET",
+"2023_11_DAL_CAR",
+"2023_11_LAC_GB",
+"2023_11_LV_MIA",
+"2023_11_NYG_WAS",
+"2023_11_PIT_CLE",
+"2023_11_TEN_JAX",
+"2023_11_TB_SF",
+"2023_11_NYJ_BUF",
+"2023_11_SEA_LA"
+],
+"items": "Houston Texans|2023-11-19T19:33:19Z|2023-11-19T19:39:48Z;Detroit Lions|2023-11-19T19:27:25Z|2023-11-19T19:34:01Z;Carolina Panthers|2023-11-19T19:33:44Z|2023-11-19T19:40:27Z;Green Bay Packers|2023-11-19T19:38:34Z|2023-11-19T19:44:46Z;Miami Dolphins|2023-11-19T19:36:22Z|2023-11-19T19:43:25Z;Washington Commanders|2023-11-19T19:39:31Z|2023-11-19T19:46:11Z;Cleveland Browns|2023-11-19T19:28:34Z|2023-11-19T19:35:48Z;Jacksonville Jaguars|2023-11-19T19:30:49Z|2023-11-19T19:37:10Z;San Francisco 49ers|2023-11-19T22:25:46Z|2023-11-19T22:32:06Z;Buffalo Bills|2023-11-19T23:18:21Z|2023-11-19T23:25:19Z;Los Angeles Rams|2023-11-19T22:48:03Z|2023-11-19T22:54:16Z"
+},
+{
+"events_date": "2023-11-20T00:50:00Z",
+"game_ids": [
+"2023_11_MIN_DEN"
+],
+"items": "Denver Broncos|2023-11-20T02:44:20Z|2023-11-20T02:51:25Z"
+},
+{
+"events_date": "2023-11-21T00:45:00Z",
+"game_ids": [
+"2023_11_PHI_KC"
+],
+"items": "Kansas City Chiefs|2023-11-21T02:45:03Z|2023-11-21T02:51:31Z"
+},
+{
+"events_date": "2023-11-23T17:00:00Z",
+"game_ids": [
+"2023_12_GB_DET",
+"2023_12_WAS_DAL"
+],
+"items": "Detroit Lions|2023-11-23T19:08:40Z|2023-11-23T19:21:19Z;Dallas Cowboys|2023-11-23T23:11:22Z|2023-11-23T23:25:34Z"
+},
+{
+"events_date": "2023-11-24T00:50:00Z",
+"game_ids": [
+"2023_12_SF_SEA",
+"2023_12_MIA_NYJ"
+],
+"items": "Seattle Seahawks|2023-11-24T02:58:55Z|2023-11-24T03:08:32Z;New York Jets|2023-11-24T21:34:07Z|2023-11-24T21:40:25Z"
+},
+{
+"events_date": "2023-11-26T17:30:00Z",
+"game_ids": [
+"2023_12_CAR_TEN",
+"2023_12_JAX_HOU",
+"2023_12_NE_NYG",
+"2023_12_NO_ATL",
+"2023_12_PIT_CIN",
+"2023_12_TB_IND",
+"2023_12_CLE_DEN",
+"2023_12_LA_ARI",
+"2023_12_BUF_PHI",
+"2023_12_KC_LV"
+],
+"items": "Tennessee Titans|2023-11-26T19:38:51Z|2023-11-26T19:45:37Z;Houston Texans|2023-11-26T19:36:42Z|2023-11-26T19:43:12Z;New York Giants|2023-11-26T19:35:09Z|2023-11-26T19:42:10Z;Atlanta Falcons|2023-11-26T19:36:47Z|2023-11-26T19:43:45Z;Cincinnati Bengals|2023-11-26T19:31:39Z|2023-11-26T19:38:04Z;Indianapolis Colts|2023-11-26T19:38:57Z|2023-11-26T19:46:29Z;Denver Broncos|2023-11-26T22:37:44Z|2023-11-26T22:44:32Z;Arizona Cardinals|2023-11-26T22:36:50Z|2023-11-26T22:44:11Z;Philadelphia Eagles|2023-11-26T23:14:46Z|2023-11-26T23:21:43Z;Las Vegas Raiders|2023-11-26T22:52:01Z|2023-11-26T22:58:54Z"
+},
+{
+"events_date": "2023-11-27T00:50:00Z",
+"game_ids": [
+"2023_12_BAL_LAC"
+],
+"items": "Los Angeles Chargers|2023-11-27T02:51:45Z|2023-11-27T02:58:22Z"
+},
+{
+"events_date": "2023-11-28T00:45:00Z",
+"game_ids": [
+"2023_12_CHI_MIN"
+],
+"items": "Minnesota Vikings|2023-11-28T02:38:38Z|2023-11-28T02:44:47Z"
+},
+{
+"events_date": "2023-12-01T00:45:00Z",
+"game_ids": [
+"2023_13_SEA_DAL"
+],
+"items": "Dallas Cowboys|2023-12-01T02:59:45Z|2023-12-01T03:07:17Z"
+},
+{
+"events_date": "2023-12-03T17:30:00Z",
+"game_ids": [
+"2023_13_ATL_NYJ",
+"2023_13_DEN_HOU",
+"2023_13_DET_NO",
+"2023_13_IND_TEN",
+"2023_13_LAC_NE",
+"2023_13_MIA_WAS",
+"2023_13_CAR_TB",
+"2023_13_CLE_LA",
+"2023_13_SF_PHI"
+],
+"items": "New York Jets|2023-12-03T19:44:15Z|2023-12-03T19:51:14Z;Houston Texans|2023-12-03T19:36:43Z|2023-12-03T19:43:10Z;New Orleans Saints|2023-12-03T19:43:11Z|2023-12-03T19:49:40Z;Tennessee Titans|2023-12-03T19:45:17Z|2023-12-03T19:51:34Z;New England Patriots|2023-12-03T19:30:37Z|2023-12-03T19:37:47Z;Washington Commanders|2023-12-03T19:40:36Z|2023-12-03T19:46:56Z;Tampa Bay Buccaneers|2023-12-03T22:40:52Z|2023-12-03T22:47:14Z;Los Angeles Rams|2023-12-03T23:09:19Z|2023-12-03T23:15:39Z;Philadelphia Eagles|2023-12-03T22:53:23Z|2023-12-03T22:59:57Z"
+},
+{
+"events_date": "2023-12-04T00:50:00Z",
+"game_ids": [
+"2023_13_KC_GB"
+],
+"items": "Green Bay Packers|2023-12-04T02:39:13Z|2023-12-04T02:45:38Z"
+},
+{
+"events_date": "2023-12-05T00:45:00Z",
+"game_ids": [
+"2023_13_CIN_JAX"
+],
+"items": "Jacksonville Jaguars|2023-12-05T02:37:42Z|2023-12-05T02:44:26Z"
+},
+{
+"events_date": "2023-12-08T00:45:00Z",
+"game_ids": [
+"2023_14_NE_PIT"
+],
+"items": "Pittsburgh Steelers|2023-12-08T02:50:15Z|2023-12-08T02:57:30Z"
+},
+{
+"events_date": "2023-12-10T17:30:00Z",
+"game_ids": [
+"2023_14_CAR_NO",
+"2023_14_DET_CHI",
+"2023_14_HOU_NYJ",
+"2023_14_IND_CIN",
+"2023_14_JAX_CLE",
+"2023_14_LA_BAL",
+"2023_14_TB_ATL",
+"2023_14_MIN_LV",
+"2023_14_SEA_SF",
+"2023_14_BUF_KC",
+"2023_14_DEN_LAC"
+],
+"items": "New Orleans Saints|2023-12-10T19:36:34Z|2023-12-10T19:43:02Z;Chicago Bears|2023-12-10T19:29:23Z|2023-12-10T19:36:11Z;New York Jets|2023-12-10T19:27:08Z|2023-12-10T19:33:18Z;Cincinnati Bengals|2023-12-10T19:30:24Z|2023-12-10T19:37:23Z;Cleveland Browns|2023-12-10T19:53:08Z|2023-12-10T20:00:07Z;Baltimore Ravens|2023-12-10T19:47:18Z|2023-12-10T19:53:49Z;Atlanta Falcons|2023-12-10T19:26:44Z|2023-12-10T19:33:02Z;Las Vegas Raiders|2023-12-10T22:30:29Z|2023-12-10T22:37:26Z;San Francisco 49ers|2023-12-10T22:34:00Z|2023-12-10T22:40:36Z;Kansas City Chiefs|2023-12-10T23:01:14Z|2023-12-10T23:07:44Z;Los Angeles Chargers|2023-12-10T22:57:45Z|2023-12-10T23:05:27Z"
+},
+{
+"events_date": "2023-12-11T00:50:00Z",
+"game_ids": [
+"2023_14_PHI_DAL"
+],
+"items": "Dallas Cowboys|2023-12-11T03:00:46Z|2023-12-11T03:07:53Z"
+},
+{
+"events_date": "2023-12-12T00:45:00Z",
+"game_ids": [
+"2023_14_GB_NYG",
+"2023_14_TEN_MIA"
+],
+"items": "New York Giants|2023-12-12T02:53:29Z|2023-12-12T02:59:47Z;Miami Dolphins|2023-12-12T02:48:53Z|2023-12-12T02:55:29Z"
+},
+{
+"events_date": "2023-12-15T00:45:00Z",
+"game_ids": [
+"2023_15_LAC_LV"
+],
+"items": "Las Vegas Raiders|2023-12-15T03:01:05Z|2023-12-15T03:08:00Z"
+},
+{
+"events_date": "2023-12-16T17:30:00Z",
+"game_ids": [
+"2023_15_MIN_CIN",
+"2023_15_PIT_IND"
+],
+"items": "Cincinnati Bengals|2023-12-16T19:34:52Z|2023-12-16T19:41:42Z;Indianapolis Colts|2023-12-16T23:11:08Z|2023-12-16T23:17:41Z"
+},
+{
+"events_date": "2023-12-17T00:45:00Z",
+"game_ids": [
+"2023_15_DEN_DET",
+"2023_15_ATL_CAR",
+"2023_15_CHI_CLE",
+"2023_15_HOU_TEN",
+"2023_15_KC_NE",
+"2023_15_NYG_NO",
+"2023_15_NYJ_MIA",
+"2023_15_TB_GB",
+"2023_15_SF_ARI",
+"2023_15_WAS_LA",
+"2023_15_DAL_BUF"
+],
+"items": "Detroit Lions|2023-12-17T02:44:57Z|2023-12-17T02:51:37Z;Carolina Panthers|2023-12-17T19:28:37Z|2023-12-17T19:35:33Z;Cleveland Browns|2023-12-17T19:42:39Z|2023-12-17T19:49:43Z;Tennessee Titans|2023-12-17T19:22:19Z|2023-12-17T19:29:48Z;New England Patriots|2023-12-17T19:28:07Z|2023-12-17T19:35:29Z;New Orleans Saints|2023-12-17T19:29:58Z|2023-12-17T19:36:26Z;Miami Dolphins|2023-12-17T19:38:23Z|2023-12-17T19:44:51Z;Green Bay Packers|2023-12-17T19:24:31Z|2023-12-17T19:30:56Z;Arizona Cardinals|2023-12-17T22:39:01Z|2023-12-17T22:45:55Z;Los Angeles Rams|2023-12-17T22:33:30Z|2023-12-17T22:39:48Z;Buffalo Bills|2023-12-17T22:54:09Z|2023-12-17T23:00:54Z"
+},
+{
+"events_date": "2023-12-18T00:50:00Z",
+"game_ids": [
+"2023_15_BAL_JAX"
+],
+"items": "Jacksonville Jaguars|2023-12-18T02:49:47Z|2023-12-18T02:56:52Z"
+},
+{
+"events_date": "2023-12-19T00:45:00Z",
+"game_ids": [
+"2023_15_PHI_SEA"
+],
+"items": "Seattle Seahawks|2023-12-19T02:46:03Z|2023-12-19T02:52:43Z"
+},
+{
+"events_date": "2023-12-22T00:45:00Z",
+"game_ids": [
+"2023_16_NO_LA"
+],
+"items": "Los Angeles Rams|2023-12-22T02:41:53Z|2023-12-22T02:48:28Z"
+},
+{
+"events_date": "2023-12-23T21:00:00Z",
+"game_ids": [
+"2023_16_CIN_PIT"
+],
+"items": "Pittsburgh Steelers|2023-12-23T22:59:18Z|2023-12-23T23:06:07Z"
+},
+{
+"events_date": "2023-12-24T00:30:00Z",
+"game_ids": [
+"2023_16_BUF_LAC",
+"2023_16_CLE_HOU",
+"2023_16_DET_MIN",
+"2023_16_GB_CAR",
+"2023_16_IND_ATL",
+"2023_16_SEA_TEN",
+"2023_16_WAS_NYJ",
+"2023_16_JAX_TB",
+"2023_16_ARI_CHI",
+"2023_16_DAL_MIA"
+],
+"items": "Los Angeles Chargers|2023-12-24T02:26:53Z|2023-12-24T02:33:48Z;Houston Texans|2023-12-24T19:44:22Z|2023-12-24T19:50:48Z;Minnesota Vikings|2023-12-24T19:40:11Z|2023-12-24T19:46:45Z;Carolina Panthers|2023-12-24T19:36:32Z|2023-12-24T19:42:44Z;Atlanta Falcons|2023-12-24T19:35:25Z|2023-12-24T19:41:49Z;Tennessee Titans|2023-12-24T19:33:52Z|2023-12-24T19:40:24Z;New York Jets|2023-12-24T19:55:24Z|2023-12-24T20:01:55Z;Tampa Bay Buccaneers|2023-12-24T22:26:55Z|2023-12-24T22:33:12Z;Chicago Bears|2023-12-24T23:00:43Z|2023-12-24T23:07:00Z;Miami Dolphins|2023-12-24T22:56:29Z|2023-12-24T23:03:38Z"
+},
+{
+"events_date": "2023-12-25T00:45:00Z",
+"game_ids": [
+"2023_16_NE_DEN",
+"2023_16_LV_KC",
+"2023_16_NYG_PHI"
+],
+"items": "Denver Broncos|2023-12-25T02:41:24Z|2023-12-25T02:48:43Z;Kansas City Chiefs|2023-12-25T19:35:12Z|2023-12-25T19:42:47Z;Philadelphia Eagles|2023-12-25T23:13:58Z|2023-12-25T23:20:53Z"
+},
+{
+"events_date": "2023-12-26T00:45:00Z",
+"game_ids": [
+"2023_16_BAL_SF"
+],
+"items": "San Francisco 49ers|2023-12-26T02:53:51Z|2023-12-26T03:01:58Z"
+},
+{
+"events_date": "2023-12-29T00:45:00Z",
+"game_ids": [
+"2023_17_NYJ_CLE"
+],
+"items": "Cleveland Browns|2023-12-29T02:51:48Z|2023-12-29T02:58:08Z"
+},
+{
+"events_date": "2023-12-31T00:45:00Z",
+"game_ids": [
+"2023_17_DET_DAL",
+"2023_17_ARI_PHI",
+"2023_17_ATL_CHI",
+"2023_17_CAR_JAX",
+"2023_17_LA_NYG",
+"2023_17_LV_IND",
+"2023_17_MIA_BAL",
+"2023_17_NE_BUF",
+"2023_17_NO_TB",
+"2023_17_SF_WAS",
+"2023_17_TEN_HOU",
+"2023_17_PIT_SEA",
+"2023_17_CIN_KC",
+"2023_17_LAC_DEN"
+],
+"items": "Dallas Cowboys|2023-12-31T02:42:05Z|2023-12-31T02:50:10Z;Philadelphia Eagles|2023-12-31T19:25:14Z|2023-12-31T19:31:54Z;Chicago Bears|2023-12-31T19:33:41Z|2023-12-31T19:41:05Z;Jacksonville Jaguars|2023-12-31T19:27:25Z|2023-12-31T19:33:43Z;New York Giants|2023-12-31T19:33:37Z|2023-12-31T19:40:04Z;Indianapolis Colts|2023-12-31T19:26:33Z|2023-12-31T19:33:00Z;Baltimore Ravens|2023-12-31T19:41:49Z|2023-12-31T19:48:16Z;Buffalo Bills|2023-12-31T19:44:06Z|2023-12-31T19:50:57Z;Tampa Bay Buccaneers|2023-12-31T19:29:33Z|2023-12-31T19:35:58Z;Washington Commanders|2023-12-31T19:19:44Z|2023-12-31T19:27:13Z;Houston Texans|2023-12-31T19:27:21Z|2023-12-31T19:33:40Z;Seattle Seahawks|2023-12-31T22:33:22Z|2023-12-31T22:40:37Z;Kansas City Chiefs|2023-12-31T22:52:25Z|2023-12-31T22:59:21Z;Denver Broncos|2023-12-31T22:59:51Z|2023-12-31T23:06:07Z"
+},
+{
+"events_date": "2024-01-01T00:50:00Z",
+"game_ids": [
+"2023_17_GB_MIN"
+],
+"items": "Minnesota Vikings|2024-01-01T02:55:01Z|2024-01-01T03:01:19Z"
+},
+{
+"events_date": "2024-01-06T21:00:00Z",
+"game_ids": [
+"2023_18_PIT_BAL"
+],
+"items": "Baltimore Ravens|2024-01-06T22:59:10Z|2024-01-06T23:05:54Z"
+},
+{
+"events_date": "2024-01-07T00:45:00Z",
+"game_ids": [
+"2023_18_HOU_IND",
+"2023_18_ATL_NO",
+"2023_18_CLE_CIN",
+"2023_18_JAX_TEN",
+"2023_18_MIN_DET",
+"2023_18_NYJ_NE",
+"2023_18_TB_CAR",
+"2023_18_CHI_GB",
+"2023_18_DAL_WAS",
+"2023_18_DEN_LV",
+"2023_18_KC_LAC",
+"2023_18_LA_SF",
+"2023_18_PHI_NYG",
+"2023_18_SEA_ARI"
+],
+"items": "Indianapolis Colts|2024-01-07T02:46:02Z|2024-01-07T02:53:11Z;New Orleans Saints|2024-01-07T19:36:34Z|2024-01-07T19:42:56Z;Cincinnati Bengals|2024-01-07T19:33:57Z|2024-01-07T19:40:15Z;Tennessee Titans|2024-01-07T19:37:52Z|2024-01-07T19:44:08Z;Detroit Lions|2024-01-07T19:36:44Z|2024-01-07T19:43:24Z;New England Patriots|2024-01-07T19:35:06Z|2024-01-07T19:42:56Z;Carolina Panthers|2024-01-07T19:29:56Z|2024-01-07T19:36:30Z;Green Bay Packers|2024-01-07T22:36:49Z|2024-01-07T22:43:30Z;Washington Commanders|2024-01-07T22:59:36Z|2024-01-07T23:06:53Z;Las Vegas Raiders|2024-01-07T22:59:15Z|2024-01-07T23:06:28Z;Los Angeles Chargers|2024-01-07T22:57:22Z|2024-01-07T23:03:53Z;San Francisco 49ers|2024-01-07T22:53:07Z|2024-01-07T22:59:31Z;New York Giants|2024-01-07T22:57:13Z|2024-01-07T23:03:41Z;Arizona Cardinals|2024-01-07T22:56:07Z|2024-01-07T23:02:20Z"
+},
+{
+"events_date": "2024-01-08T00:50:00Z",
+"game_ids": [
+"2023_18_BUF_MIA"
+],
+"items": "Miami Dolphins|2024-01-08T02:52:46Z|2024-01-08T02:59:22Z"
+},
+{
+"events_date": "2024-01-13T21:00:00Z",
+"game_ids": [
+"2023_19_CLE_HOU"
+],
+"items": "Houston Texans|2024-01-13T23:05:51Z|2024-01-13T23:12:56Z"
+},
+{
+"events_date": "2024-01-14T00:30:00Z",
+"game_ids": [
+"2023_19_MIA_KC",
+"2023_19_GB_DAL"
+],
+"items": "Kansas City Chiefs|2024-01-14T02:49:31Z|2024-01-14T02:57:02Z;Dallas Cowboys|2024-01-14T23:08:41Z|2024-01-14T23:15:37Z"
+},
+{
+"events_date": "2024-01-15T00:30:00Z",
+"game_ids": [
+"2023_19_LA_DET",
+"2023_19_PIT_BUF"
+],
+"items": "Detroit Lions|2024-01-15T02:38:09Z|2024-01-15T02:44:51Z;Buffalo Bills|2024-01-15T23:10:57Z|2024-01-15T23:17:34Z"
+},
+{
+"events_date": "2024-01-16T00:30:00Z",
+"game_ids": [
+"2023_19_PHI_TB"
+],
+"items": "Tampa Bay Buccaneers|2024-01-16T02:52:53Z|2024-01-16T02:59:34Z"
+},
+{
+"events_date": "2024-01-20T21:00:00Z",
+"game_ids": [
+"2023_20_HOU_BAL"
+],
+"items": "Baltimore Ravens|2024-01-20T23:06:28Z|2024-01-20T23:13:07Z"
+},
+{
+"events_date": "2024-01-21T00:45:00Z",
+"game_ids": [
+"2023_20_GB_SF",
+"2023_20_TB_DET",
+"2023_20_KC_BUF"
+],
+"items": "San Francisco 49ers|2024-01-21T02:40:29Z|2024-01-21T02:46:39Z;Detroit Lions|2024-01-21T21:31:42Z|2024-01-21T21:38:57Z;Buffalo Bills|2024-01-22T01:12:19Z|2024-01-22T01:20:10Z"
+},
+{
+"events_date": "2024-01-28T19:30:00Z",
+"game_ids": [
+"2023_21_KC_BAL",
+"2023_21_DET_SF"
+],
+"items": "Baltimore Ravens|2024-01-28T21:41:14Z|2024-01-28T21:48:01Z;San Francisco 49ers|2024-01-29T01:16:34Z|2024-01-29T01:24:10Z"
+},
+{
+"events_date": "2024-02-11T23:00:00Z",
+"game_ids": [
+"2023_22_SF_KC"
+],
+"items": "Kansas City Chiefs|2024-02-12T01:18:32Z|2024-02-12T01:44:37Z"
+},
+{
+"events_date": "2024-09-05T23:50:00Z",
+"game_ids": [
+"2024_01_BAL_KC"
+],
+"items": "Kansas City Chiefs|2024-09-06T02:17:45Z|2024-09-06T02:25:09Z"
+},
+{
+"events_date": "2024-09-06T23:45:00Z",
+"game_ids": [
+"2024_01_GB_PHI"
+],
+"items": "Philadelphia Eagles|2024-09-07T01:58:18Z|2024-09-07T02:06:14Z"
+},
+{
+"events_date": "2024-09-08T16:30:00Z",
+"game_ids": [
+"2024_01_ARI_BUF",
+"2024_01_CAR_NO",
+"2024_01_HOU_IND",
+"2024_01_JAX_MIA",
+"2024_01_MIN_NYG",
+"2024_01_NE_CIN",
+"2024_01_PIT_ATL",
+"2024_01_TEN_CHI",
+"2024_01_DEN_SEA",
+"2024_01_LV_LAC",
+"2024_01_DAL_CLE",
+"2024_01_WAS_TB"
+],
+"items": "Buffalo Bills|2024-09-08T18:26:48Z|2024-09-08T18:34:04Z;New Orleans Saints|2024-09-08T18:37:37Z|2024-09-08T18:44:14Z;Indianapolis Colts|2024-09-08T18:25:57Z|2024-09-08T18:38:40Z;Miami Dolphins|2024-09-08T18:37:13Z|2024-09-08T18:43:54Z;New York Giants|2024-09-08T18:26:08Z|2024-09-08T18:33:35Z;Cincinnati Bengals|2024-09-08T18:24:53Z|2024-09-08T18:31:41Z;Atlanta Falcons|2024-09-08T18:28:14Z|2024-09-08T18:34:56Z;Chicago Bears|2024-09-08T18:33:43Z|2024-09-08T18:40:19Z;Seattle Seahawks|2024-09-08T21:54:23Z|2024-09-08T22:01:05Z;Los Angeles Chargers|2024-09-08T21:29:11Z|2024-09-08T21:35:52Z;Cleveland Browns|2024-09-08T22:04:40Z|2024-09-08T22:12:08Z;Tampa Bay Buccaneers|2024-09-08T21:47:23Z|2024-09-08T21:54:10Z"
+},
+{
+"events_date": "2024-09-08T23:50:00Z",
+"game_ids": [
+"2024_01_LA_DET"
+],
+"items": "Detroit Lions|2024-09-09T01:45:49Z|2024-09-09T01:52:36Z"
+},
+{
+"events_date": "2024-09-09T23:45:00Z",
+"game_ids": [
+"2024_01_NYJ_SF"
+],
+"items": "San Francisco 49ers|2024-09-10T01:43:58Z|2024-09-10T01:51:08Z"
+},
+{
+"events_date": "2024-09-12T23:45:00Z",
+"game_ids": [
+"2024_02_BUF_MIA"
+],
+"items": "Miami Dolphins|2024-09-13T01:48:53Z|2024-09-13T01:55:43Z"
+},
+{
+"events_date": "2024-09-15T16:30:00Z",
+"game_ids": [
+"2024_02_CLE_JAX",
+"2024_02_IND_GB",
+"2024_02_LAC_CAR",
+"2024_02_LV_BAL",
+"2024_02_NO_DAL",
+"2024_02_NYG_WAS",
+"2024_02_NYJ_TEN",
+"2024_02_SEA_NE",
+"2024_02_SF_MIN",
+"2024_02_TB_DET",
+"2024_02_LA_ARI",
+"2024_02_CIN_KC",
+"2024_02_PIT_DEN"
+],
+"items": "Jacksonville Jaguars|2024-09-15T18:28:35Z|2024-09-15T18:35:01Z;Green Bay Packers|2024-09-15T18:19:21Z|2024-09-15T18:26:47Z;Carolina Panthers|2024-09-15T18:27:41Z|2024-09-15T18:34:14Z;Baltimore Ravens|2024-09-15T18:46:58Z|2024-09-15T18:53:43Z;Dallas Cowboys|2024-09-15T18:40:16Z|2024-09-15T18:46:50Z;Washington Commanders|2024-09-15T18:34:20Z|2024-09-15T18:40:49Z;Tennessee Titans|2024-09-15T18:28:06Z|2024-09-15T18:34:29Z;New England Patriots|2024-09-15T18:31:04Z|2024-09-15T18:37:24Z;Minnesota Vikings|2024-09-15T18:32:03Z|2024-09-15T18:38:31Z;Detroit Lions|2024-09-15T18:32:03Z|2024-09-15T18:39:07Z;Arizona Cardinals|2024-09-15T21:31:14Z|2024-09-15T21:37:57Z;Kansas City Chiefs|2024-09-15T22:01:02Z|2024-09-15T22:07:25Z;Denver Broncos|2024-09-15T21:49:38Z|2024-09-15T21:56:06Z"
+},
+{
+"events_date": "2024-09-15T23:50:00Z",
+"game_ids": [
+"2024_02_CHI_HOU"
+],
+"items": "Houston Texans|2024-09-16T02:00:38Z|2024-09-16T02:07:30Z"
+},
+{
+"events_date": "2024-09-16T23:45:00Z",
+"game_ids": [
+"2024_02_ATL_PHI"
+],
+"items": "Philadelphia Eagles|2024-09-17T01:41:03Z|2024-09-17T01:47:36Z"
+},
+{
+"events_date": "2024-09-19T23:45:00Z",
+"game_ids": [
+"2024_03_NE_NYJ"
+],
+"items": "New York Jets|2024-09-20T01:46:53Z|2024-09-20T01:53:42Z"
+},
+{
+"events_date": "2024-09-22T16:30:00Z",
+"game_ids": [
+"2024_03_CHI_IND",
+"2024_03_DEN_TB",
+"2024_03_GB_TEN",
+"2024_03_HOU_MIN",
+"2024_03_LAC_PIT",
+"2024_03_NYG_CLE",
+"2024_03_PHI_NO",
+"2024_03_CAR_LV",
+"2024_03_MIA_SEA",
+"2024_03_BAL_DAL",
+"2024_03_DET_ARI",
+"2024_03_SF_LA"
+],
+"items": "Indianapolis Colts|2024-09-22T18:36:14Z|2024-09-22T18:43:00Z;Tampa Bay Buccaneers|2024-09-22T18:32:46Z|2024-09-22T18:39:36Z;Tennessee Titans|2024-09-22T18:24:19Z|2024-09-22T18:30:48Z;Minnesota Vikings|2024-09-22T18:33:36Z|2024-09-22T18:42:04Z;Pittsburgh Steelers|2024-09-22T18:24:27Z|2024-09-22T18:31:06Z;Cleveland Browns|2024-09-22T18:34:39Z|2024-09-22T18:41:13Z;New Orleans Saints|2024-09-22T18:26:50Z|2024-09-22T18:33:36Z;Las Vegas Raiders|2024-09-22T21:45:45Z|2024-09-22T21:52:27Z;Seattle Seahawks|2024-09-22T21:47:16Z|2024-09-22T21:53:40Z;Dallas Cowboys|2024-09-22T22:02:32Z|2024-09-22T22:09:39Z;Arizona Cardinals|2024-09-22T21:52:45Z|2024-09-22T21:59:03Z;Los Angeles Rams|2024-09-22T21:53:34Z|2024-09-22T22:00:07Z"
+},
+{
+"events_date": "2024-09-22T23:50:00Z",
+"game_ids": [
+"2024_03_KC_ATL",
+"2024_03_JAX_BUF"
+],
+"items": "Atlanta Falcons|2024-09-23T01:58:20Z|2024-09-23T02:05:10Z;Buffalo Bills|2024-09-24T01:09:17Z|2024-09-24T01:15:51Z"
+},
+{
+"events_date": "2024-09-23T23:45:00Z",
+"game_ids": [
+"2024_03_WAS_CIN"
+],
+"items": "Cincinnati Bengals|2024-09-24T01:37:11Z|2024-09-24T01:43:35Z"
+},
+{
+"events_date": "2024-09-26T23:45:00Z",
+"game_ids": [
+"2024_04_DAL_NYG"
+],
+"items": "New York Giants|2024-09-27T01:50:32Z|2024-09-27T01:56:53Z"
+},
+{
+"events_date": "2024-09-29T16:30:00Z",
+"game_ids": [
+"2024_04_CIN_CAR",
+"2024_04_DEN_NYJ",
+"2024_04_JAX_HOU",
+"2024_04_LA_CHI",
+"2024_04_MIN_GB",
+"2024_04_NO_ATL",
+"2024_04_PHI_TB",
+"2024_04_PIT_IND",
+"2024_04_NE_SF",
+"2024_04_WAS_ARI",
+"2024_04_CLE_LV",
+"2024_04_KC_LAC"
+],
+"items": "Carolina Panthers|2024-09-29T18:36:43Z|2024-09-29T18:43:52Z;New York Jets|2024-09-29T18:46:07Z|2024-09-29T18:53:33Z;Houston Texans|2024-09-29T18:34:21Z|2024-09-29T18:40:49Z;Chicago Bears|2024-09-29T18:37:49Z|2024-09-29T18:44:10Z;Green Bay Packers|2024-09-29T18:49:29Z|2024-09-29T18:56:36Z;Atlanta Falcons|2024-09-29T18:31:30Z|2024-09-29T18:38:18Z;Tampa Bay Buccaneers|2024-09-29T18:41:20Z|2024-09-29T18:47:42Z;Indianapolis Colts|2024-09-29T18:36:52Z|2024-09-29T18:43:19Z;San Francisco 49ers|2024-09-29T21:43:45Z|2024-09-29T21:50:38Z;Arizona Cardinals|2024-09-29T21:28:34Z|2024-09-29T21:34:58Z;Las Vegas Raiders|2024-09-29T21:48:41Z|2024-09-29T21:55:15Z;Los Angeles Chargers|2024-09-29T21:57:20Z|2024-09-29T22:04:03Z"
+},
+{
+"events_date": "2024-09-29T23:50:00Z",
+"game_ids": [
+"2024_04_BUF_BAL",
+"2024_04_TEN_MIA"
+],
+"items": "Baltimore Ravens|2024-09-30T01:55:11Z|2024-09-30T02:02:22Z;Miami Dolphins|2024-10-01T01:12:05Z|2024-10-01T01:18:29Z"
+},
+{
+"events_date": "2024-09-30T23:45:00Z",
+"game_ids": [
+"2024_04_SEA_DET"
+],
+"items": "Detroit Lions|2024-10-01T01:42:53Z|2024-10-01T01:50:05Z"
+},
+{
+"events_date": "2024-10-03T23:45:00Z",
+"game_ids": [
+"2024_05_TB_ATL"
+],
+"items": "Atlanta Falcons|2024-10-04T01:51:14Z|2024-10-04T01:59:01Z"
+},
+{
+"events_date": "2024-10-06T13:00:00Z",
+"game_ids": [
+"2024_05_NYJ_MIN",
+"2024_05_BAL_CIN",
+"2024_05_BUF_HOU",
+"2024_05_CAR_CHI",
+"2024_05_CLE_WAS",
+"2024_05_IND_JAX",
+"2024_05_MIA_NE",
+"2024_05_ARI_SF",
+"2024_05_LV_DEN",
+"2024_05_GB_LA",
+"2024_05_NYG_SEA"
+],
+"items": "Minnesota Vikings|2024-10-06T15:09:18Z|2024-10-06T15:17:13Z;Cincinnati Bengals|2024-10-06T18:40:51Z|2024-10-06T18:47:49Z;Houston Texans|2024-10-06T18:36:17Z|2024-10-06T18:43:04Z;Chicago Bears|2024-10-06T18:38:10Z|2024-10-06T18:45:32Z;Washington Commanders|2024-10-06T18:46:04Z|2024-10-06T18:52:51Z;Jacksonville Jaguars|2024-10-06T18:26:13Z|2024-10-06T18:33:16Z;New England Patriots|2024-10-06T18:32:20Z|2024-10-06T18:38:46Z;San Francisco 49ers|2024-10-06T21:46:30Z|2024-10-06T21:53:11Z;Denver Broncos|2024-10-06T21:39:35Z|2024-10-06T21:47:18Z;Los Angeles Rams|2024-10-06T21:54:19Z|2024-10-06T22:00:43Z;Seattle Seahawks|2024-10-06T21:44:17Z|2024-10-06T21:50:44Z"
+},
+{
+"events_date": "2024-10-06T23:50:00Z",
+"game_ids": [
+"2024_05_DAL_PIT"
+],
+"items": "Pittsburgh Steelers|2024-10-07T03:14:30Z|2024-10-07T03:22:58Z"
+},
+{
+"events_date": "2024-10-07T23:45:00Z",
+"game_ids": [
+"2024_05_NO_KC"
+],
+"items": "Kansas City Chiefs|2024-10-08T01:49:50Z|2024-10-08T01:56:13Z"
+},
+{
+"events_date": "2024-10-10T23:45:00Z",
+"game_ids": [
+"2024_06_SF_SEA"
+],
+"items": "Seattle Seahawks|2024-10-11T01:41:07Z|2024-10-11T01:47:43Z"
+},
+{
+"events_date": "2024-10-13T13:00:00Z",
+"game_ids": [
+"2024_06_JAX_CHI",
+"2024_06_ARI_GB",
+"2024_06_CLE_PHI",
+"2024_06_HOU_NE",
+"2024_06_IND_TEN",
+"2024_06_TB_NO",
+"2024_06_WAS_BAL",
+"2024_06_LAC_DEN",
+"2024_06_PIT_LV",
+"2024_06_ATL_CAR",
+"2024_06_DET_DAL"
+],
+"items": "Chicago Bears|2024-10-13T14:55:45Z|2024-10-13T15:02:01Z;Green Bay Packers|2024-10-13T18:46:33Z|2024-10-13T18:52:49Z;Philadelphia Eagles|2024-10-13T18:28:56Z|2024-10-13T18:35:43Z;New England Patriots|2024-10-13T18:35:38Z|2024-10-13T18:42:47Z;Tennessee Titans|2024-10-13T18:35:40Z|2024-10-13T18:42:20Z;New Orleans Saints|2024-10-13T18:53:43Z|2024-10-13T19:00:51Z;Baltimore Ravens|2024-10-13T18:32:48Z|2024-10-13T18:39:17Z;Denver Broncos|2024-10-13T21:34:32Z|2024-10-13T21:40:50Z;Las Vegas Raiders|2024-10-13T21:33:18Z|2024-10-13T21:39:51Z;Carolina Panthers|2024-10-13T22:03:28Z|2024-10-13T22:09:58Z;Dallas Cowboys|2024-10-13T22:03:27Z|2024-10-13T22:10:01Z"
+},
+{
+"events_date": "2024-10-13T23:50:00Z",
+"game_ids": [
+"2024_06_CIN_NYG"
+],
+"items": "New York Giants|2024-10-14T01:43:16Z|2024-10-14T01:50:04Z"
+},
+{
+"events_date": "2024-10-14T23:45:00Z",
+"game_ids": [
+"2024_06_BUF_NYJ"
+],
+"items": "New York Jets|2024-10-15T01:50:02Z|2024-10-15T01:56:29Z"
+},
+{
+"events_date": "2024-10-17T23:45:00Z",
+"game_ids": [
+"2024_07_DEN_NO"
+],
+"items": "New Orleans Saints|2024-10-18T01:48:31Z|2024-10-18T01:55:53Z"
+},
+{
+"events_date": "2024-10-20T13:00:00Z",
+"game_ids": [
+"2024_07_NE_JAX",
+"2024_07_CIN_CLE",
+"2024_07_DET_MIN",
+"2024_07_HOU_GB",
+"2024_07_MIA_IND",
+"2024_07_PHI_NYG",
+"2024_07_SEA_ATL",
+"2024_07_TEN_BUF",
+"2024_07_CAR_WAS",
+"2024_07_LV_LA",
+"2024_07_KC_SF"
+],
+"items": "Jacksonville Jaguars|2024-10-20T14:59:24Z|2024-10-20T15:06:30Z;Cleveland Browns|2024-10-20T18:40:44Z|2024-10-20T18:48:06Z;Minnesota Vikings|2024-10-20T18:35:51Z|2024-10-20T18:42:57Z;Green Bay Packers|2024-10-20T18:39:10Z|2024-10-20T18:46:40Z;Indianapolis Colts|2024-10-20T18:34:14Z|2024-10-20T18:42:59Z;New York Giants|2024-10-20T18:37:12Z|2024-10-20T18:43:54Z;Atlanta Falcons|2024-10-20T18:28:33Z|2024-10-20T18:35:12Z;Buffalo Bills|2024-10-20T18:34:12Z|2024-10-20T18:41:11Z;Washington Commanders|2024-10-20T21:33:52Z|2024-10-20T21:41:03Z;Los Angeles Rams|2024-10-20T21:38:21Z|2024-10-20T21:45:08Z;San Francisco 49ers|2024-10-20T21:59:11Z|2024-10-20T22:05:41Z"
+},
+{
+"events_date": "2024-10-20T23:50:00Z",
+"game_ids": [
+"2024_07_NYJ_PIT"
+],
+"items": "Pittsburgh Steelers|2024-10-21T01:58:42Z|2024-10-21T02:05:39Z"
+},
+{
+"events_date": "2024-10-21T23:45:00Z",
+"game_ids": [
+"2024_07_BAL_TB",
+"2024_07_LAC_ARI"
+],
+"items": "Tampa Bay Buccaneers|2024-10-22T01:44:19Z|2024-10-22T01:50:31Z;Arizona Cardinals|2024-10-22T02:19:47Z|2024-10-22T02:26:16Z"
+},
+{
+"events_date": "2024-10-24T23:45:00Z",
+"game_ids": [
+"2024_08_MIN_LA"
+],
+"items": "Los Angeles Rams|2024-10-25T01:44:58Z|2024-10-25T01:51:28Z"
+},
+{
+"events_date": "2024-10-27T16:30:00Z",
+"game_ids": [
+"2024_08_ARI_MIA",
+"2024_08_ATL_TB",
+"2024_08_BAL_CLE",
+"2024_08_GB_JAX",
+"2024_08_IND_HOU",
+"2024_08_NYJ_NE",
+"2024_08_PHI_CIN",
+"2024_08_TEN_DET",
+"2024_08_BUF_SEA",
+"2024_08_NO_LAC",
+"2024_08_CAR_DEN",
+"2024_08_CHI_WAS",
+"2024_08_KC_LV"
+],
+"items": "Miami Dolphins|2024-10-27T18:27:51Z|2024-10-27T18:34:06Z;Tampa Bay Buccaneers|2024-10-27T18:37:58Z|2024-10-27T18:44:43Z;Cleveland Browns|2024-10-27T18:28:58Z|2024-10-27T18:35:53Z;Jacksonville Jaguars|2024-10-27T18:44:18Z|2024-10-27T18:50:48Z;Houston Texans|2024-10-27T18:42:20Z|2024-10-27T18:50:05Z;New England Patriots|2024-10-27T18:28:20Z|2024-10-27T18:35:36Z;Cincinnati Bengals|2024-10-27T18:31:15Z|2024-10-27T18:37:40Z;Detroit Lions|2024-10-27T18:39:08Z|2024-10-27T18:45:54Z;Seattle Seahawks|2024-10-27T21:32:05Z|2024-10-27T21:38:51Z;Los Angeles Chargers|2024-10-27T21:47:31Z|2024-10-27T21:53:51Z;Denver Broncos|2024-10-27T21:59:21Z|2024-10-27T22:05:26Z;Washington Commanders|2024-10-27T21:56:13Z|2024-10-27T22:02:52Z;Las Vegas Raiders|2024-10-27T21:50:08Z|2024-10-27T21:56:22Z"
+},
+{
+"events_date": "2024-10-27T23:50:00Z",
+"game_ids": [
+"2024_08_DAL_SF"
+],
+"items": "San Francisco 49ers|2024-10-28T02:01:41Z|2024-10-28T02:09:09Z"
+},
+{
+"events_date": "2024-10-28T23:45:00Z",
+"game_ids": [
+"2024_08_NYG_PIT"
+],
+"items": "Pittsburgh Steelers|2024-10-29T01:46:12Z|2024-10-29T01:53:17Z"
+},
+{
+"events_date": "2024-10-31T23:45:00Z",
+"game_ids": [
+"2024_09_HOU_NYJ"
+],
+"items": "New York Jets|2024-11-01T01:56:28Z|2024-11-01T02:03:22Z"
+},
+{
+"events_date": "2024-11-03T17:30:00Z",
+"game_ids": [
+"2024_09_DAL_ATL",
+"2024_09_DEN_BAL",
+"2024_09_LAC_CLE",
+"2024_09_LV_CIN",
+"2024_09_MIA_BUF",
+"2024_09_NE_TEN",
+"2024_09_NO_CAR",
+"2024_09_WAS_NYG",
+"2024_09_CHI_ARI",
+"2024_09_JAX_PHI",
+"2024_09_DET_GB",
+"2024_09_LA_SEA"
+],
+"items": "Atlanta Falcons|2024-11-03T19:27:05Z|2024-11-03T19:34:13Z;Baltimore Ravens|2024-11-03T19:33:42Z|2024-11-03T19:40:45Z;Cleveland Browns|2024-11-03T19:35:29Z|2024-11-03T19:42:19Z;Cincinnati Bengals|2024-11-03T19:36:14Z|2024-11-03T19:42:42Z;Buffalo Bills|2024-11-03T19:23:19Z|2024-11-03T19:29:58Z;Tennessee Titans|2024-11-03T19:31:53Z|2024-11-03T19:38:24Z;Carolina Panthers|2024-11-03T19:37:55Z|2024-11-03T19:44:57Z;New York Giants|2024-11-03T19:23:29Z|2024-11-03T19:30:05Z;Arizona Cardinals|2024-11-03T22:42:33Z|2024-11-03T22:48:58Z;Philadelphia Eagles|2024-11-03T22:36:42Z|2024-11-03T22:44:28Z;Green Bay Packers|2024-11-03T22:53:58Z|2024-11-03T23:01:07Z;Seattle Seahawks|2024-11-03T23:02:36Z|2024-11-03T23:09:00Z"
+},
+{
+"events_date": "2024-11-04T00:50:00Z",
+"game_ids": [
+"2024_09_IND_MIN"
+],
+"items": "Minnesota Vikings|2024-11-04T02:40:21Z|2024-11-04T02:47:17Z"
+},
+{
+"events_date": "2024-11-05T00:45:00Z",
+"game_ids": [
+"2024_09_TB_KC"
+],
+"items": "Kansas City Chiefs|2024-11-05T02:36:58Z|2024-11-05T02:43:33Z"
+},
+{
+"events_date": "2024-11-08T00:45:00Z",
+"game_ids": [
+"2024_10_CIN_BAL"
+],
+"items": "Baltimore Ravens|2024-11-08T02:52:09Z|2024-11-08T02:58:49Z"
+},
+{
+"events_date": "2024-11-10T14:00:00Z",
+"game_ids": [
+"2024_10_NYG_CAR",
+"2024_10_ATL_NO",
+"2024_10_BUF_IND",
+"2024_10_DEN_KC",
+"2024_10_MIN_JAX",
+"2024_10_NE_CHI",
+"2024_10_PIT_WAS",
+"2024_10_SF_TB",
+"2024_10_TEN_LAC",
+"2024_10_NYJ_ARI",
+"2024_10_PHI_DAL"
+],
+"items": "Carolina Panthers|2024-11-10T16:02:21Z|2024-11-10T16:10:12Z;New Orleans Saints|2024-11-10T19:33:10Z|2024-11-10T19:39:22Z;Indianapolis Colts|2024-11-10T19:39:33Z|2024-11-10T19:46:13Z;Kansas City Chiefs|2024-11-10T19:30:47Z|2024-11-10T19:37:32Z;Jacksonville Jaguars|2024-11-10T19:27:33Z|2024-11-10T19:35:27Z;Chicago Bears|2024-11-10T19:32:41Z|2024-11-10T19:39:13Z;Washington Commanders|2024-11-10T19:42:55Z|2024-11-10T19:49:36Z;Tampa Bay Buccaneers|2024-11-10T19:27:03Z|2024-11-10T19:33:41Z;Los Angeles Chargers|2024-11-10T22:31:49Z|2024-11-10T22:38:40Z;Arizona Cardinals|2024-11-10T22:58:09Z|2024-11-10T23:04:41Z;Dallas Cowboys|2024-11-10T22:59:12Z|2024-11-10T23:06:31Z"
+},
+{
+"events_date": "2024-11-11T00:50:00Z",
+"game_ids": [
+"2024_10_DET_HOU"
+],
+"items": "Houston Texans|2024-11-11T02:58:59Z|2024-11-11T03:06:15Z"
+},
+{
+"events_date": "2024-11-12T00:45:00Z",
+"game_ids": [
+"2024_10_MIA_LA"
+],
+"items": "Los Angeles Rams|2024-11-12T02:40:53Z|2024-11-12T02:47:35Z"
+},
+{
+"events_date": "2024-11-15T00:45:00Z",
+"game_ids": [
+"2024_11_WAS_PHI"
+],
+"items": "Philadelphia Eagles|2024-11-15T02:47:58Z|2024-11-15T02:54:27Z"
+},
+{
+"events_date": "2024-11-17T17:30:00Z",
+"game_ids": [
+"2024_11_BAL_PIT",
+"2024_11_CLE_NO",
+"2024_11_GB_CHI",
+"2024_11_IND_NYJ",
+"2024_11_JAX_DET",
+"2024_11_LA_NE",
+"2024_11_LV_MIA",
+"2024_11_MIN_TEN",
+"2024_11_ATL_DEN",
+"2024_11_SEA_SF",
+"2024_11_KC_BUF"
+],
+"items": "Pittsburgh Steelers|2024-11-17T19:48:39Z|2024-11-17T19:55:38Z;New Orleans Saints|2024-11-17T19:38:56Z|2024-11-17T19:45:46Z;Chicago Bears|2024-11-17T19:26:51Z|2024-11-17T19:34:36Z;New York Jets|2024-11-17T19:27:24Z|2024-11-17T19:34:00Z;Detroit Lions|2024-11-17T19:33:26Z|2024-11-17T19:40:23Z;New England Patriots|2024-11-17T19:40:00Z|2024-11-17T19:46:22Z;Miami Dolphins|2024-11-17T19:23:30Z|2024-11-17T19:29:54Z;Tennessee Titans|2024-11-17T19:39:04Z|2024-11-17T19:46:49Z;Denver Broncos|2024-11-17T22:30:55Z|2024-11-17T22:37:43Z;San Francisco 49ers|2024-11-17T22:35:34Z|2024-11-17T22:42:12Z;Buffalo Bills|2024-11-17T23:04:15Z|2024-11-17T23:11:22Z"
+},
+{
+"events_date": "2024-11-18T00:50:00Z",
+"game_ids": [
+"2024_11_CIN_LAC"
+],
+"items": "Los Angeles Chargers|2024-11-18T02:53:22Z|2024-11-18T03:00:01Z"
+},
+{
+"events_date": "2024-11-19T00:45:00Z",
+"game_ids": [
+"2024_11_HOU_DAL"
+],
+"items": "Dallas Cowboys|2024-11-19T03:03:43Z|2024-11-19T03:10:30Z"
+},
+{
+"events_date": "2024-11-22T00:45:00Z",
+"game_ids": [
+"2024_12_PIT_CLE"
+],
+"items": "Cleveland Browns|2024-11-22T02:34:50Z|2024-11-22T02:41:22Z"
+},
+{
+"events_date": "2024-11-24T17:30:00Z",
+"game_ids": [
+"2024_12_DAL_WAS",
+"2024_12_DET_IND",
+"2024_12_KC_CAR",
+"2024_12_MIN_CHI",
+"2024_12_NE_MIA",
+"2024_12_TB_NYG",
+"2024_12_TEN_HOU",
+"2024_12_DEN_LV",
+"2024_12_ARI_SEA",
+"2024_12_SF_GB"
+],
+"items": "Washington Commanders|2024-11-24T19:35:10Z|2024-11-24T19:42:16Z;Indianapolis Colts|2024-11-24T19:22:58Z|2024-11-24T19:29:59Z;Carolina Panthers|2024-11-24T19:39:50Z|2024-11-24T19:46:19Z;Chicago Bears|2024-11-24T19:39:39Z|2024-11-24T19:46:13Z;Miami Dolphins|2024-11-24T19:40:05Z|2024-11-24T19:46:43Z;New York Giants|2024-11-24T19:28:48Z|2024-11-24T19:35:11Z;Houston Texans|2024-11-24T19:39:01Z|2024-11-24T19:45:36Z;Las Vegas Raiders|2024-11-24T22:42:32Z|2024-11-24T22:49:35Z;Seattle Seahawks|2024-11-24T22:57:19Z|2024-11-24T23:03:50Z;Green Bay Packers|2024-11-24T22:54:27Z|2024-11-24T23:01:28Z"
+},
+{
+"events_date": "2024-11-25T00:50:00Z",
+"game_ids": [
+"2024_12_PHI_LA"
+],
+"items": "Los Angeles Rams|2024-11-25T02:57:51Z|2024-11-25T03:04:40Z"
+},
+{
+"events_date": "2024-11-26T00:45:00Z",
+"game_ids": [
+"2024_12_BAL_LAC"
+],
+"items": "Los Angeles Chargers|2024-11-26T02:41:28Z|2024-11-26T02:48:42Z"
+},
+{
+"events_date": "2024-11-28T17:00:00Z",
+"game_ids": [
+"2024_13_CHI_DET",
+"2024_13_NYG_DAL"
+],
+"items": "Detroit Lions|2024-11-28T19:14:21Z|2024-11-28T19:27:26Z;Dallas Cowboys|2024-11-28T23:33:30Z|2024-11-28T23:47:40Z"
+},
+{
+"events_date": "2024-11-29T00:50:00Z",
+"game_ids": [
+"2024_13_MIA_GB",
+"2024_13_LV_KC"
+],
+"items": "Green Bay Packers|2024-11-29T03:03:11Z|2024-11-29T03:11:53Z;Kansas City Chiefs|2024-11-29T21:35:10Z|2024-11-29T21:41:48Z"
+},
+{
+"events_date": "2024-12-01T17:30:00Z",
+"game_ids": [
+"2024_13_ARI_MIN",
+"2024_13_HOU_JAX",
+"2024_13_IND_NE",
+"2024_13_LAC_ATL",
+"2024_13_PIT_CIN",
+"2024_13_SEA_NYJ",
+"2024_13_TEN_WAS",
+"2024_13_LA_NO",
+"2024_13_TB_CAR",
+"2024_13_PHI_BAL"
+],
+"items": "Minnesota Vikings|2024-12-01T19:26:01Z|2024-12-01T19:33:09Z;Jacksonville Jaguars|2024-12-01T19:34:44Z|2024-12-01T19:41:31Z;New England Patriots|2024-12-01T19:30:40Z|2024-12-01T19:37:23Z;Atlanta Falcons|2024-12-01T19:17:57Z|2024-12-01T19:24:29Z;Cincinnati Bengals|2024-12-01T19:44:05Z|2024-12-01T19:51:22Z;New York Jets|2024-12-01T19:37:49Z|2024-12-01T19:43:58Z;Washington Commanders|2024-12-01T19:42:33Z|2024-12-01T19:50:01Z;New Orleans Saints|2024-12-01T22:27:18Z|2024-12-01T22:33:42Z;Carolina Panthers|2024-12-01T22:54:01Z|2024-12-01T23:01:27Z;Baltimore Ravens|2024-12-01T23:00:29Z|2024-12-01T23:07:09Z"
+},
+{
+"events_date": "2024-12-02T00:50:00Z",
+"game_ids": [
+"2024_13_SF_BUF"
+],
+"items": "Buffalo Bills|2024-12-02T02:42:33Z|2024-12-02T02:49:11Z"
+},
+{
+"events_date": "2024-12-03T00:45:00Z",
+"game_ids": [
+"2024_13_CLE_DEN"
+],
+"items": "Denver Broncos|2024-12-03T02:59:38Z|2024-12-03T03:06:14Z"
+},
+{
+"events_date": "2024-12-06T00:45:00Z",
+"game_ids": [
+"2024_14_GB_DET"
+],
+"items": "Detroit Lions|2024-12-06T02:48:28Z|2024-12-06T02:55:55Z"
+},
+{
+"events_date": "2024-12-08T17:30:00Z",
+"game_ids": [
+"2024_14_ATL_MIN",
+"2024_14_CAR_PHI",
+"2024_14_CLE_PIT",
+"2024_14_JAX_TEN",
+"2024_14_LV_TB",
+"2024_14_NO_NYG",
+"2024_14_NYJ_MIA",
+"2024_14_SEA_ARI",
+"2024_14_BUF_LA",
+"2024_14_CHI_SF"
+],
+"items": "Minnesota Vikings|2024-12-08T19:32:31Z|2024-12-08T19:39:37Z;Philadelphia Eagles|2024-12-08T19:33:37Z|2024-12-08T19:39:56Z;Pittsburgh Steelers|2024-12-08T19:39:41Z|2024-12-08T19:46:30Z;Tennessee Titans|2024-12-08T19:17:10Z|2024-12-08T19:23:38Z;Tampa Bay Buccaneers|2024-12-08T19:37:54Z|2024-12-08T19:44:26Z;New York Giants|2024-12-08T19:37:43Z|2024-12-08T19:44:18Z;Miami Dolphins|2024-12-08T19:37:20Z|2024-12-08T19:44:23Z;Arizona Cardinals|2024-12-08T22:37:04Z|2024-12-08T22:43:59Z;Los Angeles Rams|2024-12-08T22:49:57Z|2024-12-08T22:56:25Z;San Francisco 49ers|2024-12-08T22:52:00Z|2024-12-08T22:58:49Z"
+},
+{
+"events_date": "2024-12-09T00:50:00Z",
+"game_ids": [
+"2024_14_LAC_KC"
+],
+"items": "Kansas City Chiefs|2024-12-09T02:58:18Z|2024-12-09T03:05:28Z"
+},
+{
+"events_date": "2024-12-10T00:45:00Z",
+"game_ids": [
+"2024_14_CIN_DAL"
+],
+"items": "Dallas Cowboys|2024-12-10T02:44:15Z|2024-12-10T02:50:50Z"
+},
+{
+"events_date": "2024-12-13T00:45:00Z",
+"game_ids": [
+"2024_15_LA_SF"
+],
+"items": "San Francisco 49ers|2024-12-13T02:40:34Z|2024-12-13T02:47:23Z"
+},
+{
+"events_date": "2024-12-15T17:30:00Z",
+"game_ids": [
+"2024_15_BAL_NYG",
+"2024_15_CIN_TEN",
+"2024_15_DAL_CAR",
+"2024_15_KC_CLE",
+"2024_15_MIA_HOU",
+"2024_15_NYJ_JAX",
+"2024_15_WAS_NO",
+"2024_15_BUF_DET",
+"2024_15_IND_DEN",
+"2024_15_NE_ARI",
+"2024_15_PIT_PHI",
+"2024_15_TB_LAC"
+],
+"items": "New York Giants|2024-12-15T19:28:54Z|2024-12-15T19:35:37Z;Tennessee Titans|2024-12-15T19:45:07Z|2024-12-15T19:52:01Z;Carolina Panthers|2024-12-15T19:37:38Z|2024-12-15T19:44:53Z;Cleveland Browns|2024-12-15T19:39:34Z|2024-12-15T19:46:09Z;Houston Texans|2024-12-15T19:36:59Z|2024-12-15T19:43:17Z;Jacksonville Jaguars|2024-12-15T19:29:16Z|2024-12-15T19:35:36Z;New Orleans Saints|2024-12-15T19:33:33Z|2024-12-15T19:40:51Z;Detroit Lions|2024-12-15T23:01:47Z|2024-12-15T23:09:13Z;Denver Broncos|2024-12-15T22:55:45Z|2024-12-15T23:01:57Z;Arizona Cardinals|2024-12-15T22:49:07Z|2024-12-15T22:56:13Z;Philadelphia Eagles|2024-12-15T23:06:32Z|2024-12-15T23:13:34Z;Los Angeles Chargers|2024-12-15T22:57:08Z|2024-12-15T23:04:48Z"
+},
+{
+"events_date": "2024-12-16T00:50:00Z",
+"game_ids": [
+"2024_15_GB_SEA"
+],
+"items": "Seattle Seahawks|2024-12-16T02:40:32Z|2024-12-16T02:48:21Z"
+},
+{
+"events_date": "2024-12-17T00:30:00Z",
+"game_ids": [
+"2024_15_CHI_MIN",
+"2024_15_ATL_LV"
+],
+"items": "Minnesota Vikings|2024-12-17T02:24:26Z|2024-12-17T02:30:54Z;Las Vegas Raiders|2024-12-17T02:51:07Z|2024-12-17T02:58:07Z"
+},
+{
+"events_date": "2024-12-20T00:45:00Z",
+"game_ids": [
+"2024_16_DEN_LAC"
+],
+"items": "Los Angeles Chargers|2024-12-20T02:45:28Z|2024-12-20T02:51:54Z"
+},
+{
+"events_date": "2024-12-21T17:30:00Z",
+"game_ids": [
+"2024_16_HOU_KC",
+"2024_16_PIT_BAL"
+],
+"items": "Kansas City Chiefs|2024-12-21T19:37:48Z|2024-12-21T19:44:44Z;Baltimore Ravens|2024-12-21T23:04:57Z|2024-12-21T23:12:21Z"
+},
+{
+"events_date": "2024-12-22T17:30:00Z",
+"game_ids": [
+"2024_16_ARI_CAR",
+"2024_16_CLE_CIN",
+"2024_16_DET_CHI",
+"2024_16_LA_NYJ",
+"2024_16_NYG_ATL",
+"2024_16_PHI_WAS",
+"2024_16_TEN_IND",
+"2024_16_MIN_SEA",
+"2024_16_JAX_LV",
+"2024_16_NE_BUF",
+"2024_16_SF_MIA"
+],
+"items": "Carolina Panthers|2024-12-22T19:36:05Z|2024-12-22T19:42:38Z;Cincinnati Bengals|2024-12-22T19:26:47Z|2024-12-22T19:33:26Z;Chicago Bears|2024-12-22T19:45:02Z|2024-12-22T19:51:26Z;New York Jets|2024-12-22T19:19:42Z|2024-12-22T19:27:03Z;Atlanta Falcons|2024-12-22T19:34:18Z|2024-12-22T19:40:46Z;Washington Commanders|2024-12-22T19:46:38Z|2024-12-22T19:53:26Z;Indianapolis Colts|2024-12-22T19:32:20Z|2024-12-22T19:38:54Z;Seattle Seahawks|2024-12-22T22:39:01Z|2024-12-22T22:45:39Z;Las Vegas Raiders|2024-12-22T23:08:04Z|2024-12-22T23:14:32Z;Buffalo Bills|2024-12-22T22:56:52Z|2024-12-22T23:03:44Z;Miami Dolphins|2024-12-22T23:00:20Z|2024-12-22T23:07:35Z"
+},
+{
+"events_date": "2024-12-23T00:50:00Z",
+"game_ids": [
+"2024_16_TB_DAL"
+],
+"items": "Dallas Cowboys|2024-12-23T03:02:07Z|2024-12-23T03:08:54Z"
+},
+{
+"events_date": "2024-12-24T00:45:00Z",
+"game_ids": [
+"2024_16_NO_GB"
+],
+"items": "Green Bay Packers|2024-12-24T02:40:53Z|2024-12-24T02:47:29Z"
+},
+{
+"events_date": "2024-12-25T17:30:00Z",
+"game_ids": [
+"2024_17_KC_PIT",
+"2024_17_BAL_HOU"
+],
+"items": "Pittsburgh Steelers|2024-12-25T19:31:41Z|2024-12-25T19:38:44Z;Houston Texans|2024-12-25T23:11:47Z|2024-12-25T23:27:52Z"
+},
+{
+"events_date": "2024-12-27T00:45:00Z",
+"game_ids": [
+"2024_17_SEA_CHI"
+],
+"items": "Chicago Bears|2024-12-27T02:38:08Z|2024-12-27T02:44:42Z"
+},
+{
+"events_date": "2024-12-28T17:30:00Z",
+"game_ids": [
+"2024_17_LAC_NE",
+"2024_17_DEN_CIN"
+],
+"items": "New England Patriots|2024-12-28T19:30:24Z|2024-12-28T19:37:07Z;Cincinnati Bengals|2024-12-28T22:57:07Z|2024-12-28T23:03:34Z"
+},
+{
+"events_date": "2024-12-29T00:45:00Z",
+"game_ids": [
+"2024_17_ARI_LA",
+"2024_17_CAR_TB",
+"2024_17_DAL_PHI",
+"2024_17_IND_NYG",
+"2024_17_LV_NO",
+"2024_17_NYJ_BUF",
+"2024_17_TEN_JAX",
+"2024_17_MIA_CLE",
+"2024_17_GB_MIN"
+],
+"items": "Los Angeles Rams|2024-12-29T02:45:02Z|2024-12-29T02:51:29Z;Tampa Bay Buccaneers|2024-12-29T19:42:06Z|2024-12-29T19:48:23Z;Philadelphia Eagles|2024-12-29T19:41:56Z|2024-12-29T19:48:22Z;New York Giants|2024-12-29T19:33:49Z|2024-12-29T19:40:22Z;New Orleans Saints|2024-12-29T19:34:10Z|2024-12-29T19:41:02Z;Buffalo Bills|2024-12-29T19:31:38Z|2024-12-29T19:38:02Z;Jacksonville Jaguars|2024-12-29T19:26:58Z|2024-12-29T19:33:21Z;Cleveland Browns|2024-12-29T22:34:34Z|2024-12-29T22:41:34Z;Minnesota Vikings|2024-12-29T22:54:25Z|2024-12-29T23:00:55Z"
+},
+{
+"events_date": "2024-12-30T00:50:00Z",
+"game_ids": [
+"2024_17_ATL_WAS"
+],
+"items": "Washington Commanders|2024-12-30T02:47:55Z|2024-12-30T02:54:06Z"
+},
+{
+"events_date": "2024-12-31T00:45:00Z",
+"game_ids": [
+"2024_17_DET_SF"
+],
+"items": "San Francisco 49ers|2024-12-31T02:41:05Z|2024-12-31T02:48:01Z"
+},
+{
+"events_date": "2025-01-04T21:00:00Z",
+"game_ids": [
+"2024_18_CLE_BAL"
+],
+"items": "Baltimore Ravens|2025-01-04T23:08:20Z|2025-01-04T23:15:06Z"
+},
+{
+"events_date": "2025-01-05T00:30:00Z",
+"game_ids": [
+"2024_18_CIN_PIT",
+"2024_18_BUF_NE",
+"2024_18_CAR_ATL",
+"2024_18_CHI_GB",
+"2024_18_HOU_TEN",
+"2024_18_JAX_IND",
+"2024_18_NO_TB",
+"2024_18_NYG_PHI",
+"2024_18_WAS_DAL",
+"2024_18_KC_DEN",
+"2024_18_LAC_LV",
+"2024_18_MIA_NYJ",
+"2024_18_SEA_LA",
+"2024_18_SF_ARI"
+],
+"items": "Pittsburgh Steelers|2025-01-05T02:43:37Z|2025-01-05T02:50:20Z;New England Patriots|2025-01-05T19:27:24Z|2025-01-05T19:35:32Z;Atlanta Falcons|2025-01-05T19:43:39Z|2025-01-05T19:49:54Z;Green Bay Packers|2025-01-05T19:36:21Z|2025-01-05T19:43:53Z;Tennessee Titans|2025-01-05T19:31:54Z|2025-01-05T19:38:14Z;Indianapolis Colts|2025-01-05T19:32:17Z|2025-01-05T19:39:52Z;Tampa Bay Buccaneers|2025-01-05T19:33:46Z|2025-01-05T19:40:09Z;Philadelphia Eagles|2025-01-05T19:25:03Z|2025-01-05T19:32:11Z;Dallas Cowboys|2025-01-05T19:34:06Z|2025-01-05T19:40:52Z;Denver Broncos|2025-01-05T22:52:18Z|2025-01-05T22:59:20Z;Las Vegas Raiders|2025-01-05T23:00:56Z|2025-01-05T23:07:15Z;New York Jets|2025-01-05T23:03:25Z|2025-01-05T23:10:30Z;Los Angeles Rams|2025-01-05T22:55:59Z|2025-01-05T23:02:36Z;Arizona Cardinals|2025-01-05T23:07:57Z|2025-01-05T23:14:30Z"
+},
+{
+"events_date": "2025-01-06T00:50:00Z",
+"game_ids": [
+"2024_18_MIN_DET"
+],
+"items": "Detroit Lions|2025-01-06T02:51:59Z|2025-01-06T02:59:43Z"
+},
+{
+"events_date": "2025-01-11T21:00:00Z",
+"game_ids": [
+"2024_19_LAC_HOU"
+],
+"items": "Houston Texans|2025-01-11T23:18:23Z|2025-01-11T23:25:27Z"
+},
+{
+"events_date": "2025-01-12T00:30:00Z",
+"game_ids": [
+"2024_19_PIT_BAL",
+"2024_19_DEN_BUF",
+"2024_19_GB_PHI"
+],
+"items": "Baltimore Ravens|2025-01-12T02:32:58Z|2025-01-12T02:39:28Z;Buffalo Bills|2025-01-12T19:25:06Z|2025-01-12T19:32:54Z;Philadelphia Eagles|2025-01-12T23:10:54Z|2025-01-12T23:17:20Z"
+},
+{
+"events_date": "2025-01-13T00:30:00Z",
+"game_ids": [
+"2024_19_WAS_TB"
+],
+"items": "Tampa Bay Buccaneers|2025-01-13T02:37:07Z|2025-01-13T02:43:50Z"
+},
+{
+"events_date": "2025-01-14T00:30:00Z",
+"game_ids": [
+"2024_19_MIN_LA"
+],
+"items": "Los Angeles Rams|2025-01-14T02:47:09Z|2025-01-14T02:53:28Z"
+},
+{
+"events_date": "2025-01-18T21:00:00Z",
+"game_ids": [
+"2024_20_HOU_KC"
+],
+"items": "Kansas City Chiefs|2025-01-18T22:55:12Z|2025-01-18T23:01:47Z"
+},
+{
+"events_date": "2025-01-19T00:30:00Z",
+"game_ids": [
+"2024_20_WAS_DET",
+"2024_20_LA_PHI",
+"2024_20_BAL_BUF"
+],
+"items": "Detroit Lions|2025-01-19T02:53:52Z|2025-01-19T03:01:18Z;Philadelphia Eagles|2025-01-19T21:29:40Z|2025-01-19T21:36:42Z;Buffalo Bills|2025-01-20T01:03:48Z|2025-01-20T01:10:41Z"
+},
+{
+"events_date": "2025-01-26T19:30:00Z",
+"game_ids": [
+"2024_21_WAS_PHI",
+"2024_21_BUF_KC"
+],
+"items": "Philadelphia Eagles|2025-01-26T21:50:46Z|2025-01-26T21:57:44Z;Kansas City Chiefs|2025-01-27T01:22:41Z|2025-01-27T01:30:26Z"
+},
+{
+"events_date": "2025-02-09T23:00:00Z",
+"game_ids": [
+"2024_22_KC_PHI"
+],
+"items": "Philadelphia Eagles|2025-02-10T01:22:58Z|2025-02-10T01:48:31Z"
+},
+{
+"events_date": "2025-09-04T23:50:00Z",
+"game_ids": [
+"2025_01_DAL_PHI"
+],
+"items": "Philadelphia Eagles|2025-09-05T01:54:59Z|2025-09-05T02:01:34Z"
+},
+{
+"events_date": "2025-09-05T23:30:00Z",
+"game_ids": [
+"2025_01_KC_LAC"
+],
+"items": "Los Angeles Chargers|2025-09-06T01:38:50Z|2025-09-06T01:51:36Z"
+},
+{
+"events_date": "2025-09-07T16:30:00Z",
+"game_ids": [
+"2025_01_ARI_NO",
+"2025_01_CAR_JAX",
+"2025_01_CIN_CLE",
+"2025_01_LV_NE",
+"2025_01_MIA_IND",
+"2025_01_NYG_WAS",
+"2025_01_PIT_NYJ",
+"2025_01_TB_ATL",
+"2025_01_SF_SEA",
+"2025_01_TEN_DEN",
+"2025_01_DET_GB",
+"2025_01_HOU_LA"
+],
+"items": "New Orleans Saints|2025-09-07T18:29:17Z|2025-09-07T18:35:59Z;Jacksonville Jaguars|2025-09-07T19:48:48Z|2025-09-07T19:55:17Z;Cleveland Browns|2025-09-07T18:27:34Z|2025-09-07T18:34:20Z;New England Patriots|2025-09-07T18:38:21Z|2025-09-07T18:45:12Z;Indianapolis Colts|2025-09-07T18:26:56Z|2025-09-07T18:35:24Z;Washington Commanders|2025-09-07T18:38:05Z|2025-09-07T18:45:49Z;New York Jets|2025-09-07T18:32:15Z|2025-09-07T18:39:46Z;Atlanta Falcons|2025-09-07T18:34:59Z|2025-09-07T18:42:03Z;Seattle Seahawks|2025-09-07T21:36:35Z|2025-09-07T21:43:23Z;Denver Broncos|2025-09-07T21:42:57Z|2025-09-07T21:52:31Z;Green Bay Packers|2025-09-07T21:47:19Z|2025-09-07T21:53:58Z;Los Angeles Rams|2025-09-07T21:53:26Z|2025-09-07T21:59:47Z"
+},
+{
+"events_date": "2025-09-07T23:50:00Z",
+"game_ids": [
+"2025_01_BAL_BUF"
+],
+"items": "Buffalo Bills|2025-09-08T01:48:14Z|2025-09-08T01:55:10Z"
+},
+{
+"events_date": "2025-09-08T23:45:00Z",
+"game_ids": [
+"2025_01_MIN_CHI"
+],
+"items": "Chicago Bears|2025-09-09T01:42:30Z|2025-09-09T01:49:20Z"
+},
+{
+"events_date": "2025-09-11T23:45:00Z",
+"game_ids": [
+"2025_02_WAS_GB"
+],
+"items": "Green Bay Packers|2025-09-12T01:48:56Z|2025-09-12T01:55:24Z"
+},
+{
+"events_date": "2025-09-14T16:30:00Z",
+"game_ids": [
+"2025_02_BUF_NYJ",
+"2025_02_CHI_DET",
+"2025_02_CLE_BAL",
+"2025_02_JAX_CIN",
+"2025_02_LA_TEN",
+"2025_02_NE_MIA",
+"2025_02_NYG_DAL",
+"2025_02_SEA_PIT",
+"2025_02_SF_NO",
+"2025_02_CAR_ARI",
+"2025_02_DEN_IND",
+"2025_02_PHI_KC"
+],
+"items": "New York Jets|2025-09-14T18:39:01Z|2025-09-14T18:45:42Z;Detroit Lions|2025-09-14T18:48:56Z|2025-09-14T18:56:42Z;Baltimore Ravens|2025-09-14T18:34:10Z|2025-09-14T18:40:36Z;Cincinnati Bengals|2025-09-14T18:38:46Z|2025-09-14T18:45:36Z;Tennessee Titans|2025-09-14T18:37:10Z|2025-09-14T18:43:54Z;Miami Dolphins|2025-09-14T18:24:33Z|2025-09-14T18:31:13Z;Dallas Cowboys|2025-09-14T18:39:01Z|2025-09-14T18:46:22Z;Pittsburgh Steelers|2025-09-14T18:28:58Z|2025-09-14T18:35:53Z;New Orleans Saints|2025-09-14T18:39:53Z|2025-09-14T18:46:46Z;Arizona Cardinals|2025-09-14T21:39:40Z|2025-09-14T21:46:34Z;Indianapolis Colts|2025-09-14T21:45:29Z|2025-09-14T21:52:05Z;Kansas City Chiefs|2025-09-14T21:45:57Z|2025-09-14T21:52:13Z"
+},
+{
+"events_date": "2025-09-14T23:50:00Z",
+"game_ids": [
+"2025_02_ATL_MIN",
+"2025_02_TB_HOU"
+],
+"items": "Minnesota Vikings|2025-09-15T01:51:12Z|2025-09-15T01:58:53Z;Houston Texans|2025-09-16T00:25:59Z|2025-09-16T00:32:55Z"
+},
+{
+"events_date": "2025-09-16T01:30:00Z",
+"game_ids": [
+"2025_02_LAC_LV"
+],
+"items": "Las Vegas Raiders|2025-09-16T03:37:47Z|2025-09-16T03:44:28Z"
+},
+{
+"events_date": "2025-09-18T23:45:00Z",
+"game_ids": [
+"2025_03_MIA_BUF"
+],
+"items": "Buffalo Bills|2025-09-19T01:40:00Z|2025-09-19T01:46:27Z"
+},
+{
+"events_date": "2025-09-21T16:30:00Z",
+"game_ids": [
+"2025_03_ATL_CAR",
+"2025_03_CIN_MIN",
+"2025_03_GB_CLE",
+"2025_03_HOU_JAX",
+"2025_03_IND_TEN",
+"2025_03_LA_PHI",
+"2025_03_LV_WAS",
+"2025_03_NYJ_TB",
+"2025_03_PIT_NE",
+"2025_03_DEN_LAC",
+"2025_03_NO_SEA",
+"2025_03_ARI_SF",
+"2025_03_DAL_CHI"
+],
+"items": "Carolina Panthers|2025-09-21T18:29:21Z|2025-09-21T18:35:59Z;Minnesota Vikings|2025-09-21T18:52:36Z|2025-09-21T18:59:48Z;Cleveland Browns|2025-09-21T18:24:46Z|2025-09-21T18:30:47Z;Jacksonville Jaguars|2025-09-21T18:42:13Z|2025-09-21T18:48:21Z;Tennessee Titans|2025-09-21T18:34:35Z|2025-09-21T18:42:36Z;Philadelphia Eagles|2025-09-21T18:30:36Z|2025-09-21T18:37:03Z;Washington Commanders|2025-09-21T18:38:20Z|2025-09-21T18:45:25Z;Tampa Bay Buccaneers|2025-09-21T18:43:52Z|2025-09-21T18:51:20Z;New England Patriots|2025-09-21T18:29:10Z|2025-09-21T18:35:48Z;Los Angeles Chargers|2025-09-21T21:41:32Z|2025-09-21T21:48:02Z;Seattle Seahawks|2025-09-21T21:46:14Z|2025-09-21T21:53:08Z;San Francisco 49ers|2025-09-21T21:45:14Z|2025-09-21T21:52:00Z;Chicago Bears|2025-09-21T21:59:35Z|2025-09-21T22:06:06Z"
+},
+{
+"events_date": "2025-09-21T23:50:00Z",
+"game_ids": [
+"2025_03_KC_NYG"
+],
+"items": "New York Giants|2025-09-22T02:04:16Z|2025-09-22T02:10:59Z"
+},
+{
+"events_date": "2025-09-22T23:45:00Z",
+"game_ids": [
+"2025_03_DET_BAL"
+],
+"items": "Baltimore Ravens|2025-09-23T01:42:56Z|2025-09-23T01:50:03Z"
+},
+{
+"events_date": "2025-09-25T23:45:00Z",
+"game_ids": [
+"2025_04_SEA_ARI"
+],
+"items": "Arizona Cardinals|2025-09-26T01:45:54Z|2025-09-26T01:52:57Z"
+},
+{
+"events_date": "2025-09-28T13:00:00Z",
+"game_ids": [
+"2025_04_MIN_PIT",
+"2025_04_CAR_NE",
+"2025_04_CLE_DET",
+"2025_04_LAC_NYG",
+"2025_04_NO_BUF",
+"2025_04_PHI_TB",
+"2025_04_TEN_HOU",
+"2025_04_WAS_ATL",
+"2025_04_IND_LA",
+"2025_04_JAX_SF",
+"2025_04_BAL_KC",
+"2025_04_CHI_LV"
+],
+"items": "Pittsburgh Steelers|2025-09-28T15:00:51Z|2025-09-28T15:09:36Z;New England Patriots|2025-09-28T18:44:27Z|2025-09-28T18:51:19Z;Detroit Lions|2025-09-28T18:35:53Z|2025-09-28T18:43:30Z;New York Giants|2025-09-28T18:43:25Z|2025-09-28T18:50:31Z;Buffalo Bills|2025-09-28T18:38:22Z|2025-09-28T18:45:23Z;Tampa Bay Buccaneers|2025-09-28T18:36:52Z|2025-09-28T18:44:08Z;Houston Texans|2025-09-28T18:28:16Z|2025-09-28T18:34:49Z;Atlanta Falcons|2025-09-28T18:31:47Z|2025-09-28T18:38:31Z;Los Angeles Rams|2025-09-28T21:28:29Z|2025-09-28T21:34:41Z;San Francisco 49ers|2025-09-28T21:44:25Z|2025-09-28T21:51:13Z;Kansas City Chiefs|2025-09-28T22:03:19Z|2025-09-28T22:09:36Z;Las Vegas Raiders|2025-09-28T21:58:22Z|2025-09-28T22:04:40Z"
+},
+{
+"events_date": "2025-09-28T23:50:00Z",
+"game_ids": [
+"2025_04_GB_DAL",
+"2025_04_NYJ_MIA"
+],
+"items": "Dallas Cowboys|2025-09-29T01:59:55Z|2025-09-29T02:07:04Z;Miami Dolphins|2025-09-30T00:39:14Z|2025-09-30T00:46:05Z"
+},
+{
+"events_date": "2025-09-29T23:45:00Z",
+"game_ids": [
+"2025_04_CIN_DEN"
+],
+"items": "Denver Broncos|2025-09-30T01:56:09Z|2025-09-30T02:02:33Z"
+},
+{
+"events_date": "2025-10-02T23:45:00Z",
+"game_ids": [
+"2025_05_SF_LA"
+],
+"items": "Los Angeles Rams|2025-10-03T01:37:50Z|2025-10-03T01:44:34Z"
+},
+{
+"events_date": "2025-10-05T13:00:00Z",
+"game_ids": [
+"2025_05_MIN_CLE",
+"2025_05_DAL_NYJ",
+"2025_05_DEN_PHI",
+"2025_05_HOU_BAL",
+"2025_05_LV_IND",
+"2025_05_MIA_CAR",
+"2025_05_NYG_NO",
+"2025_05_TB_SEA",
+"2025_05_TEN_ARI",
+"2025_05_DET_CIN",
+"2025_05_WAS_LAC"
+],
+"items": "Cleveland Browns|2025-10-05T15:05:28Z|2025-10-05T15:14:29Z;New York Jets|2025-10-05T18:40:43Z|2025-10-05T18:47:26Z;Philadelphia Eagles|2025-10-05T18:40:13Z|2025-10-05T18:46:40Z;Baltimore Ravens|2025-10-05T18:30:36Z|2025-10-05T18:37:25Z;Indianapolis Colts|2025-10-05T18:35:19Z|2025-10-05T18:41:40Z;Carolina Panthers|2025-10-05T18:32:52Z|2025-10-05T18:39:23Z;New Orleans Saints|2025-10-05T18:41:36Z|2025-10-05T18:48:08Z;Seattle Seahawks|2025-10-05T21:26:44Z|2025-10-05T21:34:20Z;Arizona Cardinals|2025-10-05T21:50:14Z|2025-10-05T21:56:51Z;Cincinnati Bengals|2025-10-05T21:56:07Z|2025-10-05T22:02:28Z;Los Angeles Chargers|2025-10-05T21:52:38Z|2025-10-05T21:59:07Z"
+},
+{
+"events_date": "2025-10-05T23:50:00Z",
+"game_ids": [
+"2025_05_NE_BUF"
+],
+"items": "Buffalo Bills|2025-10-06T01:55:34Z|2025-10-06T02:02:39Z"
+},
+{
+"events_date": "2025-10-06T23:45:00Z",
+"game_ids": [
+"2025_05_KC_JAX"
+],
+"items": "Jacksonville Jaguars|2025-10-07T01:39:45Z|2025-10-07T01:46:18Z"
+},
+{
+"events_date": "2025-10-09T23:45:00Z",
+"game_ids": [
+"2025_06_PHI_NYG"
+],
+"items": "New York Giants|2025-10-10T01:41:03Z|2025-10-10T01:47:44Z"
+},
+{
+"events_date": "2025-10-12T13:00:00Z",
+"game_ids": [
+"2025_06_DEN_NYJ",
+"2025_06_ARI_IND",
+"2025_06_CLE_PIT",
+"2025_06_DAL_CAR",
+"2025_06_LAC_MIA",
+"2025_06_LA_BAL",
+"2025_06_NE_NO",
+"2025_06_SEA_JAX",
+"2025_06_TEN_LV",
+"2025_06_CIN_GB",
+"2025_06_SF_TB"
+],
+"items": "New York Jets|2025-10-12T15:02:45Z|2025-10-12T15:09:55Z;Indianapolis Colts|2025-10-12T18:36:16Z|2025-10-12T18:43:25Z;Pittsburgh Steelers|2025-10-12T18:35:28Z|2025-10-12T18:42:41Z;Carolina Panthers|2025-10-12T18:30:59Z|2025-10-12T18:37:46Z;Miami Dolphins|2025-10-12T18:33:50Z|2025-10-12T18:40:55Z;Baltimore Ravens|2025-10-12T18:31:30Z|2025-10-12T18:38:42Z;New Orleans Saints|2025-10-12T18:36:10Z|2025-10-12T18:43:14Z;Jacksonville Jaguars|2025-10-12T18:36:41Z|2025-10-12T18:43:15Z;Las Vegas Raiders|2025-10-12T21:30:30Z|2025-10-12T21:36:49Z;Green Bay Packers|2025-10-12T21:47:39Z|2025-10-12T21:54:17Z;Tampa Bay Buccaneers|2025-10-12T21:58:19Z|2025-10-12T22:05:00Z"
+},
+{
+"events_date": "2025-10-12T23:50:00Z",
+"game_ids": [
+"2025_06_DET_KC",
+"2025_06_BUF_ATL"
+],
+"items": "Kansas City Chiefs|2025-10-13T01:46:37Z|2025-10-13T01:53:07Z;Atlanta Falcons|2025-10-14T00:57:50Z|2025-10-14T01:06:02Z"
+},
+{
+"events_date": "2025-10-13T23:45:00Z",
+"game_ids": [
+"2025_06_CHI_WAS"
+],
+"items": "Washington Commanders|2025-10-14T01:45:11Z|2025-10-14T01:51:45Z"
+},
+{
+"events_date": "2025-10-16T23:45:00Z",
+"game_ids": [
+"2025_07_PIT_CIN"
+],
+"items": "Cincinnati Bengals|2025-10-17T01:55:05Z|2025-10-17T02:01:38Z"
+},
+{
+"events_date": "2025-10-19T13:00:00Z",
+"game_ids": [
+"2025_07_LA_JAX",
+"2025_07_CAR_NYJ",
+"2025_07_LV_KC",
+"2025_07_MIA_CLE",
+"2025_07_NE_TEN",
+"2025_07_NO_CHI",
+"2025_07_PHI_MIN",
+"2025_07_IND_LAC",
+"2025_07_NYG_DEN",
+"2025_07_GB_ARI",
+"2025_07_WAS_DAL"
+],
+"items": "Jacksonville Jaguars|2025-10-19T15:01:00Z|2025-10-19T15:08:37Z;New York Jets|2025-10-19T18:37:17Z|2025-10-19T18:44:26Z;Kansas City Chiefs|2025-10-19T18:24:44Z|2025-10-19T18:31:19Z;Cleveland Browns|2025-10-19T18:34:55Z|2025-10-19T18:41:52Z;Tennessee Titans|2025-10-19T18:25:02Z|2025-10-19T18:31:52Z;Chicago Bears|2025-10-19T18:40:00Z|2025-10-19T18:46:35Z;Minnesota Vikings|2025-10-19T18:30:24Z|2025-10-19T18:37:40Z;Los Angeles Chargers|2025-10-19T21:43:20Z|2025-10-19T21:49:35Z;Denver Broncos|2025-10-19T21:42:12Z|2025-10-19T21:49:49Z;Arizona Cardinals|2025-10-19T21:54:55Z|2025-10-19T22:01:20Z;Dallas Cowboys|2025-10-19T22:16:19Z|2025-10-19T22:22:40Z"
+},
+{
+"events_date": "2025-10-19T23:50:00Z",
+"game_ids": [
+"2025_07_ATL_SF",
+"2025_07_TB_DET"
+],
+"items": "San Francisco 49ers|2025-10-20T01:47:39Z|2025-10-20T01:55:40Z;Detroit Lions|2025-10-21T00:43:20Z|2025-10-21T00:50:11Z"
+},
+{
+"events_date": "2025-10-21T01:30:00Z",
+"game_ids": [
+"2025_07_HOU_SEA"
+],
+"items": "Seattle Seahawks|2025-10-21T03:41:05Z|2025-10-21T03:47:24Z"
+},
+{
+"events_date": "2025-10-23T23:45:00Z",
+"game_ids": [
+"2025_08_MIN_LAC"
+],
+"items": "Los Angeles Chargers|2025-10-24T01:48:45Z|2025-10-24T01:55:31Z"
+},
+{
+"events_date": "2025-10-26T16:30:00Z",
+"game_ids": [
+"2025_08_BUF_CAR",
+"2025_08_CHI_BAL",
+"2025_08_CLE_NE",
+"2025_08_MIA_ATL",
+"2025_08_NYG_PHI",
+"2025_08_NYJ_CIN",
+"2025_08_SF_HOU",
+"2025_08_TB_NO",
+"2025_08_DAL_DEN",
+"2025_08_TEN_IND"
+],
+"items": "Carolina Panthers|2025-10-26T18:38:09Z|2025-10-26T18:45:05Z;Baltimore Ravens|2025-10-26T18:23:24Z|2025-10-26T18:30:09Z;New England Patriots|2025-10-26T18:27:38Z|2025-10-26T18:34:10Z;Atlanta Falcons|2025-10-26T18:29:22Z|2025-10-26T18:35:51Z;Philadelphia Eagles|2025-10-26T18:39:27Z|2025-10-26T18:46:08Z;Cincinnati Bengals|2025-10-26T18:35:23Z|2025-10-26T18:42:03Z;Houston Texans|2025-10-26T18:35:14Z|2025-10-26T18:42:55Z;New Orleans Saints|2025-10-26T21:26:58Z|2025-10-26T21:33:47Z;Denver Broncos|2025-10-26T22:03:23Z|2025-10-26T22:09:47Z;Indianapolis Colts|2025-10-26T21:53:12Z|2025-10-26T21:59:51Z"
+},
+{
+"events_date": "2025-10-26T23:50:00Z",
+"game_ids": [
+"2025_08_GB_PIT"
+],
+"items": "Pittsburgh Steelers|2025-10-27T01:53:38Z|2025-10-27T02:00:50Z"
+},
+{
+"events_date": "2025-10-27T23:45:00Z",
+"game_ids": [
+"2025_08_WAS_KC"
+],
+"items": "Kansas City Chiefs|2025-10-28T01:37:23Z|2025-10-28T01:44:28Z"
+},
+{
+"events_date": "2025-10-30T23:45:00Z",
+"game_ids": [
+"2025_09_BAL_MIA"
+],
+"items": "Miami Dolphins|2025-10-31T01:50:37Z|2025-10-31T01:57:21Z"
+},
+{
+"events_date": "2025-11-02T17:30:00Z",
+"game_ids": [
+"2025_09_ATL_NE",
+"2025_09_CAR_GB",
+"2025_09_CHI_CIN",
+"2025_09_DEN_HOU",
+"2025_09_IND_PIT",
+"2025_09_LAC_TEN",
+"2025_09_MIN_DET",
+"2025_09_SF_NYG",
+"2025_09_JAX_LV",
+"2025_09_NO_LA",
+"2025_09_KC_BUF"
+],
+"items": "New England Patriots|2025-11-02T19:34:22Z|2025-11-02T19:40:44Z;Green Bay Packers|2025-11-02T19:28:03Z|2025-11-02T19:34:58Z;Cincinnati Bengals|2025-11-02T19:48:44Z|2025-11-02T19:55:13Z;Houston Texans|2025-11-02T19:48:39Z|2025-11-02T19:56:31Z;Pittsburgh Steelers|2025-11-02T19:37:53Z|2025-11-02T19:45:40Z;Tennessee Titans|2025-11-02T19:40:39Z|2025-11-02T19:47:06Z;Detroit Lions|2025-11-02T19:37:25Z|2025-11-02T19:44:32Z;New York Giants|2025-11-02T19:26:25Z|2025-11-02T19:33:12Z;Las Vegas Raiders|2025-11-02T22:31:08Z|2025-11-02T22:37:58Z;Los Angeles Rams|2025-11-02T22:40:05Z|2025-11-02T22:46:27Z;Buffalo Bills|2025-11-02T22:56:58Z|2025-11-02T23:03:23Z"
+},
+{
+"events_date": "2025-11-03T00:50:00Z",
+"game_ids": [
+"2025_09_SEA_WAS"
+],
+"items": "Washington Commanders|2025-11-03T02:56:55Z|2025-11-03T03:04:56Z"
+},
+{
+"events_date": "2025-11-04T00:45:00Z",
+"game_ids": [
+"2025_09_ARI_DAL"
+],
+"items": "Dallas Cowboys|2025-11-04T02:43:14Z|2025-11-04T02:50:40Z"
+},
+{
+"events_date": "2025-11-07T00:45:00Z",
+"game_ids": [
+"2025_10_LV_DEN"
+],
+"items": "Denver Broncos|2025-11-07T02:49:04Z|2025-11-07T02:56:17Z"
+},
+{
+"events_date": "2025-11-09T14:00:00Z",
+"game_ids": [
+"2025_10_ATL_IND",
+"2025_10_BAL_MIN",
+"2025_10_BUF_MIA",
+"2025_10_CLE_NYJ",
+"2025_10_JAX_HOU",
+"2025_10_NE_TB",
+"2025_10_NO_CAR",
+"2025_10_NYG_CHI",
+"2025_10_ARI_SEA",
+"2025_10_DET_WAS",
+"2025_10_LA_SF"
+],
+"items": "Indianapolis Colts|2025-11-09T16:00:56Z|2025-11-09T16:09:36Z;Minnesota Vikings|2025-11-09T19:30:24Z|2025-11-09T19:37:23Z;Miami Dolphins|2025-11-09T19:32:22Z|2025-11-09T19:40:21Z;New York Jets|2025-11-09T19:44:14Z|2025-11-09T19:51:10Z;Houston Texans|2025-11-09T19:45:47Z|2025-11-09T19:52:25Z;Tampa Bay Buccaneers|2025-11-09T19:28:44Z|2025-11-09T19:34:55Z;Carolina Panthers|2025-11-09T19:32:28Z|2025-11-09T19:39:16Z;Chicago Bears|2025-11-09T19:33:04Z|2025-11-09T19:39:50Z;Seattle Seahawks|2025-11-09T22:55:18Z|2025-11-09T23:02:03Z;Washington Commanders|2025-11-09T23:01:37Z|2025-11-09T23:08:17Z;San Francisco 49ers|2025-11-09T22:59:34Z|2025-11-09T23:05:50Z"
+},
+{
+"events_date": "2025-11-10T00:50:00Z",
+"game_ids": [
+"2025_10_PIT_LAC"
+],
+"items": "Los Angeles Chargers|2025-11-10T02:56:38Z|2025-11-10T03:03:11Z"
+},
+{
+"events_date": "2025-11-11T00:45:00Z",
+"game_ids": [
+"2025_10_PHI_GB"
+],
+"items": "Green Bay Packers|2025-11-11T02:45:53Z|2025-11-11T02:52:55Z"
+},
+{
+"events_date": "2025-11-14T00:45:00Z",
+"game_ids": [
+"2025_11_NYJ_NE"
+],
+"items": "New England Patriots|2025-11-14T02:40:03Z|2025-11-14T02:47:38Z"
+},
+{
+"events_date": "2025-11-16T14:00:00Z",
+"game_ids": [
+"2025_11_WAS_MIA",
+"2025_11_CAR_ATL",
+"2025_11_CHI_MIN",
+"2025_11_CIN_PIT",
+"2025_11_GB_NYG",
+"2025_11_HOU_TEN",
+"2025_11_LAC_JAX",
+"2025_11_TB_BUF",
+"2025_11_SEA_LA",
+"2025_11_SF_ARI",
+"2025_11_BAL_CLE",
+"2025_11_KC_DEN"
+],
+"items": "Miami Dolphins|2025-11-16T15:57:08Z|2025-11-16T16:06:03Z;Atlanta Falcons|2025-11-16T19:33:08Z|2025-11-16T19:40:04Z;Minnesota Vikings|2025-11-16T19:32:55Z|2025-11-16T19:40:01Z;Pittsburgh Steelers|2025-11-16T19:37:05Z|2025-11-16T19:43:53Z;New York Giants|2025-11-16T19:39:22Z|2025-11-16T19:45:59Z;Tennessee Titans|2025-11-16T19:30:50Z|2025-11-16T19:37:59Z;Jacksonville Jaguars|2025-11-16T19:24:01Z|2025-11-16T19:30:45Z;Buffalo Bills|2025-11-16T19:40:37Z|2025-11-16T19:47:51Z;Los Angeles Rams|2025-11-16T22:28:03Z|2025-11-16T22:34:56Z;Arizona Cardinals|2025-11-16T22:44:14Z|2025-11-16T22:50:47Z;Cleveland Browns|2025-11-16T22:54:40Z|2025-11-16T23:01:12Z;Denver Broncos|2025-11-16T22:57:18Z|2025-11-16T23:03:34Z"
+},
+{
+"events_date": "2025-11-17T00:50:00Z",
+"game_ids": [
+"2025_11_DET_PHI"
+],
+"items": "Philadelphia Eagles|2025-11-17T02:58:05Z|2025-11-17T03:04:32Z"
+},
+{
+"events_date": "2025-11-18T00:45:00Z",
+"game_ids": [
+"2025_11_DAL_LV"
+],
+"items": "Las Vegas Raiders|2025-11-18T02:55:20Z|2025-11-18T03:01:56Z"
+},
+{
+"events_date": "2025-11-21T00:45:00Z",
+"game_ids": [
+"2025_12_BUF_HOU"
+],
+"items": "Houston Texans|2025-11-21T02:54:06Z|2025-11-21T03:00:33Z"
+},
+{
+"events_date": "2025-11-23T17:30:00Z",
+"game_ids": [
+"2025_12_IND_KC",
+"2025_12_MIN_GB",
+"2025_12_NE_CIN",
+"2025_12_NYG_DET",
+"2025_12_NYJ_BAL",
+"2025_12_PIT_CHI",
+"2025_12_SEA_TEN",
+"2025_12_CLE_LV",
+"2025_12_JAX_ARI",
+"2025_12_ATL_NO",
+"2025_12_PHI_DAL"
+],
+"items": "Kansas City Chiefs|2025-11-23T19:33:21Z|2025-11-23T19:39:41Z;Green Bay Packers|2025-11-23T19:26:02Z|2025-11-23T19:32:50Z;Cincinnati Bengals|2025-11-23T19:37:38Z|2025-11-23T19:44:01Z;Detroit Lions|2025-11-23T19:40:23Z|2025-11-23T19:46:57Z;Baltimore Ravens|2025-11-23T19:25:18Z|2025-11-23T19:32:04Z;Chicago Bears|2025-11-23T19:39:22Z|2025-11-23T19:46:05Z;Tennessee Titans|2025-11-23T19:34:54Z|2025-11-23T19:41:57Z;Las Vegas Raiders|2025-11-23T22:34:53Z|2025-11-23T22:41:44Z;Arizona Cardinals|2025-11-23T22:38:32Z|2025-11-23T22:45:14Z;New Orleans Saints|2025-11-23T23:02:15Z|2025-11-23T23:09:08Z;Dallas Cowboys|2025-11-23T22:59:46Z|2025-11-23T23:06:27Z"
+},
+{
+"events_date": "2025-11-24T00:50:00Z",
+"game_ids": [
+"2025_12_TB_LA"
+],
+"items": "Los Angeles Rams|2025-11-24T02:53:50Z|2025-11-24T03:01:02Z"
+},
+{
+"events_date": "2025-11-25T00:45:00Z",
+"game_ids": [
+"2025_12_CAR_SF"
+],
+"items": "San Francisco 49ers|2025-11-25T02:35:18Z|2025-11-25T02:41:59Z"
+},
+{
+"events_date": "2025-11-27T17:30:00Z",
+"game_ids": [
+"2025_13_GB_DET",
+"2025_13_KC_DAL"
+],
+"items": "Detroit Lions|2025-11-27T19:39:02Z|2025-11-27T19:54:33Z;Dallas Cowboys|2025-11-27T23:08:55Z|2025-11-27T23:22:40Z"
+},
+{
+"events_date": "2025-11-28T00:50:00Z",
+"game_ids": [
+"2025_13_CIN_BAL",
+"2025_13_CHI_PHI"
+],
+"items": "Baltimore Ravens|2025-11-28T03:06:25Z|2025-11-28T03:14:31Z;Philadelphia Eagles|2025-11-28T21:27:00Z|2025-11-28T21:34:34Z"
+},
+{
+"events_date": "2025-11-30T17:30:00Z",
+"game_ids": [
+"2025_13_ARI_TB",
+"2025_13_ATL_NYJ",
+"2025_13_HOU_IND",
+"2025_13_JAX_TEN",
+"2025_13_LA_CAR",
+"2025_13_NO_MIA",
+"2025_13_SF_CLE",
+"2025_13_MIN_SEA",
+"2025_13_BUF_PIT",
+"2025_13_LV_LAC"
+],
+"items": "Tampa Bay Buccaneers|2025-11-30T19:23:47Z|2025-11-30T19:30:47Z;New York Jets|2025-11-30T19:28:46Z|2025-11-30T19:35:48Z;Indianapolis Colts|2025-11-30T19:34:17Z|2025-11-30T19:40:45Z;Tennessee Titans|2025-11-30T19:37:59Z|2025-11-30T19:44:06Z;Carolina Panthers|2025-11-30T19:26:58Z|2025-11-30T19:33:37Z;Miami Dolphins|2025-11-30T19:32:19Z|2025-11-30T19:38:58Z;Cleveland Browns|2025-11-30T19:24:57Z|2025-11-30T19:31:03Z;Seattle Seahawks|2025-11-30T22:28:07Z|2025-11-30T22:34:43Z;Pittsburgh Steelers|2025-11-30T22:57:55Z|2025-11-30T23:05:22Z;Los Angeles Chargers|2025-11-30T22:45:50Z|2025-11-30T22:53:33Z"
+},
+{
+"events_date": "2025-12-01T00:50:00Z",
+"game_ids": [
+"2025_13_DEN_WAS"
+],
+"items": "Washington Commanders|2025-12-01T02:49:52Z|2025-12-01T02:56:55Z"
+},
+{
+"events_date": "2025-12-02T00:45:00Z",
+"game_ids": [
+"2025_13_NYG_NE"
+],
+"items": "New England Patriots|2025-12-02T02:49:12Z|2025-12-02T02:55:54Z"
+},
+{
+"events_date": "2025-12-05T00:45:00Z",
+"game_ids": [
+"2025_14_DAL_DET"
+],
+"items": "Detroit Lions|2025-12-05T02:52:57Z|2025-12-05T03:01:04Z"
+},
+{
+"events_date": "2025-12-07T17:30:00Z",
+"game_ids": [
+"2025_14_CIN_BUF",
+"2025_14_IND_JAX",
+"2025_14_MIA_NYJ",
+"2025_14_NO_TB",
+"2025_14_PIT_BAL",
+"2025_14_SEA_ATL",
+"2025_14_TEN_CLE",
+"2025_14_WAS_MIN",
+"2025_14_DEN_LV",
+"2025_14_CHI_GB",
+"2025_14_LA_ARI"
+],
+"items": "Buffalo Bills|2025-12-07T19:27:37Z|2025-12-07T19:34:42Z;Jacksonville Jaguars|2025-12-07T19:47:19Z|2025-12-07T19:53:29Z;New York Jets|2025-12-07T19:44:54Z|2025-12-07T19:52:09Z;Tampa Bay Buccaneers|2025-12-07T19:40:01Z|2025-12-07T19:46:57Z;Baltimore Ravens|2025-12-07T19:43:02Z|2025-12-07T19:51:11Z;Atlanta Falcons|2025-12-07T19:29:14Z|2025-12-07T19:35:42Z;Cleveland Browns|2025-12-07T19:39:20Z|2025-12-07T19:46:22Z;Minnesota Vikings|2025-12-07T19:16:50Z|2025-12-07T19:23:23Z;Las Vegas Raiders|2025-12-07T22:31:16Z|2025-12-07T22:37:54Z;Green Bay Packers|2025-12-07T22:53:52Z|2025-12-07T23:00:59Z;Arizona Cardinals|2025-12-07T22:51:21Z|2025-12-07T22:58:14Z"
+},
+{
+"events_date": "2025-12-08T00:50:00Z",
+"game_ids": [
+"2025_14_HOU_KC"
+],
+"items": "Kansas City Chiefs|2025-12-08T02:53:21Z|2025-12-08T03:00:18Z"
+},
+{
+"events_date": "2025-12-09T00:45:00Z",
+"game_ids": [
+"2025_14_PHI_LAC"
+],
+"items": "Los Angeles Chargers|2025-12-09T02:55:00Z|2025-12-09T03:02:47Z"
+},
+{
+"events_date": "2025-12-12T00:45:00Z",
+"game_ids": [
+"2025_15_ATL_TB"
+],
+"items": "Tampa Bay Buccaneers|2025-12-12T02:54:27Z|2025-12-12T03:00:49Z"
+},
+{
+"events_date": "2025-12-14T17:30:00Z",
+"game_ids": [
+"2025_15_ARI_HOU",
+"2025_15_BAL_CIN",
+"2025_15_BUF_NE",
+"2025_15_CLE_CHI",
+"2025_15_LAC_KC",
+"2025_15_LV_PHI",
+"2025_15_NYJ_JAX",
+"2025_15_WAS_NYG",
+"2025_15_CAR_NO",
+"2025_15_DET_LA",
+"2025_15_GB_DEN",
+"2025_15_IND_SEA",
+"2025_15_TEN_SF"
+],
+"items": "Houston Texans|2025-12-14T19:42:16Z|2025-12-14T19:49:02Z;Cincinnati Bengals|2025-12-14T19:36:47Z|2025-12-14T19:43:06Z;New England Patriots|2025-12-14T19:27:08Z|2025-12-14T19:34:07Z;Chicago Bears|2025-12-14T19:35:11Z|2025-12-14T19:42:19Z;Kansas City Chiefs|2025-12-14T19:43:35Z|2025-12-14T19:50:52Z;Philadelphia Eagles|2025-12-14T19:23:58Z|2025-12-14T19:30:32Z;Jacksonville Jaguars|2025-12-14T19:46:56Z|2025-12-14T19:53:45Z;New York Giants|2025-12-14T19:39:47Z|2025-12-14T19:46:38Z;New Orleans Saints|2025-12-14T22:46:11Z|2025-12-14T22:53:06Z;Los Angeles Rams|2025-12-14T22:59:02Z|2025-12-14T23:05:24Z;Denver Broncos|2025-12-14T22:59:30Z|2025-12-14T23:06:02Z;Seattle Seahawks|2025-12-14T22:57:14Z|2025-12-14T23:03:32Z;San Francisco 49ers|2025-12-14T22:54:40Z|2025-12-14T23:02:23Z"
+},
+{
+"events_date": "2025-12-15T00:50:00Z",
+"game_ids": [
+"2025_15_MIN_DAL"
+],
+"items": "Dallas Cowboys|2025-12-15T02:59:48Z|2025-12-15T03:06:37Z"
+},
+{
+"events_date": "2025-12-16T00:45:00Z",
+"game_ids": [
+"2025_15_MIA_PIT"
+],
+"items": "Pittsburgh Steelers|2025-12-16T02:35:49Z|2025-12-16T02:43:13Z"
+},
+{
+"events_date": "2025-12-19T00:45:00Z",
+"game_ids": [
+"2025_16_LA_SEA"
+],
+"items": "Seattle Seahawks|2025-12-19T02:42:02Z|2025-12-19T02:48:52Z"
+},
+{
+"events_date": "2025-12-20T21:30:00Z",
+"game_ids": [
+"2025_16_PHI_WAS"
+],
+"items": "Washington Commanders|2025-12-20T23:32:24Z|2025-12-20T23:38:51Z"
+},
+{
+"events_date": "2025-12-21T00:50:00Z",
+"game_ids": [
+"2025_16_GB_CHI",
+"2025_16_BUF_CLE",
+"2025_16_CIN_MIA",
+"2025_16_KC_TEN",
+"2025_16_LAC_DAL",
+"2025_16_MIN_NYG",
+"2025_16_NYJ_NO",
+"2025_16_TB_CAR",
+"2025_16_ATL_ARI",
+"2025_16_JAX_DEN",
+"2025_16_LV_HOU",
+"2025_16_PIT_DET"
+],
+"items": "Chicago Bears|2025-12-21T02:44:03Z|2025-12-21T02:50:45Z;Cleveland Browns|2025-12-21T19:31:10Z|2025-12-21T19:38:10Z;Miami Dolphins|2025-12-21T19:30:36Z|2025-12-21T19:37:35Z;Tennessee Titans|2025-12-21T19:36:05Z|2025-12-21T19:42:50Z;Dallas Cowboys|2025-12-21T19:27:07Z|2025-12-21T19:33:48Z;New York Giants|2025-12-21T19:35:08Z|2025-12-21T19:42:20Z;New Orleans Saints|2025-12-21T19:34:07Z|2025-12-21T19:40:43Z;Carolina Panthers|2025-12-21T19:33:25Z|2025-12-21T19:40:19Z;Arizona Cardinals|2025-12-21T22:50:19Z|2025-12-21T22:57:02Z;Denver Broncos|2025-12-21T22:39:33Z|2025-12-21T22:46:20Z;Houston Texans|2025-12-21T22:57:33Z|2025-12-21T23:04:08Z;Detroit Lions|2025-12-21T22:58:50Z|2025-12-21T23:05:14Z"
+},
+{
+"events_date": "2025-12-22T00:50:00Z",
+"game_ids": [
+"2025_16_NE_BAL"
+],
+"items": "Baltimore Ravens|2025-12-22T02:51:42Z|2025-12-22T02:58:37Z"
+},
+{
+"events_date": "2025-12-23T00:45:00Z",
+"game_ids": [
+"2025_16_SF_IND"
+],
+"items": "Indianapolis Colts|2025-12-23T02:55:29Z|2025-12-23T03:02:45Z"
+},
+{
+"events_date": "2025-12-25T17:30:00Z",
+"game_ids": [
+"2025_17_DAL_WAS",
+"2025_17_DET_MIN"
+],
+"items": "Washington Commanders|2025-12-25T19:35:32Z|2025-12-25T19:41:59Z;Minnesota Vikings|2025-12-25T23:08:29Z|2025-12-25T23:22:10Z"
+},
+{
+"events_date": "2025-12-26T00:45:00Z",
+"game_ids": [
+"2025_17_DEN_KC"
+],
+"items": "Kansas City Chiefs|2025-12-26T02:31:51Z|2025-12-26T02:39:02Z"
+},
+{
+"events_date": "2025-12-27T21:00:00Z",
+"game_ids": [
+"2025_17_HOU_LAC"
+],
+"items": "Los Angeles Chargers|2025-12-27T23:08:34Z|2025-12-27T23:14:52Z"
+},
+{
+"events_date": "2025-12-28T00:30:00Z",
+"game_ids": [
+"2025_17_BAL_GB",
+"2025_17_ARI_CIN",
+"2025_17_JAX_IND",
+"2025_17_NE_NYJ",
+"2025_17_NO_TEN",
+"2025_17_PIT_CLE",
+"2025_17_SEA_CAR",
+"2025_17_TB_MIA",
+"2025_17_NYG_LV",
+"2025_17_PHI_BUF"
+],
+"items": "Green Bay Packers|2025-12-28T02:37:43Z|2025-12-28T02:44:27Z;Cincinnati Bengals|2025-12-28T19:28:59Z|2025-12-28T19:35:19Z;Indianapolis Colts|2025-12-28T19:26:19Z|2025-12-28T19:32:40Z;New York Jets|2025-12-28T19:34:51Z|2025-12-28T19:41:40Z;Tennessee Titans|2025-12-28T19:35:21Z|2025-12-28T19:41:54Z;Cleveland Browns|2025-12-28T19:27:24Z|2025-12-28T19:34:11Z;Carolina Panthers|2025-12-28T19:32:22Z|2025-12-28T19:38:56Z;Miami Dolphins|2025-12-28T19:28:07Z|2025-12-28T19:34:35Z;Las Vegas Raiders|2025-12-28T22:32:09Z|2025-12-28T22:38:23Z;Buffalo Bills|2025-12-28T22:54:30Z|2025-12-28T23:01:36Z"
+},
+{
+"events_date": "2025-12-29T00:50:00Z",
+"game_ids": [
+"2025_17_CHI_SF"
+],
+"items": "San Francisco 49ers|2025-12-29T03:03:02Z|2025-12-29T03:09:54Z"
+},
+{
+"events_date": "2025-12-30T00:45:00Z",
+"game_ids": [
+"2025_17_LA_ATL"
+],
+"items": "Atlanta Falcons|2025-12-30T02:39:29Z|2025-12-30T02:46:21Z"
+},
+{
+"events_date": "2026-01-03T21:00:00Z",
+"game_ids": [
+"2025_18_CAR_TB"
+],
+"items": "Tampa Bay Buccaneers|2026-01-03T22:56:55Z|2026-01-03T23:03:31Z"
+},
+{
+"events_date": "2026-01-04T00:30:00Z",
+"game_ids": [
+"2025_18_SEA_SF",
+"2025_18_CLE_CIN",
+"2025_18_DAL_NYG",
+"2025_18_GB_MIN",
+"2025_18_IND_HOU",
+"2025_18_NO_ATL",
+"2025_18_TEN_JAX",
+"2025_18_ARI_LA",
+"2025_18_DET_CHI",
+"2025_18_KC_LV",
+"2025_18_LAC_DEN",
+"2025_18_MIA_NE",
+"2025_18_NYJ_BUF",
+"2025_18_WAS_PHI"
+],
+"items": "San Francisco 49ers|2026-01-04T02:29:51Z|2026-01-04T02:37:06Z;Cincinnati Bengals|2026-01-04T19:31:58Z|2026-01-04T19:38:22Z;New York Giants|2026-01-04T19:32:49Z|2026-01-04T19:39:33Z;Minnesota Vikings|2026-01-04T19:31:53Z|2026-01-04T19:38:46Z;Houston Texans|2026-01-04T19:44:02Z|2026-01-04T19:50:35Z;Atlanta Falcons|2026-01-04T19:40:30Z|2026-01-04T19:47:28Z;Jacksonville Jaguars|2026-01-04T19:33:18Z|2026-01-04T19:39:58Z;Los Angeles Rams|2026-01-04T22:49:52Z|2026-01-04T22:56:18Z;Chicago Bears|2026-01-04T22:45:16Z|2026-01-04T22:51:40Z;Las Vegas Raiders|2026-01-04T22:58:15Z|2026-01-04T23:04:58Z;Denver Broncos|2026-01-04T22:58:17Z|2026-01-04T23:04:45Z;New England Patriots|2026-01-04T22:53:13Z|2026-01-04T23:00:01Z;Buffalo Bills|2026-01-04T22:51:33Z|2026-01-04T22:58:24Z;Philadelphia Eagles|2026-01-04T22:47:52Z|2026-01-04T22:54:53Z"
+},
+{
+"events_date": "2026-01-05T00:50:00Z",
+"game_ids": [
+"2025_18_BAL_PIT"
+],
+"items": "Pittsburgh Steelers|2026-01-05T02:55:16Z|2026-01-05T03:02:23Z"
+},
+{
+"events_date": "2026-01-10T21:00:00Z",
+"game_ids": [
+"2025_19_LA_CAR"
+],
+"items": "Carolina Panthers|2026-01-10T23:12:35Z|2026-01-10T23:19:06Z"
+},
+{
+"events_date": "2026-01-11T00:30:00Z",
+"game_ids": [
+"2025_19_GB_CHI",
+"2025_19_BUF_JAX",
+"2025_19_SF_PHI"
+],
+"items": "Chicago Bears|2026-01-11T02:42:04Z|2026-01-11T02:48:37Z;Jacksonville Jaguars|2026-01-11T19:36:15Z|2026-01-11T19:42:59Z;Philadelphia Eagles|2026-01-11T23:08:06Z|2026-01-11T23:16:06Z"
+},
+{
+"events_date": "2026-01-12T00:30:00Z",
+"game_ids": [
+"2025_19_LAC_NE"
+],
+"items": "New England Patriots|2026-01-12T02:39:35Z|2026-01-12T02:46:59Z"
+},
+{
+"events_date": "2026-01-13T00:30:00Z",
+"game_ids": [
+"2025_19_HOU_PIT"
+],
+"items": "Pittsburgh Steelers|2026-01-13T02:47:12Z|2026-01-13T02:54:19Z"
+},
+{
+"events_date": "2026-01-17T21:00:00Z",
+"game_ids": [
+"2025_20_BUF_DEN"
+],
+"items": "Denver Broncos|2026-01-17T23:07:46Z|2026-01-17T23:14:57Z"
+},
+{
+"events_date": "2026-01-18T00:30:00Z",
+"game_ids": [
+"2025_20_SF_SEA",
+"2025_20_HOU_NE",
+"2025_20_LA_CHI"
+],
+"items": "Seattle Seahawks|2026-01-18T02:59:00Z|2026-01-18T03:05:40Z;New England Patriots|2026-01-18T21:50:00Z|2026-01-18T21:56:49Z;Chicago Bears|2026-01-19T01:11:59Z|2026-01-19T01:19:13Z"
+},
+{
+"events_date": "2026-01-25T19:30:00Z",
+"game_ids": [
+"2025_21_NE_DEN",
+"2025_21_LA_SEA"
+],
+"items": "Denver Broncos|2026-01-25T21:39:43Z|2026-01-25T21:47:07Z;Seattle Seahawks|2026-01-26T01:15:23Z|2026-01-26T01:23:15Z"
+},
+{
+"events_date": "2026-02-08T23:00:00Z",
+"game_ids": [
+"2025_22_SEA_NE"
+],
+"items": "New England Patriots|2026-02-09T01:15:51Z|2026-02-09T01:41:54Z"
+},
+{
+"events_date": "2026-09-09T23:50:00Z",
+"game_ids": [
+"2026_01_NE_SEA"
+],
+"items": "Seattle Seahawks|2026-09-10T01:44:53Z|2026-09-10T01:51:42Z"
+},
+{
+"events_date": "2026-09-11T00:05:00Z",
+"game_ids": [
+"2026_01_SF_LA"
+],
+"items": "Los Angeles Rams|2026-09-11T02:01:15Z|2026-09-11T02:10:39Z"
+},
+{
+"events_date": "2026-09-13T16:30:00Z",
+"game_ids": [
+"2026_01_ATL_PIT",
+"2026_01_BAL_IND",
+"2026_01_BUF_HOU",
+"2026_01_CHI_CAR",
+"2026_01_CLE_JAX",
+"2026_01_NO_DET",
+"2026_01_NYJ_TEN",
+"2026_01_TB_CIN",
+"2026_01_ARI_LAC",
+"2026_01_GB_MIN",
+"2026_01_MIA_LV",
+"2026_01_WAS_PHI"
+],
+"items": "Pittsburgh Steelers|2026-09-13T18:46:14Z|2026-09-13T18:53:29Z;Indianapolis Colts|2026-09-13T18:51:49Z|2026-09-13T18:58:34Z;Houston Texans|2026-09-13T18:40:36Z|2026-09-13T18:47:16Z;Carolina Panthers|2026-09-13T18:53:49Z|2026-09-13T19:00:46Z;Jacksonville Jaguars|2026-09-13T18:31:55Z|2026-09-13T18:38:20Z;Detroit Lions|2026-09-13T18:43:18Z|2026-09-13T18:50:15Z;Tennessee Titans|2026-09-13T18:33:18Z|2026-09-13T18:40:55Z;Cincinnati Bengals|2026-09-13T18:36:58Z|2026-09-13T18:43:41Z;Los Angeles Chargers|2026-09-13T21:49:27Z|2026-09-13T21:56:05Z;Minnesota Vikings|2026-09-13T22:07:00Z|2026-09-13T22:14:04Z;Las Vegas Raiders|2026-09-13T21:49:20Z|2026-09-13T21:55:55Z;Philadelphia Eagles|2026-09-13T21:58:41Z|2026-09-13T22:05:34Z"
+},
+{
+"events_date": "2026-09-13T23:50:00Z",
+"game_ids": [
+"2026_01_DAL_NYG"
+],
+"items": "New York Giants|2026-09-14T02:00:44Z|2026-09-14T02:07:47Z"
+},
+{
+"events_date": "2026-09-14T23:45:00Z",
+"game_ids": [
+"2026_01_DEN_KC"
+],
+"items": "Kansas City Chiefs|2026-09-15T01:47:23Z|2026-09-15T01:54:20Z"
+},
+{
+"events_date": "2026-09-17T23:45:00Z",
+"game_ids": [
+"2026_02_DET_BUF"
+],
+"items": "Buffalo Bills|2026-09-18T01:57:35Z|2026-09-18T02:05:24Z"
+},
+{
+"events_date": "2026-09-20T16:30:00Z",
+"game_ids": [
+"2026_02_CAR_ATL",
+"2026_02_CIN_HOU",
+"2026_02_CLE_TB",
+"2026_02_GB_NYJ",
+"2026_02_MIN_CHI",
+"2026_02_NO_BAL",
+"2026_02_PHI_TEN",
+"2026_02_PIT_NE",
+"2026_02_JAX_DEN",
+"2026_02_LV_LAC",
+"2026_02_MIA_SF",
+"2026_02_SEA_ARI",
+"2026_02_WAS_DAL"
+],
+"items": "Atlanta Falcons|2026-09-20T18:48:35Z|2026-09-20T18:55:25Z;Houston Texans|2026-09-20T18:40:44Z|2026-09-20T18:47:08Z;Tampa Bay Buccaneers|2026-09-20T18:36:19Z|2026-09-20T18:42:39Z;New York Jets|2026-09-20T18:41:00Z|2026-09-20T18:47:59Z;Chicago Bears|2026-09-20T18:29:51Z|2026-09-20T18:36:43Z;Baltimore Ravens|2026-09-20T18:23:28Z|2026-09-20T18:29:48Z;Tennessee Titans|2026-09-20T18:25:48Z|2026-09-20T18:32:32Z;New England Patriots|2026-09-20T18:35:16Z|2026-09-20T18:41:31Z;Denver Broncos|2026-09-20T21:31:11Z|2026-09-20T21:38:09Z;Los Angeles Chargers|2026-09-20T21:36:01Z|2026-09-20T21:42:50Z;San Francisco 49ers|2026-09-20T21:40:40Z|2026-09-20T21:47:17Z;Arizona Cardinals|2026-09-20T21:59:50Z|2026-09-20T22:06:24Z;Dallas Cowboys|2026-09-20T22:00:49Z|2026-09-20T22:10:42Z"
+},
+{
+"events_date": "2026-09-20T23:50:00Z",
+"game_ids": [
+"2026_02_IND_KC"
+],
+"items": "Kansas City Chiefs|2026-09-21T01:55:24Z|2026-09-21T02:02:42Z"
+},
+{
+"events_date": "2026-09-21T23:45:00Z",
+"game_ids": [
+"2026_02_NYG_LA"
+],
+"items": "Los Angeles Rams|2026-09-22T01:48:36Z|2026-09-22T01:55:04Z"
+},
+{
+"events_date": "2026-09-24T23:45:00Z",
+"game_ids": [
+"2026_03_ATL_GB"
+],
+"items": "Green Bay Packers|2026-09-25T01:52:50Z|2026-09-25T01:59:50Z"
+},
+{
+"events_date": "2026-09-27T16:30:00Z",
+"game_ids": [
+"2026_03_CAR_CLE",
+"2026_03_CIN_PIT",
+"2026_03_HOU_IND",
+"2026_03_KC_MIA",
+"2026_03_LAC_BUF",
+"2026_03_NE_JAX",
+"2026_03_NYJ_DET",
+"2026_03_SEA_WAS",
+"2026_03_TEN_NYG",
+"2026_03_ARI_SF",
+"2026_03_MIN_TB",
+"2026_03_BAL_DAL",
+"2026_03_LV_NO"
+],
+"items": "Cleveland Browns|2026-09-27T18:41:28Z|2026-09-27T18:48:10Z;Pittsburgh Steelers|2026-09-27T18:42:55Z|2026-09-27T18:49:49Z;Indianapolis Colts|2026-09-27T18:35:06Z|2026-09-27T18:42:24Z;Miami Dolphins|2026-09-27T18:31:44Z|2026-09-27T18:38:36Z;Buffalo Bills|2026-09-27T18:32:49Z|2026-09-27T18:39:25Z;Jacksonville Jaguars|2026-09-27T18:39:09Z|2026-09-27T18:45:18Z;Detroit Lions|2026-09-27T18:23:53Z|2026-09-27T18:30:18Z;Washington Commanders|2026-09-27T18:53:34Z|2026-09-27T19:00:57Z;New York Giants|2026-09-27T18:36:21Z|2026-09-27T18:43:06Z;San Francisco 49ers|2026-09-27T21:43:41Z|2026-09-27T21:51:20Z;Tampa Bay Buccaneers|2026-09-27T21:43:57Z|2026-09-27T21:50:58Z;Dallas Cowboys|2026-09-27T21:53:52Z|2026-09-27T22:04:22Z;New Orleans Saints|2026-09-27T22:00:50Z|2026-09-27T22:07:34Z"
+},
+{
+"events_date": "2026-09-27T23:50:00Z",
+"game_ids": [
+"2026_03_LA_DEN"
+],
+"items": "Denver Broncos|2026-09-28T01:59:50Z|2026-09-28T02:06:46Z"
+},
+{
+"events_date": "2026-09-28T23:45:00Z",
+"game_ids": [
+"2026_03_PHI_CHI"
+],
+"items": "Chicago Bears|2026-09-29T01:44:41Z|2026-09-29T01:52:02Z"
+},
+{
+"events_date": "2026-10-01T23:45:00Z",
+"game_ids": [
+"2026_04_PIT_CLE"
+],
+"items": "Cleveland Browns|2026-10-02T01:59:57Z|2026-10-02T02:06:33Z"
+},
+{
+"events_date": "2026-10-04T13:00:00Z",
+"game_ids": [
+"2026_04_IND_WAS",
+"2026_04_ARI_NYG",
+"2026_04_DAL_HOU",
+"2026_04_GB_TB",
+"2026_04_JAX_CIN",
+"2026_04_LA_PHI",
+"2026_04_NE_BUF",
+"2026_04_NYJ_CHI",
+"2026_04_TEN_BAL",
+"2026_04_MIA_MIN",
+"2026_04_DEN_SF",
+"2026_04_KC_LV",
+"2026_04_LAC_SEA"
+],
+"items": "Washington Commanders|2026-10-04T15:05:20Z|2026-10-04T15:13:36Z;New York Giants|2026-10-04T18:38:13Z|2026-10-04T18:45:58Z;Houston Texans|2026-10-04T18:34:10Z|2026-10-04T18:41:50Z;Tampa Bay Buccaneers|2026-10-04T18:28:58Z|2026-10-04T18:35:18Z;Cincinnati Bengals|2026-10-04T18:34:56Z|2026-10-04T18:41:30Z;Philadelphia Eagles|2026-10-04T18:41:00Z|2026-10-04T18:47:26Z;Buffalo Bills|2026-10-04T18:35:07Z|2026-10-04T18:42:08Z;Chicago Bears|2026-10-04T18:34:31Z|2026-10-04T18:41:01Z;Baltimore Ravens|2026-10-04T18:40:03Z|2026-10-04T18:47:05Z;Minnesota Vikings|2026-10-04T21:41:03Z|2026-10-04T21:47:27Z;San Francisco 49ers|2026-10-04T22:00:16Z|2026-10-04T22:07:47Z;Las Vegas Raiders|2026-10-04T21:50:48Z|2026-10-04T21:57:09Z;Seattle Seahawks|2026-10-04T22:08:11Z|2026-10-04T22:14:48Z"
+},
+{
+"events_date": "2026-10-04T23:50:00Z",
+"game_ids": [
+"2026_04_DET_CAR"
+],
+"items": "Carolina Panthers|2026-10-05T01:59:15Z|2026-10-05T02:05:53Z"
+},
+{
+"events_date": "2026-10-05T23:45:00Z",
+"game_ids": [
+"2026_04_ATL_NO"
+],
+"items": "New Orleans Saints|2026-10-06T02:00:31Z|2026-10-06T02:10:49Z"
+},
+{
+"events_date": "2026-10-08T23:45:00Z",
+"game_ids": [
+"2026_05_TB_DAL"
+],
+"items": "Dallas Cowboys|2026-10-09T01:46:47Z|2026-10-09T01:53:25Z"
+},
+{
+"events_date": "2026-10-11T13:00:00Z",
+"game_ids": [
+"2026_05_PHI_JAX",
+"2026_05_CHI_GB",
+"2026_05_CIN_MIA",
+"2026_05_CLE_NYJ",
+"2026_05_HOU_TEN",
+"2026_05_IND_PIT",
+"2026_05_LV_NE",
+"2026_05_MIN_NO",
+"2026_05_NYG_WAS",
+"2026_05_DEN_LAC",
+"2026_05_DET_ARI",
+"2026_05_SF_SEA"
+],
+"items": "Jacksonville Jaguars|2026-10-11T15:16:32Z|2026-10-11T15:28:46Z;Green Bay Packers|2026-10-11T18:26:23Z|2026-10-11T18:34:31Z;Miami Dolphins|2026-10-11T18:41:52Z|2026-10-11T18:48:21Z;New York Jets|2026-10-11T18:34:22Z|2026-10-11T18:41:24Z;Tennessee Titans|2026-10-11T18:31:35Z|2026-10-11T18:38:28Z;Pittsburgh Steelers|2026-10-11T18:35:34Z|2026-10-11T18:42:09Z;New England Patriots|2026-10-11T18:35:20Z|2026-10-11T18:41:53Z;New Orleans Saints|2026-10-11T18:24:44Z|2026-10-11T18:31:43Z;Washington Commanders|2026-10-11T18:40:39Z|2026-10-11T18:47:11Z;Los Angeles Chargers|2026-10-11T21:37:07Z|2026-10-11T21:44:08Z;Arizona Cardinals|2026-10-11T22:06:14Z|2026-10-11T22:12:42Z;Seattle Seahawks|2026-10-11T22:07:24Z|2026-10-11T22:13:58Z"
+},
+{
+"events_date": "2026-10-11T23:50:00Z",
+"game_ids": [
+"2026_05_BAL_ATL"
+],
+"items": "Atlanta Falcons|2026-10-12T01:54:26Z|2026-10-12T02:01:52Z"
+},
+{
+"events_date": "2026-10-12T23:45:00Z",
+"game_ids": [
+"2026_05_BUF_LA"
+],
+"items": "Los Angeles Rams|2026-10-13T01:41:45Z|2026-10-13T01:48:14Z"
+},
+{
+"events_date": "2026-10-15T23:45:00Z",
+"game_ids": [
+"2026_06_SEA_DEN"
+],
+"items": "Denver Broncos|2026-10-16T01:43:24Z|2026-10-16T01:50:16Z"
+},
+{
+"events_date": "2026-10-18T13:00:00Z",
+"game_ids": [
+"2026_06_HOU_JAX",
+"2026_06_BAL_CLE",
+"2026_06_CAR_PHI",
+"2026_06_CHI_ATL",
+"2026_06_NO_NYG",
+"2026_06_NYJ_NE",
+"2026_06_PIT_TB",
+"2026_06_TEN_IND",
+"2026_06_ARI_LA",
+"2026_06_BUF_LV",
+"2026_06_LAC_KC"
+],
+"items": "Jacksonville Jaguars|2026-10-18T15:12:21Z|2026-10-18T15:19:45Z;Cleveland Browns|2026-10-18T18:29:32Z|2026-10-18T18:35:56Z;Philadelphia Eagles|2026-10-18T18:44:29Z|2026-10-18T18:52:16Z;Atlanta Falcons|2026-10-18T18:39:40Z|2026-10-18T18:46:38Z;New York Giants|2026-10-18T18:37:32Z|2026-10-18T18:43:48Z;New England Patriots|2026-10-18T18:36:42Z|2026-10-18T18:43:10Z;Tampa Bay Buccaneers|2026-10-18T18:37:47Z|2026-10-18T18:44:30Z;Indianapolis Colts|2026-10-18T18:27:25Z|2026-10-18T18:35:13Z;Los Angeles Rams|2026-10-18T21:30:42Z|2026-10-18T21:37:03Z;Las Vegas Raiders|2026-10-18T21:51:32Z|2026-10-18T21:57:51Z;Kansas City Chiefs|2026-10-18T21:55:29Z|2026-10-18T22:02:03Z"
+},
+{
+"events_date": "2026-10-18T23:50:00Z",
+"game_ids": [
+"2026_06_DAL_GB"
+],
+"items": "Green Bay Packers|2026-10-19T01:57:15Z|2026-10-19T02:04:22Z"
+},
+{
+"events_date": "2026-10-19T23:45:00Z",
+"game_ids": [
+"2026_06_WAS_SF"
+],
+"items": "San Francisco 49ers|2026-10-20T01:45:40Z|2026-10-20T01:53:06Z"
+},
+{
+"events_date": "2026-10-22T23:45:00Z",
+"game_ids": [
+"2026_07_NE_CHI"
+],
+"items": "Chicago Bears|2026-10-23T01:52:23Z|2026-10-23T01:58:49Z"
+},
+{
+"events_date": "2026-10-25T13:00:00Z",
+"game_ids": [
+"2026_07_PIT_NO",
+"2026_07_CIN_BAL",
+"2026_07_CLE_TEN",
+"2026_07_IND_MIN",
+"2026_07_MIA_NYJ",
+"2026_07_NYG_HOU",
+"2026_07_SF_ATL",
+"2026_07_TB_CAR",
+"2026_07_DEN_ARI",
+"2026_07_GB_DET",
+"2026_07_LA_LV"
+],
+"items": "New Orleans Saints|2026-10-25T15:09:54Z|2026-10-25T15:20:07Z;Baltimore Ravens|2026-10-25T18:27:47Z|2026-10-25T18:34:26Z;Tennessee Titans|2026-10-25T18:39:13Z|2026-10-25T18:46:11Z;Minnesota Vikings|2026-10-25T18:26:01Z|2026-10-25T18:32:15Z;New York Jets|2026-10-25T18:25:07Z|2026-10-25T18:31:15Z;Houston Texans|2026-10-25T18:42:46Z|2026-10-25T18:49:45Z;Atlanta Falcons|2026-10-25T18:26:27Z|2026-10-25T18:32:52Z;Carolina Panthers|2026-10-25T18:29:23Z|2026-10-25T18:36:58Z;Arizona Cardinals|2026-10-25T21:44:50Z|2026-10-25T21:52:26Z;Detroit Lions|2026-10-25T21:52:39Z|2026-10-25T21:59:46Z;Las Vegas Raiders|2026-10-25T22:03:21Z|2026-10-25T22:10:01Z"
+},
+{
+"events_date": "2026-10-25T23:50:00Z",
+"game_ids": [
+"2026_07_KC_SEA"
+],
+"items": "Seattle Seahawks|2026-10-26T01:50:35Z|2026-10-26T01:57:45Z"
+},
+{
+"events_date": "2026-10-26T23:45:00Z",
+"game_ids": [
+"2026_07_DAL_PHI"
+],
+"items": "Philadelphia Eagles|2026-10-27T01:54:28Z|2026-10-27T02:01:44Z"
+},
+{
+"events_date": "2026-10-29T23:45:00Z",
+"game_ids": [
+"2026_08_CAR_GB"
+],
+"items": "Green Bay Packers|2026-10-30T01:52:52Z|2026-10-30T01:59:45Z"
+},
+{
+"events_date": "2026-11-01T17:30:00Z",
+"game_ids": [
+"2026_08_ARI_DAL",
+"2026_08_ATL_TB",
+"2026_08_BAL_BUF",
+"2026_08_CLE_PIT",
+"2026_08_IND_JAX",
+"2026_08_LV_NYJ",
+"2026_08_MIN_DET",
+"2026_08_TEN_CIN",
+"2026_08_LAC_LA",
+"2026_08_KC_DEN",
+"2026_08_NE_MIA"
+],
+"items": "Dallas Cowboys|2026-11-01T19:37:33Z|2026-11-01T19:44:33Z;Tampa Bay Buccaneers|2026-11-01T19:29:12Z|2026-11-01T19:37:16Z;Buffalo Bills|2026-11-01T19:52:01Z|2026-11-01T19:58:31Z;Pittsburgh Steelers|2026-11-01T19:40:42Z|2026-11-01T19:47:21Z;Jacksonville Jaguars|2026-11-01T19:40:48Z|2026-11-01T19:47:03Z;New York Jets|2026-11-01T19:30:39Z|2026-11-01T19:37:21Z;Detroit Lions|2026-11-01T19:43:57Z|2026-11-01T19:50:44Z;Cincinnati Bengals|2026-11-01T19:42:53Z|2026-11-01T19:49:19Z;Los Angeles Rams|2026-11-01T22:32:55Z|2026-11-01T22:39:53Z;Denver Broncos|2026-11-01T23:06:05Z|2026-11-01T23:12:25Z;Miami Dolphins|2026-11-01T22:53:12Z|2026-11-01T22:59:56Z"
+},
+{
+"events_date": "2026-11-02T00:50:00Z",
+"game_ids": [
+"2026_08_PHI_WAS"
+],
+"items": "Washington Commanders|2026-11-02T03:03:35Z|2026-11-02T03:10:46Z"
+},
+{
+"events_date": "2026-11-03T00:45:00Z",
+"game_ids": [
+"2026_08_CHI_SEA"
+],
+"items": "Seattle Seahawks|2026-11-03T02:49:06Z|2026-11-03T02:55:47Z"
+},
+{
+"events_date": "2026-11-06T00:45:00Z",
+"game_ids": [
+"2026_09_JAX_BAL"
+],
+"items": "Baltimore Ravens|2026-11-06T02:41:08Z|2026-11-06T02:47:26Z"
+},
+{
+"events_date": "2026-11-08T14:00:00Z",
+"game_ids": [
+"2026_09_CIN_ATL",
+"2026_09_CLE_NO",
+"2026_09_DAL_IND",
+"2026_09_DEN_CAR",
+"2026_09_DET_MIA",
+"2026_09_LA_WAS",
+"2026_09_NYG_PHI",
+"2026_09_NYJ_KC",
+"2026_09_HOU_LAC",
+"2026_09_ARI_SEA",
+"2026_09_GB_NE",
+"2026_09_LV_SF"
+],
+"items": "Atlanta Falcons|2026-11-08T16:09:59Z|2026-11-08T16:18:49Z;New Orleans Saints|2026-11-08T19:28:06Z|2026-11-08T19:34:53Z;Indianapolis Colts|2026-11-08T19:45:38Z|2026-11-08T19:52:11Z;Carolina Panthers|2026-11-08T19:36:31Z|2026-11-08T19:43:16Z;Miami Dolphins|2026-11-08T19:24:57Z|2026-11-08T19:31:31Z;Washington Commanders|2026-11-08T19:30:53Z|2026-11-08T19:38:27Z;Philadelphia Eagles|2026-11-08T19:42:20Z|2026-11-08T19:49:04Z;Kansas City Chiefs|2026-11-08T19:37:33Z|2026-11-08T19:43:59Z;Los Angeles Chargers|2026-11-08T22:51:26Z|2026-11-08T22:58:29Z;Seattle Seahawks|2026-11-08T23:00:19Z|2026-11-08T23:07:12Z;New England Patriots|2026-11-08T23:11:58Z|2026-11-08T23:19:37Z;San Francisco 49ers|2026-11-08T22:41:23Z|2026-11-08T22:49:27Z"
+},
+{
+"events_date": "2026-11-09T00:50:00Z",
+"game_ids": [
+"2026_09_TB_CHI"
+],
+"items": "Chicago Bears|2026-11-09T02:59:29Z|2026-11-09T03:06:40Z"
+},
+{
+"events_date": "2026-11-10T00:45:00Z",
+"game_ids": [
+"2026_09_BUF_MIN"
+],
+"items": "Minnesota Vikings|2026-11-10T02:59:41Z|2026-11-10T03:07:02Z"
+}
+]
