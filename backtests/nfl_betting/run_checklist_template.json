@@ -551,6 +551,20 @@
    ],
    "status": "",
    "note": ""
+  },
+  {
+   "id": "C39",
+   "check": "Totals track v0.1 run (paper): WIND read (outdoor, sustained 10+ mph at kickoff) and, on a 2H run, SCORE read (first-half points 28+); when either is on, the Under logged at the best venue price with its edge vs the consensus fair at the same number (table B-NFL-5 across numbers); RECOMMENDED carries a third line, 'TOTALS (paper, $0): ...' only at fair or better, else 'TOTALS: none'; no Over, no size, no shadow shown",
+   "rules": "T-01 to T-10 (TOTALS_TRACK_v0.1.md)",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
   }
  ]
 }

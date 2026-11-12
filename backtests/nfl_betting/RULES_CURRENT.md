@@ -1,6 +1,6 @@
 # NFL betting - current rules (rules text of 2026-11-12)
 
-**Versions: NFL FG+1H v0.6c. NFL 2H v0.6b. Game-flow read v1.1 with CLEAR LEAN v1.0 and ALWAYS PULL FLOW. Robinhood venue rules v1.0 with the 10/17 addenda.**
+**Versions: NFL FG+1H v0.6c. NFL 2H v0.6b. Game-flow read v1.1 with CLEAR LEAN v1.0 and ALWAYS PULL FLOW. Robinhood venue rules v1.0 with the 10/17 addenda. NFL Totals track v0.1 (paper only; rules T-01 to T-10 in `TOTALS_TRACK_v0.1.md`, added 11/12 on Phong's word).**
 
 **Profile in force: current.** Phong, 11/12/2026: "Current but make this can fire by any books instead of dsb only." Strict v0.5 (`RULES_v05_baseline.md`) is run only when he asks for it.
 
@@ -88,7 +88,7 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 
 ### Lean layer and output
 - F-41 [P1] MATCHUP LEAN under CLEAR LEAN v1.0 (G-09). $0 paper line with the snapshot price logged; graded on hit and beat-market; must cite its FLOW rows. Whether Phong bets it is M-02.
-- F-42 [=] Two-part RECOMMENDED section on every run: ENGINE, then MATCHUP LEAN, "none" stated when none.
+- F-42 [=] Two-part RECOMMENDED section on every run: ENGINE, then MATCHUP LEAN, "none" stated when none. From 11/12 a third line follows for the Totals track (T-07): `TOTALS (paper, $0): ...` or `TOTALS: none`.
 - F-43 [=] Output order: ENGINE (fires or "none" plus conditionals), MATCHUP LEAN, OWED, LEDGER line.
 - F-44 [=] Never override a gate silently; surface conflicts and let Phong decide.
 
@@ -192,5 +192,5 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 - Item B (11/9): QB-change FLOW rows use the replacement QB's most recent start instead of void? Phong: information only, no change.
 - Paper side for NO CLEAR LEAN games (G-11).
 - Whether a lean may be bet live at a price worse than fair (review decision 2). Today's text does not stop it.
-- Totals: no push table; FLOW-TOTAL shadow test still short of 20 boards. A draft totals table, tests of the total rules against real second-half lines, and a proposed separate totals track are in `BACKTEST_2026-11-12.md` (11/12). Not in force.
+- Totals: no push table; FLOW-TOTAL shadow test still short of 20 boards. The Totals track v0.1 (paper) was ratified 11/12 and has its own table (B-NFL-5) in `TOTALS_TRACK_v0.1.md`. The engine's own totals conversion (R-07, 1.5 per half-point) is unchanged; whether it should use B-NFL-5 is Phong's call.
 - A method to restate an overtime-in 2H fair on a regulation basis for Robinhood 2H contracts (H-02). Until it exists, P8 reaches Robinhood only where overtime cannot change the result. The half-score data in `review_2026-11-11/` has both settlements for every game since 2015 and can support one.

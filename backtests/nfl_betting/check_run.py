@@ -62,6 +62,8 @@ def main():
               % (ver, prof, done, len(want)))
     print("Engine %s | %s | games: %s | run %s PT | rule list %s hash %s" %
           (eng, ver, ", ".join(d.get("games", [])) or "-", d.get("run_time_pt") or "-", RULE_FILES[prof], rh))
+    if prof == "current":
+        print("Also in force: NFL Totals track v0.1 (paper only, Under only; TOTALS_TRACK_v0.1.md, check C39).")
     if prof != PROFILE_IN_FORCE:
         print("NOTE: the profile in force is '%s' (Phong, 11/12/2026). This run used '%s'. Say so at the top of the reply." % (PROFILE_IN_FORCE, prof))
     print("This check confirms each rule was answered by the chat. It does not verify the answers, grading, or closing lines.")

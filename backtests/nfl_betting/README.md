@@ -12,6 +12,7 @@ proposed engine changes and the case for a separate totals track; nothing in it 
 |---|---|
 | `REVIEW_2026-11-11.md` | The 11/11 review: results by version, closing-line value, 12-season FLOW check, what was fixed, decisions for Phong |
 | `BACKTEST_2026-11-12.md` + `backtest_2026-11-12/` | 11/12 backtests: lean and total rules against real second-half lines 2011-2021, totals key numbers and half-point values, wind, a stand-in engine test on the 45 closing snapshots, what a paid test would cost. Scripts, outputs and the decoded second-half line file |
+| `TOTALS_TRACK_v0.1.md` | NFL Totals track v0.1, ratified 11/12 ("Lets do all 3"): paper only, Under only, inputs WIND / SCORE / PRICE, own ledger, third line in RECOMMENDED. Table B-NFL-5 |
 | `RULES_CURRENT.md` | Numbered rules in force today (1H v0.6c / 2H v0.6b, rules text 2026-11-12): v0.5 + the eight changes + one reading per contradiction + the push-table fix |
 | `PUSH_TABLE_B-NFL-3.md` + `push_table_onesided_2015_2026.csv` | One-sided exact-margin table (push probability of a line), 2015-2026. Replaces the either-team table for HOOK pricing and number conversions |
 | `clv_1h_2026-10-18_to_11-05.csv` | Closing-line value for every first-half lean and fire in the rebuilt ledger |
