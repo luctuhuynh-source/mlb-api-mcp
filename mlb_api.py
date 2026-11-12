@@ -3615,3 +3615,232 @@ def setup_mlb_tools(mcp):
             k = t.find("Lineup")
             res["text_fallback"] = t[max(0, k - 200): max(0, k - 200) + 20000]
         return res
+
+    # ---- Backtest batch tools (added 11/12/26) ----
+    # get_event_odds_historical_batch: many historical event-odds lookups in one
+    # call, compact rows only (built for the NFL halftime price backtest).
+    # kalshi_get_candlesticks: minute-by-minute bid/ask history for Kalshi
+    # (Robinhood) contracts. Both use module-level `requests` and `os` only.
+
+    @mcp.tool()
+    def get_event_odds_historical_batch(sport: str,
+                                        items: str,
+                                        markets: str = "spreads_h2,totals_h2",
+                                        regions: str = "us",
+                                        events_date: str = "",
+                                        max_credits: int = 1200,
+                                        dry_run: bool = False) -> dict:
+        """Many historical event-odds lookups in ONE call, compact output.
+
+        items: semicolon-separated, one per game: "KEY|time1|time2|..." where
+          KEY is an Odds API event_id (32 hex chars) OR a home-team name
+          fragment (e.g. "Chiefs"), and each time is an ISO8601 UTC snapshot time
+          ("2026-10-18T18:25:00Z"). The API returns the snapshot at or before
+          each time. Up to 12 games and 30 lookups per call.
+        events_date: needed only when a KEY is a team name. ISO8601 time shortly
+          before those games kick off; events that commence from 12 hours before
+          to 30 hours after it are matched by home team (1 credit).
+        Cost: 10 x #markets x #regions per lookup. Nothing is pulled if the
+          estimate is over max_credits, or when dry_run is true.
+
+        Returns {"games": [{"key","event_id","home","away","commence_time",
+          "looks": [{"asked","ts","m": {market: [[book, point, price_a, price_b], ...]}}]}]}
+          spreads: point = HOME spread, price_a = home, price_b = away.
+          totals:  point = total, price_a = Over, price_b = Under.
+        """
+        import re as _re
+        from concurrent.futures import ThreadPoolExecutor as _Pool
+        from datetime import datetime as _dt2, timedelta as _td2
+        key = os.environ.get("ODDS_API_KEY")
+        if not key:
+            return {"error": "ODDS_API_KEY not set"}
+        parsed = []
+        for raw in [x.strip() for x in items.split(";") if x.strip()]:
+            parts = [p.strip() for p in raw.split("|") if p.strip()]
+            if len(parts) < 2:
+                return {"error": f"bad item (need KEY|time): {raw}"}
+            parsed.append({"key": parts[0], "times": parts[1:]})
+        if not parsed:
+            return {"error": "no items"}
+        n_looks = sum(len(p["times"]) for p in parsed)
+        if len(parsed) > 12 or n_looks > 30:
+            return {"error": f"too many: {len(parsed)} games, {n_looks} lookups (max 12 games, 30 lookups)"}
+        per_look = 10 * len([m for m in markets.split(",") if m.strip()]) * len([r for r in regions.split(",") if r.strip()])
+        need_events = any(not _re.fullmatch(r"[0-9a-f]{32}", p["key"]) for p in parsed)
+        est = per_look * n_looks + (1 if need_events else 0)
+        if dry_run or est > max_credits:
+            return {"pulled": False, "games": len(parsed), "lookups": n_looks, "credits_estimate": est,
+                    "max_credits": max_credits, "reason": "dry_run" if dry_run else "estimate over max_credits"}
+        ev_by_id, ev_list = {}, []
+        if need_events:
+            if not events_date:
+                return {"error": "events_date is required when a KEY is a team name"}
+            try:
+                t0 = _dt2.strptime(events_date, "%Y-%m-%dT%H:%M:%SZ")
+                r = requests.get(f"{ODDS_API_BASE_URL}/historical/sports/{sport}/events",
+                                 params={"apiKey": key, "date": events_date,
+                                         "commenceTimeFrom": (t0 - _td2(hours=12)).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                                         "commenceTimeTo": (t0 + _td2(hours=30)).strftime("%Y-%m-%dT%H:%M:%SZ")},
+                                 timeout=30)
+                if r.status_code != 200:
+                    return {"error": f"events HTTP {r.status_code}: {r.text[:200]}"}
+                ev_list = r.json().get("data", []) or []
+            except Exception as ex:
+                return {"error": f"events fetch failed: {type(ex).__name__}"}
+        for p in parsed:
+            if _re.fullmatch(r"[0-9a-f]{32}", p["key"]):
+                p["event_id"] = p["key"]
+            else:
+                hits = [e for e in ev_list if p["key"].lower() in (e.get("home_team") or "").lower()]
+                p["event_id"] = hits[0].get("id") if len(hits) == 1 else None
+                if len(hits) != 1:
+                    p["error"] = f"{len(hits)} events match home team '{p['key']}'"
+                else:
+                    ev_by_id[hits[0]["id"]] = hits[0]
+
+        def _one(job):
+            p, t = job
+            try:
+                r = requests.get(
+                    f"{ODDS_API_BASE_URL}/historical/sports/{sport}/events/{p['event_id']}/odds",
+                    params={"apiKey": key, "date": t, "markets": markets,
+                            "regions": regions, "oddsFormat": "american"}, timeout=30)
+            except Exception as ex:
+                return p, {"asked": t, "error": type(ex).__name__}, None
+            if r.status_code != 200:
+                return p, {"asked": t, "error": f"HTTP {r.status_code}: {r.text[:120]}"}, None
+            payload = r.json() or {}
+            d = payload.get("data", {}) or {}
+            home, away = d.get("home_team"), d.get("away_team")
+            m_out = {}
+            for bk in d.get("bookmakers", []) or []:
+                for m in bk.get("markets", []) or []:
+                    outs = m.get("outcomes", []) or []
+                    mk = m.get("key") or ""
+                    if len(outs) != 2:
+                        continue
+                    if mk.startswith("totals"):
+                        a = next((o for o in outs if o.get("name") == "Over"), None)
+                        b = next((o for o in outs if o.get("name") == "Under"), None)
+                    else:
+                        a = next((o for o in outs if o.get("name") == home), None)
+                        b = next((o for o in outs if o.get("name") == away), None)
+                    if not a or not b:
+                        continue
+                    m_out.setdefault(mk, []).append([bk.get("key"), a.get("point"), a.get("price"), b.get("price")])
+            meta = {"home": home, "away": away, "commence_time": d.get("commence_time")}
+            return p, {"asked": t, "ts": payload.get("timestamp"), "m": m_out}, \
+                (meta, r.headers.get("x-requests-remaining"))
+
+        jobs = [(p, t) for p in parsed if p.get("event_id") for t in p["times"]]
+        remaining, done = None, 0
+        with _Pool(max_workers=6) as pool:
+            for p, look, extra in pool.map(_one, jobs):
+                p.setdefault("looks", []).append(look)
+                if extra:
+                    done += 1
+                    p.update({k: v for k, v in extra[0].items() if v})
+                    if extra[1] is not None:
+                        try:
+                            remaining = min(int(float(extra[1])), remaining) if remaining is not None else int(float(extra[1]))
+                        except (TypeError, ValueError):
+                            pass
+        out = []
+        for p in parsed:
+            g = {"key": p["key"], "event_id": p.get("event_id"), "home": p.get("home"), "away": p.get("away"),
+                 "commence_time": p.get("commence_time"), "looks": p.get("looks", [])}
+            if p.get("error"):
+                g["error"] = p["error"]
+            out.append(g)
+        return {"pulled": True, "sport": sport, "markets": markets, "lookups_ok": done,
+                "lookups_asked": n_looks, "approx_credits_used": per_look * done + (1 if need_events else 0),
+                "requests_remaining": remaining, "games": out}
+
+    @mcp.tool()
+    def kalshi_get_candlesticks(tickers: str = "",
+                                event_ticker: str = "",
+                                start_ts: int = 0,
+                                end_ts: int = 0,
+                                period_interval: int = 1,
+                                max_markets: int = 12,
+                                max_candles: int = 40) -> dict:
+        """Bid/ask price history for Kalshi (Robinhood) contracts, public, no auth.
+
+        Pass tickers (comma-separated market tickers) OR event_ticker (every
+        market of that game, e.g. KXNFL2HSPREAD-26NOV01LACLA). start_ts / end_ts
+        are Unix seconds (UTC); period_interval is 1, 60 or 1440 minutes.
+        Live markets are tried first, then the archive for settled ones.
+
+        Returns per market: ticker, title, floor_strike, result, and candles as
+        [end_ts, yes_bid_close, yes_ask_close, yes_ask_low, yes_ask_high, volume]
+        with prices in cents. yes_ask is the Robinhood "Buy Yes" price;
+        Buy No = 100 - yes_bid. "raw_first" is the first candle untouched.
+        """
+        def _c(v):
+            if v is None:
+                return None
+            try:
+                f = float(v)
+            except (TypeError, ValueError):
+                return None
+            return round(f * 100) if (isinstance(v, str) and "." in v) or (0 < f < 1) else round(f)
+
+        def _px(d, field):
+            if not isinstance(d, dict):
+                return None
+            for k in (field + "_dollars", field):
+                if d.get(k) is not None:
+                    return _c(d.get(k))
+            return None
+
+        def _try(path, params):
+            try:
+                r = requests.get(f"{KALSHI_BASE}{path}", params=params, timeout=TIMEOUT)
+            except Exception as ex:
+                return None, type(ex).__name__
+            if r.status_code != 200:
+                return None, f"HTTP {r.status_code}"
+            try:
+                return r.json(), None
+            except Exception:
+                return None, "bad json"
+
+        if not start_ts or not end_ts or end_ts <= start_ts:
+            return {"error": "start_ts and end_ts (Unix seconds) are required"}
+        markets, notes = [], []
+        if event_ticker:
+            for path in ("/markets", "/historical/markets"):
+                data, err = _try(path, {"event_ticker": event_ticker, "limit": 200})
+                if err:
+                    notes.append(f"{path}: {err}")
+                    continue
+                found = data.get("markets", []) or []
+                if found:
+                    markets = found
+                    break
+        for t in [x.strip() for x in tickers.split(",") if x.strip()]:
+            markets.append({"ticker": t})
+        if not markets:
+            return {"error": "no markets found", "notes": notes}
+        out = []
+        for m in markets[:max_markets]:
+            tk = m.get("ticker") or ""
+            series = tk.split("-")[0]
+            params = {"start_ts": int(start_ts), "end_ts": int(end_ts), "period_interval": int(period_interval)}
+            data, err, src = None, None, None
+            for path in (f"/series/{series}/markets/{tk}/candlesticks", f"/historical/markets/{tk}/candlesticks"):
+                data, err = _try(path, params)
+                if data is not None and (data.get("candlesticks") or []):
+                    src = "live" if path.startswith("/series") else "archive"
+                    break
+            cs = (data or {}).get("candlesticks", []) or []
+            rows = []
+            for c in cs[-max_candles:]:
+                yb, ya = c.get("yes_bid") or {}, c.get("yes_ask") or {}
+                rows.append([c.get("end_period_ts"), _px(yb, "close"), _px(ya, "close"),
+                             _px(ya, "low"), _px(ya, "high"), c.get("volume_fp", c.get("volume"))])
+            out.append({"ticker": tk, "title": m.get("title"), "floor_strike": m.get("floor_strike"),
+                        "result": m.get("result"), "source": src, "candle_count": len(cs),
+                        "candles": rows, "raw_first": cs[0] if cs else None,
+                        "error": err if not cs else None})
+        return {"count": len(out), "markets_found": len(markets), "markets": out, "notes": notes}
