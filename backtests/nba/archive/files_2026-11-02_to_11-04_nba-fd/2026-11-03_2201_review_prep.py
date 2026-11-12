@@ -1,0 +1,20 @@
+import pandas as pd, numpy as np, re
+D='/home/claude/luctuhuynh-source/mlb-api-mcp/backtests/nba/'
+OUT='/tmp/claude-0/-home-claude/0af725b5-583a-505c-8506-bd4d1923ac69/scratchpad/r/'
+def norm(s): return re.sub(r'[^a-z]','',str(s).lower().replace('jr','').replace('iii','').replace('ii','').replace('ć','c').replace('č','c').replace('ş','s').replace('ü','u').replace('ö','o').replace('é','e'))
+st=pd.read_csv('/mnt/user-data/uploads/136166-281367344.csv',encoding='utf-8-sig')
+pl=st.dropna(subset=['Player']).copy()
+pl['name']=pl.Player.str.replace(r' \(.*\)','',regex=True); pl['fid']=pl.Player.str.extract(r'\((.*)\)')
+pl['own']=pl['%Drafted'].str.rstrip('%').astype(float)
+pl['fp']=pl.FPTS.astype(float); pl['sal']=pl.Salary.astype(float); pl['key']=pl.name.map(norm)
+ls=pd.read_csv(D+'linestar/live/2026-11-02_1515_players.csv'); ls['key']=ls.name.map(norm)
+po=pd.read_csv(D+'linestar/live/2026-11-02_1515_projown.csv'); po=po[po.slate==30477]; po['key']=po.name.map(norm)
+df=pl[['name','fid','key','own','fp','sal']].merge(ls[['key','pos','team','opp','ls_proj','ls_floor','ls_ceil','status','game','total']],on='key',how='left').merge(po[['key','proj_owned']],on='key',how='left')
+g=pd.concat([pd.read_csv(D+'nba_player_games_2025-26.csv'),pd.read_csv(D+'nba_player_games_2026-27.csv')]); g['d']=pd.to_datetime(g.game_date); g['key']=g.athlete_display_name.map(norm)
+day=g[g.d=='2026-11-02'][['key','minutes','starter','did_not_play']].rename(columns={'minutes':'act_min','starter':'act_start'})
+pre=g[(g.d<'2026-11-02')&(g.season==g.season.max())&(g.minutes>0)].sort_values('d')
+m3=pre.groupby('key').apply(lambda x:pd.Series({'min3':x.minutes.tail(3).mean(),'rate':x.fd_pts.sum()/x.minutes.sum(),'gp':len(x),'start_last':bool(x.starter.iloc[-1])}))
+df=df.merge(day,on='key',how='left').merge(m3,on='key',how='left')
+print('unmatched LineStar:',df.ls_proj.isna().sum(), df[df.ls_proj.isna()].name.tolist()[:15])
+print('teams:',sorted(df.team.dropna().unique()))
+df.to_csv(OUT+'p1102.csv',index=False)
