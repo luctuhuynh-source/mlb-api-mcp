@@ -2,7 +2,7 @@
 
 Phong, 11/12, 2:38 AM: "What about flow of the games. Are you still reading play per plays to get a feel for the flow of the game? ... Is that still part of the determining process?" Then, 2:40 AM: "Test flow total".
 
-**What this is.** A screen of the flow read on totals (rule H-38 bars it from totals while it is shadow-tested; the live shadow log has 6 graded entries). First-half flow numbers from play-by-play, against the real second-half totals and prices bought on 11/12 (990 games, 2023 to 11/9/2026).
+**What this is.** A screen of the flow read on totals (rule H-38 bars it from totals while it is shadow-tested; the live shadow log stood at 3-2 on five graded entries on 10/26). First-half flow numbers from play-by-play, against the real second-half totals and prices bought on 11/12 (990 games, 2023 to 11/9/2026).
 
 **What it is not.** Proof. That data has been opened: the base rates are known (second-half Unders 48.5%, Overs 54.3% in 2025-2026). Ten claims are tried. A claim that passes buys a silent forward log, nothing more. No rule changes without Phong.
 

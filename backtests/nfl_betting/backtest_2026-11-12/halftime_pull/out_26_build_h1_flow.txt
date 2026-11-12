@@ -1,0 +1,19 @@
+games 990 of 990 | first-half points from play-by-play equal the half score in 990 games
+      plays   ypp  drives  sustain  three_out  rz_trips  rz_stalled  cheap_pts   pts1
+mean  60.91  5.44   10.41     0.52       0.21      3.14        1.34       3.70  22.75
+std    4.42  1.09    2.15     0.17       0.13      1.27        1.02       4.74   8.86
+min   50.00  2.38    5.00     0.10       0.00      0.00        0.00       0.00   0.00
+50%   61.00  5.43   10.00     0.50       0.20      3.00        1.00       3.00  23.00
+max   78.00  9.45   20.00     1.00       0.62      7.00        5.00      28.00  55.00
+cuts: {'ypp_lo': 4.928, 'ypp_hi': 5.891, 'plays_lo': 59.0, 'plays_hi': 63.0, 'three_hi': 0.273, 'sustain_hi': 0.6, 'pts_med': 23.0}
+games each claim catches (no result read):
+  T1 YPP top third (Over)                           330   2023-24 198   2025-26 132
+  T2 YPP bottom third (Under)                       330   2023-24 181   2025-26 149
+  T3 TEMPO top third (Over)                         282   2023-24 190   2025-26  92
+  T4 TEMPO bottom third (Under)                     305   2023-24 157   2025-26 148
+  T5 CHEAP POINTS 10+ (Under)                       130   2023-24  70   2025-26  60
+  T6 YPP top third, points low (Over)                96   2023-24  60   2025-26  36
+  T7 points high, YPP bottom third (Under)           57   2023-24  34   2025-26  23
+  T8 two or more stalled red-zone drives (Over)     390   2023-24 226   2025-26 164
+  T9 3-AND-OUT top third (Under)                    290   2023-24 173   2025-26 117
+  T10 SUSTAIN top third (Over)                      294   2023-24 175   2025-26 119

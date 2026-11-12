@@ -1,0 +1,9 @@
+cuts: bottom third under 4.93 yards per play, top third over 5.89
+Over rate against the median line (ties left out), by third of first-half yards per play:
+  all      1 bottom: 149-178 45.6% | 2 middle: 173-156 52.6% | 3 top: 185-145 56.1%
+  2023-24  1 bottom: 76-103 42.5% | 2 middle: 97-92 51.3% | 3 top: 107-91 54.0%
+  2025-26  1 bottom: 73-75 49.3% | 2 middle: 76-64 54.3% | 3 top: 78-54 59.1%
+  top third minus bottom third: 10.5 points, standard error 3.9, z 2.7
+Over rate with 2+ stalled red-zone drives: 56.3%; with fewer: 48.2%
+a random third of the games passes the screen as an Over claim 3.9% of the time, as an Under claim 0.1%
+with five Over and five Under claims, chance alone expects about 0.20 passes; two or more passes by chance: about 2% (claims treated as unrelated)
