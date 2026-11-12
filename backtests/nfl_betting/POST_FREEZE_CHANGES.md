@@ -20,6 +20,7 @@ working well. I'd like to use that version", which left the choice of profile op
 | P11 | 11/12 | Game-flow read (leans), NFL | Game-flow read v1.2, CLEAR LEAN v1.1 | A clear lean prints with its venue price and a tag, BETTABLE or PRICE WORSE THAN FAIR - pass, and is bet only at the fair or better (G-13). Phong, by voice: "Fair or better." |
 | P12 | 11/12 | Both engines; Robinhood venue rules | Robinhood venue rules v1.2 | Totals are compared at the same number only; the flat 1.5 points per half-point is retired (R-07a). Spread conversion by table B-NFL-3 is kept. Phong, by voice, to "for sides keep the conversion, for totals drop it": "Yes, I agree." |
 | P13 | 11/12 | Robinhood venue rules | no version change | No run check on the settlement wording; the rules stay "including overtime". X-36 closed as declined. Phong, by voice: "No, no need to do that. But just keep the wording, including overtime" |
+| P14 | 11/12 | College boards (rules live in the football doc only) | CFB 2H v2.3b; CFB 1H v2.0e | P11 (lean bet only at the fair or better) and P12 (totals at the same number only) extended to college boards, as addenda in the CFB 2H and CFB 1H tabs. Basis is NFL work; nothing was tested on college games. Phong: "CFB too" |
 
 ## Keep / drop (11/11/2026 review, `REVIEW_2026-11-11.md` section 10)
 Recommended: keep all seven. No change is tied to worse results: v0.6 and v0.6a pick leans with the same rule and went 15-18-2 and
