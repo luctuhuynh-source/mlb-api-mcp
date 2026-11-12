@@ -1,0 +1,98 @@
+ * Finding: Sharp bettors convert across total numbers with empirical push tables rather than flat rules, earning 1.5 to 2.5 percent ROI on dispersed halftime numbers that retail books have not closed.
+Source: Unabated, 2026, strong; Wizard of Odds, 2026, medium.
+Confidence: high.
+Bears on: S1.
+How to check it with our data: Build push tables from 2011-2026 lines to grade cross-book halftime totals clearing 3.0 points on the 990 games.
+ * Finding: Single-half yards per play reflects noisy big plays and momentum Over chasing loses to vig, while outside ROI for pairing flow with fair price is not verified.
+Source: NFL Analytic, 2026, medium; Paul and Weinbach, 2005, strong.
+Confidence: medium.
+Bears on: S2.
+How to check it with our data: Compare fair-or-better halftime quotes filtered by yards-per-play tercile against all fair-or-better quotes on the 990 games.
+ * Finding: Data across 6,487 games proves second-half pace and possession reflect halftime lead rather than stable team traits, with team half-total persistence ROI not verified.
+Source: NFL Analytic, 2026, medium; betting ROI: not verified.
+Confidence: medium.
+Bears on: S3.
+How to check it with our data: Test walk-forward returns from Week 5 onward in 2023-2026 when both teams share half-total residual sign.
+ * Finding: Following early moves by sharp market makers into slower retail books yields roughly 1.5 to 2.0 percent ROI before retail copies them, whereas chasing settled consensus fails.
+Source: Unabated, 2026, strong.
+Confidence: high.
+Bears on: S4.
+How to check it with our data: Identify which book moves earliest toward pre-third-quarter consensus on the 990 games and grade laggards at first look.
+ * Finding: Across 313,972 Kalshi contracts, taker fees near 50 cents (3.5 percent) plus spread leave takers unprofitable while makers earn 1.9 percent, despite surging 2026 NFL totals volume.
+Source: Burgi, Deng, and Whelan, 2026, strong; Auberger, 2026, strong.
+Confidence: high.
+Bears on: S5.
+How to check it with our data: Grade 2026 Robinhood minute-by-minute ask-plus-2-cent and resting-bid fills against S1-converted fair adjusted 0.7 points for regulation settlement.
+ * Finding: Sportsbooks run separate automated feeds for live game totals and halftime derivatives that briefly desynchronize by several probability points during breaks before bots restore parity.
+Source: Miller and Davidow, 2023, strong; Unabated, 2026, strong.
+Confidence: high.
+Bears on: S6.
+How to check it with our data: Spend 2,000 credits on 200 halftime live game totals to confirm 1.0-point intra-book gaps before buying all 990.
+ * Finding: Rain (59.4 percent) and wind (53.3 percent) beat totals in 1984-2004, but snow and sub-30 cold aid rushing while modern closing lines price non-wind weather.
+Source: Borghesi, 2007, strong; PFF, 2018, medium.
+Confidence: high.
+Bears on: S7.
+How to check it with our data: Parse rain, snow, and cold from nflverse weather on 2011-2026 totals under 10 mph wind, comparing pre-2020 to 2020-2026.
+ * Finding: Studies of NFL rule and officiating shocks show totals markets misprice scoring shifts by 1 to 2 points initially before closing within half to one season.
+Source: DiFilippo and coauthors, 2014, strong; McCannon, 2015, strong.
+Confidence: medium.
+Bears on: S8.
+How to check it with our data: Plot a rolling 60-game mean of second-half points minus line across 2025-2026 to check if +1.4-point drift decayed.
+ * Finding: Post-2015 game totals peak on 44, 37, 41, 47, and 43 (3.6 to 4.0 percent), while post-2024 half push tables are not verified externally, though scoring math matches our 17, 20, 21, 24, 27 peaks and 18, 22, 25, 28 troughs.
+Source: Sports Insights, 2016, medium; post-2024 half tables: not verified.
+Confidence: medium.
+Bears on: S1.
+How to check it with our data: Tabulate push rates on our 2023-2026 halves against 2011-2021 to see if extra field goals raised 20 and 23.
+ * Finding: Books set halftime totals via automated pregame-and-score formulas, copy sharp leaders Pinnacle, Bookmaker, and Circa, and leave stale retail numbers open seconds to five minutes (second-level survival not verified).
+Source: Miller and Davidow, 2023, strong; Unabated, 2026, strong.
+Confidence: high.
+Bears on: S1, S4, S6.
+How to check it with our data: Measure quote-age decay and pre-third-quarter consensus accuracy by book across both halftime snapshots in the 990 games.
+ * Finding: Early-down EPA and success rate strip big-play noise and early-down pass rate captures intent better than yards per play, though superior halftime-total prediction is not verified externally.
+Source: NFL Analytic, 2026, medium; Baldwin, 2019, strong.
+Confidence: medium.
+Bears on: S2.
+How to check it with our data: On nflverse first-half pass/run snaps (aborted_play equals 0), test mean(epa), mean(success) (epa above 0), mean(pass) on down at most 2, yards_gained at least 20 share, qb_hit or sack per dropback, and seconds per snap (wp 0.20-0.80, half_seconds_remaining above 120) against second-half residuals.
+ * Finding: Moving 2025 touchbacks to the 35 (+6 yards average start), K-ball prep (115 tries from 55-plus yards at 64.3 percent, shifting fourth-down punts to kicks), and two-possession overtime held scoring at 23.0 points with a record 1.79 field goals per team game in 2026 (2026 book formula changes not verified).
+Source: Pro-Football-Reference, 2026, strong; Vikings/NFL, 2025-2026, strong; r/nfl study, 2026, medium.
+Confidence: high.
+Bears on: S8, S1, S5.
+How to check it with our data: Refit the halftime formula by year on the 990 games and count 50-plus-yard field goals and overtime points in nflverse.
+ * Finding: NEW Rank 1 (Halftime Quarterback Change) bets first-look second-half Under when an above-median EPA starter exits in half one and total drops under 2.5 points from baseline (about 20 games a season), as pregame-weighted feeds lag injury overrides (ROI not verified).
+Source: Miller and Davidow, 2023, strong; injury ROI: not verified.
+Confidence: medium.
+Bears on: NEW.
+How to check it with our data: Flag nflverse games where late-second-quarter passers differ from starters and grade first-look Unders on the 990 games.
+ * Finding: NEW Rank 2 (Trailing Favorite Receiving Kickoff) bets second-half Over when a 6-plus-point favorite trails or leads by at most 3 at half and receives the third-quarter kick (about 30 games a season), as linear lead formulas miss 12 percent extra-possession deferment value plus pass-heavy script (ROI not verified).
+Source: NFL Analytic, 2026, medium; Sharp Football / Reddit, 2023, weak.
+Confidence: medium.
+Bears on: NEW.
+How to check it with our data: Join spreads, halftime scores, and third-quarter opening posteam in nflverse across the 990 games and 2011-2021 lines.
+ * Finding: NEW Rank 3 (Close-Game Regulation Under) buys Robinhood second-half Unders when halftime margin is 0 to 3 and spread is inside 3.5 (about 45 games a season), as doubled overtime odds plus two-possession 2025 overtime double the 0.7-point regulation edge under flat haircuts (pricing gap not verified).
+Source: Vikings/NFL, 2025, strong; Weinbach and Paul, 2016, strong.
+Confidence: medium.
+Bears on: NEW.
+How to check it with our data: Compute overtime points in close halftime nflverse games (2025-2026) and check 2026 Robinhood prices for flat haircuts.
+ * Finding: NEW Rank 4 (Two-Minute Scoring Fade) bets second-half Under when 14-plus points fall in the final two minutes of quarter two on sub-44 percent neutral success rate (about 35 games a season), fading the +0.042 weight on noisy hurry-up points (ROI not verified).
+Source: NFL Analytic, 2026, medium; Dunn, 2019, medium.
+Confidence: low.
+Bears on: NEW.
+How to check it with our data: Filter nflverse for 14-plus points at half_seconds_remaining at most 120 on sub-44 percent success across the 990 games.
+ * Finding: NEW Rank 5 (Late Outdoor Divisional Under) bets full-game Unders in Weeks 11-18 outdoor division games above median total (about 40 games a season, beating -120 team totals), exploiting familiarity and 66 percent public Over bias that won up to 57 percent pre-2019 (post-2020 closure not verified).
+Source: Emerald, 2019, strong; Paul and Weinbach, 2002, strong.
+Confidence: medium.
+Bears on: NEW.
+How to check it with our data: Grade Weeks 11-18 outdoor div_game Unders (alongside referee flags, Eastbound travel, altitude, and surface) on 2011-2026 closing totals.
+ * Finding: Professionals attack totals and derivatives by top-down shopping off Pinnacle, Bookmaker, and Circa with push tables, exploiting stale derivative feeds over game origination, middling only across key numbers, and posting exchange maker bids to avoid taker fees.
+Source: Miller and Davidow, 2019 and 2023, strong; Unabated, 2026, strong; Burgi and coauthors, 2026, strong.
+Confidence: high.
+Bears on: S1, S4, S5, S6.
+How to check it with our data: Simulate top-down S1 shopping off our sharpest book on the 990 games and compare maker-bid versus taker-ask fills on 2026 Robinhood history.
+Test first:
+ * S1 Number Table paired with S4 sharp-leader top-down shopping (zero credits, properly prices the 70 percent halftime 1-point dispersion).
+ * S6 Live Total Check via a 2,000-credit, 200-game pilot (tests intra-book automated feed lag).
+ * S5 Robinhood Totals using resting maker orders plus NEW Rank 3 conditional overtime value on the real-money venue.
+Drop:
+ * S3 Team Half Form (second-half splits reflect score state rather than team skill against a 3.6-point hold).
+ * S7 More Weather non-wind cold and snow (aids rushing efficiency and modern closing lines are efficient).
+ * S2 Flow Plus Price on raw yards per play (1.0 percent variance explained and noisy in one-half samples).
