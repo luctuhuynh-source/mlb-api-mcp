@@ -1,0 +1,75 @@
+Worked for 11m 32s
+
+FATAL means a blocker to validation, not to paper logging.
+
+1. FATAL What is wrong: P1/P2 are not a clean independent wind holdout. Why it matters: Unseen prices do not erase the draft’s exposure to correlated outcomes. Evidence or arithmetic: Inspected 2022–2026 full-game scores contain the same halves now proposed as holdouts. Fix or test: Call these replication tests and reserve genuinely untouched future games for confirmation.
+
+2. FATAL What is wrong: Weather labels may use unavailable information and selective coverage. Why it matters: Misclassification could erase the entire edge; its size cannot be estimated here. Evidence or arithmetic: Pregame decisions have forecasts, not kickoff readings; publication timing matters even at halftime, and 22% of recent outdoor readings are missing. Fix or test: Replay archived weather and roof information published before each decision; audit missingness by season/stadium, recover independently, and never classify missing as calm.
+
+3. FATAL What is wrong: One book’s lines at synthetic -110, or best-of-four grading, does not test the printable strategy. Why it matters: The operator may never obtain those numbers, prices, or qualifying fair-price gaps; full-game reference boards and historical Robinhood asks are not specified. Evidence or arithmetic: WIND-A’s plus 8.9%/plus 4.7% returns check; SCORE’s plus 3.5% at -110 becomes minus 0.5% at -120. Fix or test: Replay every eligibility filter at his actual venues, fixed decision times, executable prices and size, fees, slippage, and settlement; Robinhood requires its own execution evidence.
+
+4. MAJOR What is wrong: Selection makes the strongest half result look more convincing than it is. Why it matters: Forty-five comparisons create many chances to discover noise. Evidence or arithmetic: For 143 wins among 250 decisions, the exact one-sided tail is 1.33% against 50%, or 7.16% against -110 break-even. Across 45 independent identical cells, chances of at least one such result are 45.3% and 96.5%, respectively. Actual overlapping tests do not satisfy that assumption; these are not probabilities that wind is false. Detecting 54% versus break-even needs about 5,900 independent nonpush bets; 57% needs about 725, assuming one-sided 5% significance and 80% power, before multiplicity. Fix or test: Freeze every promotable claim, timing choice, and primary statistic; adjust the entire family.
+
+5. MAJOR What is wrong: SCORE has not established value independent of wind. Why it matters: Promoting the pooled cell imports mostly unsupported nonwind bets. Evidence or arithmetic: Nonwind SCORE returns only plus 0.37% at -110 and wins 51.0% in the later period; the regression difference has t = minus 1.5. Raw windy-versus-calm closing totals also do not establish underpricing. Fix or test: Test SCORE separately within wind strata and test its incremental contribution against windy games without SCORE.
+
+6. MAJOR What is wrong: The gate and early loss stop mistake noise for evidence. Why it matters: They can approve break-even strategies and retire profitable ones. Evidence or arithmetic: At -110, 21-19 passes; a break-even strategy passes two independent 40-bet periods 31% of the time; even stressing to -115 leaves about 19% passing both. A true 57% strategy hits minus 3% or worse at 40 bets about 23% of the time, assuming no pushes. Fix or test: Use the inference gate below and fixed review dates.
+
+7. MAJOR What is wrong: Three live failure paths remain: unavailable fills, mistimed weather, and concentrated discretionary exposure. Why it matters: Any can overwhelm a genuine historical edge. Evidence or arithmetic: Correlation 0.09 is not selected-portfolio risk; 44-121 in eventual overtime conditions on future information. Fix or test: Verify fills and timestamps, aggregate all same-game positions, and preserve overtime settlement without retrospectively excluding overtime games.
+
+8. MINOR What is wrong: The population count does not reconcile. Why it matters: Unexplained exclusions prevent a clean audit. Evidence or arithmetic: 1476-1379-76 totals 2,931, not 2,946. Full-game wind counts correctly sum to 965; their actual-price ROI cannot be reconstructed from aggregates. Fix or test: Account for the missing 15 games before buying.
+
+The strongest case against a separate track: Lane A duplicates the existing price engine; Lane B adds weather, roof, and halftime work without established incremental executable profit. The reported 965-game full-game result warrants research but does not validate the T-05-selected subset. A shadow ledger inside the existing engine can test that contribution without another recommendation stream.
+
+PART 1 of 2
+
+RULE VERDICTS
+
+T-01 KEEP: Separate windows; first-half results remain research.
+
+T-02 CHANGE: Define fee-adjusted, same-number, settlement-matched CLV and missing-close handling; neither 30/60 lines nor the 46-ticket retrospective split establishes profitability.
+
+T-03 CHANGE: Define the gap after fees, whether Lane A needs a wind/SCORE cell, and its Over permission.
+
+T-04 CHANGE: Define decision-time weather and wind rounding; observed kickoff wind cannot stand in for pregame forecasts.
+
+T-05 CHANGE: Specify paired quotes, freshness, consensus calculation, reference-book independence, and whole-number push treatment.
+
+T-06 KEEP: Exact settlement matching; Robinhood full-game prices must include the ask plus fee.
+
+T-07 CHANGE: Add deterministic selection and aggregate full-game/half exposure.
+
+T-08 CHANGE: Define “unresolved,” weather success, and roof confirmation using timestamped sources.
+
+T-09 CHANGE: Explicitly reconcile the Over ban with T-03.
+
+T-10 CHANGE: Define simultaneous quote sets and “cents” separately for odds and contracts.
+
+T-11 CHANGE: Vetoes require confirmed incremental harm, not merely a profitable retained subgroup.
+
+T-12 CHANGE: WIND-A-only output cannot represent Lane A, WIND-B, or SCORE; log all candidates and suppression reasons.
+
+T-13 CHANGE: Forty observations and positive returns are insufficient.
+
+T-14 CHANGE: Replace the arbitrary 40-bet loss cutoff; specify scheduled statistical reviews.
+
+T-15 CHANGE: Discretionary real tickets bypass paper-only discipline; all same-game positions share exposure.
+
+PASS BAR
+
+Before purchase, obtain an outcome-blind coverage estimate. If historical WIND-A prevalence persisted, roughly 87 of 990 games qualify before missing weather and execution filters; 40 per period may be unattainable.
+
+I would freeze seven primary claims: two each in P1/P2; SCORE overall, windy, and nonwindy in P3. Use one decision rule and executable venue prices; best/average and the other snapshot are diagnostics. Define stake-weighted net ROI, including pushes and simulated $300-to-win sizing. P5 needs synchronized, fresh quotes; two snapshots cannot establish fillable opening opportunities.
+
+Require at least 40 distinct games per period, positive net ROI in both periods, and a pooled one-sided 95% lower confidence bound above zero, adjusted across seven claims and accounting for clustering by NFL week. Require the same after five American-odds cents of slippage, such as -110 to -115, or one additional contract-price cent. This minimum stress does not establish fill quality.
+
+Purchased data can earn continued paper testing; promotion requires the statistical bar on a separately prespecified future sample, with fixed review dates. P4 can nominate vetoes; confirmation requires adjusted incremental-harm tests on untouched data. P6 is diagnostic, not a statistical guarantee.
+
+KILL CRITERIA
+
+For each P1/P2 cell: nonpositive executable ROI in either period, or after stress, fails this validation and ends promotion from this dataset. Inadequate counts or intervals spanning zero mean unconfirmed, not disproven. Retire the economic claim when its adjusted one-sided upper confidence bound is below zero. Missing decision-time weather invalidates the test, not the hypothesis. No threshold rescue after unblinding.
+
+Apply the same bar to P3: failure of nonwind SCORE ends the standalone SCORE proposal. A profitable windy subset cannot rescue it; BOTH must independently pass and demonstrate incremental net return over non-SCORE games within the same wind band. If that increment fails, end the claim that SCORE adds value.
+
+I would change my mind after reconciled data and untouched prospective results show positive, multiplicity-adjusted net returns at actually available prices, using information available when printed. The decisive evidence is additional profit beyond the existing engine, not another favorable subgroup or 60-line winning run.
+
+PART 2 of 2

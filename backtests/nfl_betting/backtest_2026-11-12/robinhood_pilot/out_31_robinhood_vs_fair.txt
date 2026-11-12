@@ -1,0 +1,56 @@
+events asked 45, with quotes 45, missing []
+contract-sides priced: 1414 (707 contracts)
+--- FIRST HALF, strikes within 3.5 points of the books: 146 contract-sides pass the venue rules, in 22 games ---
+   all-in price against fair: mean -2.4, median -2.3, best +0.2 (edge; minus = worse than fair)
+   3.0 or more          0 sides in  0 games
+   2.0 to 2.9           0 sides in  0 games
+   1.0 to 1.9           0 sides in  0 games
+   0 to 0.9             2 sides in  2 games
+   0 to 2 worse        56 sides in 22 games
+   2 to 4 worse        75 sides in 21 games
+   more than 4 worse   13 sides in 11 games
+--- SECOND HALF, overtime cannot matter, strikes within 3.5: 40 contract-sides pass the venue rules, in 9 games ---
+   all-in price against fair: mean -2.4, median -2.5, best +1.0 (edge; minus = worse than fair)
+   3.0 or more          0 sides in  0 games
+   2.0 to 2.9           0 sides in  0 games
+   1.0 to 1.9           1 sides in  1 games   went 1-0
+   0 to 0.9             1 sides in  1 games
+   0 to 2 worse        13 sides in  7 games
+   2 to 4 worse        21 sides in  6 games
+   more than 4 worse    4 sides in  3 games
+--- SECOND HALF, overtime could matter (approximate), strikes within 3.5: 87 contract-sides pass the venue rules, in 18 games ---
+   all-in price against fair: mean -1.8, median -2.3, best +6.0 (edge; minus = worse than fair)
+   3.0 or more          5 sides in  4 games   went 3-2
+   2.0 to 2.9           3 sides in  3 games   went 3-0
+   1.0 to 1.9           7 sides in  7 games   went 3-4
+   0 to 0.9             3 sides in  3 games
+   0 to 2 worse        21 sides in 13 games
+   2 to 4 worse        37 sides in 15 games
+   more than 4 worse   11 sides in  7 games
+--- ALL strikes, both halves: 807 contract-sides pass the venue rules, in 31 games ---
+   all-in price against fair: mean -1.7, median -1.9, best +9.6 (edge; minus = worse than fair)
+   3.0 or more         49 sides in 16 games   went 13-36
+   2.0 to 2.9          31 sides in 20 games   went 11-20
+   1.0 to 1.9          48 sides in 26 games   went 12-36
+   0 to 0.9            67 sides in 28 games
+   0 to 2 worse       231 sides in 30 games
+   2 to 4 worse       256 sides in 29 games
+   more than 4 worse  125 sides in 26 games
+--- best 15 contract-sides ---
+half    game contract side  price  all_in  fair  edge  dist_from_books  fair_range  ot_safe   won
+  2H  NE@MIA     NE15  YES     16      18  27.6   9.6              7.8         2.4    False  True
+  1H ARI@LAR    LAR21  YES     11      13  21.4   8.4             13.2         2.6     True False
+  2H  NE@MIA     NE14  YES     22      24  31.2   7.2              6.8         2.4    False  True
+  1H ARI@LAR    LAR18  YES     15      17  24.0   7.0             10.2         2.6     True False
+  1H NYG@HOU    HOU21  YES      9      11  18.0   7.0             14.0         2.9     True False
+  2H  KC@DEN      KC5  YES     21      23  29.5   6.5              6.0         4.0     True False
+  2H NYG@HOU     HOU3   NO     38      40  46.0   6.0              1.0         3.6    False  True
+  2H  BUF@LV     BUF8  YES     22      24  29.9   5.9              5.0         3.8    False False
+  2H  KC@DEN      KC7  YES     17      19  24.9   5.9              8.0         4.0     True False
+  1H NYG@HOU    HOU18  YES     13      15  20.5   5.5             11.0         2.9     True False
+  1H JAC@BAL    JAC21  YES      7       9  14.4   5.4             15.0         2.7     True False
+  2H DEN@ARI    DEN11  YES     13      15  20.2   5.2             11.5         3.2     True False
+  1H HOU@JAC     HOU8  YES     16      18  23.2   5.2              8.0         2.0     True False
+  2H DEN@ARI    DEN14  YES     10      12  17.1   5.1             14.5         3.2     True False
+  2H  BUF@LV    BUF10  YES     18      20  24.9   4.9              7.0         3.8     True False
+bid-ask spread: median 1 cents; share of contracts with spread 4 or less: 99%

@@ -3641,15 +3641,20 @@ def setup_mlb_tools(mcp):
         events_date: needed only when a KEY is a team name. ISO8601 time shortly
           before those games kick off; events that commence from 12 hours before
           to 30 hours after it are matched by home team (1 credit).
+        regions: region list ("us", "us,us2"), OR "bk:" followed by bookmaker keys
+          ("bk:draftkings,fanduel,bovada") to ask for named books only; every 10
+          books (or part) cost the same as one region.
         Cost: 10 x #markets x #regions per lookup. Nothing is pulled if the
           estimate is over max_credits, or when dry_run is true.
 
         Returns {"games": [{"key","event_id","home","away","commence_time",
-          "looks": [{"asked","ts","m": {market: [[book, point, price_a, price_b], ...]}}]}]}
+          "looks": [{"asked","ts","m": {market: [[book, point, price_a, price_b, age], ...]}}]}]}
           spreads: point = HOME spread, price_a = home, price_b = away.
           totals:  point = total, price_a = Over, price_b = Under.
+          age = seconds between the snapshot time (ts) and that book's last update
+          of that market (blank if unknown): a large age is a stale quote.
         compact=True returns each game as one text line instead (same fields):
-          "key~event_id~home~away~asked>ts>market=book,point,a,b/book,...>market=...~asked>ts>..."
+          "key~event_id~home~away~asked>ts>market=book,point,a,b,age/book,...>market=...~asked>ts>..."
         """
         import re as _re
         from concurrent.futures import ThreadPoolExecutor as _Pool
@@ -3668,7 +3673,15 @@ def setup_mlb_tools(mcp):
         n_looks = sum(len(p["times"]) for p in parsed)
         if len(parsed) > 16 or n_looks > 34:
             return {"error": f"too many: {len(parsed)} games, {n_looks} lookups (max 16 games, 34 lookups)"}
-        per_look = 10 * len([m for m in markets.split(",") if m.strip()]) * len([r for r in regions.split(",") if r.strip()])
+        bk_list = []
+        if regions.strip().lower().startswith("bk:"):
+            bk_list = [b.strip() for b in regions.strip()[3:].split(",") if b.strip()]
+            if not bk_list:
+                return {"error": "regions='bk:' needs at least one bookmaker key"}
+            n_reg = -(-len(bk_list) // 10)
+        else:
+            n_reg = len([r for r in regions.split(",") if r.strip()])
+        per_look = 10 * len([m for m in markets.split(",") if m.strip()]) * n_reg
         need_events = any(not _re.fullmatch(r"[0-9a-f]{32}", p["key"]) for p in parsed)
         est = per_look * n_looks + (1 if need_events else 0)
         if dry_run or est > max_credits:
@@ -3706,8 +3719,9 @@ def setup_mlb_tools(mcp):
             try:
                 r = requests.get(
                     f"{ODDS_API_BASE_URL}/historical/sports/{sport}/events/{p['event_id']}/odds",
-                    params={"apiKey": key, "date": t, "markets": markets,
-                            "regions": regions, "oddsFormat": "american"}, timeout=30)
+                    params=dict({"apiKey": key, "date": t, "markets": markets, "oddsFormat": "american"},
+                                **({"bookmakers": ",".join(bk_list)} if bk_list else {"regions": regions})),
+                    timeout=30)
             except Exception as ex:
                 return p, {"asked": t, "error": type(ex).__name__}, None
             if r.status_code != 200:
@@ -3715,6 +3729,14 @@ def setup_mlb_tools(mcp):
             payload = r.json() or {}
             d = payload.get("data", {}) or {}
             home, away = d.get("home_team"), d.get("away_team")
+            snap = payload.get("timestamp")
+
+            def _age(lu):
+                try:
+                    return int((_dt2.strptime(snap, "%Y-%m-%dT%H:%M:%SZ")
+                                - _dt2.strptime(lu, "%Y-%m-%dT%H:%M:%SZ")).total_seconds())
+                except Exception:
+                    return None
             m_out = {}
             for bk in d.get("bookmakers", []) or []:
                 for m in bk.get("markets", []) or []:
@@ -3730,7 +3752,8 @@ def setup_mlb_tools(mcp):
                         b = next((o for o in outs if o.get("name") == away), None)
                     if not a or not b:
                         continue
-                    m_out.setdefault(mk, []).append([bk.get("key"), a.get("point"), a.get("price"), b.get("price")])
+                    m_out.setdefault(mk, []).append([bk.get("key"), a.get("point"), a.get("price"), b.get("price"),
+                                                     _age(m.get("last_update") or bk.get("last_update"))])
             meta = {"home": home, "away": away, "commence_time": d.get("commence_time")}
             return p, {"asked": t, "ts": payload.get("timestamp"), "m": m_out}, \
                 (meta, r.headers.get("x-requests-remaining"))

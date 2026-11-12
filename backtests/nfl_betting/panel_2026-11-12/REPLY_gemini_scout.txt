@@ -1,0 +1,56 @@
+ * WIND THRESHOLDS, DIRECTION, AND RECENT MARKET ADJUSTMENT
+   Finding: Passing efficiency and field-goal range drop noticeably starting at 15 mph sustained wind, while 20+ mph winds create a non-linear collapse (cutting expected field-goal make rates from 89 percent to 77 percent and reducing scoring by ~2.7 points), with crosswinds relative to stadium orientation driving far more variance than gusts alone; our 56.4 percent full-game Under rate at 15+ mph sits slightly above FOX Sports' reported 54 percent Under rate at 20+ mph since 2015, while whether books fully closed the 15+ mph second-half gap after 2021 is not verified in public studies.
+   Source: Covers.com (2026); BetSmart (2026); SportsBoom citing FOX Sports research (2026); WeatherImpactOnNFLBet (2026); ATSWins (2025).
+   Confidence: High.
+   Changes which rule or test: T-04, P1, P2.
+   How to check it with our data: Split P1 and P2 into 15-19 mph versus 20+ mph, and compute stadium-azimuth crosswind components using hourly wind direction.
+ * SECOND-HALF PRICING AND FIRST-HALF SCORE OVERREACTION
+   Finding: Sportsbooks price first-half totals at 46 to 48 percent of the full-game total and anchor second-half totals to roughly 52 to 54 percent of pregame expectations, nudging upward after high-scoring first halves—which public strategy guides flag as an overreaction to fade, though a specific 28-plus first-half threshold and post-2021 league-wide 2H Under base rates are not verified in public literature.
+   Source: BettorEdge (2026); NFL Analytics (2026); OddsIndex (2026).
+   Confidence: Medium.
+   Changes which rule or test: T-04 (U3), P3.
+   How to check it with our data: Regress 2023-2026 closing 2H totals on pregame totals and 1H points in the purchased data to test if the 0.063 first-half loading shrank.
+ * HISTORICAL HALF-LINE ODDS COVERAGE GAP IN 2023-2026 PURCHASE
+   Finding: The Odds API archives historical half-market lines and prices (totals_h1, totals_h2) starting only in May 2023 (covering the 2023 season onward), while SportsGameOdds provides an alternative unified feed with vig-free consensus fair odds.
+   Source: The Odds API documentation (2026); SportsGameOdds documentation (2026).
+   Confidence: High.
+   Changes which rule or test: T-01, P1, P2, P3.
+   How to check it with our data: Verify 2023 Week 1 timestamp coverage and bookmaker count for totals_h1 and totals_h2 on a single game before spending the 50,000 credits.
+ * NFLVERSE WIND SOURCE AND HOURLY OBSERVED VS. FORECAST ARCHIVES
+   Finding: The nflverse "wind" and "temp" fields are scraped text strings from Pro-Football-Reference and official NFL Gamebooks (kickoff observations, not pregame forecasts, with known missing outdoor rows in 2023-2025), whereas Open-Meteo provides free hourly ERA5 reanalysis back to 1940 for stadium coordinates and archived historical forecasts (GFS/HRRR) mostly from January 2024 onward.
+   Source: nflfastR documentation (2026); OverUnderWeather (2026); Open-Meteo documentation (2026).
+   Confidence: High.
+   Changes which rule or test: T-04, T-08, P1, P2.
+   How to check it with our data: Backfill the 22 percent missing 2022-2026 nflverse outdoor wind readings using Open-Meteo ERA5 at kickoff and third-quarter UTC timestamps, and compare 2024-2026 archived forecasts against kickoff readings.
+ * POST-2021 NFL RULE AND STYLE SHIFTS AFFECTING SCORING
+   Finding: Four structural shifts hit NFL totals after 2021: two-high safety shells pushed 2025 offensive yards per game to an 18-year low (326.6); fourth-down aggression and 2025 pre-conditioned "K-Balls" expanded field-goal range by 5-10 yards and drove 2025 punts to record lows; the Dynamic Kickoff moved touchbacks to the 35-yard line in 2025 (spiking return rates from 21.8 percent in 2023 to 74.5 percent in 2025); and 2025 regular-season overtime guaranteed both teams a possession—though exact scoring splits by half from these rules are not verified.
+   Source: NFL Football Operations (2025); Associated Press / NFL.com (2025); Yahoo Sports via Reddit r/nfl (2026); FantasyLife (2026).
+   Confidence: High.
+   Changes which rule or test: T-06, T-10 (CLOSE), P1, P3.
+   How to check it with our data: Compare 2023-2024 versus 2025-2026 2H overtime scoring totals and 50+ yard field-goal attempt rates in wind inside our nflverse play-by-play data.
+ * RANKED CANDIDATE CELLS TO DECLARE BEFORE BUYING DATA
+   Finding: Public evidence supports five pre-declarable cells ranked by structural clarity: (1) U4 CROSSWIND-20 (sustained wind 15+ mph with stadium crosswind component 12+ mph, FG/2H Under; disrupts ball flight and kicking simultaneously; ~20-25 games/season); (2) U5 NON-RETAIL-DRIVEN 1H UNDER IN WIND (1H Under in 15+ mph wind; 1H totals are set derivatively at ~47 percent of FG without separate wind adjustment; ~25-30 games/season); (3) U6 PRIMETIME UNDER (SNF/MNF/TNF full-game Under; public Over bias on standalone slates, went 27-19-1 in 2025; ~50-55 games/season); (4) O1 CALM OUTDOOR OVER (outdoor wind under 8 mph, FG Over; 52.3 percent historical Over rate across 2,345 games, needs price filter to beat vig; ~90-110 games/season); (5) U7 NON-SCORING 1H INFLATION (2H Under when 1H points are 28+ AND included a defensive/special-teams TD; fluky non-offensive scores inflate 2H remainder anchor; ~15-20 games/season).
+   Source: Sharp Football Analysis (2026); Action Network (2025); OddsIndex (2026); NFL Analytics (2026); ATSWins (2025).
+   Confidence: Medium.
+   Changes which rule or test: T-04, T-09, P1, P2, P3.
+   How to check it with our data: Pre-register U4 and U6 for 2023-2026 holdout testing (note U7 likely falls under 40 bets per two-year period and would remain logged-only under T-13).
+ * BOOKMAKER DISPERSION, STALE ROGUE NUMBERS, AND PROFESSIONAL EXECUTION
+   Finding: Market makers (Pinnacle, Circa) price weather moves Wednesday-Thursday and move rapidly at halftime, while retail books copy with a 15-second to multi-minute lag; an outlier retail price ("rogue" or stale straggler) is profitable ONLY when it beats the devigged market-maker price (supporting T-03), whereas being the lone best price against an unmoved or shaded consensus without a sharp anchor can reflect shading or bad data.
+   Source: BetSmart (2026); TradeTheOutcome (2026); SportsBettingCanada (2026).
+   Confidence: High.
+   Changes which rule or test: T-03, T-05, T-10, P4, P5.
+   How to check it with our data: In P4 and P5, separate LONE-BEST and SPREAD-OUT by whether Pinnacle/sharp book already moved toward the Under or sits against the outlier book.
+ * ROBINHOOD / KALSHI FEE DRAG AND SETTLEMENT ASYMMETRY
+   Finding: Paying a 2-cent contract fee on top of the ask adds roughly 2.0 probability points of friction near 50-cent strikes, and because 2025 NFL overtime rules guarantee both teams a ball in regular-season OT (where 2H Unders went 44-121 historically), regulation-only 2H Under settlement on Kalshi/Robinhood avoids catastrophic OT losses that sportsbook 2H Unders suffer.
+   Source: NFL Football Operations (2025); BettorEdge (2026).
+   Confidence: High.
+   Changes which rule or test: T-03, T-05, T-06.
+   How to check it with our data: Grade 2023-2026 2H Unders both including OT (sportsbook rule) and regulation-only at half-point strikes minus a 2-cent fee (Kalshi/Robinhood rule).
+THREE CHANGES TO MAKE TO THE DRAFT FIRST
+ * Replace kickoff nflverse wind in T-04/T-08 with an automated hourly forecast pull (NWS/HRRR or Open-Meteo) locked 30 minutes pre-kickoff for FG/1H and at halftime for 2H, because kickoff gamebook wind does not exist when bets are placed.
+ * Deduct the 2-cent Kalshi/Robinhood fee explicitly before applying the T-03 (3.0 percent) and T-05 (consensus fair) gates on real-money full-game contracts.
+ * Include Pinnacle or Circa in the book list so T-05 consensus fair and T-10 LONE-BEST distinguish true stale retail lines from noisy shading.
+THREE THINGS TO ADD TO THE TEST PLAN FIRST
+ * Backfill the 22 percent missing 2022-2026 outdoor wind rows via Open-Meteo ERA5 (and 2024-2026 archived forecasts) before running P1 and P2.
+ * Add a dual-settlement check in P1 and P3 comparing regulation-only half-point strikes (minus 2 cents) against OT-included whole/half lines, given the 2025 overtime rule change.
+ * Include Pinnacle/sharp book in the 4+ book data pull so P4 and P5 measure whether early halftime 2-to-3 point outliers converge toward the sharp book by 3Q kickoff.

@@ -1,0 +1,65 @@
+=== A. the doubter's arithmetic ===
+143 wins of 250: one-sided tail vs 50% = 1.33% (report: 1.33%); vs -110 break-even = 7.16% (report: 7.16%)
+at least one such result in 45 independent cells: 45.3% and 96.5% (report: 45.3% and 96.5%)
+bets needed, one-sided 5%, 80% power: 54% true -> 5875 (report: about 5,900); 57% true -> 719 (report: about 725)
+40 bets at -110: 21 wins needed for a return above zero (report: 21-19 passes). Break-even cell passes one period 55.8%, two periods 31.1% (report: 31%)
+   the same graded at -115: 22 wins needed; passes two periods 18.7% (report: about 19%)
+a true 57% cell at -3% or worse after 40 bets: 23.0% (report: about 23%)  [20 wins or fewer]
+1476+1379+76 = 2931 of 2946 games (report: 15 missing)
+second-half WIND-A share 2011-2021: 257 of 2931 = 8.77%; x 990 games = 87 (report: roughly 87)
+
+=== B. coverage 2023 to 2026-11-09, counted without reading any bet result ===
+games in the pull: 991 (clock file 991)
+per                            2023-24  2025-26  All
+band                                                
+indoors (dome or closed roof)      184      132  316
+outdoors wind 10-14                 85       44  129
+outdoors wind 15+                   30       21   51
+outdoors wind under 10             225      168  393
+outdoors, NO wind reading           46       56  102
+All                                570      421  991
+outdoor games with no reading, by season: {2023: '41 of 199', 2024: '5 of 187', 2025: '4 of 193', 2026: '52 of 96'}
+halves file columns: ['game_id', 'season', 'season_type', 'week', 'home', 'away', 'h1_home_A', 'h1_away_A', 'h1_home_B', 'h1_away_B', 'q3first_sp', 'q3first_desc', 'reg_home', 'reg_away']
+
+=== D. the 15 games without a usable second-half total (finding D8) ===
+games 2946, usable total 2931, not usable 15
+ season    gameday         game_id  close_total  h2_total  h2_spread_abs  h1_home  h1_away
+   2018 2018-09-23 2018_03_IND_PHI         45.0      45.0            6.5       10        7
+   2018 2018-09-23 2018_03_CIN_CAR         44.5      44.5            2.5       21       14
+   2018 2018-09-23  2018_03_NO_ATL         54.0      54.0            1.5       14       16
+   2018 2018-09-23 2018_03_DEN_BAL         46.0      46.0            5.5       20       14
+   2018 2018-09-23 2018_03_NYG_HOU         44.5      44.5            6.5        6       20
+   2018 2018-09-23 2018_03_OAK_MIA         45.5      45.5            2.5        7       10
+   2018 2018-09-23  2018_03_GB_WAS         46.0      46.0            2.0       28       10
+   2018 2018-09-23 2018_03_BUF_MIN         41.0      41.0           17.0        0       27
+   2018 2018-09-23   2018_03_SF_KC         53.5      53.5            6.0       35       10
+   2018 2018-09-23  2018_03_LAC_LA         49.5      49.5            7.0       21       13
+   2018 2018-09-23  2018_03_NE_DET         56.0      56.0            7.0       13        3
+   2020 2020-09-20 2020_02_NYG_CHI         43.0       0.0            0.0       17        0
+   2020 2020-10-04 2020_04_IND_CHI         43.0       0.0            0.0        3       13
+   2020 2020-10-04  2020_04_BUF_LV         52.5       0.0            0.0       13       17
+   2020 2020-10-18 2020_06_WAS_NYG         42.0       0.0            0.0       13       10
+
+=== C1. how much a full-game Under result says about the second-half Under in the same game (finding D1) ===
+  every game         n 2822  corr 0.52  2H Under wins 77.3% when the full-game Under won (1441), 25.0% when it lost (1381)
+  outdoor wind 10+   n  696  corr 0.54  2H Under wins 78.4% when the full-game Under won (393), 24.4% when it lost (303)
+  outdoor wind 15+   n  249  corr 0.56  2H Under wins 81.1% when the full-game Under won (143), 25.5% when it lost (106)
+
+=== C2. side and total inside the cells (finding D7) ===
+  every game with a leader   n 2553  corr(leader covers, Under wins) +0.09  both win 27.9%  both lose 26.7%  (independent coin flips: 25% and 25%)
+  WIND 10+                   n  629  corr(leader covers, Under wins) +0.14  both win 29.7%  both lose 27.2%  (independent coin flips: 25% and 25%)
+  WIND 15+                   n  222  corr(leader covers, Under wins) +0.17  both win 32.0%  both lose 26.6%  (independent coin flips: 25% and 25%)
+  first half 28+             n  705  corr(leader covers, Under wins) +0.08  both win 29.5%  both lose 24.5%  (independent coin flips: 25% and 25%)
+
+=== E. scout cells checked on data already on hand (full game, nflverse closing total, -110) ===
+  U6 PRIMETIME Under (Sun/Mon/Thu night, regular season)  402-372 -9    51.9%  roi  -0.8 | 2011-16 138-149 48.1% -8.1 ; 2017-21 131-114 53.5% +2.1 ; 2022-26 133-109 55.0% +4.9
+     primetime, outdoors or open roof           292-266 -7    52.3%  roi  -0.1 | 2011-16 103-103 50.0% -4.5 ; 2017-21 99-85 53.8% +2.7 ; 2022-26 90-78 53.6% +2.2
+     primetime, indoors                         110-106 -2    50.9%  roi  -2.8 | 2011-16 35-46 43.2% -17.3 ; 2017-21 32-29 52.5% +0.1 ; 2022-26 43-31 58.1% +10.8
+     NOT primetime, Under                      1638-1607-27   50.5%  roi  -3.6 | 2011-16 621-612 50.4% -3.8 ; 2017-21 535-504 51.5% -1.7 ; 2022-26 482-491 49.5% -5.4
+  O1 CALM outdoor (wind under 8) OVER           741-660 -16   52.9%  roi  +1.0 | 2011-16 311-272 53.3% +1.8 ; 2017-21 239-231 50.9% -2.9 ; 2022-26 191-157 54.9% +4.8
+  Under, outdoor wind 15-19                     140-103 -4    57.6%  roi  +9.8 | 2011-16 54-46 54.0% +3.0 ; 2017-21 56-36 60.9% +16.2 ; 2022-26 30-21 58.8% +11.8
+  Under, outdoor wind 20+                        41-37  -1    52.6%  roi  +0.3 | 2011-16 24-18 57.1% +8.9 ; 2017-21 11-13 45.8% -12.5 ; 2022-26 6-6 50.0% -4.5
+  primetime Under in 2025 alone: 29-27-0 (scout: 27-19-1)
+  second half, real lines 2011-2021:
+    Under, wind 15-19      106-80-5  57.0%
+    Under, wind 20+        37-27-2  57.8%

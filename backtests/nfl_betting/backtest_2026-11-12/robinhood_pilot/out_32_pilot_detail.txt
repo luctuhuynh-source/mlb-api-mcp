@@ -1,0 +1,53 @@
+near strikes that pass venue rules, by half / ot_safe
+1H ot_safe 146 sides 22 games  mean edge -2.35 median -2.30  share edge>=0: 1.4%  n>=0: 2 in 2 games
+2H ot_could_matter 87 sides 18 games  mean edge -1.78 median -2.30  share edge>=0: 20.7%  n>=0: 18 in 12 games
+2H ot_safe 40 sides 9 games  mean edge -2.36 median -2.50  share edge>=0: 5.0%  n>=0: 2 in 2 games
+
+best clean near-strike edge per game: n games 31
+      count  mean   std  min   25%  50%  75%  max
+half                                             
+1H     22.0 -0.77  0.63 -2.0 -1.38 -0.5 -0.3  0.2
+2H      9.0 -0.42  0.69 -1.2 -1.00 -0.5 -0.1  1.0
+games with best edge >= 0: 4  >=1: 1  >=2: 0  >=3: 0
+
+near-strike all-in price: median 50, min 27, max 62
+
+2H overtime-could-matter, edge >= 2.0:
+   game contract side  price  all_in  fair  edge  dist_from_books  fair_range   won
+NYG@HOU     HOU3   NO     38      40  46.0   6.0              1.0         3.6  True
+ NO@NYG      NO4  YES     36      38  42.9   4.9              1.5         2.3  True
+ BUF@LV     BUF5  YES     37      39  42.4   3.4              2.0         3.8 False
+ BUF@LV     BUF4  YES     43      45  48.1   3.1              1.0         3.8 False
+PHI@WAS     WAS5  YES     33      35  38.1   3.1              2.5         3.5  True
+ARI@LAR     LAR3   NO     33      35  37.6   2.6              3.0         1.6  True
+ NO@NYG      NO5  YES     33      35  37.3   2.3              2.5         2.3  True
+LAC@LAR     LAR7  YES     37      39  41.3   2.3              2.5         4.2  True
+
+FAR strikes (more than 3.5 from the books) that pass venue rules: 534 sides in 31 games; mean edge -1.42
+  edge 3.0+            44 sides 15 games  record 10-34  avg all-in 18.7  win% 22.7  ROI +21.5%
+  edge 1.0 to 2.9      68 sides 26 games  record 16-52  avg all-in 18.2  win% 23.5  ROI +29.2%
+  edge -1 to 0.9      123 sides 29 games  record 36-87  avg all-in 24.2  win% 29.3  ROI +20.8%
+  edge worse than -1  299 sides 31 games  record 50-249  avg all-in 21.7  win% 16.7  ROI -23.0%
+half    game  n  w
+  1H ARI@LAR  3  0
+  1H CIN@BAL  1  1
+  1H CLE@PIT  1  0
+  1H HOU@JAC  4  0
+  1H JAC@BAL  2  0
+  1H NYG@HOU  4  0
+  2H  BUF@LV  4  0
+  2H CAR@PHI  2  0
+  2H CHI@SEA  5  5
+  2H CLE@TEN  4  0
+  2H DAL@PHI  1  0
+  2H DEN@ARI  2  0
+  2H  KC@DEN  6  0
+  2H  NE@MIA  2  2
+  2H  NO@NYG  2  1
+  2H NYG@HOU  1  1
+
+ALL near strikes record by edge bucket (clean only):
+  >=0          4 sides  record 4-0  ROI +154.8%
+  -2 to 0     69 sides  record 34-35  ROI +5.9%
+  -4 to -2    96 sides  record 50-46  ROI -0.8%
+  < -4        17 sides  record 8-9  ROI -15.6%
