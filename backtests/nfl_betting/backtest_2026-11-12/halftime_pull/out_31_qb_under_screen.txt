@@ -1,0 +1,19 @@
+games in the plan: 990 | with scores: 990 | outdoor 674 (no wind reading 102) | indoor 316
+games 990 | with passes for both teams 990 | first-half completion rate: team median 65.2%, pooled median 65.6% | yards-per-play cut 4.93
+
+=== Q1, THE SCREEN ===
+Q1 slow first half, both teams under 55%, Under n   33   55.3% won  return   +3.5%  | one step worse   +1.6%  | 2023-24 n  16   67.2% won  return  +26.7% ; 2025-26 n  17   44.1% won  return  -17.8%
+   -> UNDERPOWERED (16 and 17 games)
+
+=== for information only ===
+every game, Under                            n  990   48.5% won  return   -9.4%  | one step worse  -11.0%  | 2023-24 n 569   50.5% won  return   -5.3% ; 2025-26 n 421   45.7% won  return  -14.8%
+slow first half, no quarterback condition (T2) n  330   54.3% won  return   +1.3%  | one step worse   -0.5%  | 2023-24 n 181   57.5% won  return   +7.8% ; 2025-26 n 149   50.3% won  return   -6.4%
+slow, both teams under 60%                   n   70   56.1% won  return   +4.7%  | one step worse   +2.8%  | 2023-24 n  35   65.0% won  return  +21.8% ; 2025-26 n  35   47.1% won  return  -12.1%
+slow, pooled passes under 55%                n   74   61.1% won  return  +14.1%  | one step worse  +12.0%  | 2023-24 n  42   70.8% won  return  +32.6% ; 2025-26 n  32   48.4% won  return   -9.7%
+slow, pooled passes under 60%                n  151   59.3% won  return  +10.8%  | one step worse   +8.8%  | 2023-24 n  74   63.9% won  return  +19.5% ; 2025-26 n  77   54.9% won  return   +2.5%
+slow, at least one team under 55%            n  168   59.1% won  return  +10.6%  | one step worse   +8.6%  | 2023-24 n  90   62.4% won  return  +16.9% ; 2025-26 n  78   55.4% won  return   +3.4%
+slow, both teams 55% or better               n  162   49.2% won  return   -8.3%  | one step worse  -10.0%  | 2023-24 n  91   52.8% won  return   -1.3% ; 2025-26 n  71   44.6% won  return  -17.1%
+any game, both teams under 55%               n   44   51.0% won  return   -4.6%  | one step worse   -6.3%  | 2023-24 n  22   53.9% won  return   +1.7% ; 2025-26 n  22   48.1% won  return  -10.6%
+any game, both teams under 60%               n  103   49.6% won  return   -7.1%  | one step worse   -8.7%  | 2023-24 n  56   54.5% won  return   +2.5% ; 2025-26 n  47   43.8% won  return  -18.3%
+any game, pooled passes under 55%            n  107   54.0% won  return   +0.8%  | one step worse   -1.0%  | 2023-24 n  62   56.7% won  return   +6.4% ; 2025-26 n  45   50.2% won  return   -6.8%
+slow, pooled yards per attempt bottom third (under 6.30) n  251   54.3% won  return   +1.6%  | one step worse   -0.3%  | 2023-24 n 128   56.0% won  return   +5.0% ; 2025-26 n 123   52.6% won  return   -1.9%
