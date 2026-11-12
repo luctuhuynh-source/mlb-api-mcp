@@ -1,0 +1,124 @@
+=== J. COVERAGE ===
+games in the plan 136 | with Robinhood contracts 136 (spread 136, total 136)
+spreads_h2: games with a decision look 136 (look 1: 136, look 2: 0, none: 0) | the books' most common number is a whole number in 0 | a same-number contract with 2+ books in 91 games | of those, a side that passes R-03 in 87
+totals_h2: games with a decision look 136 (look 1: 136, look 2: 0, none: 0) | the books' most common number is a whole number in 0 | a same-number contract with 2+ books in 98 games | of those, a side that passes R-03 in 95
+
+=== H. SETTLEMENT AUDIT: the exchange's result against nflverse second-half points with overtime ===
+contracts 4129 | results yes/no {'no': 2566, 'yes': 1563} | disagreements 2
+                             ticker  strike result  m2ot  pts2
+222  KXNFL2HSPREAD-26SEP13NODET-NO7     6.5    yes    -6    54
+237    KXNFL2HTOTAL-26SEP13NODET-43    42.5     no    -6    54
+overtime games among them: 11 (2026_01_NO_DET, 2026_02_GB_NYJ, 2026_02_IND_KC, 2026_05_BAL_ATL, 2026_05_BUF_LA, 2026_06_PIT_TB, 2026_06_SEA_DEN, 2026_07_NYG_HOU, 2026_08_ARI_DAL, 2026_08_TEN_CIN, 2026_09_CLE_NO); contracts there whose result differs between regulation and overtime scoring: 39
+
+=== K1. THE FROZEN CLAIM: best same-number side per game and market at the decision look, edge 3.0 or more ===
+  K1 edge 3.0 or more                      n   3 in   3 games  1-2     return  -25.9%  one cent worse  -27.4%  mean edge +3.24
+     first half of the season              n   3 in   3 games  1-2     return  -25.9%  one cent worse  -27.4%  mean edge +3.24
+     second half of the season             n   0 in   0 games  0-0     return   +nan%  one cent worse   +nan%  mean edge  +nan
+  RESULT: UNDERPOWERED (3 and 0 entries; 40 needed in each)
+        game_id     market  look                           ticker side  nbooks  fair  bid  ask  allin  edge  res
+2026_03_CIN_PIT spreads_h2     1 KXNFL2HSPREAD-26SEP27CINPIT-CIN4  yes       5  47.6   40   42   44.0   3.6 -1.0
+2026_03_LAC_BUF spreads_h2     1 KXNFL2HSPREAD-26SEP27LACBUF-BUF4  yes       5  51.1   45   46   48.0   3.1  1.0
+2026_04_NYJ_CHI  totals_h2     1    KXNFL2HTOTAL-26OCT04NYJCHI-22  yes       4  50.0   44   45   47.0   3.0 -1.0
+
+=== A. PRICE LEVEL: edge of every same-number side that passes R-03 (fair minus all-in price, points) ===
+-- look 1 --
+  all sides                          n  424 in 121 games  mean -2.72  median -2.72 | share at 0 or better 10.8%  1.0+  4.7%  2.0+  1.4%  3.0+  0.7%
+  spreads_h2                         n  206 in  87 games  mean -2.71  median -2.72 | share at 0 or better 13.6%  1.0+  5.3%  2.0+  1.9%  3.0+  1.0%
+     lay                             n  103 in  87 games  mean -2.50  median -2.49 | share at 0 or better 13.6%  1.0+  4.9%  2.0+  2.9%  3.0+  1.9%
+     take                            n  103 in  87 games  mean -2.92  median -3.00 | share at 0 or better 13.6%  1.0+  5.8%  2.0+  1.0%  3.0+  0.0%
+  totals_h2                          n  218 in  95 games  mean -2.74  median -2.71 | share at 0 or better  8.3%  1.0+  4.1%  2.0+  0.9%  3.0+  0.5%
+     over                            n  109 in  95 games  mean -2.34  median -2.44 | share at 0 or better 11.0%  1.0+  5.5%  2.0+  1.8%  3.0+  0.9%
+     under                           n  109 in  95 games  mean -3.14  median -3.00 | share at 0 or better  5.5%  1.0+  2.8%  2.0+  0.0%  3.0+  0.0%
+-- look 2 --
+  all sides                          n  422 in 123 games  mean -2.75  median -2.89 | share at 0 or better  6.6%  1.0+  3.1%  2.0+  1.9%  3.0+  0.5%
+  spreads_h2                         n  202 in  85 games  mean -2.71  median -2.86 | share at 0 or better  8.4%  1.0+  4.0%  2.0+  2.5%  3.0+  1.0%
+     lay                             n  101 in  85 games  mean -2.66  median -2.60 | share at 0 or better  7.9%  1.0+  3.0%  2.0+  3.0%  3.0+  1.0%
+     take                            n  101 in  85 games  mean -2.76  median -2.95 | share at 0 or better  8.9%  1.0+  5.0%  2.0+  2.0%  3.0+  1.0%
+  totals_h2                          n  220 in  99 games  mean -2.80  median -2.92 | share at 0 or better  5.0%  1.0+  2.3%  2.0+  1.4%  3.0+  0.0%
+     over                            n  110 in  99 games  mean -2.66  median -2.58 | share at 0 or better  4.5%  1.0+  1.8%  2.0+  0.9%  3.0+  0.0%
+     under                           n  110 in  99 games  mean -2.93  median -3.01 | share at 0 or better  5.5%  1.0+  2.7%  2.0+  1.8%  3.0+  0.0%
+  games seen in the pilot (spreads)  n   40 in  16 games  mean -2.58  median -2.56 | share at 0 or better 10.0%  1.0+  5.0%  2.0+  5.0%  3.0+  2.5%
+  games not in the pilot (spreads)   n  162 in  69 games  mean -2.74  median -2.93 | share at 0 or better  8.0%  1.0+  3.7%  2.0+  1.9%  3.0+  0.6%
+-- decision look --
+  all sides                          n  424 in 121 games  mean -2.72  median -2.72 | share at 0 or better 10.8%  1.0+  4.7%  2.0+  1.4%  3.0+  0.7%
+  half the bid-ask spread, for scale n  424 in 121 games  mean +0.72  median +0.50 | share at 0 or better 100.0%  1.0+ 32.5%  2.0+  1.4%  3.0+  0.0%
+
+=== B. HOW OFTEN: games per 100 whose best same-number side (R-03 passed) is at least this good ===
+  look 1: 125 games with a same-number contract | 3.0+: 3 games (2.4 per 100) | 2.0+: 6 games (4.8 per 100) | 1.0+: 19 games (15.2 per 100) | 0 or better: 39 games (31.2 per 100)
+  look 2: 126 games with a same-number contract | 3.0+: 2 games (1.6 per 100) | 2.0+: 8 games (6.3 per 100) | 1.0+: 12 games (9.5 per 100) | 0 or better: 25 games (19.8 per 100)
+
+=== C. BANDS: best side per game and market at the decision look ===
+  3.0 or more                              n   3 in   3 games  1-2     return  -25.9%  one cent worse  -27.4%  mean edge +3.24
+  2.0 to 2.9                               n   3 in   3 games  0-3     return -100.0%  one cent worse -100.0%  mean edge +2.46
+  1.0 to 1.9                               n  14 in  14 games  11-3    return  +64.2%  one cent worse  +60.8%  mean edge +1.53
+  0 to 0.9                                 n  24 in  24 games  11-13   return   -5.5%  one cent worse   -7.4%  mean edge +0.49
+  below 0                                  n 138 in 103 games  72-66   return   +1.7%  one cent worse   -0.2%  mean edge -1.61
+  0 or better, all together                n  44 in  39 games  23-21   return   +8.9%  one cent worse   +6.7%  mean edge +1.14
+  every best side                          n 182 in 121 games  95-87   return   +3.3%  one cent worse   +1.3%  mean edge -0.94
+     0 or better, spreads_h2               n  27 in  27 games  12-15   return   -6.5%  one cent worse   -8.4%  mean edge +1.09
+     0 or better, totals_h2                n  17 in  17 games  11-6    return  +32.7%  one cent worse  +30.0%  mean edge +1.23
+  every same-number side that passes R-03 (not only the best), by kind:
+     lay                                   n 103 in  87 games  56-47   return   +4.3%  one cent worse   +2.3%  mean edge -2.50
+     take                                  n 103 in  87 games  47-56   return  -13.6%  one cent worse  -15.1%  mean edge -2.92
+     over                                  n 109 in  95 games  58-51   return   +1.6%  one cent worse   -0.3%  mean edge -2.34
+     under                                 n 109 in  95 games  51-58   return  -12.5%  one cent worse  -14.1%  mean edge -3.14
+
+=== D. DOES IT LAST: look-1 prices, the same contract and side later ===
+  3.0 or more at look 1: 3 sides. Same price or better still standing after 1 min: 3 of 3 | 2 min: 3 of 3 | 3 min: 3 of 3 | 5 min: 3 of 3
+     books still on that number at look 2 for 2 of them: look-1 price against the look-2 fair +2.95 on average (1 still 3.0+, 2 still 0 or better); Robinhood's own look-2 price: edge +2.95 on average
+  0 or better at look 1: 46 sides. Same price or better still standing after 1 min: 41 of 46 | 2 min: 36 of 46 | 3 min: 33 of 46 | 5 min: 34 of 46
+     books still on that number at look 2 for 35 of them: look-1 price against the look-2 fair +0.84 on average (1 still 3.0+, 28 still 0 or better); Robinhood's own look-2 price: edge +0.29 on average
+
+=== E. RESTING ORDERS (flatters the order: first in the queue, enough contracts traded) ===
+-- T = 3.0 below the fair after the fee (the engine floor) --
+  orders placed 437 in 125 games | filled 38 (9%) | the standing price was 6.4 cents above T on average
+  filled orders, graded at T + 2           n  38 in  28 games  15-23   return  -13.4%  one cent worse  -15.2%  mean edge +3.54
+  unfilled orders, had they filled         n 399 in 124 games  204-195 return   +9.8%  one cent worse   +7.5%  mean edge +3.48
+  how the fair moved by look 2 (points, for the order's side; minus = against the order): filled -0.21 on 26 | unfilled +0.02 on 348
+     filled, lay                           n   2 in   2 games  1-1     return  +13.1%  one cent worse  +10.7%  mean edge +3.47
+     filled, take                          n  14 in  13 games  3-11    return  -52.1%  one cent worse  -53.0%  mean edge +3.42
+     filled, over                          n   5 in   5 games  3-2     return  +32.7%  one cent worse  +29.9%  mean edge +3.46
+     filled, under                         n  17 in  16 games  8-9     return   +2.4%  one cent worse   +0.2%  mean edge +3.67
+     filled, one per game and market (first by kickoff) n  34 in  28 games  15-19   return   -2.6%  one cent worse   -4.7%  mean edge +3.51
+-- T = at the fair after the fee --
+  orders placed 394 in 125 games | filled 126 (32%) | the standing price was 3.8 cents above T on average
+  filled orders, graded at T + 2           n 126 in  88 games  61-65   return   -1.9%  one cent worse   -3.8%  mean edge +0.45
+  unfilled orders, had they filled         n 268 in 119 games  136-132 return   +2.2%  one cent worse   +0.2%  mean edge +0.49
+  how the fair moved by look 2 (points, for the order's side; minus = against the order): filled -0.18 on 109 | unfilled +0.11 on 232
+     filled, lay                           n  21 in  21 games  12-9    return  +15.1%  one cent worse  +12.8%  mean edge +0.43
+     filled, take                          n  33 in  33 games  17-16   return   +4.9%  one cent worse   +2.8%  mean edge +0.46
+     filled, over                          n  35 in  34 games  20-15   return  +16.0%  one cent worse  +13.7%  mean edge +0.37
+     filled, under                         n  37 in  35 games  12-25   return  -34.2%  one cent worse  -35.5%  mean edge +0.54
+     filled, one per game and market (first by kickoff) n 105 in  88 games  53-52   return   +2.2%  one cent worse   +0.2%  mean edge +0.44
+
+=== F. OTHER STRIKES, by the conversion in force (R-07): spreads by table B-NFL-3, totals by 1.5 points per half-point ===
+-- spreads_h2, half a point from the books' median: 1 games --
+  3.0 or more                              n   0 in   0 games  0-0     return   +nan%  one cent worse   +nan%  mean edge  +nan
+  2.0 to 2.9                               n   0 in   0 games  0-0     return   +nan%  one cent worse   +nan%  mean edge  +nan
+  0 to 1.9                                 n   0 in   0 games  0-0     return   +nan%  one cent worse   +nan%  mean edge  +nan
+  below 0                                  n   1 in   1 games  1-0     return  +69.5%  one cent worse  +66.7%  mean edge -3.52
+-- spreads_h2, 1.0 to 1.5 points away: 117 games --
+  3.0 or more                              n  19 in  19 games  9-10    return   +9.5%  one cent worse   +7.0%  mean edge +4.24
+  2.0 to 2.9                               n   5 in   5 games  4-1     return  +77.7%  one cent worse  +73.8%  mean edge +2.57
+  0 to 1.9                                 n  28 in  28 games  15-13   return  +13.4%  one cent worse  +11.1%  mean edge +0.87
+  below 0                                  n  65 in  65 games  37-28   return   +8.0%  one cent worse   +5.9%  mean edge -1.41
+-- totals_h2, half a point from the books' median: 1 games --
+  3.0 or more                              n   0 in   0 games  0-0     return   +nan%  one cent worse   +nan%  mean edge  +nan
+  2.0 to 2.9                               n   0 in   0 games  0-0     return   +nan%  one cent worse   +nan%  mean edge  +nan
+  0 to 1.9                                 n   0 in   0 games  0-0     return   +nan%  one cent worse   +nan%  mean edge  +nan
+  below 0                                  n   1 in   1 games  0-1     return -100.0%  one cent worse -100.0%  mean edge -0.91
+-- totals_h2, 1.0 to 1.5 points away: 93 games --
+  3.0 or more                              n   9 in   9 games  4-5     return   +1.5%  one cent worse   -0.8%  mean edge +4.41
+  2.0 to 2.9                               n   9 in   9 games  4-5     return   -1.7%  one cent worse   -3.9%  mean edge +2.41
+  0 to 1.9                                 n  27 in  27 games  11-16   return  -12.5%  one cent worse  -14.3%  mean edge +0.85
+  below 0                                  n  48 in  48 games  24-24   return   -1.3%  one cent worse   -3.2%  mean edge -1.51
+
+=== G. LIQUIDITY: same-number contracts at the decision look ===
+contracts 220 | no bid or no ask: 0 | bid-ask spread: median 1 cents, 1 cent 65%, 2 cents 21%, 3 to 4 10%, wider than 4 4%
+sides 440 | pass R-03 424 (96%) | fail on the spread 16 | fail on the 60-cent cap only 0
+contracts traded during halftime, per same-number contract: median 8259, lowest quarter under 3256, share with none 0%
+
+=== I. SENSITIVITY ===
+  as locked                            mean edge -2.72 | best side 3.0+: 3 entries 1-2 return  -25.9% | 0 or better: 44 entries 23-21 return   +8.9%
+  Robinhood quote one minute earlier   mean edge -2.74 | best side 3.0+: 2 entries 1-1 return   +6.3% | 0 or better: 43 entries 24-19 return  +16.1%
+  fee 1 cent                           mean edge -1.72 | best side 3.0+: 6 entries 1-5 return  -63.2% | 0 or better: 81 entries 44-37 return  +13.2%

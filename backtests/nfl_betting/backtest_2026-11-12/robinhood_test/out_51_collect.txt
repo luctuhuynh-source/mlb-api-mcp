@@ -1,0 +1,13 @@
+-1794484851018.txt | asked 0-39 | done 24 | next 24 | http 139 | sec 23.1 | errors {} | size 252845
+-1794484884396.txt | asked 24-63 | done 24 | next 48 | http 135 | sec 22.9 | errors {} | size 224723
+-1794484910527.txt | asked 46-85 | done 26 | next 72 | http 138 | sec 22.9 | errors {} | size 225004
+-1794484935387.txt | asked 68-107 | done 28 | next 96 | http 136 | sec 22.9 | errors {} | size 227352
+-1794484959787.txt | asked 90-129 | done 30 | next 120 | http 132 | sec 22.6 | errors {} | size 241193
+-1794484976434.txt | asked 112-135 | done 24 | next None | http 90 | sec 14.7 | errors {} | size 193923
+
+saved files read: 7 | events collected: 272 | contracts: 4129 | minute rows: 51507
+KXNFL2HSPREAD: games with contracts 136 of 136 | no such event on the exchange: 0 | not pulled or failed: 0 []
+KXNFL2HTOTAL: games with contracts 136 of 136 | no such event on the exchange: 0 | not pulled or failed: 0 []
+source of the candles: {'batch': 4129} | contracts per event: median 14, min 13, max 24
+contracts with no row at all: 168 of 4129 | status: {'finalized': 4129} | result: {'no': 2566, 'yes': 1563}
+labels (sample): {'KXNFL2HSPREAD': ['SEA Seahawks wins 2H by ov', 'NE Patriots wins 2H by ove', 'SF 49ers wins 2H by over 2', 'SF 49ers wins 2H by over 1'], 'KXNFL2HTOTAL': ['Over 31.5 2H points scored', 'Over 38.5 2H points scored', 'Over 24.5 2H points scored', 'Over 14.5 2H points scored']}

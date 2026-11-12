@@ -55,3 +55,9 @@ Panel: Gemini = scout, ChatGPT = doubter, Claude = manager. Slate: `TOTALS_STRAT
 - A third confirmation was found: the 10/15 SEA@DEN overtime game. Seattle won the second half by 11 in regulation and by 8 with overtime; "Seattle wins 2H by over 9.5" settled No.
 - Phong, 3:40 AM: "CFB too". The college contracts carry the same words (11/14 contract). CFB 2H v2.3a written into the football doc: eight lines corrected in place in the CFB 2H tab, an addendum, and a change-log entry. CFB rules live in the doc only; there is no CFB rule file in this repo.
 - Not re-graded: past Robinhood-priced entries from overtime games, NFL or college.
+
+## 8. The Robinhood test (11/12, 3:47 to about 4:15 AM)
+- Phong, 3:47 AM: "Ready for Gemini response? Then we can test robinhood". The Gemini file posted at 3:48 AM is identical to `REPLY_gemini_scout_round2.txt`; sections 3 and 4 stand.
+- Plan locked before the pull: `../../backtest_2026-11-12/robinhood_test/ROBINHOOD_TEST_PLAN_LOCKED.md`. The scout's resting-order point is in it as view E. Results: `../../BACKTEST_2026-11-12.md`, section 18.
+- Frozen claim K1: UNDERPOWERED (3 entries, 1-2). Robinhood's price sits on the books' fair and costs about 2.7 points to take. Resting orders at the engine's price filled 9% of the time and went 15-23: the scout's maker idea finds no support here.
+- Section 2 of this ruling needs one more line: the wording was "(excluding overtime)" through 9/13/2026 and "(including overtime)" from 9/14/2026. The doubter was right about today's contracts; the rules had been right until the exchange changed them.
