@@ -396,8 +396,8 @@
   },
   {
    "id": "C28",
-   "check": "HOOK-through-divergence clause checked at every venue (DSB, Red105, Robinhood): the venue's number strictly beats every book in the pull, else shadow; Robinhood only where overtime cannot change the result",
-   "rules": "H-18 H-02 P5 P8",
+   "check": "HOOK-through-divergence clause checked at every venue (DSB, Red105, Robinhood): the venue's number strictly beats every book in the pull, else shadow; Robinhood 2H contracts count overtime (P9), so no overtime restriction",
+   "rules": "H-18 H-02 P5 P8 P9",
    "engine": [
     "2H"
    ],

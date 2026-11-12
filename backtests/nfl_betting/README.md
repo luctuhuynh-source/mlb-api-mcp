@@ -18,7 +18,7 @@ proposed engine changes and the case for a separate totals track; nothing in it 
 | `backtest_2026-11-12/halftime_pull/` | The paid pull, run 11/12 (50,072 credits): `TEST_PLAN_LOCKED.md` (six claims, fixed before any price was graded), the two plan files, the halftime clock for 990 games, the pulled quotes (`pulled_*.csv.gz`), collector 22, grading scripts 24 and 25 and their outputs. Results: BACKTEST section 15. Also the flow-against-totals screen of 11/12: `FLOW_TOTALS_TEST_PLAN.md`, scripts 26 to 28, `h1_flow_2023_2026.csv`; results in BACKTEST section 16 |
 | `backtest_2026-11-12/robinhood_pilot/` | Robinhood (Kalshi) price history against the books' fair at the 45 saved closes: plan, quotes, scripts 30 to 32, outputs |
 | `TOTALS_TRACK_v0.1.md` | NFL Totals track v0.1, written 11/12 and put ON HOLD the same hour pending the rewrite. Not run. Table B-NFL-5 |
-| `RULES_CURRENT.md` | Numbered rules in force today (1H v0.6c / 2H v0.6b, rules text 2026-11-12): v0.5 + the eight changes + one reading per contradiction + the push-table fix |
+| `RULES_CURRENT.md` | Numbered rules in force today (1H v0.6c / 2H v0.6c, rules text 2026-11-12): v0.5 + the nine changes + one reading per contradiction + the push-table fix |
 | `PUSH_TABLE_B-NFL-3.md` + `push_table_onesided_2015_2026.csv` | One-sided exact-margin table (push probability of a line), 2015-2026. Replaces the either-team table for HOOK pricing and number conversions |
 | `clv_1h_2026-10-18_to_11-05.csv` | Closing-line value for every first-half lean and fire in the rebuilt ledger |
 | `clv_2h_2026-10-18_to_11-05.csv` | The same for every second-half lean and fire (24 entries). Halftime and 3Q kickoff clock times for those games: `review_2026-11-11/halftime_clock_2026-10-18_to_11-05.csv` |
@@ -43,7 +43,7 @@ profile was answered (done, or not applicable with a reason, or skipped) - it re
 A skipped item or an item left blank is NOT FULL. Saved checklists go in `runs/`.
 
 ## Profile
-`profile` in the checklist is `v05` (strict frozen baseline, run from `RULES_v05_baseline.md`) or `current` (v0.6c 1H / v0.6b 2H,
+`profile` in the checklist is `v05` (strict frozen baseline, run from `RULES_v05_baseline.md`) or `current` (v0.6c 1H / v0.6c 2H,
 run from `RULES_CURRENT.md`). The checker prints the rule list it used and that file's hash.
 **The profile in force is `current`** (Phong, 11/12/2026: "Current but make this can fire by any books instead of dsb only."). A board runs `v05` only when he asks for it, and the checker
 then prints a note saying so. The push-table fix (check C36) applies to both profiles: it is a formula fix.

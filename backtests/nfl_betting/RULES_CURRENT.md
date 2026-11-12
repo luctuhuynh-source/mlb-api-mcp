@@ -1,18 +1,18 @@
 # NFL betting - current rules (rules text of 2026-11-12)
 
-**Versions: NFL FG+1H v0.6c. NFL 2H v0.6b. Game-flow read v1.1 with CLEAR LEAN v1.0 and ALWAYS PULL FLOW. Robinhood venue rules v1.0 with the 10/17 addenda.**
+**Versions: NFL FG+1H v0.6c. NFL 2H v0.6c. Game-flow read v1.1 with CLEAR LEAN v1.0 and ALWAYS PULL FLOW. Robinhood venue rules v1.1 (v1.0, the 10/17 addenda and the 11/12 overtime correction).**
 
-**OPEN, HIGH (X-35, 11/12): R-02, H-02, H-12 and P8 treat Robinhood second-half contracts as regulation-only. The contract text says "2nd half (including overtime)". Not changed here: waiting for Phong to confirm in the app and say so. Until then a Robinhood 2H price is still handled as the rules below say.**
+**Corrected 11/12/2026, 3:36 AM (change P9; X-35 and X-31 closed): Robinhood second-half contracts count overtime, like DSB and Red105.** Phong: "RH include over time.  Fix it". Changed below: R-02, H-02, H-12, H-17, H-18, and check C28. Three confirmations: the contract text ("in the 2nd half (including overtime)", on 10/18 and 11/16 contracts for the spread, the total and the winner), Phong's own check in the app, and the 10/15 SEA@DEN overtime game (Seattle won the second half by 11 in regulation and by 8 with overtime; "Seattle wins 2H by over 9.5" settled No).
 
 **Totals track: none in force.** v0.1 was written 11/12 and put on hold the same hour (Phong: "Lets rewrite the track before you start the pull."). The rewrite went through the review panel on 11/12 (ruling in `panel_2026-11-12/`). Its final text, `TOTALS_PROTOCOL_v0.2.md`, is NOT in force. The paid replication of 11/12 failed all three testable totals claims (`BACKTEST_2026-11-12.md`, section 15), so the protocol has no printable cell; Phong decides between a silent ledger and shelving it. Round 2 (number table, 11/12) also failed: `BACKTEST_2026-11-12.md` section 17. Boards print ENGINE and MATCHUP LEAN only.
 
 **Profile in force: current.** Phong, 11/12/2026: "Current but make this can fire by any books instead of dsb only." Strict v0.5 (`RULES_v05_baseline.md`) is run only when he asks for it.
 
-This is the frozen v0.5 (`RULES_v05_baseline.md`) with the eight ratified changes applied (`POST_FREEZE_CHANGES.md`, P1 to P8), every contradiction in `CONTRADICTIONS.md` given one reading, and one formula fix. Built 2026-11-11 from the four doc tabs and the change log; P8 added 2026-11-12. The football doc stays the source; this file is the flat copy a board is run from.
+This is the frozen v0.5 (`RULES_v05_baseline.md`) with the nine ratified changes applied (`POST_FREEZE_CHANGES.md`, P1 to P9), every contradiction in `CONTRADICTIONS.md` given one reading, and one formula fix. Built 2026-11-11 from the four doc tabs and the change log; P8 and P9 added 2026-11-12. The football doc stays the source; this file is the flat copy a board is run from.
 
 Marks on each rule:
 - `[=]` unchanged from the frozen v0.5.
-- `[P1]`..`[P8]` changed by that ratified change (Phong's words are in `POST_FREEZE_CHANGES.md`).
+- `[P1]`..`[P9]` changed by that ratified change (Phong's words are in `POST_FREEZE_CHANGES.md`).
 - `[R]` a reading chosen on 11/11 where the doc text disagreed with itself. The reason is given. Phong can overrule any of them.
 - `[FIX]` the 11/11 push-table fix (`PUSH_TABLE_B-NFL-3.md`).
 
@@ -103,11 +103,11 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 - F-48 [R] Kill switch: retired, see M-04.
 
 ---
-## Engine B - NFL 2H, v0.6b (IDs H-xx)
+## Engine B - NFL 2H, v0.6c (IDs H-xx)
 
 ### Scope and venues
 - H-01 [=] Halftime window only. Nothing is ever placed after the 3rd-quarter kickoff.
-- H-02 [P3] Execution venues: DSB, Red105 and Robinhood. Every halftime run pulls the Robinhood 2H ladders. Robinhood 2H contracts are regulation-only; DSB and Red105 2H lines include overtime (Red105: Phong, 11/6). Grade each ticket on its venue's basis and convert before comparing. Robinhood never enters the consensus. [R] No written method restates an overtime-in consensus fair on a regulation basis. Until one exists, a Robinhood 2H price that overtime could change is `CONSENSUS PRICE UNRESOLVED`, shadow (H-11). OPEN. When overtime cannot change it: overtime only happens in a game tied after regulation, where a team's regulation 2H margin is exactly minus its halftime margin. If that figure is more than 8 points from the margin the strike needs, no overtime result can change the ticket, and the Robinhood spread contract is priced like a book. (Example: a team leading by 14 at half that must win the half by 3 or more. A tie after regulation means it lost the half by 14.) Totals are not covered by this test.
+- H-02 [P3][P9] Execution venues: DSB, Red105 and Robinhood. Every halftime run pulls the Robinhood 2H ladders. All three settle a second half with overtime included (DSB confirmed 10/4; Red105: Phong, 11/6; Robinhood: contract text "2nd half (including overtime)" and Phong, 11/12). Grade each ticket on its venue's own result. A Robinhood 2H price is compared with the consensus fair like any other venue price: all-in = ask + 2 cents (R-06), the venue limits of R-03, and R-07 when the strike is not the consensus number. Robinhood never enters the consensus. Retired with P9: "Robinhood 2H contracts are regulation-only", the `CONSENSUS PRICE UNRESOLVED` shadow for a Robinhood price that overtime could change, and the "more than 8 points from the tie margin" test.
 - H-03 [=] DSB 2H spreads and totals include overtime (confirmed 10/4). Grade DSB on 2H + OT. The OT-unknown veto is retired; every remaining mention of it in the tabs is dead text.
 - H-04 [=] Sizing: the unit, $300 to win.
 - H-05 [=] DSB-only engine ledger started at 0-0 on 10/11; the old 4-1 is history, tagged by venue.
@@ -121,15 +121,15 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 
 ### Consensus
 - H-11 [=][FIX] Outside 2H quotes must match DSB's market and settlement (overtime in). Leave DSB out. Compare only at identical numbers; across numbers convert with B-NFL-3, else `CONSENSUS PRICE UNRESOLVED`, shadow.
-- H-12 [FIX] The tab's push table (3 = 9.5%, 7 = 12.5%, 10 = 6.8%, tie = 10.7%, n=337) counts either team, regulation only. Push probability of a 2H line: DSB (overtime in) 3 = 5.6%, 7 = 7.3%, 10 = 4.7%, level = 7.3%. Robinhood (regulation) 3 = 6.1%, 7 = 7.5%, 10 = 4.8%, level = 7.7%.
+- H-12 [FIX][P9] The tab's push table (3 = 9.5%, 7 = 12.5%, 10 = 6.8%, tie = 10.7%, n=337) counts either team, regulation only. Push probability of a 2H line, at every venue (overtime in): 3 = 5.6%, 7 = 7.3%, 10 = 4.7%, level = 7.3%. The separate Robinhood (regulation) figures (6.1%, 7.5%, 4.8%, 7.7%) are retired with P9.
 - H-13 [=] Count independent sources, not unique quote combinations.
 
 ### Fire path
 - H-14 [=] Sweep: scoreboard, one odds call per market for every game, DSB posted or `OFFLINE`.
 - H-15 [=] Convergence screen: before marking `CONVERGED` check availability, freshness, settlement and whether the DSB-vs-median difference touches 3 or 7. Any favourable half-point crossing, landing on or moving off 3 or 7 is a `HOOK CANDIDATE` and is evaluated, never cleared by the 0.5 tolerance.
 - H-16 [=] Direct 2H consensus and the FG-derived benchmark are evaluated independently; same selection from both -> one EV; material disagreement -> `BENCHMARK CONFLICT`, shadow.
-- H-17 [=][FIX][P8] HOOK: a venue (DSB, Red105; Robinhood by its strike and all-in price, R-03 and R-06) on a favourable 2H number around 3 or 7; at a sportsbook the price must be -115 or better. [R] The frozen text says "DSB"; P8 made the divergence exception venue-neutral and the base rule has to match it. P_push from H-12 (the one-sided figure for the venue's settlement). Fire only when conditional win is at break-even + 3.0 points or more AND EV > 0. No distribution -> `HOOK UNPRICED`, shadow.
-- H-18 [P5][P8] CONSENSUS DIVERGENCE: outside books disagree by more than 0.5 -> shadow. Exception (v0.6b, 11/12): a HOOK candidate stays fire-eligible at any of Phong's venues (DSB, Red105 or Robinhood) if, and only if, that venue's number is strictly better for the bet side than the number at every book in the consensus pull, not equal to any. The edge is computed against the nearest book number (the one least favourable to the bet) with the push table (H-12, on that venue's settlement basis) and must still clear the 3.0 floor at that venue's price (Robinhood: ask + 2 cents, R-03 applies, and H-02 on overtime). More than one venue qualifies -> better-EV venue first, one ticket (H-36). Ties the best book, or beats the modal but not the outlier -> shadow. Until 11/12 this exception was DSB only (v0.6a). Valid fires under either wording so far: none (11/1 LAR -3 was issued after the 3Q kickoff).
+- H-17 [=][FIX][P8] HOOK: a venue (DSB, Red105; Robinhood by its strike and all-in price, R-03 and R-06) on a favourable 2H number around 3 or 7; at a sportsbook the price must be -115 or better. [R] The frozen text says "DSB"; P8 made the divergence exception venue-neutral and the base rule has to match it. P_push from H-12 (one-sided, overtime in, the same at every venue since P9). Fire only when conditional win is at break-even + 3.0 points or more AND EV > 0. No distribution -> `HOOK UNPRICED`, shadow.
+- H-18 [P5][P8] CONSENSUS DIVERGENCE: outside books disagree by more than 0.5 -> shadow. Exception (v0.6b, 11/12): a HOOK candidate stays fire-eligible at any of Phong's venues (DSB, Red105 or Robinhood) if, and only if, that venue's number is strictly better for the bet side than the number at every book in the consensus pull, not equal to any. The edge is computed against the nearest book number (the one least favourable to the bet) with the push table (H-12) and must still clear the 3.0 floor at that venue's price (Robinhood: ask + 2 cents, R-03 applies; no overtime restriction since P9). More than one venue qualifies -> better-EV venue first, one ticket (H-36). Ties the best book, or beats the modal but not the outlier -> shadow. Until 11/12 this exception was DSB only (v0.6a). Valid fires under either wording so far: none (11/1 LAR -3 was issued after the 3Q kickoff).
 - H-19 [R] Direct gap (fire-eligible): a DSB number 1.5 points or more better than the leave-out 2H median opens the evaluation (v0.4); it fires only when the edge priced at DSB's exact number and price is 3.0 points or more with EV > 0 (the uniform practice, and the wording of P5). A smaller number gap that still prices to 3.0 or more is evaluated the same way.
 - H-20 [=] DERIV-LAG: implied 2H spread = live FG home spread + 1H home margin; implied total = live FG total - 1H points. 1.0 point or 5 probability points = `LAG REVIEW` only. A live quote is usable only with both sides up, age under 60 seconds, overround under 7.5%. Persistence: two observations 45-60 seconds apart, else `PERSISTENCE UNVERIFIED`, shadow. Shadow phase of 20 boards: log both the immediate and the persisted signal. No fire before 20 boards. Count on 11/11: 0 of 20 (no board has logged the persistence pair).
 - H-21 [=] Anchor Mode (0.50 x pregame spread, 0.50 x pregame total) is diagnostic, shadow-only. Every "Anchor Mode fires" line in the v0.2 block and the Robinhood tab is dead text.
@@ -181,7 +181,7 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 
 ## Shared - Robinhood venue rules v1.0 with the 10/17 addenda (IDs R-xx)
 - R-01 [=] Contracts: KXNFL1HSPREAD / TOTAL / WINNER, KXNFL2HSPREAD / TOTAL / WINNER, KXNFLSPREAD / TOTAL / GAME; pulled with `kalshi_get_markets`. No pull and no screen -> "RH: none".
-- R-02 [=] Price = the ask on the side bought. Halves are regulation-only; full-game includes overtime.
+- R-02 [P9] Price = the ask on the side bought. A first-half contract settles on the first half alone. Second-half and full-game contracts include overtime (contract text; Phong, 11/12). The frozen wording "Halves are regulation-only" was wrong for second halves.
 - R-03 [=] Ask cap 60 cents; bid-ask spread 4 cents or less with a resting ask.
 - R-04 [=] Never buy across a key number to reach a cheaper ask. A full-game contract is never a half signal.
 - R-05 [P3] Robinhood is an execution venue for both NFL engines (10/17). The tab's intro "co-primary", v0.4 "reference-only" and v0.6a "DSB-only execution venue" are all superseded by this.
@@ -197,4 +197,4 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 - Paper side for NO CLEAR LEAN games (G-11).
 - Whether a lean may be bet live at a price worse than fair (review decision 2). Today's text does not stop it.
 - Totals: no push table; FLOW-TOTAL shadow test still short of 20 boards, and the shadow line has no written test. A screen on 990 real second-half totals (11/12, `BACKTEST_2026-11-12.md` section 16) points to first-half yards per play (Over above 5.89 combined, Under below 4.93); a written shadow test is proposed there and waits for Phong. H-38 unchanged. A Totals track is written and reviewed (`TOTALS_PROTOCOL_v0.2.md`, final text after the 11/12 panel; v0.1 on hold). Its Under cells failed the paid replication on 11/12. Not in force; Phong decides between a silent ledger and shelving it. The engine's own totals conversion (R-07, 1.5 per half-point) is unchanged; whether it should use table B-NFL-5 is Phong's call.
-- A method to restate an overtime-in 2H fair on a regulation basis for Robinhood 2H contracts (H-02). Until it exists, P8 reaches Robinhood only where overtime cannot change the result. The half-score data in `review_2026-11-11/` has both settlements for every game since 2015 and can support one.
+- Closed 11/12 (P9): no method is needed to restate an overtime-in fair on a regulation basis. Robinhood second-half contracts count overtime.

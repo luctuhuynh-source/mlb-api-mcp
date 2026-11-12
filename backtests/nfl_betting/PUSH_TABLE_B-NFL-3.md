@@ -1,5 +1,8 @@
 # B-NFL-3 - one-sided exact-margin table for NFL halves (2026-11-11)
 
+**Note, 11/12/2026 (change P9):** Robinhood second-half contracts count overtime. The rows marked "2H regulation (Robinhood)" are kept for the record only. Every venue, Robinhood included, now uses the overtime-in rows for a second-half line.
+
+
 Built during the 11/11/2026 protocol review. Data: nflverse play-by-play, every NFL game 2015 through 2026-11-09 (3,164 games, 3,160 with a favourite). Full table: `push_table_onesided_2015_2026.csv`. Script: `review_2026-11-11/01_push_table.py`.
 
 ## What was wrong
