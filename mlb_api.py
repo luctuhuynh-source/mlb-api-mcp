@@ -3786,10 +3786,13 @@ def setup_mlb_tools(mcp):
         are Unix seconds (UTC); period_interval is 1, 60 or 1440 minutes.
         Live markets are tried first, then the archive for settled ones.
 
-        Returns per market: ticker, title, floor_strike, result, and candles as
-        [end_ts, yes_bid_close, yes_ask_close, yes_ask_low, yes_ask_high, volume]
-        with prices in cents. yes_ask is the Robinhood "Buy Yes" price;
-        Buy No = 100 - yes_bid. "raw_first" is the first candle untouched.
+        Returns one text line per market:
+        "ticker|floor_strike|result|source|kept_of_total|end_ts,yes_bid,yes_ask,ask_low,ask_high,volume;..."
+        (the last max_candles candles; closes, prices in cents). A candle exists
+        only for minutes in which the quote changed, so the last candle at or
+        before a time is the standing quote at that time. yes_ask is the
+        Robinhood "Buy Yes" price; Buy No = 100 - yes_bid. "raw_first" is one
+        candle untouched, as a check on the field names.
         """
         def _c(v):
             if v is None:
@@ -3837,7 +3840,7 @@ def setup_mlb_tools(mcp):
             markets.append({"ticker": t})
         if not markets:
             return {"error": "no markets found", "notes": notes}
-        out = []
+        out, raw_first = [], None
         for m in markets[:max_markets]:
             tk = m.get("ticker") or ""
             series = tk.split("-")[0]
@@ -3854,8 +3857,15 @@ def setup_mlb_tools(mcp):
                 yb, ya = c.get("yes_bid") or {}, c.get("yes_ask") or {}
                 rows.append([c.get("end_period_ts"), _px(yb, "close"), _px(ya, "close"),
                              _px(ya, "low"), _px(ya, "high"), c.get("volume_fp", c.get("volume"))])
-            out.append({"ticker": tk, "title": m.get("title"), "floor_strike": m.get("floor_strike"),
-                        "result": m.get("result"), "source": src, "candle_count": len(cs),
-                        "candles": rows, "raw_first": cs[0] if cs else None,
-                        "error": err if not cs else None})
-        return {"count": len(out), "markets_found": len(markets), "markets": out, "notes": notes}
+            if raw_first is None and cs:
+                raw_first = cs[0]
+            # one compact text line per market: ticker|strike|result|source|candles kept of total|rows
+            line = "|".join([tk, str(m.get("floor_strike")), str(m.get("result") or ""), str(src or ""),
+                             f"{len(rows)}of{len(cs)}",
+                             ";".join(",".join("" if v is None else str(v) for v in r) for r in rows)])
+            if not cs and err:
+                line += "|ERR " + str(err)
+            out.append(line)
+        return {"count": len(out), "markets_found": len(markets),
+                "row_format": "ticker|floor_strike|result|source|kept_of_total|end_ts,yes_bid,yes_ask,ask_low,ask_high,volume;...",
+                "markets": out, "raw_first": raw_first, "notes": notes}
