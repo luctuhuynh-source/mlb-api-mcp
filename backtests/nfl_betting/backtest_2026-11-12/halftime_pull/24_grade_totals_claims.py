@@ -22,7 +22,7 @@ print('games in the plan: %d | with scores: %d | outdoor %d (no wind reading %d)
 def be(o):
     o = float(o); return -o / (-o + 100) if o < 0 else 100 / (o + 100)
 def load(name, market):
-    q = pd.read_csv(os.path.join(HERE, 'pulled_%s.csv' % name)); q = q[q.market == market].copy()
+    q = pd.read_csv(os.path.join(HERE, 'pulled_%s.csv.gz' % name)); q = q[q.market == market].copy()
     for c in ('point', 'price_a', 'price_b', 'age'): q[c] = pd.to_numeric(q[c], errors='coerce')
     q['main'] = q.price_a.between(-200, 200) & q.price_b.between(-200, 200) & q.point.notna()
     return q

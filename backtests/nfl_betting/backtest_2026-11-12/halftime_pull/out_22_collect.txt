@@ -1,0 +1,9 @@
+pull_plan: 21690 rows | games with quotes 990 of 990 | looks 1980 | batches seen 286 of 286 | credits reported in these files 39886
+   batches missing: [] 
+   games in the plan with no quote at all: 0 []
+   looks that came back with no book posting: 0
+pull_plan_h1: 7143 rows | games with quotes 990 of 990 | looks 990 | batches seen 286 of 286 | credits reported in these files 10186
+   batches missing: [] 
+   games in the plan with no quote at all: 0 []
+   looks that came back with no book posting: 0
+errors: 0

@@ -1,6 +1,6 @@
 # NFL Totals protocol v0.2 (paper only) - final text after panel review
 
-**Status: NOT IN FORCE. Waiting for Phong to ratify.** Until then boards run as before (ENGINE and MATCHUP LEAN only) and v0.1 stays on hold.
+**Status: NOT IN FORCE, and after the replication it has no printable cell.** The paid pull was graded on the locked plan on 11/12 (`BACKTEST_2026-11-12.md`, section 15): the second-half wind Under returned -0.9% at real halftime prices and FAILED, so by the plan's own rule no wind line prints in either window; the first-half wind claim and the stand-alone SCORE claim FAILED too. What is left of this protocol is a silent ledger. Phong decides: keep it as a silent ledger, or shelve it. Boards run as before (ENGINE and MATCHUP LEAN only) and v0.1 stays on hold.
 Written 11/12/2026 after the review Phong ordered ("I also want Chatgpt and Gemini inputs on this revised protocol of the totals... You as the manager always"). The draft the panel saw is `TOTALS_PROTOCOL_v0.2_DRAFT.md`. Every ruling and its reason is in `panel_2026-11-12/PANEL_RULING_2026-11-12.md`.
 
 ## What this track is
@@ -25,7 +25,7 @@ Written 11/12/2026 after the review Phong ordered ("I also want Chatgpt and Gemi
 
 **Cells (Under only), declared 11/12/2026**
 - T-04
-  - U1 WIND-A. Outdoor game or confirmed open roof, sustained wind 15.0 mph or more. Printable on paper.
+  - U1 WIND-A. Outdoor game or confirmed open roof, sustained wind 15.0 mph or more. Printable on paper. **Switched to logged-only on 11/12 by the replication result (claim C1 failed).**
   - U2 WIND-B. The same at 10.0 to 14.9 mph. Logged only.
   - U3 SCORE. Second half only, first-half points 28 or more. Logged only. Its stand-alone claim is the calm or indoor games; SCORE in wind is judged as the gain over windy games without it.
   - The wind reading is the sustained wind speed in mph at the stadium from the weather pull. Gusts and direction are logged, not used. No rounding: 14.9 is not 15.

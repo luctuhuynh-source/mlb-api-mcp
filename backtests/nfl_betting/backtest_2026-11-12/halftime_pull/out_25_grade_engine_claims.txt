@@ -1,0 +1,51 @@
+games with a decision look and 3+ books: spreads 893, totals 685 (of 990)
+book-side prices tested at the decision look: 15128 | mean edge -3.60 (spreads -3.56, totals -3.66)
+
+=== PRIMARY CLAIMS (decision look, sides and totals together, one entry per game, market and side) ===
+  C5 edge 3.0 or more                n   75 in  68 games  41-33-1     return   +5.4%  one step worse   +3.6% | 2023-24 n  49 26-22-1   +2.4% ; 2025-26 n  26 15-11-0  +11.0%
+      lower bound of the return: -10.3% plain, -17.5% corrected for six claims | UNDERPOWERED (49 and 26 entries)
+  C6 edge 2.0 to 2.9                 n   69 in  67 games  29-40-0     return  -18.4%  one step worse  -20.0% | 2023-24 n  39 16-23-0  -20.5% ; 2025-26 n  30 13-17-0  -15.6%
+      lower bound of the return: -34.9% plain, -42.4% corrected for six claims | UNDERPOWERED (39 and 30 entries)
+
+=== FOR INFORMATION ONLY ===
+-- spreads_h2: every edge band, best-edge book per game and side --
+  3.0 or more                        n   75 in  68 games  41-33-1     return   +5.4%  one step worse   +3.6% | 2023-24 n  49 26-22-1   +2.4% ; 2025-26 n  26 15-11-0  +11.0%
+  2.0 to 2.9                         n   65 in  63 games  27-38-0     return  -19.6%  one step worse  -21.1% | 2023-24 n  39 16-23-0  -20.5% ; 2025-26 n  26 11-15-0  -18.1%
+  1.0 to 1.9                         n  124 in 117 games  63-58-3     return   +0.5%  one step worse   -1.3% | 2023-24 n  68 32-35-1   -8.2% ; 2025-26 n  56 31-23-2  +11.1%
+  0 to 0.9                           n  212 in 199 games  92-115-5    return  -13.5%  one step worse  -15.0% | 2023-24 n 127 54-69-4  -15.4% ; 2025-26 n  85 38-46-1  -10.5%
+  below 0                            n 1310 in 800 games  677-625-8   return   -0.7%  one step worse   -2.5% | 2023-24 n 661 346-309-6   +0.3% ; 2025-26 n 649 331-316-2   -1.8%
+-- totals_h2: every edge band, best-edge book per game and side --
+  3.0 or more                        n    0 in   0 games  0-0-0       return   +nan%  one step worse   +nan% | 2023-24 n   0 0-0-0   +nan% ; 2025-26 n   0 0-0-0   +nan%
+  2.0 to 2.9                         n    4 in   4 games  2-2-0       return   +3.7%  one step worse   +1.6% | 2023-24 n   0 0-0-0   +nan% ; 2025-26 n   4 2-2-0   +3.7%
+  1.0 to 1.9                         n    9 in   9 games  7-2-0       return  +54.4%  one step worse  +51.4% | 2023-24 n   6 5-1-0  +65.3% ; 2025-26 n   3 2-1-0  +32.8%
+  0 to 0.9                           n   27 in  27 games  12-15-0     return  -12.3%  one step worse  -14.0% | 2023-24 n  12 7-5-0  +16.4% ; 2025-26 n  15 5-10-0  -34.5%
+  below 0                            n 1330 in 683 games  664-666-0   return   -4.9%  one step worse   -6.7% | 2023-24 n 576 285-291-0   -5.5% ; 2025-26 n 754 379-375-0   -4.4%
+-- how often (decision look) --
+  a price 3.0+ better than the rest: 75 entries in 68 of 901 games (8.3 per 100 games); by season {2023: 22, 2024: 27, 2025: 17, 2026: 9}
+  a price 2.0+ better than the rest: 144 entries in 122 of 901 games (16.0 per 100 games); by season {2023: 37, 2024: 51, 2025: 41, 2026: 15}
+  a price 1.0+ better than the rest: 277 entries in 231 of 901 games (30.7 per 100 games); by season {2023: 77, 2024: 85, 2025: 85, 2026: 30}
+-- does it last? 3.0+ at look 1, the same book and side at look 2 --
+  3.0+ at look 1: 81 book-sides. At look 2: still 3.0+ 21, 0 to 2.9 22, below 0 38, book gone or under 3 books 0
+-- who hangs the 3.0+ prices (decision look, book-sides) --
+market          spreads_h2
+book                      
+ballybet                 2
+betparx                  1
+betrivers                1
+bovada                  19
+draftkings              14
+fanduel                  5
+fliff                   11
+hardrockbet             12
+unibet_us               10
+williamhill_us          10
+-- 3.0+ entries split on whether the other books agree (spreads: numbers within half a point; price: fairs within 3 points) --
+  other books within half a point    n   21 in  21 games  10-11-0     return   -7.5%  one step worse   -9.2% | 2023-24 n  11 4-7-0  -30.0% ; 2025-26 n  10 6-4-0  +16.7%
+  other books more than half a point apart n   54 in  49 games  31-22-1     return  +10.5%  one step worse   +8.5% | 2023-24 n  38 22-15-1  +11.7% ; 2025-26 n  16 9-7-0   +7.5%
+  fairs within 3 points              n   24 in  24 games  14-10-0     return  +12.5%  one step worse  +10.4% | 2023-24 n  16 9-7-0   +7.3% ; 2025-26 n   8 5-3-0  +23.3%
+  fairs more than 3 points apart     n   51 in  47 games  27-23-1     return   +2.3%  one step worse   +0.5% | 2023-24 n  33 17-15-1   +0.1% ; 2025-26 n  18 10-8-0   +6.1%
+-- 3.0+ by side --
+  spread sides                       n   75 in  68 games  41-33-1     return   +5.4%  one step worse   +3.6% | 2023-24 n  49 26-22-1   +2.4% ; 2025-26 n  26 15-11-0  +11.0%
+  Overs                              n    0 in   0 games  0-0-0       return   +nan%  one step worse   +nan% | 2023-24 n   0 0-0-0   +nan% ; 2025-26 n   0 0-0-0   +nan%
+  Unders                             n    0 in   0 games  0-0-0       return   +nan%  one step worse   +nan% | 2023-24 n   0 0-0-0   +nan% ; 2025-26 n   0 0-0-0   +nan%
+-- age of the quote behind a 3.0+ price: median 35 s (all quotes 21 s) --

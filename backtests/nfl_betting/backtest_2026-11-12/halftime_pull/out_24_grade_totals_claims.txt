@@ -1,0 +1,48 @@
+games in the plan: 990 | with scores: 990 | outdoor 674 (no wind reading 102) | indoor 316
+second-half totals: {'rows': 10956, 'not_main': 367, 'stale': 129, 'no_age': 0, 'games_with_quotes': 990, 'decided_look1': 958, 'decided_look2': 32, 'no_look': 0}
+first-half totals:  {'rows': 7143, 'not_main': 701, 'stale': 0, 'no_age': 0, 'games_with_quotes': 990, 'decided_look1': 990, 'decided_look2': 0, 'no_look': 0}
+cells (games in the plan): wind 10+ 179 (15+ 51, 10-14 128) | calm or indoors 709 | first half 28+ 275 | outdoor with no reading, left out of every claim 102
+
+=== PRIMARY CLAIMS (Under, average book at its own number and price, decision look) ===
+C1 WIND 10+ Under, second half               n  179   52.8% won  return   -0.9%  | one step worse   -2.7%  | 2023-24 n 114   52.9% won  return   -0.4% ; 2025-26 n  65   52.5% won  return   -1.7%
+      books per game 4.8 | median line 20.5 | median Under price -115 | lower bound of the return: -12.3% plain, -17.4% corrected for six claims | FAILED
+C2 WIND 10+ Under, first half                n  179   50.9% won  return   -3.2%  | one step worse   -5.0%  | 2023-24 n 114   48.8% won  return   -7.0% ; 2025-26 n  65   54.4% won  return   +3.6%
+      books per game 6.5 | median line 21.2 | median Under price -110 | lower bound of the return: -13.2% plain, -17.7% corrected for six claims | FAILED
+C3 SCORE Under, calm or indoors              n  209   51.2% won  return   -4.2%  | one step worse   -6.0%  | 2023-24 n 120   53.3% won  return   -0.1% ; 2025-26 n  89   48.4% won  return   -9.8%
+      books per game 5.0 | median line 22.5 | median Under price -115 | lower bound of the return: -16.2% plain, -21.6% corrected for six claims | FAILED
+C4 SCORE inside wind (second half, wind 10+): return with first half 28+ minus return with fewer
+   wind 10+ and first half 28+               n   38   44.9% won  return  -15.2%  | 2023-24 n  20   45.8% won  return  -13.4% ; 2025-26 n  18   43.9% won  return  -17.2%
+   wind 10+ and first half under 28          n  141   54.9% won  return   +3.0%  | 2023-24 n  94   54.4% won  return   +2.3% ; 2025-26 n  47   55.8% won  return   +4.3%
+      2023-24 gap -15.7 points (20 against 94 games)
+      2025-26 gap -21.5 points (18 against 47 games)
+      C4: UNDERPOWERED
+
+=== FOR INFORMATION ONLY ===
+-- bands and base rates, second half --
+wind 15+ Under                               n   51   51.4% won  return   -3.6%  | 2023-24 n  30   49.4% won  return   -7.1% ; 2025-26 n  21   54.1% won  return   +1.4%
+wind 10-14 Under                             n  128   53.3% won  return   +0.1%  | 2023-24 n  84   54.2% won  return   +1.9% ; 2025-26 n  44   51.7% won  return   -3.2%
+every game, Under                            n  990   48.5% won  return   -9.4%  | 2023-24 n 569   50.5% won  return   -5.3% ; 2025-26 n 421   45.7% won  return  -14.8%
+every game, Over                             n  990   51.5% won  return   -3.7%  | 2023-24 n 569   49.5% won  return   -7.4% ; 2025-26 n 421   54.3% won  return   +1.3%
+first half 28+, every game, Under            n  275   49.0% won  return   -8.3%  | 2023-24 n 152   52.6% won  return   -1.4% ; 2025-26 n 123   44.7% won  return  -16.7%
+outdoor wind under 10, Under                 n  393   46.0% won  return  -14.0%  | 2023-24 n 225   50.0% won  return   -6.4% ; 2025-26 n 168   40.7% won  return  -24.1%
+-- bands, first half (pregame look) --
+wind 15+ Under                               n   51   57.5% won  return   +9.4%  | 2023-24 n  30   64.2% won  return  +21.9% ; 2025-26 n  21   48.0% won  return   -8.8%
+wind 10-14 Under                             n  128   48.2% won  return   -8.3%  | 2023-24 n  84   43.3% won  return  -17.4% ; 2025-26 n  44   57.5% won  return   +9.5%
+every game, Under                            n  990   49.9% won  return   -5.3%  | 2023-24 n 569   47.1% won  return  -10.4% ; 2025-26 n 421   53.5% won  return   +1.7%
+every game, Over                             n  990   50.1% won  return   -3.7%  | 2023-24 n 569   52.9% won  return   +1.7% ; 2025-26 n 421   46.5% won  return  -10.8%
+-- controls expected to fail --
+Over, indoors, second half                   n  316   50.8% won  return   -5.2%  | 2023-24 n 184   49.3% won  return   -7.8% ; 2025-26 n 132   52.8% won  return   -1.7%
+Over after a first half of 13 or fewer       n  160   50.6% won  return   -5.7%  | 2023-24 n  92   48.8% won  return   -9.1% ; 2025-26 n  68   53.1% won  return   -1.1%
+-- best book instead of the average book (highest number, then best Under price) --
+C1 at the best book                          n  179   55.7% won  return   +4.3%  | 2023-24 n 114   54.9% won  return   +3.1% ; 2025-26 n  65   57.1% won  return   +6.4%
+C3 at the best book                          n  209   53.4% won  return   -0.2%  | 2023-24 n 120   55.5% won  return   +4.0% ; 2025-26 n  89   50.6% won  return   -5.6%
+-- look 2 (last snapshot before the 3rd-quarter kickoff) instead of the decision look --
+C1 at look 2                                 n  179   54.1% won  return   +1.4%  | 2023-24 n 114   54.4% won  return   +2.1% ; 2025-26 n  65   53.5% won  return   +0.1%
+C3 at look 2                                 n  209   50.8% won  return   -4.9%  | 2023-24 n 120   52.8% won  return   -1.1% ; 2025-26 n  89   48.1% won  return  -10.0%
+-- the Robinhood view: half-point lines only, regulation points, break-even + 2 points for the fee --
+C1 regulation only, less 2 cents             n  179   54.6% won  return   -1.3%  | 2023-24 n 114   54.3% won  return   -1.5% ; 2025-26 n  65   55.0% won  return   -0.8%
+C1 same quotes, sportsbook rule              n  179   52.4% won  return   -1.6%  | 2023-24 n 114   52.5% won  return   -1.2% ; 2025-26 n  65   52.2% won  return   -2.3%
+every game regulation only, less 2 cents     n  990   49.6% won  return  -10.7%  | 2023-24 n 569   51.6% won  return   -6.9% ; 2025-26 n 421   46.9% won  return  -15.8%
+-- how the market set the second-half total (median fresh main line per game at the decision look) --
+   market line = 0.476 x pregame total +0.042 x first-half points -0.065 x halftime lead   (2011-2021: 0.481, +0.063, -0.083)
+   actual points = 0.516 x pregame total +0.030 x first-half points -0.109 x halftime lead
