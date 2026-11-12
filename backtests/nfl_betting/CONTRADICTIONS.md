@@ -42,6 +42,8 @@ the blocks say which parts are dead. Readings marked [R] in the rule list are Ph
 Found in the review, not in the list below:
 - X-28 HIGH, fixed. The push table (B-NFL-2) counts either team landing on the number. The boards used it as the push probability of a line, which is the one-sided figure and about half as large. See `PUSH_TABLE_B-NFL-3.md`.
 - X-29 MED, open. Nothing in the text says a lean bet with live money has to be at a fair price. First-half leans closed 1.0 point worse than fair on average (review decision 2).
+- X-32 MED, fixed 11/12. Red105 has been a venue since 10/25 on Phong's word ("I have another platform to use along with dsb. Red105.") but no doc tab named it. Written into the rule list (F-02, H-02, M-03) and the 2H tab's v0.6b section.
+- X-33, ruled 11/12. Profile in force: `current`.
 - X-31 MED, open. Robinhood 2H contracts are regulation-only; the 10/17 text says "convert before comparing" with no method. Reading until one is written: shadow (H-02).
 - X-30 MED, resolved [R]. Robinhood contract count: "contracts = size / ask" treats size as dollars risked, while the unit is $300 to win (R-10).
 

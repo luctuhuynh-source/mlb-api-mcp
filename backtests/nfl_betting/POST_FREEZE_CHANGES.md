@@ -1,7 +1,9 @@
 # Changes made to the NFL protocols after the 10/11/2026 freeze
 
-All seven were made at Phong's direction. None has been reverted. Each needs a keep / drop ruling if the frozen v0.5 is to be the
-version in force (Phong, 11/11: "there was a version that got frozen since it was working well. I'd like to use that version").
+All were made at Phong's direction. None has been reverted. On 11/11 Phong said "there was a version that got frozen since it was
+working well. I'd like to use that version", which left the choice of profile open.
+
+**Ruled 11/12/2026: the profile in force is `current`.** Phong: "Current but make this can fire by any books instead of dsb only." That keeps P1 to P7 and adds P8.
 
 | # | Date | Engine | Version label | Change | Phong's words (change log / tab) | Baseline rules it replaces |
 |---|---|---|---|---|---|---|
@@ -12,6 +14,7 @@ version in force (Phong, 11/11: "there was a version that got frozen since it wa
 | P5 | 11/1 | 2H | v0.6a | HOOK fires through CONSENSUS DIVERGENCE when the DSB number strictly beats every book in the pull; edge vs the nearest book; 3.0 floor unchanged | "let a HOOK fire through divergence when the DSB number beats every book in the spread, not just the modal" | H-18 |
 | P6 | 11/8 | 1H | v0.6b | Bye-week teams use their last played game's FLOW row (STALE-1WK); inactives from team sites / official tracker at T-90 | "Do both." | F-06, F-18 (data source only) |
 | P7 | 11/9 | 1H (and Game-flow tab, all engines) | v0.6c | ALWAYS PULL FLOW: every game, every run, never skipped for time; a game can be FLAGGED on FLOW alone | "Always pull flow." | F-06 fallback, G-07 |
+| P8 | 11/12 | 2H | v0.6b | HOOK through divergence can fire at any of Phong's venues (DSB, Red105, Robinhood) whose number strictly beats every book in the pull, not at DSB only. Edge vs the nearest book, 3.0 floor at that venue's price. Robinhood 2H is regulation-only, so it qualifies only where overtime cannot change the result until a conversion is written | "Current but make this can fire by any books instead of dsb only." | H-18 (P5 wording), H-17 |
 
 ## Keep / drop (11/11/2026 review, `REVIEW_2026-11-11.md` section 10)
 Recommended: keep all seven. No change is tied to worse results: v0.6 and v0.6a pick leans with the same rule and went 15-18-2 and

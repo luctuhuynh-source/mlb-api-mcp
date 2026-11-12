@@ -7,10 +7,12 @@ import json, sys, os, hashlib
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 VERSIONS = {"v05": {"1H": "NFL FG+1H v0.5", "2H": "NFL 2H v0.5"},
-            "current": {"1H": "NFL FG+1H v0.6c", "2H": "NFL 2H v0.6a"}}
+            "current": {"1H": "NFL FG+1H v0.6c", "2H": "NFL 2H v0.6b"}}
+# Phong, 11/12/2026: "Current but make this can fire by any books instead of dsb only."
+PROFILE_IN_FORCE = "current"
 # The flat rule list each profile is run from. Its hash is printed so two runs can be shown to have used the same text.
 RULE_FILES = {"v05": "RULES_v05_baseline.md", "current": "RULES_CURRENT.md"}
-RULES_TEXT_DATE = {"v05": "frozen 2026-10-11", "current": "rules text 2026-11-11"}
+RULES_TEXT_DATE = {"v05": "frozen 2026-10-11", "current": "rules text 2026-11-12"}
 
 def main():
     if len(sys.argv) != 2:
@@ -60,6 +62,8 @@ def main():
               % (ver, prof, done, len(want)))
     print("Engine %s | %s | games: %s | run %s PT | rule list %s hash %s" %
           (eng, ver, ", ".join(d.get("games", [])) or "-", d.get("run_time_pt") or "-", RULE_FILES[prof], rh))
+    if prof != PROFILE_IN_FORCE:
+        print("NOTE: the profile in force is '%s' (Phong, 11/12/2026). This run used '%s'. Say so at the top of the reply." % (PROFILE_IN_FORCE, prof))
     print("This check confirms each rule was answered by the chat. It does not verify the answers, grading, or closing lines.")
     print(bar)
 

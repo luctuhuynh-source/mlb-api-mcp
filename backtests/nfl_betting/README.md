@@ -37,5 +37,5 @@ A skipped item or an item left blank is NOT FULL. Saved checklists go in `runs/`
 ## Profile
 `profile` in the checklist is `v05` (strict frozen baseline, run from `RULES_v05_baseline.md`) or `current` (v0.6c 1H / v0.6a 2H,
 run from `RULES_CURRENT.md`). The checker prints the rule list it used and that file's hash.
-Which profile is in force is Phong's call. The 11/11 review recommends `current` (decision 1 in `REVIEW_2026-11-11.md`); until he
-rules, a chat states the profile it ran at the top. The push-table fix (check C36) applies to both profiles: it is a formula fix.
+**The profile in force is `current`** (Phong, 11/12/2026: "Current but make this can fire by any books instead of dsb only."). A board runs `v05` only when he asks for it, and the checker
+then prints a note saying so. The push-table fix (check C36) applies to both profiles: it is a formula fix.

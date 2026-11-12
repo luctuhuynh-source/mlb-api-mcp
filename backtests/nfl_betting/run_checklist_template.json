@@ -1,7 +1,7 @@
 {
  "protocol": "NFL betting",
  "engine": "1H or 2H",
- "profile": "v05 or current",
+ "profile": "current (in force, Phong 11/12/2026) or v05 (only if he asks)",
  "date": "YYYY-MM-DD",
  "games": [],
  "run_time_pt": "",
@@ -240,8 +240,8 @@
   },
   {
    "id": "C17",
-   "check": "Execution venue matches the profile (v05: DSB only; current: DSB or Robinhood, better EV first)",
-   "rules": "F-02 H-02 P3",
+   "check": "Execution venue matches the profile (v05: DSB only; current: DSB, Red105 or Robinhood, better EV first)",
+   "rules": "F-02 H-02 P3 M-03",
    "engine": [
     "1H",
     "2H"
@@ -396,8 +396,8 @@
   },
   {
    "id": "C28",
-   "check": "HOOK-through-divergence clause checked: DSB strictly beats every book, else shadow",
-   "rules": "P5",
+   "check": "HOOK-through-divergence clause checked at every venue (DSB, Red105, Robinhood): the venue's number strictly beats every book in the pull, else shadow; Robinhood only where overtime cannot change the result",
+   "rules": "H-18 H-02 P5 P8",
    "engine": [
     "2H"
    ],
