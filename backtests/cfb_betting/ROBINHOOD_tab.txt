@@ -1,0 +1,269 @@
+Robinhood venue rules (all engines)
+
+
+
+
+  Robinhood venue rules v1.0 — all football
+  engines
+    Sep 27, 2026         ·   ​@Phong
+
+  Robinhood (RH, Kalshi contracts) is a co-primary venue with DiamondSB in every football
+  engine in this doc: CFB 1H, CFB 2H, CFB full-game, NFL full-game/1H, NFL 2H. This tab is
+  the single source; each prompt's venue line points here. Ratified 9/27/2026.
+
+
+  1. Contracts (Kalshi series tickers)
+
+     Window              NFL spread / total / winner         CFB spread / total / winner
+
+     1st half            KXNFL1HSPREAD / KXNFL1HTOTAL /      KXNCAAF1HSPREAD /
+                         KXNFL1HWINNER                       KXNCAAF1HTOTAL /
+                                                             KXNCAAF1HWINNER
+
+     2nd half            KXNFL2HSPREAD / KXNFL2HTOTAL /      KXNCAAF2HSPREAD /
+                         KXNFL2HWINNER                       KXNCAAF2HTOTAL / KXNCAAF2H
+
+     Full                KXNFLSPREAD / KXNFLTOTAL /          KXNCAAFSPREAD / KXNCAAFTOTAL /
+     game                KXNFLGAME                           KXNCAAFGAME
+
+
+  Pull: kalshi_get_markets(series_ticker=…, status=open) filtered to the game's event
+  ticker (date + team codes, e.g. 26SEP28PHICHI). If the pull fails, an RH screen Phong
+  pastes is the fallback. No pull and no screen → print "RH: none" for that game in the canary
+  line; DSB-only run.
+
+
+  2. Reading a contract
+          Each strike is a half-point YES/NO contract, priced in cents = implied probability. "
+          [Team] wins [period] by over X.5": YES = Team −X.5, NO = opponent +X.5. Totals "over
+          X.5": YES = Over, NO = Under.
+          Price to use = the ask on the side being bought (yes_ask or no_ask). Never the bid,
+          never the mid.
+          Sportsbook equivalent of an ask c: c ≥ 50 → −100·c/(100−c); c < 50 → +100·(100−c)/c.
+          52¢ ≈ −108, 45¢ ≈ +122.
+          All strikes are half-points, so RH never pushes.
+
+
+
+                                                                                            Page 1 of 6
+Robinhood venue rules (all engines)
+
+
+
+
+  3. Fire test on RH
+          Line gap: unchanged from the engine. Compare the RH strike to the engine's fair line
+          exactly as a DSB line. Every gate in the engine applies.
+          Strike choice: the strike closest to the fair line on the favorable side. An alternate
+          strike is allowed only if it still clears the engine's gap and its ask clears the price gate.
+          Never buy across a key number (3, 7, 10, 14) to reach a cheaper ask.
+          Price gate: ask ≤ fair no-vig probability of that side at that strike, and ask ≤ 60¢ always
+          (never worse than −150; loosened from 55¢ on 9/27 at Phong's direction). Fair
+          probability at an off-consensus strike: shift the consensus fair price 2.5¢ per half-
+          point on spreads (5¢ per half-point crossing 3 or 7), 2¢ per half-point on totals.
+          Anchor Mode (fewer than 4 books): the engine's Anchor rules govern (0.25u where
+          the engine fires in Anchor Mode, shadow-only where it does not). RH does not change
+          the mode.
+          Liquidity: bid–ask spread ≤ 4¢ and a resting ask shown. Wider or blank → that RH
+          contract is dead; DSB only.
+
+
+  4. Overtime
+          Kalshi's June 2026 rule amendments: a quarter or half does not include overtime
+          unless the contract says so. RH 2H (and 1H) contracts are regulation-only; full-game
+          contracts include OT.
+          So the DSB "OT rule unconfirmed" spread veto does NOT apply to RH 2H spreads. The
+          RH contract answers it. Grade RH 2H entries on the regulation 2H score.
+          RH 2H and DSB 2H lines are near-equivalent, not identical (OT). Never treat an RH 2H
+          price as a DSB consensus book, and vice versa.
+
+
+  5. Full-game contracts as half signals
+  Never. A full-game RH contract (spread, total or winner) is not a 1H or 2H signal, even
+  when the arithmetic lines up (9/26 MINN −3.5 full-game vs MINN +7.5 2H). RH now posts
+  direct 2H contracts; use those. This closes the 9/26 open item.
+
+
+  6. Venue choice, sizing, ledger
+          Both venues post: take the better effective price after the conversion in Section 2. Tie
+          → DSB.
+
+
+                                                                                                   Page 2 of 6
+Robinhood venue rules (all engines)
+
+
+
+
+          Size = the engine's fire size in dollars; contracts = size ÷ ask. Limit order at the ask,
+          never market. Unfilled at lock → void, logged "RH unfilled", not a fire.
+          Ledger: an RH fire counts in the same kill switch and ledger as a DSB fire for that
+          engine. Tag every entry with its venue; the n=10 review splits by venue.
+          Output: the Posted line shows RH [strike] @ [ask¢] (bid/ask, vol) ; a fire line
+          shows the contract ticker.
+
+
+  Open items
+          Kalshi tied-period mechanics on a PK/0.5 spread: not needed while every strike is a
+          half-point; recheck if RH ever posts a whole-number strike.
+          Resting size is not visible through the tool (spread and volume only). If RH fills lag, add
+          a minimum-volume gate at the n=10 review.
+
+
+  DSB 2H overtime rule — CONFIRMED 10/4/2026
+  Phong confirmed with DiamondSB: 2H spreads and totals include overtime scoring. The
+  "DSB OT-unknown" spread veto is retired in every engine (CFB 2H, CFB 1H n/a, NFL 2H) as
+  of this date; it killed 7 NFL and 6 CFB flags between 9/26 and 10/4. From now on a DSB 2H
+  spread that clears the gap fires like any other market.
+
+  Two consequences. (1) DSB 2H and the book consensus (DK, Bovada, FanDuel, MGM 2H
+  lines) all settle on 2H + OT, so the Consensus/Anchor fair applies to DSB without
+  adjustment. (2) Robinhood/Kalshi 2H contracts settle on regulation only, so a DSB fire and
+  an RH fire on the same number are not the same bet — in a game that reaches OT one can
+  win while the other loses. Grading: DSB tickets on 2H + OT, RH tickets on regulation 2H,
+  both logged in the ledger line. Shadow entries keep the regulation-2H grade unless the
+  entry names DSB as its venue.
+
+
+  Off-strike Robinhood fires (10/17/2026) — IN FORCE, all football
+  engines
+  Phong: "Engine fire ok." A Robinhood strike that no outside book posts may still be an
+  engine fire. Its fair is converted from the books, not guessed:
+
+          Strike between two book numbers → interpolate the de-vigged probabilities of the
+          two nearest numbers.
+
+
+
+
+                                                                                                  Page 3 of 6
+Robinhood venue rules (all engines)
+
+
+
+
+          Strike one half-point outside the books' range → shift by the push frequency on any
+          key number crossed (CFB/NFL 1H: 3 = 11.5%, 7 = 15.3%, tie 5.7%; 2H tables per engine),
+          otherwise 2.0 points of win probability per half-point on spreads and 1.5 per half-point
+          on totals.
+          More than one point outside the books' range → derived fair only: lean or shadow,
+          never a fire.
+
+  The fire test is unchanged: RH ask + 2¢/contract fee must beat the converted fair by the
+  engine's threshold. Every off-strike fire prints "OFF-STRIKE (converted)" with the books'
+  numbers it came from, and is tracked as its own class in the CLV log.
+
+
+  NFL reading, 11/11/2026 (NFL engines only; CFB wording
+  untouched)
+  From the 11/11 NFL protocol review. Nothing above was reworded or deleted. Flat rule list:
+  repo backtests/nfl_betting/RULES_CURRENT.md , rules R-01 to R-10. Readings are
+  Phong's to overrule.
+
+          Status. Robinhood is an execution venue for both NFL engines since 10/17
+          ("Robinhood is used to bet if the odds favor"). For NFL that supersedes this tab's intro
+          wording and the engine tabs' "reference-only" and "DSB-only" lines.
+          Price test. All-in price = ask + 2 cents per contract, compared with the consensus fair
+          at the same strike. An engine fire needs the fair to beat the all-in price by 3.0 points,
+          with ask at 60 cents or less and a spread of 4 cents or less. Section 3's "ask <= fair" is
+          the minimum for any Robinhood ticket, not the fire test.
+          Off-strike, NFL spreads. Convert the consensus fair to the strike with the one-sided
+          table B-NFL-3 (repo PUSH_TABLE_B-NFL-3.md ). Push probability of a line: 1H on 3 =
+          6.5%, on 7 = 7.4%; 2H regulation on 3 = 6.1%, on 7 = 7.5%; every other number is in the
+          repo CSV. For NFL this replaces "CFB/NFL 1H: 3 = 11.5%, 7 = 15.3%, tie 5.7%" (those are
+          CFB figures, and either-team counts), "2.5 cents per half-point (5 crossing 3 or 7)" and
+          the flat 2.0 points per half-point. Totals stay at 1.5 points per half-point, untested.
+          Key numbers for NFL. Full game 3 / 7 / 10. Halves 3 / 7.
+          Venue choice. Better-EV venue first. An exact tie goes to DSB.
+          Size. The unit is $300 to win, so contracts = 300 / (0.98 - ask) and risk = contracts x
+          (ask + 0.02). "Contracts = size / ask" gives that count only if size means dollars risked.
+
+
+
+
+                                                                                                    Page 4 of 6
+Robinhood venue rules (all engines)
+
+
+
+
+          Second half. Robinhood 2H contracts are regulation-only and the books' 2H lines
+          include overtime. The fair has to be restated on a regulation basis before the price
+          test. No method for that is written. Until one is, a Robinhood 2H price that overtime
+          could change is CONSENSUS PRICE UNRESOLVED, shadow.
+          Dead text for NFL. Section 4's DSB overtime veto (retired 10/4, as recorded lower in
+          this tab). Section 3's Anchor Mode at 0.25u (Anchor Mode is shadow-only since NFL
+          2H v0.5).
+          Open. Nothing in the text says a lean bet here with live money has to be at a fair price.
+          The 11/5 JAX -4.5 1H ticket was 54 cents all-in and closed at a 51.4% fair. Proposed: a
+          lean is bet live only when the all-in price is at or below the consensus fair at that
+          strike. Waiting on Phong.
+
+  11/12/2026, NFL 2H v0.6b. Phong: "Current but make this can fire by any books instead of
+  dsb only." A HOOK through divergence can now fire here as at DSB or Red105, when the
+  Robinhood strike is strictly better than the number at every book in the pull. The all-in
+  price (ask + 2 cents) must clear the 3.0 floor, with the ask at 60 cents or less and the
+  spread at 4 cents or less. The second-half limit above still applies: until a regulation
+  conversion is written, only where overtime cannot change the result. Full text: last section
+  of the NFL 2H tab.
+
+
+  v1.1, 11/12/2026, 3:36 AM: overtime correction (change P9)
+  Phong: "RH include over time. Fix it"
+
+          R-02 as corrected. Price = the ask on the side bought. A first-half contract settles on
+          the first half alone. Second-half and full-game contracts include overtime. The line
+          "Halves are regulation-only" was wrong for second halves and is dead text.
+          Evidence. Contract text "in the 2nd half (including overtime)" for the NFL second-half
+          spread, total and winner (10/18 and 11/16 contracts). The 10/15 SEA@DEN overtime
+          game settled with overtime counted. Phong confirmed the line in the app.
+          Effect. A Robinhood second-half price needs no settlement adjustment against DSB,
+          Red105 or the books. See the NFL 2H tab, v0.6c addendum.
+          College football. The CFB second-half spread and total contracts carry the same
+          words (read on a 11/14 contract). This shared rule now reads the same for both sports.
+          The CFB tabs' own text was corrected the same morning (CFB 2H v2.3a; Phong: "CFB
+          too").
+
+
+
+
+                                                                                                 Page 5 of 6
+Robinhood venue rules (all engines)
+
+
+
+
+  Note, 11/12/2026, about 4:15 AM: when the settlement wording
+  changed (no version change)
+          Through Sunday 9/13/2026 a second-half contract read "in the 2nd half (excluding
+          overtime)". From Monday 9/14/2026 it reads "(including overtime)".
+          Read off the contracts: New Orleans at Detroit, 9/13 (excluding; the game went to
+          overtime and the contracts settled on regulation). Denver at Kansas City 9/14, and
+          contracts of 9/17, 9/20, 10/4, 10/18 and 11/16 (including).
+          So the old regulation-only rule was right until 9/13 and wrong after. v1.1 is right for
+          today's contracts.
+          Audit: 4,127 of 4,129 second-half contracts of 2026 settled as nflverse second-half
+          points with overtime say. The two that did not are the week-1 game above.
+          Open, waiting for Phong's word: nothing in a run reads the wording. Proposed check:
+          each run prints the settlement words of one contract per series.
+          From the same test (all 136 games of 2026): at halftime Robinhood's price sits on the
+          books' fair and costs about 2.7 points to take (2-cent fee plus half the bid-ask spread).
+          At the same number the 3.0 floor showed in 3 of 125 games. No rule changed.
+
+
+  v1.2, 11/12/2026, 5:12 AM: totals at the same number only (NFL);
+  no settlement-wording check
+          Totals (change P12). A Robinhood total is priced only when its strike is the consensus
+          number. The flat 1.5 points per half-point is retired. Spreads keep the measured
+          conversion table. Phong, by voice: "Yes, I agree."
+          Settlement wording (change P13). The proposed run check is declined. The rule
+          stays: second-half contracts include overtime. Phong, by voice: "No, no need to do
+          that. But just keep the wording, including overtime"
+          Scope: NFL, and college from 5:16 AM the same morning for totals at the same number
+          (Phong: "CFB too").
+
+
+
+
+                                                                                                Page 6 of 6
+

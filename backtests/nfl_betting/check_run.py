@@ -12,7 +12,7 @@ VERSIONS = {"v05": {"1H": "NFL FG+1H v0.5", "2H": "NFL 2H v0.5"},
 PROFILE_IN_FORCE = "current"
 # The flat rule list each profile is run from. Its hash is printed so two runs can be shown to have used the same text.
 RULE_FILES = {"v05": "RULES_v05_baseline.md", "current": "RULES_CURRENT.md"}
-RULES_TEXT_DATE = {"v05": "frozen 2026-10-11", "current": "rules text 2026-11-12"}
+RULES_TEXT_DATE = {"v05": "frozen 2026-10-11", "current": "rules text 2026-11-12, 5:20 AM"}
 
 def main():
     if len(sys.argv) != 2:
@@ -51,6 +51,8 @@ def main():
     rules = os.path.join(HERE, RULE_FILES[prof])
     rh = hashlib.sha256(open(rules, "rb").read()).hexdigest()[:16]
     ver = "%s (%s)" % (VERSIONS[prof][eng], RULES_TEXT_DATE[prof])
+    if prof == "current" and eng == "2H":
+        ver += " + " + VERSIONS[prof]["TOTALS"]
     bar = "=" * 100
     print(bar)
     if bad:

@@ -1,0 +1,280 @@
+{
+ "protocol": "CFB betting",
+ "engine": "2H",
+ "date": "YYYY-MM-DD",
+ "games": [],
+ "run_time_pt": "",
+ "how_to_fill": "status = done, na (with a reason in note) or skipped. A rule you did not apply is skipped, not done.",
+ "items": [
+  {
+   "id": "K01",
+   "check": "Rules read in this chat from RULES_CFB_2H_CURRENT.md and the tab text (CFB_2H_tab.txt or the doc tab), not from memory notes",
+   "rules": "README",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K02",
+   "check": "Canary line printed first, once per time window",
+   "rules": "X-01",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K03",
+   "check": "Halftime confirmed on the scoreboard and FLOW pulled with get_football_drives for every game; FLOW table printed; clean margin or FLOW DATA GAP",
+   "rules": "X-02",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K04",
+   "check": "Per-game run order followed; time left to the 3Q kickoff stated; nothing recommended after the kickoff",
+   "rules": "X-03",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K05",
+   "check": "First-half handoff ingested when one exists; 2H-KICK named or UNKNOWN",
+   "rules": "X-04",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K06",
+   "check": "Outside books pulled and listed (two or more, same number, de-vigged); DSB, Red105 and Robinhood kept out of the consensus",
+   "rules": "X-05",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K07",
+   "check": "Price test run at every venue with a 2H market: DSB, Red105 and the Robinhood ladders (ask + 2 cents); 3.0-point floor applied",
+   "rules": "X-05 X-07",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K08",
+   "check": "Executability stated: quote ages, fillable size, Robinhood bid-ask; otherwise SHADOW with EXEC UNVERIFIED",
+   "rules": "X-06",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K09",
+   "check": "Robinhood: settlement, strike convention and tie handling stated; ask cap 60 cents; converted spread strikes tagged OFF-STRIKE",
+   "rules": "X-07",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K10",
+   "check": "No total priced or fired at a number other than the consensus number",
+   "rules": "X-08",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K11",
+   "check": "Size and caps applied; window exposure printed; one wager per game",
+   "rules": "X-09",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K12",
+   "check": "Pre-ticket re-pull and news check done for every fire",
+   "rules": "X-10",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K13",
+   "check": "Anchor printed as reference only; it triggered nothing",
+   "rules": "X-11",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K14",
+   "check": "Blowout rule applied to every game (28+ / 21 to 27)",
+   "rules": "X-12",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K15",
+   "check": "QB status printed with source and time for both teams",
+   "rules": "X-13",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K16",
+   "check": "Weather pulled for the 2H start hour; wind gate applied to totals",
+   "rules": "X-14",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K17",
+   "check": "Market status and stale-line checks made",
+   "rules": "X-15",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K18",
+   "check": "Opener gates printed as PASS, FAIL or UNVERIFIED",
+   "rules": "X-16",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K19",
+   "check": "Ledger line printed: live record, ROI, shadow n, mode",
+   "rules": "X-17",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K20",
+   "check": "Tier recorded for every game",
+   "rules": "X-18",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K21",
+   "check": "CLEAR LEAN test printed for every game: three inputs, split, hard counters",
+   "rules": "X-19 X-20",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K22",
+   "check": "Every printed lean carries venue price, fair and the tag BETTABLE or PRICE WORSE THAN FAIR - pass",
+   "rules": "X-21",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K23",
+   "check": "Shadow columns printed",
+   "rules": "X-22",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K24",
+   "check": "First-observed, decision and executed quotes logged with times; the 3Q-kickoff line owed or pulled",
+   "rules": "X-23",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K25",
+   "check": "Section 6 output format used; RECOMMENDED printed with ENGINE then MATCHUP LEAN; shadow log printed",
+   "rules": "X-24",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K26",
+   "check": "Grades and closing lines owed from the previous board pulled, or listed as owed",
+   "rules": "X-23 X-25",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "K27",
+   "check": "Every fire, lean, shadow and conditional written to the log with number, price, venue and time",
+   "rules": "X-23",
+   "engine": [
+    "2H"
+   ],
+   "status": "",
+   "note": ""
+  }
+ ]
+}

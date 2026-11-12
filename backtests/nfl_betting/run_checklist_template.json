@@ -290,8 +290,7 @@
     "2H"
    ],
    "profiles": [
-    "v05",
-    "current"
+    "v05"
    ],
    "status": "",
    "note": ""
@@ -388,8 +387,7 @@
     "2H"
    ],
    "profiles": [
-    "v05",
-    "current"
+    "v05"
    ],
    "status": "",
    "note": ""
@@ -547,6 +545,100 @@
    ],
    "profiles": [
     "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C39",
+   "check": "Every printed lean carries its best venue price, the fair at that number and the tag BETTABLE or PRICE WORSE THAN FAIR - pass; no lean is recommended as a bet unless BETTABLE",
+   "rules": "G-13 P11",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C40",
+   "check": "No total priced or fired at a venue whose number is not the consensus number; no totals conversion used (spreads may use B-NFL-3)",
+   "rules": "R-07a P12",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C41",
+   "check": "No engine fire on a total rests on FLOW; a totals bet comes only from Totals v0.3",
+   "rules": "G-03 TT-11",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C42",
+   "check": "Totals v0.3: combined first-half yards per play and both teams' first-half completion rates printed for every game run",
+   "rules": "TT-02 TT-04",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C43",
+   "check": "Totals v0.3: one totals line per game (OVER / UNDER / no view / trigger met, no price), with the receiver or tight-end tag when it applies",
+   "rules": "TT-01 TT-03 TT-04 TT-05 TT-09",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C44",
+   "check": "Totals v0.3: price gate applied at the same number (fair or better; Robinhood ask + 2 cents and R-03); size Over $150 to win, Under $75 to win",
+   "rules": "TT-06 TT-07",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C45",
+   "check": "Totals v0.3: ledger row written for every game run, with the silent price-only line; 20-bet stop count stated for each rule",
+   "rules": "TT-08 TT-10",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
     "current"
    ],
    "status": "",

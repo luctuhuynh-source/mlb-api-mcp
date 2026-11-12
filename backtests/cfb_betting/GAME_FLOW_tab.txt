@@ -1,0 +1,578 @@
+Game-flow read (all engines)
+
+
+
+
+  Game-flow read v1.1 (all football engines) —
+  v1.0 base text; the v1.1 amendments at the
+  bottom control wherever they differ
+    Oct 4, 2026        ·   ​@Phong
+
+  Every CFB and NFL run — 2H, 1H and full-game — now opens with a game-flow read that
+  Claude pulls itself from the ESPN tools on the Railway MCP ( get_football_scoreboard ,
+  get_football_drives , verified live 10/4 on NE@BUF, commits 36da5df + 1bf1a87). It
+  replaces play/stats screenshots as the structural input and feeds three places only: the
+  Anchor-Mode YPP adjustment, the vetoes, and MATCHUP LEAN. It never creates a fire on
+  its own and never moves a Consensus-Mode fair.
+
+
+  1. Pulls per run type
+  All pulls are free (ESPN public JSON) and run before any odds pull. One
+  get_football_drives call per game examined; league = nfl or cfb .
+
+
+     Run                   Call 1                                    Call 2                            Then
+
+     2H                    get_football_scoreboard(league)           get_football_drives(event_id,     FLOW table
+     (halftime)            → confirm halftime: true and read         half=1, include_plays=true) for   → odds pulls
+                           the linescore; if halftime is false and   every game Phong named            → engine as
+                           the clock shows Q3, run SHADOW-                                             the tab
+                           ONLY (the <3-min rule)                                                      prescribes
+
+     1H                    get_football_scoreboard(league,           get_football_drives(event_id,     Tendency
+     (pregame)             date=<last Sat/Sun YYYYMMDD>) →           half=0, include_plays=false)      read only
+                           each team's previous game event_id        for both teams' previous games    (section 3c);
+                                                                                                       nothing in it
+                                                                                                       moves the 1H
+                                                                                                       anchor
+
+     Full-game             same as 1H                                same as 1H                        same as 1H
+     (pregame)
+
+
+
+
+                                                                                                               Page 1 of 12
+Game-flow read (all engines)
+
+
+
+
+     Run                  Call 1                                Call 2                               Then
+
+     Grading               get_football_scoreboard(league,      get_football_drives(event_id,        Regulation
+     next day             date=<game date>) → final linescore   half=2, include_plays=false)         2H score =
+                                                                when a fire or shadow rested on a    Q3 + Q4
+                                                                flow claim                           linescore
+                                                                                                     cells; log
+                                                                                                     whether the
+                                                                                                     flow claim
+                                                                                                     held
+
+
+  Phong's inputs shrink to: the DSB screen(s), "run [2H / 1H / FG] on [games]", and any
+  injury/QB/weather note he has. Play and stats screenshots are a fallback only (section 5).
+
+
+  2. Flow metrics (computed from the drive chart, per team)
+  All eight come straight off get_football_drives ' summary and drives arrays; kneel-
+  outs ( END OF HALF / END OF GAME ) are already excluded from the counters server-side.
+  Thresholds marked                ⚠️ are provisional until the n=10 review.
+     #           Metric                Source                                    Reads as
+
+     1           YPP edge               summary.ypp A − B                        The existing Anchor-Mode
+                                                                                 input; ≥ 1.5 = real, < 1.0 = noise
+
+     2           Clean margin          SUPERSEDED in v1.1 — use the              Margin the offenses earned
+                                       canonical definition in section 6         on long fields; compare its
+                                       below. (v1.0 formula: score margin        sign to the scoreboard
+                                       − points from drives with
+                                       start_dist_to_goal ≤ 40 −
+                                       points on the drive after an
+                                       opponent turnover)
+
+     3           Short-field            short_field_drives ÷ drives              ≥ 50%   ⚠️= margin is field-
+                 share                                                           position-driven, expect
+                                                                                 regression
+
+     4           Sustain rate          drives with plays ≥ 6 ÷ drives            ≥ 60% = moving the ball; ≤
+                                                                                 30% = stalled
+
+     5           3-and-out rate         three_and_outs ÷ drives                  ≥ 40%   ⚠️ = offense dead,
+                                                                                 totals lean Under
+
+
+
+
+                                                                                                              Page 2 of 12
+Game-flow read (all engines)
+
+
+
+
+     #           Metric             Source                               Reads as
+
+     6           RZ conversion      scoring_drives ÷ rz_trips            < 50% with ≥ 3 trips = points
+                                                                         left on the field (Over /
+                                                                         favorite lean); 100% = ran hot
+
+     7           Tempo              plays A + B for the half             1H ≥ 70 plays (NFL) / ≥ 80
+                                                                         (CFB)  ⚠️ = fast; ≤ 50 / ≤ 60 =
+                                                                         slow
+
+     8           Last-3             results of each team's final three   Two scoring drives or two
+                 momentum           1H drives                            turnovers in the last three =
+                                                                         carry-in flag
+
+
+  Two text reads from pbp when include_plays=true : QB continuity (passer surname in
+  the play text changes mid-half = rotation flag; this is the Rutgers/Cal/USU veto, now read
+  off the data) and injury lines (ESPN prints "injured on the play" in text ). Both are gates,
+  not numbers.
+
+
+  3. How the read enters the engine
+  The read touches four things. Everything else — fair, gap thresholds, sizing, kill switches,
+  venue rules — is unchanged.
+
+  3a. Anchor-Mode YPP adjustment (2H only). The ±1.5 adjustment now needs two
+  confirmations instead of one: YPP edge ≥ 1.5 and clean margin with the same sign. YPP
+  edge with clean margin pointing the other way (the team is out-gaining but losing on long
+  fields) = no adjustment, logged as FLOW CONFLICT . This is the fix for the anchor-vs-game-
+  state conflict flagged on 9/26, 10/2 and 10/3 (ORST@UTEP, PSU@NW, WVU@ISU and the
+  blowout Unders): the market already prices the game state, so an adjustment that ignores
+  it was adding noise.         ⚠️
+                          Confirm at the n=10 review.
+
+  3b. Vetoes read off the data. QB rotation (passer change mid-half) and the injury line are
+  now hard vetoes exactly as before — the data just finds them. Two new note-only flags
+  (never vetoes until reviewed): short-field share ≥ 50% on the leading team ( REGRESSION ),
+  and RZ conversion 100% on ≥ 3 trips ( RAN HOT ).
+
+  3c. Totals. Tempo and sustain rate are the structural read behind every 2H total: fast +
+  sustained → Over lean, 3-and-out rate ≥ 40% on both sides → Under lean. In Anchor Mode
+  they decide which side of the anchor the MATCHUP LEAN takes; they never move the
+
+
+
+
+                                                                                                     Page 3 of 12
+Game-flow read (all engines)
+
+
+
+
+  anchor total itself. Pregame (1H / FG) the same two metrics from both teams' previous
+  game are the tendency read and stay note-only.
+
+  3d. MATCHUP LEAN must cite the FLOW table. Every lean names the metric(s) it rests on
+  ("NE +3.5: clean margin +4 NE, BUF short-field share 1/6, NE sustain 60%"). A lean that
+  cannot cite a metric is not logged. The lean is still $0 paper, graded hit + beat-market as
+  before.
+
+  What the read may not do: fire a bet by itself, override a gap threshold, change sizing,
+  override the blowout / tier / <3-min / DSB-OT vetoes, or move a Consensus-Mode fair.
+  Consensus Mode uses the read for 3b and 3d only.
+
+
+  4. Output block (printed per game, before the board)
+  One fixed table per game, both teams side by side, then one line of flags. Worked on the
+  10/4 NE@BUF 1H pull (NE 14–17 at half):
+
+
+     Metric                    NE (away)                                       BUF (home)
+
+     Drives / plays / yards    5 / 30 / 190                                    6 / 31 / 171
+
+     YPP                       6.33                                            5.52
+
+     Points (scoring           14 (2)                                          17 (3)
+     drives)
+
+     Clean margin              0 (corrected v1.1 — v1.0 printed +4 NE; 14–17   −4
+                               minus BUF's short-field FG is 14–14)
+
+     Short-field drives        0                                               1 (FG off the INT, NE
+                                                                               9)
+
+     Sustain ≥6 plays          60%                                             50%
+
+     3-and-outs                1 (20%)                                         2 (33%)
+
+     RZ trips →                3 → 67%                                         3 → 100%
+     conversion
+
+     Last-3                    TD, PUNT, INT                                   TD, FUMBLE, FG
+
+
+  Tempo 61 plays (normal). Flags: BUF RAN HOT (3/3 RZ, 3 pts came off a short field); no QB
+  rotation; no injury line. YPP edge +0.8 NE → below 1.5, no Anchor adjustment; clean margin
+  0 → FLOW NEUTRAL, no adjustment either way (corrected v1.1; v1.0 printed "+4 NE agrees
+
+
+                                                                                                Page 4 of 12
+Game-flow read (all engines)
+
+
+
+
+  in sign", which the documented exclusions do not produce).
+
+  The board run then continues exactly as the engine tab prescribes, with MATCHUP LEAN
+  citing rows from this table.
+
+
+  5. Fallbacks, quirks, audit
+  Fallbacks. Tool error, pbp_available: false , or a drive count that looks short for the
+  clock (NFL 1H < 8 drives, CFB 1H < 10) → flag it at the top of the reply per the urgent-alert
+  rule, then ask for the Yahoo/ESPN plays + stats screenshots and run the old way. Never
+  run the engine on a half-empty drive chart.
+
+  Tool quirks (verified 10/4).
+
+         ESPN start.yardLine is measured from the home goal line; the server converts it
+         (home → 100−yl, away → yl) as of commit 36da5df. If start_dist_to_goal ever
+         disagrees with the start text (e.g. "NE 3" showing 3, not 97), the orientation
+         regressed — send the raw output.
+         Points are the offense's score delta per drive, so a defensive TD lands on the drive it
+         happened on with 0 offensive points; check scoring_plays when points and the
+         linescore disagree.
+         The current drive is appended to previous , so the last 1H drive is never dropped.
+          rz_trips counts any play ending inside the 20, so a long TD that enters the red zone
+         on its scoring play counts as a trip.
+
+  Audit (feeds the n=10 reviews). Every logged fire, shadow and lean carries its FLOW rows
+  in the ledger line. At each review, split outcomes by: FLOW CONFLICT present vs absent,
+   REGRESSION flag on the backed side vs faded side, and Anchor adjustments made under
+  the two-confirmation rule vs the old one-confirmation rule. That split decides whether 3a
+  stays, the         ⚠️ thresholds move, and whether   REGRESSION graduates from note to veto.
+
+
+
+  6. v1.1 — review accepts (10/11/2026)
+  Source: two-round hand relay (ChatGPT top model at High + Gemini 3.1 Pro at High),
+  Claude as manager, graded against the CFB 2H and NFL 2H ledgers. Ten consolidated
+  findings; Gemini's final conceded its zero-margin exception, 5-minute play-text skip and
+  10-second parse budget; one live disagreement (3-and-out vs sustain rate as the CFB
+  Under trigger) ruled below. Engine thresholds, anchor multipliers, sizing, venues, kill
+
+
+
+
+                                                                                             Page 5 of 12
+Game-flow read (all engines)
+
+
+
+
+  switches and review sample sizes untouched. The eight-metric FLOW table, MATCHUP
+  LEAN and the two-part RECOMMENDED block survive every rule here. Effective the next
+  CFB or NFL board.
+
+  6.1 Clean margin — canonical definition (supersedes section 2 metric 2 and every
+  engine-tab restatement). For each team: start from its actual halftime points, crediting
+  every score to the team that scored it (defensive and special-teams scores included, even
+  where the drives tool shows 0 offensive points on that drive). Exclude (a) all return
+  touchdowns — interception, fumble, kickoff, punt, blocked kick; (b) points from scoring
+  drives starting strictly inside the opponent's 40 ( start_dist_to_goal under 40; a start
+  at exactly 40 is a long field and is logged for boundary audit); (c) points from scoring
+  drives gaining under 30 net yards from drive start. Each scoring event is excluded once
+  even if it meets more than one condition. A possession following an opponent turnover is
+  not excluded automatically — only if it meets (a), (b) or (c). Clean margin = Team A clean
+  points − Team B clean points. Reconcile the scoring events against the official linescore; a
+  mismatch is FLOW DATA CONFLICT . Missing start position, net yardage or attribution →
+   CLEAN MARGIN N/A + FLOW DATA GAP , FLOW adjustment disabled. NFL 2H v0.5's "points,
+  not drives" and CFB 2H v1.4 are consistent with this and now point here.
+
+  6.2 Anchor adjustment inputs (replaces 3a). The read supplies signed YPP edge, signed
+  clean margin, 1H net-turnover differential and data status; each engine applies its own
+  ratified conditions (CFB 2H v1.4: |YPP edge| ≥ 1.5, clean margin nonzero and favoring the
+  YPP leader, |net TO differential| under 2, inputs present; NFL 2H: its own conditions, no
+  CFB turnover rule imported without an NFL amendment). Clean margin zero → FLOW
+  NEUTRAL ; opposite sign → FLOW CONFLICT ; missing → FLOW DATA GAP — all three mean no
+  adjustment. Print magnitudes, not PASS/FAIL. "≥ 1.5 = real" is retired: the label is
+  THRESHOLD MET. YPP and clean margin are directional-consistency checks, not
+  independent evidence.
+
+  6.3 Red-zone efficiency (replaces metric 6). RZ trips = distinct offensive possessions
+  meeting the tool's red-zone entry definition. RZ scoring rate = RZ possessions ending in
+  an offensive TD or FG ÷ RZ possessions; RZ TD rate = RZ possessions ending in a TD ÷ RZ
+  possessions. Scoring drives that never entered the red zone are out of both numerators.
+  Zero trips → N/A; any rate over 100% → DATA CONFLICT . The under-50%-on-3+-trips and
+  100% RAN HOT readings stay provisional, note-only.
+
+  6.4 QB and injury text reads (replaces the "gates, not numbers" sentence). A passer
+  change in the play text → QB ROTATION SUSPECTED . CONFIRMED when the new passer
+  takes two or more consecutive drives in the play text [PROV], or a team/broadcast report
+  or operator note confirms it; a single play (trick play, shared surname) stays SUSPECTED
+
+
+
+                                                                                         Page 6 of 12
+Game-flow read (all engines)
+
+
+
+
+  and needs an outside source. CONFIRMED invokes the engine's QB veto, unchanged.
+  SUSPECTED and unresolved at the deadline → shadow-only, no live fire, QB UNVERIFIED .
+  An injury line → INJURY REPORTED : identify player, position, team, status; verified → the
+  engine's injury veto; unresolved and material → shadow the affected candidate. No text
+  match is not evidence that nothing happened; missing verification never becomes PASS.
+
+  6.5 Totals (replaces 3c). FLOW metrics are computed for every engine; directional
+  authority is per engine. NFL 2H: FLOW totals descriptive/shadow-only during the 20-
+  board test; print MATCHUP LEAN: none — FLOW DIRECTION RESTRICTED where a lean
+  would otherwise rest on them. CFB 2H: Anchor-Mode read unchanged — fast + sustained
+  → Over lean; 3-and-out rate ≥ 40% on both sides stays the Under condition; alongside it,
+  print a shadow Under column keyed on sustain rate ≤ 30% on both sides, for 20 boards;
+  the section-5 audit split decides whether either trigger survives. Pregame 1H: previous-
+  game read note-only. Consensus Mode: FLOW never moves fair. Every lean cites its metric
+  rows; FLOW never authorizes a wager by itself.
+
+  6.6 Metric table. The eight metrics and their provisional thresholds are unchanged. Added
+  as supporting derived fields (not new metrics): first downs and 20+-yard gains parsed
+  from include_plays text, and net turnovers from drive results — for the CFB 2H v1.4
+  explosive-play shadow column and turnover condition. Unparseable first downs /
+  explosives → SHADOW INPUT UNAVAILABLE (shadow column skipped); unverified net-TO
+  differential disables the CFB numerical adjustment. Rates print numerator and
+  denominator. Tempo is labelled FIRST-HALF PLAY VOLUME. Last-3 splits scoring streaks
+  from turnover streaks; administrative END OF HALF drives are skipped when picking the
+  final three, a competitive possession whose last play is a kneel is kept, uncertain → LAST-
+  3 UNVERIFIED . Correlated metrics (YPP, sustain, 3-and-out; short-field share and clean
+  margin) never count as independent confirmation.
+
+  6.7 Pregame previous-game selection (replaces the 1H row's "last Sat/Sun"). Identify
+  each team's most recent completed game from the schedule or dated scoreboard records
+  — weekday games and byes break the Sat/Sun assumption; confirm opponent, date,
+  completion and event ID before the drives pull; label every tendency row with its source
+  game. Near the CFB 1H lock, market and starter checks come first; if the read cannot
+  finish, print FLOW SKIPPED — TIME PRIORITY . The full-game row is dormant (Phong does
+  not run that engine).
+
+  6.8 Halftime sequencing (replaces "FLOW table → odds pulls → engine"). Per-game
+  halftime clock. Order: confirm status → DSB 2H market present → obvious hard vetoes
+  (blowout, tier, Q3 started) → compact FLOW table → fair value, gates, candidate class →
+  rank executable candidates → ticket. Mandatory regardless of time: status, market, hard
+
+
+
+                                                                                        Page 7 of 12
+Game-flow read (all engines)
+
+
+
+
+  gates, QB/injury verification, and the inputs behind any numerical adjustment. Deferrable:
+  commentary, momentum interpretation, shadow-only columns. A candidate whose
+  mandatory read did not run → SHADOW — UNVERIFIED , never a fire. Past the deadline →
+   SHADOW — TIME ; once Q3 starts → GAME LIVE — NO 2H EXECUTION . No fixed minute mark
+  for skipping play text (the proposed 5 minutes was a guess and would drop veto inputs).
+
+  6.9 Data integrity (replaces the drive-count fallback). Drive counts under 8 (NFL) / 10
+  (CFB) are warnings, not proof of a bad feed. Verify event ID, teams, period, drive
+  chronology, scoring reconciliation against the linescore (defensive TDs included), field-
+  position orientation and play-text presence. Discrepancy → FLOW DATA CONFLICT ; no play
+  text → TEXT VETO INPUT UNAVAILABLE ; affected calculations disabled or the candidate
+  shadowed; screenshots requested when feasible.
+
+  6.10 Audit (extends section 5). Every logged fire, shadow and lean records league, engine,
+  event ID, source timestamps, FLOW completeness, metric values, FLOW CONFLICT /
+   REGRESSION / RAN HOT , QB/injury verification status, whether the adjustment was
+  applied / disabled / shadow-tested, and whether the consuming engine permitted
+  directional FLOW use; class = live, shadow, gate failure or timeout; directional accuracy
+  graded separately from beat-market; BEAT-MARKET UNAVAILABLE when no close exists;
+  NFL and CFB reviewed separately on their unchanged schedules. The 3-and-out vs
+  sustain shadow comparison (6.5) joins the split.
+
+  REJECTED: zero clean margin as a pass (withdrawn); 5-minute include_plays skip
+  (withdrawn); 10-second parse budget (withdrawn); sustain rate ≤ 30% as a live
+  replacement Under trigger (shadow instead); categorical exclusion of any drive containing
+  a kneel.
+
+
+  CLEAR LEAN rule v1.0 — ratified 10/15/2026 (all football engines:
+  NFL FG+1H, NFL 2H, CFB FG, CFB 1H, CFB 2H)
+  Origin: SEA@DEN TNF 1H board 10/15 — personnel pointed SEA, FLOW and price pointed
+  DEN, a 51–49 lean was printed. Phong: display a lean only when it is clear; otherwise print
+  the line NO CLEAR LEAN.
+
+  Three inputs per game, read before any lean is written:
+
+     1. PERSONNEL — monitored starters (QB1, OTs, C, CB1, S1, WR1) out or credibly limited;
+        which side gains.
+     2. FLOW — the per-team FLOW rows (YPP, giveaways, clean margin, sustain rate); which
+         side the rows favour. For 1H runs use the 1H split; for 2H runs the 1H just played.
+
+
+
+                                                                                               Page 8 of 12
+Game-flow read (all engines)
+
+
+
+
+     3. PRICE — which side DSB prices at or above the leave-out fair (the side with the
+        smaller negative edge, or a positive one).
+
+  Lean printed only when at least 2 of the 3 point the same way AND no hard counter from
+  the third. Hard counter = a QB1 scratch or unannounced backup, a FLOW gap of 1.5 YPP or
+  more against the side, or two or more monitored starters out on the side being leaned. A
+  hard counter kills the lean even at 2-of-3.
+
+  Otherwise the MATCHUP LEAN line reads exactly: NO CLEAR LEAN — pass followed by
+  one line naming the split, e.g. personnel SEA · FLOW DEN · price DEN . The
+  RECOMMENDED section is still printed every run (standing rule); it is the lean line that
+  changes, never the section.
+
+  Unchanged: FLOW stays barred from total leans for the 20-board test; engine triggers,
+  gates, fairs, sizing and conditionals are untouched; a NO CLEAR LEAN game still gets its
+  STATIC/deep-review block and its 2H handoff. DISC tickets (Phong's agree/my-own) are
+  only taken on printed leans and engine fires per the 10/11 policy; a NO CLEAR LEAN game
+  is a pass for DISC too.
+
+  Ledger: every NO CLEAR LEAN is logged with its split and graded as a paper no-bet on
+  the same close so the filter can be audited (did the filtered coin-flips beat close less than
+  the printed leans?) at 30 filtered games.
+
+
+  ALWAYS PULL FLOW — ratified 11/9/2026 (all football engines)
+  Phong: "Always pull flow." The FLOW read is pulled for every game on every run, sweeps
+  and STATIC games included, and is never skipped for time. Inside about T-10 use summary-
+  only pulls and run the full protocol anyway. FLOW SKIPPED — TIME PRIORITY (section 6.7)
+  is retired. The only fallback is a tool error, flagged at the top of the reply. FLOW's authority
+  is unchanged: it never fires a bet, moves a fair or a size, and stays barred from total leans.
+
+
+  NFL reading, 11/11/2026 (NFL engines only; CFB wording
+  untouched)
+  From the 11/11 NFL protocol review. Nothing above was reworded or deleted. Flat rule list:
+  repo backtests/nfl_betting/RULES_CURRENT.md , rules G-01 to G-12.
+
+         Label. For NFL this tab is "v1.1 with CLEAR LEAN v1.0 (10/15) and ALWAYS PULL FLOW
+         (11/9)".
+
+
+
+
+                                                                                             Page 9 of 12
+Game-flow read (all engines)
+
+
+
+
+         Dead text for NFL. Sections 1 and 3 still cite "the <3-min rule" (retired 10/17) and the
+         "DSB-OT veto" (retired 10/4). Section 6.7's FLOW SKIPPED - TIME PRIORITY is retired
+         (11/9).
+         CLEAR LEAN, reading. Two aligned inputs with no hard counter print the lean. "Soft"
+         is not a term in the rule. The 11/8 ruling that two soft inputs are not clear was stricter
+         than the text.
+         CLEAR LEAN, open. The rule says every NO CLEAR LEAN is graded as a paper no-bet
+         for an audit at 30 games. It never says which side the paper no-bet is on. Proposed:
+         the side with more of the three inputs; if level, the PRICE side. Waiting on Phong.
+         Monitored starters for NFL: QB1, OT1, OT2, C, CB1, S1, WR1.
+         Unchanged: the read never fires a bet, never moves a fair, a gap, a size or a veto, and
+         stays barred from total leans.
+
+  Audit B-NFL-4, 11/11 (3,164 NFL games, 2015 to 2026). Does FLOW predict the next half
+  beyond the closing spread and the score? Graded against the margin the closing full-
+  game spread implies, because no historical 1H or 2H lines are in the data. FLOW here is
+  yards per play, score and giveaways only.
+
+         1H runs. The side with the better previous-game 1H YPP profile by 1.5 or more, margin
+         the same way: 732-782-26, 48.3% (1,540 games). Gap of 3.0 or more: 48.6%. Each 1.0 of
+         YPP gap is worth -0.08 points of first-half margin (t = -1.3).
+         2H runs. The team that out-gained the other by 1.5 YPP in the first half and leads: 666-
+         651-34, 50.6% (1,351 games). With the lead under 17: 48.7%. Each 1.0 of first-half YPP
+         edge is worth +0.16 points of second-half margin (t = 1.7). First-half giveaways predict
+         nothing.
+         Leaders ease off. At the same pregame spread, a team's second-half margin falls 0.14
+         points for every point it leads by at halftime. Every halftime leader against half the
+         pregame spread: 42.9% (2,932 games).
+         What it means. FLOW by itself is not an edge in either half. The NFL 2H lean has been
+         a bet on the halftime leader: 18 of the 21 in the archives (8-10), 3 in tied games (0-2-1),
+         none on a trailing team.
+         Scripts and data: repo backtests/nfl_betting/review_2026-11-11/ .
+
+
+
+
+                                                                                               Page 10 of 12
+Game-flow read (all engines)
+
+
+
+
+  NFL Totals track v0.1 (paper only) — ratified 11/12/2026
+  ON HOLD since 11/12/2026, about 1:15 AM. Not run on any board. Phong: "Lets rewrite the
+  track before you start the pull." and "dig up earlier version of the under and over... I also
+  want Chatgpt and Gemini inputs on this revised protocol of the totals." The rewrite is a
+  draft in the repo ( backtests/nfl_betting/TOTALS_PROTOCOL_v0.2_DRAFT.md ) and is with
+  the review panel: Gemini as scout, ChatGPT as doubter, Claude as manager. Until Phong
+  ratifies a version, NFL boards print ENGINE and MATCHUP LEAN only, and the v0.1 text
+  below is not in force.
+
+  Phong, 11/12/2026: "Lets do all 3" (the third item offered was a separate totals track, paper
+  only). NFL only. It changes no engine rule: engine fires on totals, the Over vetoes, the one-
+  selection-per-game ticket rules and the engine's 1.5-per-half-point totals conversion all
+  stand as written. Flat copy with the number table:
+   backtests/nfl_betting/TOTALS_TRACK_v0.1.md in the repo. Evidence: BACKTEST_2026-
+  11-12.md .
+
+         T-01 Scope. First-half and full-game totals before kickoff; second-half totals at
+         halftime. Same hard stops as the engine it runs beside.
+         T-02 Paper only. Every line is $0 with venue, number and price logged. No size is
+         printed. Review at 30 graded lines; nothing goes to micro-live before 60 lines with a
+         closing price, and only on Phong's word (Liem L5.7, L3.2).
+         T-03 Under only. This track never prints an Over.
+         T-04 Inputs. WIND: outdoor game or confirmed open roof, sustained wind 10 mph or
+         more at kickoff. SCORE (second half only): first-half points 28 or more. PRICE: the
+         Under at DSB, Red105 and Robinhood (ask + 2 cents) against the consensus fair at the
+         same number; other numbers converted with table B-NFL-5 (repo file). Robinhood
+         half totals are regulation-only: compare at a sportsbook number only.
+         T-05 The line. When WIND or SCORE is on, the Under is logged at the best venue price
+         every time. It is printed only when that price is at the consensus fair or better.
+         Otherwise the line reads TOTALS: none and the entry stays in the ledger.
+         T-06 No line when the consensus total cannot be priced, fewer than 3 books post it, a
+         quarterback change at the half is unresolved, or the weather pull failed (then only
+         SCORE can turn a line on, and the failure is flagged at the top).
+         T-07 Output. RECOMMENDED gets a third line after ENGINE and MATCHUP LEAN:
+          TOTALS (paper, $0): Under <number> <half> @ <venue> <price>, <inputs>,
+         price <edge> vs fair , or TOTALS: none . No shadows and no near-misses are
+         shown.
+
+
+
+                                                                                              Page 11 of 12
+Game-flow read (all engines)
+
+
+
+
+         T-08 Ledger. Own IDs (T-001 up) and own record: inputs on, edge at the time, result on
+         the venue's settlement, closing fair and CLV. Printed and logged-only entries are
+         graded alike and reported apart.
+         T-09 Tickets. A printed totals line that Phong bets is a DISC ticket (Liem L5.6: leader
+         side plus Under in the same half is one thesis, 2u cap on the pair). The track never tells
+         him to bet.
+         T-10 Review at 30 graded entries, by input and by printed vs logged-only.
+
+  Why these inputs (real second-half lines 2011-2021, graded at -110, break-even 52.4%):
+  second-half Unders after a first half of 28+ points went 428-361-17 (54.2%); second-half
+  Unders in wind of 15+ went 143-107-7 (57.2%); full-game Unders in wind of 10+ went 539-
+  416-10 (56.4%) from 2011 to 11/9/2026. Overs lost in every group tested. A side and a total
+  in the same half are close to independent (correlation about 0.09). Modest and unproven
+  at Phong's venues, which is why the track is paper.
+
+
+  v1.2 addendum, 11/12/2026, 5:12 AM: LEAN PRICE GATE (CLEAR
+  LEAN v1.1), NFL
+  Phong, by voice: "Fair or better."
+
+         A clear lean still prints under the 2-of-3 rule. Nothing about what makes a lean clear
+         has changed.
+         Each printed lean now carries the best venue price for its side (DSB, Red105 or
+         Robinhood; Robinhood = ask + 2 cents), the consensus fair at that number, and one
+         tag: BETTABLE when the price is at the fair or better, or PRICE WORSE THAN FAIR -
+         pass.
+         A lean is bet only when it is BETTABLE.
+         Basis: Phong's 46 half bets this season went 12-5 at the fair or better and 12-15-2
+         worse. A pattern on few bets, not proof.
+         Scope: NFL boards, and college boards from 5:16 AM the same morning (Phong: "CFB
+         too").
+
+
+
+
+                                                                                               Page 12 of 12
+
