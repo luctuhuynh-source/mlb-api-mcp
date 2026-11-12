@@ -1,0 +1,5 @@
+games in archive file: 2946 | matched to nflverse: 2879 | usable 2H total: 2931 | usable 2H side: 2902
+closing favourite agrees with nflverse: 98.7% | closing spread within 1 pt of nflverse: 97.3% | closing total within 1 pt: 98.7%
+home 2H margin (incl. OT) = 0.91 x (points the home team lays in the 2H) -0.19   [a correct decode gives a slope near 1]
+2H favourite: mean 2H margin +3.14 vs mean spread 3.34 | wins the half outright 64.0% of non-tied halves
+2H total line mean 22.49 | actual 2H points incl. OT mean 22.95

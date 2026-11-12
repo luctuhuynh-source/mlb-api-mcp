@@ -1,0 +1,9 @@
+half bets with a closing price: 46, overall 24-20-2
+  3.0 or more better than fair   n  1  1-0-0
+  2.0 to 2.9                     n  1  1-0-0
+  1.0 to 1.9                     n  8  4-4-0
+  0 to 0.9                       n  7  6-1-0
+  0 to 1.0 worse                 n 12  5-6-1
+  1.0 to 2.0 worse               n  9  4-5-0
+  more than 2.0 worse            n  8  3-4-1
+at fair or better: n 17, 12-5-0 | worse than fair: n 29, 12-15-2 | Fisher exact p = 0.12

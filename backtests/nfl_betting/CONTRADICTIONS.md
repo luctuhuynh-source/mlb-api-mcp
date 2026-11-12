@@ -45,6 +45,7 @@ Found in the review, not in the list below:
 - X-32 MED, fixed 11/12. Red105 has been a venue since 10/25 on Phong's word ("I have another platform to use along with dsb. Red105.") but no doc tab named it. Written into the rule list (F-02, H-02, M-03) and the 2H tab's v0.6b section.
 - X-33, ruled 11/12. Profile in force: `current`.
 - X-31 MED, open. Robinhood 2H contracts are regulation-only; the 10/17 text says "convert before comparing" with no method. Reading until one is written: shadow (H-02).
+- X-34 MED, open [R]. Found 11/12. Liem v1.1 L5.5 (cost gate: per-bet cost at most one third of expected class edge) scores the Robinhood fee at 2 cents per contract, which fails the gate for every class under 6%, and so makes Robinhood a reference venue, with Kalshi second-half football contracts the one carve-out. Phong's 10/17 ruling ("Change that for NFL too. Robinhood is used to bet if the odds favor.") made Robinhood an execution venue for both NFL engines, the fee charged inside the price (R-05, R-06). Reading: the 10/17 ruling is later and is Phong's own words, so it governs NFL; no NFL board applies the L5.5 gate. The Liem doc was not edited. Phong's call.
 - X-30 MED, resolved [R]. Robinhood contract count: "contracts = size / ask" treats size as dollars risked, while the unit is $300 to win (R-10).
 
 ## The list as found (2026-11-11, before the review)

@@ -1,0 +1,17 @@
+full-game totals, 2011 to 2026-11-09: 4232 games, 2815 outdoors with a wind reading
+  every game                                   Under 2130-2062-40   50.8%  (se 0.8)  vs 50%: z +1.1   vs 52.4%: z -2.0
+  dome or closed roof                          Under  570-594 -9    49.0%  (se 1.5)  vs 50%: z -0.7   vs 52.4%: z -2.3
+  wind under 10 mph                            Under  884-945 -21   48.3%  (se 1.2)  vs 50%: z -1.4   vs 52.4%: z -3.5
+  wind 10-14 mph                               Under  358-276 -5    56.5%  (se 2.0)  vs 50%: z +3.3   vs 52.4%: z +2.1
+  wind 15+ mph                                 Under  181-140 -5    56.4%  (se 2.8)  vs 50%: z +2.3   vs 52.4%: z +1.4
+  wind 20+ mph                                 Under   41-37  -1    52.6%  (se 5.7)  vs 50%: z +0.5   vs 52.4%: z +0.0
+  wind 10+ mph                                 Under  539-416 -10   56.4%  (se 1.6)  vs 50%: z +4.0   vs 52.4%: z +2.5
+ wind 15+ by period
+  2011-2016                                    Under   78-64  -3    54.9%  (se 4.2)  vs 50%: z +1.2   vs 52.4%: z +0.6
+  2017-2021                                    Under   67-49  -0    57.8%  (se 4.6)  vs 50%: z +1.7   vs 52.4%: z +1.2
+  2022-2026                                    Under   36-27  -2    57.1%  (se 6.3)  vs 50%: z +1.1   vs 52.4%: z +0.8
+ wind 10+ by period
+  2011-2016                                    Under  211-189 -5    52.8%  (se 2.5)  vs 50%: z +1.1   vs 52.4%: z +0.1
+  2017-2021                                    Under  202-134 -2    60.1%  (se 2.7)  vs 50%: z +3.7   vs 52.4%: z +2.8
+  2022-2026                                    Under  126-93  -3    57.5%  (se 3.4)  vs 50%: z +2.2   vs 52.4%: z +1.5
+outdoor games with no wind reading: 8% overall, 22% in 2022-2026 (those games are left out)

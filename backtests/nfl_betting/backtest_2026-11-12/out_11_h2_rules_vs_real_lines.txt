@@ -1,0 +1,89 @@
+=== SECOND-HALF TOTALS vs the real 2H total, 2011-2021 (n = 2931) ===
+  all games [Over]                                           1379-1476-76    48.3%  (se 0.9)  vs 50%: z -1.8   vs 52.4%: z -4.4
+  all games [Under]                                          1476-1379-76    51.7%  (se 0.9)  vs 50%: z +1.8   vs 52.4%: z -0.7
+ by first-half points (H-25: 41+ REGRESSION WATCH, 45+ Overs shadow-only)
+  1H points 0-13 [Under]                                      237-221 -16    51.7%  (se 2.3)  vs 50%: z +0.7   vs 52.4%: z -0.3
+  1H points 14-20 [Under]                                     383-387 -19    49.7%  (se 1.8)  vs 50%: z -0.1   vs 52.4%: z -1.5
+  1H points 21-27 [Under]                                     428-410 -24    51.1%  (se 1.7)  vs 50%: z +0.6   vs 52.4%: z -0.8
+  1H points 28-34 [Under]                                     267-232 -13    53.5%  (se 2.2)  vs 50%: z +1.6   vs 52.4%: z +0.5
+  1H points 35-40 [Under]                                      91-72  -2     55.8%  (se 3.9)  vs 50%: z +1.5   vs 52.4%: z +0.9
+  1H points 41-44 [Under]                                      42-33  -0     56.0%  (se 5.8)  vs 50%: z +1.0   vs 52.4%: z +0.6
+  1H points 45-up [Under]                                      28-24  -2     53.8%  (se 6.9)  vs 50%: z +0.6   vs 52.4%: z +0.2
+  1H points 41 or more [Under]                                 70-57  -2     55.1%  (se 4.4)  vs 50%: z +1.2   vs 52.4%: z +0.6
+ by halftime lead (H-24; the dead v0.2 line said 17+ -> Under only)
+  lead 0-3 [Under]                                            375-343 -19    52.2%  (se 1.9)  vs 50%: z +1.2   vs 52.4%: z -0.1
+  lead 4-7 [Under]                                            410-376 -18    52.2%  (se 1.8)  vs 50%: z +1.2   vs 52.4%: z -0.1
+  lead 8-10 [Under]                                           200-192 -12    51.0%  (se 2.5)  vs 50%: z +0.4   vs 52.4%: z -0.5
+  lead 11-16 [Under]                                          266-234 -15    53.2%  (se 2.2)  vs 50%: z +1.4   vs 52.4%: z +0.4
+  lead 17-up [Under]                                          225-234 -12    49.0%  (se 2.3)  vs 50%: z -0.4   vs 52.4%: z -1.4
+ wind, outdoor games with a reading (H-26: 15+ -> 2H Overs dead, Unders eligible)
+  wind 0-9 mph [Under]                                        660-657 -34    50.1%  (se 1.4)  vs 50%: z +0.1   vs 52.4%: z -1.6
+  wind 10-14 mph [Under]                                      243-211 -12    53.5%  (se 2.3)  vs 50%: z +1.5   vs 52.4%: z +0.5
+  wind 15-up mph [Under]                                      143-107 -7     57.2%  (se 3.2)  vs 50%: z +2.3   vs 52.4%: z +1.5
+  wind 20+ mph [Under]                                         37-27  -2     57.8%  (se 6.2)  vs 50%: z +1.2   vs 52.4%: z +0.9
+  dome or closed roof [Under]                                 371-353 -16    51.2%  (se 1.9)  vs 50%: z +0.7   vs 52.4%: z -0.6
+ stability of the two results above that showed something (first six seasons, then last five)
+  1H points 28+   2011-2016 [Under]                           223-190 -10    54.0%  (se 2.5)  vs 50%: z +1.6   vs 52.4%: z +0.7
+  1H points 28+   2017-2021 [Under]                           205-171 -7     54.5%  (se 2.6)  vs 50%: z +1.8   vs 52.4%: z +0.8
+  1H points 28 or more, all seasons [Under]                   428-361 -17    54.2%  (se 1.8)  vs 50%: z +2.4   vs 52.4%: z +1.0
+  1H points 35 or more, all seasons [Under]                   161-129 -4     55.5%  (se 2.9)  vs 50%: z +1.9   vs 52.4%: z +1.1
+  1H points under 28, all seasons [Under]                    1048-1018-59    50.7%  (se 1.1)  vs 50%: z +0.7   vs 52.4%: z -1.5
+  wind 15+        2011-2016 [Under]                            78-60  -4     56.5%  (se 4.3)  vs 50%: z +1.5   vs 52.4%: z +1.0
+  wind 15+        2017-2021 [Under]                            65-47  -3     58.0%  (se 4.7)  vs 50%: z +1.7   vs 52.4%: z +1.2
+  second halves that ended in regulation [Under]             1432-1258-71    53.2%  (se 1.0)  vs 50%: z +3.4   vs 52.4%: z +0.9
+  games that went to overtime [Under]                          44-121 -5     26.7%  (se 3.9)  vs 50%: z -6.0   vs 52.4%: z -6.6
+ Anchor Mode (H-21): 2H total against 0.50 x pregame total. Bet back toward the anchor.
+  2H total 1.5+ ABOVE the anchor -> Under [Under]              88-89  -6     49.7%  (se 3.8)  vs 50%: z -0.1   vs 52.4%: z -0.7
+  2H total 3.0+ ABOVE the anchor -> Under [Under]               8-10  -2     44.4%  (se 11.8)  vs 50%: z -0.5   vs 52.4%: z -0.7
+  2H total 1.5+ BELOW the anchor -> Over [Over]               233-252 -12    48.0%  (se 2.3)  vs 50%: z -0.9   vs 52.4%: z -1.9
+  2H total 3.0+ BELOW the anchor -> Over [Over]                30-37  -1     44.8%  (se 6.1)  vs 50%: z -0.9   vs 52.4%: z -1.2
+ pregame total minus first-half points, against the 2H total (pregame cousin of DERIV-LAG, H-20)
+  derived 3+ ABOVE the 2H total -> Over [Over]                584-593 -33    49.6%  (se 1.5)  vs 50%: z -0.3   vs 52.4%: z -1.9
+  derived 6+ ABOVE the 2H total -> Over [Over]                412-402 -23    50.6%  (se 1.8)  vs 50%: z +0.4   vs 52.4%: z -1.0
+  derived 3+ BELOW the 2H total -> Under [Under]              528-475 -24    52.6%  (se 1.6)  vs 50%: z +1.7   vs 52.4%: z +0.2
+  derived 6+ BELOW the 2H total -> Under [Under]              381-335 -11    53.2%  (se 1.9)  vs 50%: z +1.7   vs 52.4%: z +0.4
+ how the market sets the 2H total: 2H total = a x pregame total + b x 1H points + c x halftime lead + k
+   line:   0.481 x pregame total +0.063 x 1H points -0.083 x lead -0.13   (R2 0.80)
+   actual: 0.462 x pregame total +0.034 x 1H points -0.051 x lead +1.55
+   2H points minus the line: mean +0.46 (se 0.18); per 1H point -0.031 (t -1.5); per point of lead +0.033 (t +1.2)
+
+=== SECOND-HALF SIDES vs the real 2H spread, 2011-2021 (n = 2902) ===
+  2H favourite, all                                          1260-1266-66    49.9%  (se 1.0)  vs 50%: z -0.1   vs 52.4%: z -2.5
+  2H favourite laying 0.5-2.5                                 523-500 -4     51.1%  (se 1.6)  vs 50%: z +0.7   vs 52.4%: z -0.8
+  2H favourite laying 3-3                                     203-208 -31    49.4%  (se 2.5)  vs 50%: z -0.2   vs 52.4%: z -1.2
+  2H favourite laying 3.5-6.5                                 420-450 -13    48.3%  (se 1.7)  vs 50%: z -1.0   vs 52.4%: z -2.4
+  2H favourite laying 7-up                                    114-108 -18    51.4%  (se 3.4)  vs 50%: z +0.4   vs 52.4%: z -0.3
+ halftime leader on its 2H line (the lean class: 18 of the 21 second-half leans were on the leader)
+  halftime leader, all                                       1309-1312-74    49.9%  (se 1.0)  vs 50%: z -0.1   vs 52.4%: z -2.5
+  leader by 1-3                                               253-262 -14    49.1%  (se 2.2)  vs 50%: z -0.4   vs 52.4%: z -1.5
+  leader by 4-7                                               373-393 -27    48.7%  (se 1.8)  vs 50%: z -0.7   vs 52.4%: z -2.0
+  leader by 8-10                                              212-179 -11    54.2%  (se 2.5)  vs 50%: z +1.7   vs 52.4%: z +0.7
+  leader by 11-16                                             236-253 -17    48.3%  (se 2.3)  vs 50%: z -0.8   vs 52.4%: z -1.8
+  leader by 17-up                                             235-225 -5     51.1%  (se 2.3)  vs 50%: z +0.5   vs 52.4%: z -0.6
+  TRAILER when the lead is 17+ (H-24 allows this side)        225-235 -5     48.9%  (se 2.3)  vs 50%: z -0.5   vs 52.4%: z -1.5
+ pregame favourite trailing at the half, bet on its 2H line
+  pregame favourite, trailing                                 471-503 -37    48.4%  (se 1.6)  vs 50%: z -1.0   vs 52.4%: z -2.5
+  pregame favourite of 3+, trailing by 7+                     187-218 -18    46.2%  (se 2.5)  vs 50%: z -1.5   vs 52.4%: z -2.5
+ pregame underdog leading at the half, bet on its 2H line
+  pregame underdog, leading                                   503-471 -37    51.6%  (se 1.6)  vs 50%: z +1.0   vs 52.4%: z -0.5
+ a line derived from pregame spread and halftime score, against the real 2H spread (the idea behind Anchor Mode H-21 and, with live prices, DERIV-LAG H-20)
+   market: 2H home lay = 0.585 x pregame home lay -0.150 x halftime home margin -0.25   (R2 0.87)
+  market 1.5+ off the derived line -> bet the side that looks cheap  312-288 -13    52.0%  (se 2.0)  vs 50%: z +1.0   vs 52.4%: z -0.2
+  market 2.5+ off the derived line -> bet the side that looks cheap   85-78  -3     52.1%  (se 3.9)  vs 50%: z +0.5   vs 52.4%: z -0.1
+
+=== FLOW against real 2H lines, 2015-2021 (first-half yards per play from nflverse play-by-play) ===
+  games with FLOW rows and a real 2H line: 1737
+  FLOW side: out-gained by 1.5+ YPP AND leads (protocol test)  377-351 -21    51.8%  (se 1.9)  vs 50%: z +1.0   vs 52.4%: z -0.3
+  out-gained by 1.5+ YPP, any score                           444-409 -26    52.1%  (se 1.7)  vs 50%: z +1.2   vs 52.4%: z -0.2
+  out-gained by 1.5+ YPP but TRAILS                            47-42  -5     52.8%  (se 5.3)  vs 50%: z +0.5   vs 52.4%: z +0.1
+  out-gained by 2.5+ YPP AND leads                            210-202 -14    51.0%  (se 2.5)  vs 50%: z +0.4   vs 52.4%: z -0.6
+  top fifth of combined 1H YPP (FLOW is barred from totals, H-38) [Over]  151-185 -12    44.9%  (se 2.7)  vs 50%: z -1.9   vs 52.4%: z -2.7
+  bottom fifth of combined 1H YPP [Under]                     182-157 -9     53.7%  (se 2.7)  vs 50%: z +1.4   vs 52.4%: z +0.5
+  1H points far ABOVE what the yards say (top fifth) -> Under [Under]  184-153 -11    54.6%  (se 2.7)  vs 50%: z +1.7   vs 52.4%: z +0.8
+  1H points far BELOW what the yards say (bottom fifth) -> Over [Over]  160-178 -10    47.3%  (se 2.7)  vs 50%: z -1.0   vs 52.4%: z -1.9
+
+=== Do a side and a total in the same second half move together? (real lines, 2011-2021) ===
+  2H favourite covers  with  Over              n 2459  correlation +0.087 (se 0.020)  both win 26.5% (independent bets: 24.3%)
+  halftime leader covers  with  Over           n 2553  correlation -0.093 (se 0.020)  both win 21.9% (independent bets: 24.2%)
+  home team covers  with  Over                 n 2748  correlation +0.020 (se 0.019)  both win 23.5% (independent bets: 23.0%)
+  leader by 11+ covers  with  Over             n  924  correlation -0.132 (se 0.033)

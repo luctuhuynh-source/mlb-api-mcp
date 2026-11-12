@@ -99,7 +99,7 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 - F-48 [R] Kill switch: retired, see M-04.
 
 ---
-## Engine B - NFL 2H, v0.6a (IDs H-xx)
+## Engine B - NFL 2H, v0.6b (IDs H-xx)
 
 ### Scope and venues
 - H-01 [=] Halftime window only. Nothing is ever placed after the 3rd-quarter kickoff.
@@ -192,5 +192,5 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 - Item B (11/9): QB-change FLOW rows use the replacement QB's most recent start instead of void? Phong: information only, no change.
 - Paper side for NO CLEAR LEAN games (G-11).
 - Whether a lean may be bet live at a price worse than fair (review decision 2). Today's text does not stop it.
-- Totals: no push table; FLOW-TOTAL shadow test still short of 20 boards.
+- Totals: no push table; FLOW-TOTAL shadow test still short of 20 boards. A draft totals table, tests of the total rules against real second-half lines, and a proposed separate totals track are in `BACKTEST_2026-11-12.md` (11/12). Not in force.
 - A method to restate an overtime-in 2H fair on a regulation basis for Robinhood 2H contracts (H-02). Until it exists, P8 reaches Robinhood only where overtime cannot change the result. The half-score data in `review_2026-11-11/` has both settlements for every game since 2015 and can support one.
