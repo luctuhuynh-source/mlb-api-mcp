@@ -1,0 +1,666 @@
+game_id,home,away,key,t
+401856766,TCU,North Carolina,horned frogs,2026-08-29T17:46:01Z
+401864494,USC,San José State,usc trojans,2026-08-29T20:35:00Z
+401858202,Virginia,NC State,cavaliers,2026-08-29T21:10:16Z
+401864577,North Dakota State,Jacksonville State,north dakota state bison,2026-08-29T23:09:23Z
+401866408,Eastern Michigan,Sacramento State,eastern michigan eagles,2026-08-30T00:20:58Z
+401858201,Stanford,Hawai'i,stanford cardinal,2026-08-30T00:46:40Z
+401864570,Florida State,New Mexico State,seminoles,2026-08-30T00:38:41Z
+401862693,UNLV,Memphis,unlv rebels,2026-08-30T03:50:51Z
+401858423,Rutgers,Massachusetts,scarlet knights,2026-09-03T23:32:11Z
+401856767,UCF,Bethune-Cookman,ucf knights,2026-09-04T00:53:08Z
+401858204,Wake Forest,Akron,demon deacons,2026-09-04T00:45:54Z
+401864425,Kennesaw State,West Georgia,kennesaw state owls,2026-09-04T02:09:43Z
+401866409,Buffalo,UAlbany,buffalo bulls,2026-09-04T03:30:53Z
+401856663,Missouri,Arkansas-Pine Bluff,missouri tigers,2026-09-04T01:48:53Z
+401856776,Georgia Tech,Colorado,yellow jackets,2026-09-04T02:07:00Z
+401858422,Minnesota,Eastern Illinois,golden gophers,2026-09-04T01:47:38Z
+401856768,Utah,Idaho,utes,2026-09-04T02:48:13Z
+401858424,Illinois,UAB,fighting illini,2026-09-04T02:54:29Z
+401864495,Eastern Michigan,San José State,eastern michigan eagles,2026-09-05T00:12:01Z
+401858435,Purdue,Indiana State,boilermakers,2026-09-05T00:36:36Z
+401866623,Georgia State,North Carolina A&T,georgia state panthers,2026-09-05T00:45:20Z
+401856664,Oklahoma,UTEP,sooners,2026-09-05T01:38:25Z
+401856769,Kansas,Long Island University,jayhawks,2026-09-05T01:47:34Z
+401858429,Michigan State,Toledo,michigan state spartans,2026-09-05T01:41:32Z
+401858206,Stanford,Miami,stanford cardinal,2026-09-05T02:48:08Z
+401858436,USC,Fresno State,usc trojans,2026-09-05T02:42:39Z
+401856634,Alabama,East Carolina,crimson tide,2026-09-05T17:49:24Z
+401856780,West Virginia,Coastal Carolina,west virginia mountaineers,2026-09-05T17:37:52Z
+401858208,Syracuse,New Hampshire,orange,2026-09-05T17:55:03Z
+401858425,Indiana,North Texas,hoosiers,2026-09-05T17:50:21Z
+401858430,Nebraska,Ohio,cornhuskers,2026-09-05T17:50:14Z
+401861962,UConn,Lafayette,uconn huskies,2026-09-05T17:52:41Z
+401862701,Army,Bryant,black knights,2026-09-05T17:45:32Z
+401866410,Bowling Green,Tarleton State,bowling green falcons,2026-09-05T17:35:27Z
+401869960,James Madison,Liberty,james madison dukes,2026-09-05T17:51:23Z
+401858207,Pittsburgh,Miami (OH),pittsburgh panthers,2026-09-05T18:38:07Z
+401858432,Ohio State,Ball State,buckeyes,2026-09-05T18:10:11Z
+401856665,South Carolina,Kent State,south carolina gamecocks,2026-09-05T18:28:04Z
+401856659,Kentucky,Youngstown State,kentucky wildcats,2026-09-05T18:36:09Z
+401856779,Iowa State,Southeast Missouri State,cyclones,2026-09-05T19:16:19Z
+401864496,Air Force,Duquesne,air force falcons,2026-09-05T18:32:43Z
+401862698,Temple,Rhode Island,temple owls,2026-09-05T19:35:02Z
+401856658,Georgia,Tennessee State,georgia bulldogs,2026-09-05T20:37:56Z
+401856636,Auburn,Baylor,auburn tigers,2026-09-05T21:27:23Z
+401856666,Tennessee,Furman,volunteers,2026-09-05T21:16:11Z
+401856667,Texas,Texas State,longhorns,2026-09-05T21:07:23Z
+401856777,Cincinnati,Boston College,bearcats,2026-09-05T21:13:38Z
+401858209,Duke,Tulane,duke blue devils,2026-09-05T22:29:54Z
+401858433,Oregon,Boise State,ducks,2026-09-05T21:21:45Z
+401858434,Penn State,Marshall,nittany lions,2026-09-05T21:17:21Z
+401862694,Charlotte,The Citadel,49ers,2026-09-05T22:23:24Z
+401862696,Navy,Towson,midshipmen,2026-09-05T21:10:33Z
+401862700,UTSA,UT Rio Grande Valley,roadrunners,2026-09-05T21:24:42Z
+401864499,North Dakota State,Fordham,north dakota state bison,2026-09-05T20:57:52Z
+401866627,App State,Maine,appalachian state mountaineers,2026-09-05T21:08:46Z
+401856772,Tulsa,Oklahoma State,golden hurricane,2026-09-05T21:22:20Z
+401856635,Arkansas,North Alabama,razorbacks,2026-09-05T22:06:35Z
+401858426,Iowa,Northern Illinois,hawkeyes,2026-09-05T22:00:19Z
+401868356,Southern Miss,Alcorn State,southern miss,2026-09-05T22:38:46Z
+401860878,Colorado State,Wyoming,colorado state rams,2026-09-05T23:46:46Z
+401856668,Texas A&M,Missouri State,texas a&m aggies,2026-09-06T00:51:34Z
+401856669,Vanderbilt,Austin Peay,commodores,2026-09-06T00:28:04Z
+401856770,Texas Tech,Abilene Christian,red raiders,2026-09-06T00:45:19Z
+401856771,Kansas State,Nicholls,kansas state wildcats,2026-09-06T00:41:25Z
+401860880,Utah State,Idaho State,utah state aggies,2026-09-06T00:51:47Z
+401862695,Memphis,Arkansas State,memphis tigers,2026-09-06T00:33:31Z
+401862697,Rice,Houston Christian,rice owls,2026-09-06T00:48:23Z
+401862699,South Florida,Florida International,south florida bulls,2026-09-06T00:26:28Z
+401867866,Middle Tennessee,Murray State,blue raiders,2026-09-06T02:13:05Z
+401868140,Jacksonville State,Eastern Kentucky,jacksonville state gamecocks,2026-09-06T00:55:47Z
+401868170,Georgia Southern,Charleston Southern,georgia southern eagles,2026-09-06T00:43:46Z
+401868316,South Alabama,SE Louisiana,south alabama jaguars,2026-09-06T00:36:41Z
+401870763,Troy,Sam Houston,troy trojans,2026-09-06T00:47:29Z
+401856660,LSU,Clemson,lsu tigers,2026-09-06T03:21:05Z
+401856662,Mississippi State,UL Monroe,mississippi state bulldogs,2026-09-06T01:18:28Z
+401858211,Virginia Tech,VMI,hokies,2026-09-06T01:15:25Z
+401858428,Michigan,Western Michigan,wolverines,2026-09-06T01:15:56Z
+401869129,Louisiana Tech,Northwestern State,louisiana tech bulldogs,2026-09-06T01:18:19Z
+401856637,Florida,Florida Atlantic,gators,2026-09-06T01:54:07Z
+401856775,BYU,Utah Tech,byu cougars,2026-09-06T01:39:17Z
+401858427,Maryland,Hampton,terrapins,2026-09-06T01:46:47Z
+401858431,Northwestern,South Dakota State,northwestern wildcats,2026-09-06T01:33:26Z
+401870790,New Mexico State,Mercyhurst,new mexico state aggies,2026-09-06T02:52:46Z
+401856773,Arizona,Northern Arizona,arizona wildcats,2026-09-06T03:03:50Z
+401860879,San Diego State,Portland State,aztecs,2026-09-06T03:21:11Z
+401856774,Arizona State,Morgan State,sun devils,2026-09-06T03:50:44Z
+401864497,Hawai'i,UNLV,rainbow warriors,2026-09-06T03:50:26Z
+401864498,New Mexico,Central Michigan,lobos,2026-09-06T03:51:46Z
+401866411,Sacramento State,Mississippi Valley State,sacramento state hornets,2026-09-06T03:55:19Z
+401858210,California,UCLA,golden bears,2026-09-06T04:34:51Z
+401864432,Nevada,Western Kentucky,wolf pack,2026-09-06T04:19:51Z
+401858437,Washington,Washington State,washington huskies,2026-09-06T21:50:58Z
+401856661,Ole Miss,Louisville,ole miss rebels,2026-09-07T01:29:27Z
+401858438,Notre Dame,Wisconsin,fighting irish,2026-09-07T01:38:29Z
+401858212,Florida State,SMU,seminoles,2026-09-08T02:50:50Z
+401858213,Miami,Florida A&M,hurricanes,2026-09-11T01:44:02Z
+401858215,Louisville,Villanova,louisville cardinals,2026-09-12T00:45:33Z
+401858220,Virginia,Norfolk State,cavaliers,2026-09-12T00:34:49Z
+401858214,Boston College,Rutgers,boston college eagles,2026-09-12T01:33:17Z
+401856678,Kansas,Missouri,jayhawks,2026-09-12T01:55:34Z
+401856679,Michigan,Oklahoma,wolverines,2026-09-12T17:57:35Z
+401856683,Texas A&M,Arizona State,texas a&m aggies,2026-09-12T17:47:18Z
+401856782,Oklahoma State,Oregon,oklahoma state cowboys,2026-09-12T19:17:21Z
+401858218,North Carolina,East Tennessee State,tar heels,2026-09-12T17:37:28Z
+401858221,Virginia Tech,Old Dominion,hokies,2026-09-12T18:06:48Z
+401858224,Purdue,Wake Forest,boilermakers,2026-09-12T17:32:42Z
+401858439,Indiana,Howard,hoosiers,2026-09-12T17:36:42Z
+401858442,Temple,Penn State,temple owls,2026-09-12T17:32:42Z
+401862702,Army,South Florida,black knights,2026-09-12T17:26:26Z
+401864571,East Carolina,App State,east carolina pirates,2026-09-12T17:52:42Z
+401866416,Kent State,Wofford,golden flashes,2026-09-12T17:45:53Z
+401867929,James Madison,Wagner,james madison dukes,2026-09-12T18:00:41Z
+401868187,Liberty,Gardner-Webb,flames,2026-09-12T17:50:29Z
+401856673,Georgia,Western Kentucky,georgia bulldogs,2026-09-12T18:32:31Z
+401856791,West Virginia,UT Martin,west virginia mountaineers,2026-09-12T18:37:14Z
+401866415,Central Michigan,Colgate,chippewas,2026-09-12T18:33:06Z
+401866417,Miami (OH),Holy Cross,miami (oh) redhawks,2026-09-12T18:36:30Z
+401866413,Ball State,Stony Brook,ball state cardinals,2026-09-12T19:36:38Z
+401856674,Kentucky,Alabama,kentucky wildcats,2026-09-12T21:35:45Z
+401856677,Minnesota,Mississippi State,golden gophers,2026-09-12T21:18:36Z
+401856785,Colorado,Weber State,buffaloes,2026-09-12T21:32:18Z
+401856790,Pittsburgh,UCF,pittsburgh panthers,2026-09-12T22:08:28Z
+401856810,BYU,Arizona,byu cougars,2026-09-12T21:19:59Z
+401858216,Syracuse,California,orange,2026-09-12T21:27:36Z
+401858217,Illinois,Duke,fighting illini,2026-09-12T21:24:57Z
+401858440,Michigan State,Eastern Michigan,michigan state spartans,2026-09-12T21:14:18Z
+401858444,UConn,Maryland,uconn huskies,2026-09-12T21:13:19Z
+401858446,Washington,Utah State,washington huskies,2026-09-12T21:11:48Z
+401859184,Notre Dame,Rice,fighting irish,2026-09-12T21:09:59Z
+401860884,Texas State,UTSA,texas state bobcats,2026-09-12T21:34:12Z
+401862708,UAB,UL Monroe,uab blazers,2026-09-12T20:58:10Z
+401866412,Akron,Robert Morris,zips,2026-09-12T21:11:23Z
+401866420,Massachusetts,Sacred Heart,minutemen,2026-09-12T21:09:54Z
+401862705,North Texas,UNLV,mean green,2026-09-12T21:37:25Z
+401858223,SMU,UC Davis,smu mustangs,2026-09-12T21:47:35Z
+401864506,Wyoming,Northern Colorado,wyoming cowboys,2026-09-12T21:33:53Z
+401865252,New Mexico,Mercyhurst,lobos,2026-09-12T21:57:18Z
+401868326,Troy,Alabama State,troy trojans,2026-09-12T21:46:44Z
+401856684,Vanderbilt,Delaware,commodores,2026-09-12T22:08:48Z
+401856672,Florida,Campbell,gators,2026-09-12T23:13:51Z
+401860881,Boise State,Memphis,boise state broncos,2026-09-12T23:56:53Z
+401866414,Florida International,Buffalo,florida international panthers,2026-09-12T23:38:04Z
+401866418,Ohio,Jacksonville State,ohio bobcats,2026-09-12T23:42:49Z
+401866421,Western Michigan,Monmouth,western michigan broncos,2026-09-13T00:12:00Z
+401856680,South Carolina,Towson,south carolina gamecocks,2026-09-13T00:42:56Z
+401856681,Georgia Tech,Tennessee,yellow jackets,2026-09-13T00:57:48Z
+401856786,Cincinnati,Western Carolina,bearcats,2026-09-13T00:33:08Z
+401856787,Houston,Southern,houston cougars,2026-09-13T00:50:09Z
+401858441,Nebraska,Bowling Green,cornhuskers,2026-09-13T00:49:17Z
+401860882,Colorado State,Southern Utah,colorado state rams,2026-09-13T01:01:40Z
+401862707,Sam Houston,Tulsa,bearkats,2026-09-13T00:45:53Z
+401864503,Northern Illinois,Illinois State,northern illinois huskies,2026-09-13T00:35:40Z
+401864575,Tulane,South Alabama,green wave,2026-09-13T00:34:17Z
+401868241,Arkansas State,West Georgia,red wolves,2026-09-13T00:35:38Z
+401869955,Kennesaw State,Georgia State,kennesaw state owls,2026-09-13T00:37:29Z
+401871045,Marshall,Middle Tennessee,thundering herd,2026-09-13T00:40:27Z
+401871046,Missouri State,Lindenwood,missouri state bears,2026-09-13T00:45:57Z
+401858443,UCLA,San Diego State,bruins,2026-09-13T00:43:53Z
+401858447,Wisconsin,Western Illinois,badgers,2026-09-13T00:49:20Z
+401856682,Texas,Ohio State,longhorns,2026-09-13T01:26:51Z
+401856783,Oregon State,Texas Tech,beavers,2026-09-13T01:27:14Z
+401856788,Iowa,Iowa State,hawkeyes,2026-09-13T01:08:11Z
+401858219,Clemson,Georgia Southern,clemson tigers,2026-09-13T03:22:38Z
+401862703,Florida Atlantic,Navy,florida atlantic owls,2026-09-13T01:23:19Z
+401867796,LSU,Louisiana Tech,lsu tigers,2026-09-13T01:10:41Z
+401868008,Coastal Carolina,Fordham,chanticleers,2026-09-13T01:17:08Z
+401856671,Auburn,Southern Miss,auburn tigers,2026-09-13T02:40:09Z
+401856676,Ole Miss,Charlotte,ole miss rebels,2026-09-13T01:29:17Z
+401856789,TCU,Grambling,horned frogs,2026-09-13T01:43:03Z
+401856784,Baylor,Prairie View A&M,baylor bears,2026-09-13T02:07:49Z
+401864504,San José State,Cal Poly,san jose state spartans,2026-09-13T02:29:18Z
+401864505,UTEP,Texas Southern,miners,2026-09-13T02:39:46Z
+401864502,Air Force,North Dakota State,air force falcons,2026-09-13T03:50:31Z
+401856670,Utah,Arkansas,utes,2026-09-13T04:15:36Z
+401860883,Fresno State,Sacramento State,fresno state bulldogs,2026-09-13T04:24:17Z
+401864500,Nevada,Montana State,wolf pack,2026-09-13T04:21:18Z
+401858445,USC,Louisiana,usc trojans,2026-09-13T04:39:06Z
+401864578,Hawai'i,New Mexico State,rainbow warriors,2026-09-13T05:43:49Z
+401858225,Pittsburgh,Syracuse,pittsburgh panthers,2026-09-18T01:24:56Z
+401858226,Wake Forest,Miami,demon deacons,2026-09-19T01:13:34Z
+401856811,Texas Tech,Houston,red raiders,2026-09-19T01:50:05Z
+401858455,Oregon,Portland State,ducks,2026-09-19T04:10:39Z
+401869940,Delaware,Coastal Carolina,blue hens,2026-09-19T17:09:53Z
+401856686,Arkansas,Georgia,razorbacks,2026-09-19T17:38:36Z
+401856792,Kansas State,Tulane,kansas state wildcats,2026-09-19T17:42:59Z
+401856798,Iowa State,Bowling Green,cyclones,2026-09-19T17:58:51Z
+401856812,Kansas,Arizona State,jayhawks,2026-09-19T17:46:48Z
+401858228,Georgia Tech,Mercer,yellow jackets,2026-09-19T17:42:39Z
+401858229,Clemson,North Carolina,clemson tigers,2026-09-19T17:45:38Z
+401858451,Minnesota,Akron,golden gophers,2026-09-19T17:45:39Z
+401858454,Ohio State,Kent State,buckeyes,2026-09-19T17:57:16Z
+401858456,Penn State,Buffalo,nittany lions,2026-09-19T17:57:30Z
+401860889,Texas State,North Texas,texas state bobcats,2026-09-19T17:56:21Z
+401858460,Wisconsin,Eastern Michigan,badgers,2026-09-19T18:18:11Z
+401856695,Vanderbilt,NC State,commodores,2026-09-19T18:29:36Z
+401864508,Central Michigan,Wyoming,chippewas,2026-09-19T18:29:48Z
+401858227,Boston College,Maine,boston college eagles,2026-09-19T19:44:46Z
+401858448,Illinois,Southern Illinois,fighting illini,2026-09-19T19:51:41Z
+401862774,Toledo,Temple,rockets,2026-09-19T20:39:01Z
+401856694,Texas A&M,Kentucky,texas a&m aggies,2026-09-19T21:12:44Z
+401856797,Cincinnati,Miami (OH),bearcats,2026-09-19T21:10:58Z
+401856801,Utah,Utah State,utes,2026-09-19T21:25:59Z
+401858230,Louisville,SMU,louisville cardinals,2026-09-19T21:21:20Z
+401858233,California,Wagner,golden bears,2026-09-19T21:31:00Z
+401858450,Michigan,UTEP,wolverines,2026-09-19T21:14:03Z
+401858457,Rutgers,USC,scarlet knights,2026-09-19T21:32:28Z
+401860890,Washington State,Duquesne,washington state cougars,2026-09-19T21:21:11Z
+401866424,Massachusetts,Stonehill,minutemen,2026-09-19T21:14:45Z
+401858231,Duke,Stanford,duke blue devils,2026-09-19T21:42:09Z
+401858449,Indiana,Western Kentucky,hoosiers,2026-09-19T21:38:14Z
+401858471,Iowa,Northern Iowa,hawkeyes,2026-09-19T21:51:24Z
+401866422,Liberty,Ball State,flames,2026-09-19T21:36:35Z
+401867804,Baylor,Louisiana Tech,baylor bears,2026-09-19T21:41:43Z
+401856691,South Carolina,Mississippi State,south carolina gamecocks,2026-09-19T23:19:14Z
+401868317,UL Monroe,SE Louisiana,warhawks,2026-09-19T22:09:20Z
+401862710,Old Dominion,East Carolina,monarchs,2026-09-19T23:53:32Z
+401862771,Florida Atlantic,Florida International,florida atlantic owls,2026-09-19T23:39:30Z
+401864574,App State,Charlotte,appalachian state mountaineers,2026-09-20T03:10:17Z
+401871047,Missouri State,Marshall,missouri state bears,2026-09-20T00:13:14Z
+401856687,Auburn,Florida,auburn tigers,2026-09-20T00:52:14Z
+401856689,Missouri,Troy,missouri tigers,2026-09-20T00:47:10Z
+401856800,UCF,Georgia State,ucf knights,2026-09-20T00:41:37Z
+401856803,Oklahoma State,Murray State,oklahoma state cowboys,2026-09-20T00:33:39Z
+401861963,Southern Miss,UConn,southern miss,2026-09-20T00:51:44Z
+401862772,Memphis,UT Martin,memphis tigers,2026-09-20T00:37:50Z
+401862773,Rice,Western Michigan,rice owls,2026-09-20T00:41:29Z
+401862777,South Florida,Delaware State,south florida bulls,2026-09-20T01:16:11Z
+401864443,Middle Tennessee,Nevada,blue raiders,2026-09-20T00:24:52Z
+401866423,South Alabama,Ohio,south alabama jaguars,2026-09-20T00:33:42Z
+401869948,Jacksonville State,Georgia Southern,jacksonville state gamecocks,2026-09-20T00:31:02Z
+401870764,Sam Houston,Nicholls,bearkats,2026-09-20T00:56:33Z
+401858452,Nebraska,North Dakota,cornhuskers,2026-09-20T00:37:47Z
+401858459,Washington,Eastern Washington,washington huskies,2026-09-20T00:51:32Z
+401856688,Ole Miss,LSU,ole miss rebels,2026-09-20T01:31:45Z
+401856690,Oklahoma,New Mexico,sooners,2026-09-20T01:10:33Z
+401856795,Colorado State,BYU,colorado state rams,2026-09-20T01:52:12Z
+401856796,Northwestern,Colorado,northwestern wildcats,2026-09-20T01:14:42Z
+401856802,Virginia,West Virginia,cavaliers,2026-09-20T01:14:16Z
+401858232,Maryland,Virginia Tech,terrapins,2026-09-20T01:35:59Z
+401858453,Notre Dame,Michigan State,fighting irish,2026-09-20T01:18:14Z
+401856692,Tennessee,Kennesaw State,volunteers,2026-09-20T01:34:02Z
+401856693,Texas,UTSA,longhorns,2026-09-20T01:40:41Z
+401856799,TCU,Arkansas State,horned frogs,2026-09-20T01:43:48Z
+401862775,Tulsa,East Texas A&M,golden hurricane,2026-09-20T01:41:57Z
+401860885,Boise State,South Dakota,boise state broncos,2026-09-20T03:44:21Z
+401860887,San Diego State,James Madison,aztecs,2026-09-20T03:59:17Z
+401856793,Arizona,Northern Illinois,arizona wildcats,2026-09-20T04:08:57Z
+401864507,Sacramento State,North Dakota State,sacramento state hornets,2026-09-20T04:24:06Z
+401858458,UCLA,Purdue,bruins,2026-09-20T04:46:58Z
+401860886,Oregon State,Montana,beavers,2026-09-20T04:49:10Z
+401860888,San José State,Fresno State,san jose state spartans,2026-09-20T04:47:28Z
+401869941,Coastal Carolina,Liberty,chanticleers,2026-09-25T01:42:46Z
+401862779,Temple,Army,temple owls,2026-09-25T21:39:50Z
+401858468,Rutgers,Howard,scarlet knights,2026-09-26T00:43:05Z
+401862778,UAB,Navy,uab blazers,2026-09-26T00:46:48Z
+401858461,Indiana,Northwestern,hoosiers,2026-09-26T01:42:41Z
+401858234,California,Clemson,golden bears,2026-09-26T04:24:54Z
+401856704,Tennessee,Texas,volunteers,2026-09-26T17:53:03Z
+401856805,Texas Tech,Sam Houston,red raiders,2026-09-26T17:48:08Z
+401856813,Baylor,Colorado,baylor bears,2026-09-26T17:49:44Z
+401858236,Pittsburgh,Bucknell,pittsburgh panthers,2026-09-26T17:43:11Z
+401858242,Boston College,Virginia Tech,boston college eagles,2026-09-26T17:35:29Z
+401858243,Louisville,Wake Forest,louisville cardinals,2026-09-26T18:00:08Z
+401858465,Ohio State,Illinois,buckeyes,2026-09-26T17:59:51Z
+401860893,Toledo,San Diego State,rockets,2026-09-26T17:37:59Z
+401860896,UTSA,Colorado State,roadrunners,2026-09-26T17:54:43Z
+401864512,Akron,UNLV,zips,2026-09-26T17:30:08Z
+401864576,Kentucky,South Alabama,kentucky wildcats,2026-09-26T18:40:02Z
+401866427,Eastern Michigan,Lindenwood,eastern michigan eagles,2026-09-26T18:43:29Z
+401858462,Maryland,UCLA,terrapins,2026-09-26T19:13:36Z
+401858467,Purdue,Notre Dame,boilermakers,2026-09-26T19:38:55Z
+401864511,Georgia State,Northern Illinois,georgia state panthers,2026-09-26T19:37:31Z
+401858237,Florida State,Central Arkansas,seminoles,2026-09-26T20:36:21Z
+401856699,Florida,Ole Miss,gators,2026-09-26T21:38:45Z
+401856700,Georgia,Oklahoma,georgia bulldogs,2026-09-26T21:14:09Z
+401856815,UCF,TCU,ucf knights,2026-09-26T21:12:20Z
+401856816,Iowa State,Utah,cyclones,2026-09-26T21:21:39Z
+401858244,Duke,William & Mary,duke blue devils,2026-09-26T21:16:35Z
+401858463,Michigan,Iowa,wolverines,2026-09-26T21:18:38Z
+401860897,Western Michigan,Boise State,western michigan broncos,2026-09-26T21:04:12Z
+401864579,New Mexico State,New Mexico,new mexico state aggies,2026-09-26T21:18:09Z
+401866426,Buffalo,Robert Morris,buffalo bulls,2026-09-26T21:13:54Z
+401866428,Ohio,Stonehill,ohio bobcats,2026-09-26T20:57:52Z
+401868188,Marshall,Gardner-Webb,thundering herd,2026-09-26T21:21:54Z
+401856806,Georgia Southern,Houston,georgia southern eagles,2026-09-26T21:55:18Z
+401862781,East Carolina,North Carolina Central,east carolina pirates,2026-09-26T21:47:10Z
+401856698,Auburn,Vanderbilt,auburn tigers,2026-09-26T21:59:53Z
+401858464,Michigan State,Nebraska,michigan state spartans,2026-09-26T22:50:56Z
+401858466,Penn State,Wisconsin,nittany lions,2026-09-26T22:37:15Z
+401862785,Bowling Green,South Florida,bowling green falcons,2026-09-26T22:30:48Z
+401858239,Virginia,Delaware,cavaliers,2026-09-26T23:47:03Z
+401860892,Texas State,Incarnate Word,texas state bobcats,2026-09-27T00:05:16Z
+401867909,Florida International,Long Island University,florida international panthers,2026-09-26T23:32:19Z
+401869961,Old Dominion,James Madison,monarchs,2026-09-27T00:02:42Z
+401858238,Miami,Central Michigan,hurricanes,2026-09-27T00:22:13Z
+401862780,Charlotte,Louisiana,49ers,2026-09-27T00:07:38Z
+401856696,Alabama,South Carolina,crimson tide,2026-09-27T00:54:04Z
+401856814,Cincinnati,Kansas State,bearcats,2026-09-27T00:51:30Z
+401856881,West Virginia,Oklahoma State,west virginia mountaineers,2026-09-27T00:37:33Z
+401862784,Tulane,Southern Miss,green wave,2026-09-27T00:55:56Z
+401869931,Arkansas State,Kennesaw State,red wolves,2026-09-27T00:30:11Z
+401870745,Western Kentucky,Mercyhurst,hilltoppers,2026-09-27T00:28:37Z
+401871048,Jacksonville State,Middle Tennessee,jacksonville state gamecocks,2026-09-27T00:31:32Z
+401856702,LSU,Texas A&M,lsu tigers,2026-09-27T01:25:22Z
+401856804,Washington State,Arizona,washington state cougars,2026-09-27T01:35:21Z
+401858469,USC,Oregon,usc trojans,2026-09-27T01:22:07Z
+401860894,Utah State,Troy,utah state aggies,2026-09-27T01:09:31Z
+401862783,North Texas,Houston Christian,mean green,2026-09-27T01:15:19Z
+401864572,NC State,App State,wolfpack,2026-09-27T01:17:09Z
+401856703,Mississippi State,Missouri,mississippi state bulldogs,2026-09-27T01:44:57Z
+401856697,Arkansas,Tulsa,razorbacks,2026-09-27T01:33:32Z
+401862782,UL Monroe,Florida Atlantic,warhawks,2026-09-27T01:50:12Z
+401858241,SMU,Missouri State,smu mustangs,2026-09-27T02:41:13Z
+401860895,UTEP,Oregon State,miners,2026-09-27T02:38:40Z
+401866429,Sacramento State,Massachusetts,sacramento state hornets,2026-09-27T02:45:59Z
+401860891,Fresno State,Rice,fresno state bulldogs,2026-09-27T03:48:14Z
+401858240,Stanford,Georgia Tech,stanford cardinal,2026-09-27T04:17:19Z
+401864509,Nevada,Air Force,wolf pack,2026-09-27T04:06:43Z
+401858470,Washington,Minnesota,washington huskies,2026-09-27T04:40:30Z
+401871049,New Mexico State,Western Kentucky,new mexico state aggies,2026-10-02T01:43:21Z
+401862786,Tulsa,North Texas,golden hurricane,2026-10-02T02:56:16Z
+401858245,Virginia Tech,Pittsburgh,hokies,2026-10-03T01:00:57Z
+401871050,Delaware,Liberty,blue hens,2026-10-03T00:35:30Z
+401858476,Northwestern,Penn State,northwestern wildcats,2026-10-03T01:57:52Z
+401862787,Charlotte,Memphis,49ers,2026-10-03T16:41:16Z
+401856707,Mississippi State,Alabama,mississippi state bulldogs,2026-10-03T18:01:01Z
+401856807,Kansas,Middle Tennessee,jayhawks,2026-10-03T17:42:06Z
+401856819,Houston,UCF,houston cougars,2026-10-03T17:49:44Z
+401856822,Iowa State,West Virginia,cyclones,2026-10-03T17:43:40Z
+401858246,SMU,Boston College,smu mustangs,2026-10-03T17:46:01Z
+401858250,North Carolina,Notre Dame,tar heels,2026-10-03T17:40:33Z
+401858251,Wake Forest,Stanford,demon deacons,2026-10-03T17:46:46Z
+401858252,UConn,Syracuse,uconn huskies,2026-10-03T17:54:45Z
+401858474,Minnesota,Michigan,golden gophers,2026-10-03T17:45:14Z
+401862791,Air Force,Navy,air force falcons,2026-10-03T17:39:32Z
+401858479,Wisconsin,Michigan State,badgers,2026-10-03T18:02:24Z
+401856705,Georgia,Vanderbilt,georgia bulldogs,2026-10-03T18:29:46Z
+401866432,Buffalo,Western Michigan,buffalo bulls,2026-10-03T18:27:15Z
+401866431,Ball State,Toledo,ball state cardinals,2026-10-03T19:41:56Z
+401856708,Missouri,Florida,missouri tigers,2026-10-03T21:26:36Z
+401856710,Tennessee,Auburn,volunteers,2026-10-03T21:18:34Z
+401858247,UNLV,California,unlv rebels,2026-10-03T21:34:39Z
+401858248,NC State,Louisville,wolfpack,2026-10-03T21:08:37Z
+401858253,Florida State,Virginia,seminoles,2026-10-03T21:16:07Z
+401858473,Iowa,Ohio State,hawkeyes,2026-10-03T21:17:20Z
+401862793,UAB,Samford,uab blazers,2026-10-03T21:10:39Z
+401864515,North Dakota State,Wyoming,north dakota state bison,2026-10-03T21:20:21Z
+401866430,Central Michigan,Akron,chippewas,2026-10-03T21:05:06Z
+401866433,Massachusetts,Eastern Michigan,minutemen,2026-10-03T21:07:22Z
+401866477,Miami (OH),Bowling Green,miami (oh) redhawks,2026-10-03T21:00:11Z
+401869956,Georgia State,Old Dominion,georgia state panthers,2026-10-03T21:15:10Z
+401869962,James Madison,Marshall,james madison dukes,2026-10-03T21:42:25Z
+401858475,Nebraska,Maryland,cornhuskers,2026-10-03T22:16:49Z
+401856709,South Carolina,Kentucky,south carolina gamecocks,2026-10-03T22:03:24Z
+401858472,Illinois,Purdue,fighting illini,2026-10-03T21:42:22Z
+401860899,Colorado State,Oregon State,colorado state rams,2026-10-03T23:48:22Z
+401862790,Florida Atlantic,Texas Southern,florida atlantic owls,2026-10-03T23:35:53Z
+401856711,Texas A&M,Arkansas,texas a&m aggies,2026-10-04T00:42:10Z
+401856818,TCU,BYU,horned frogs,2026-10-04T00:39:35Z
+401862788,Rice,UTSA,rice owls,2026-10-04T00:41:12Z
+401869942,Coastal Carolina,Georgia Southern,chanticleers,2026-10-04T00:48:03Z
+401871089,South Alabama,UL Monroe,south alabama jaguars,2026-10-04T00:40:27Z
+401856821,Colorado,Texas Tech,buffaloes,2026-10-04T01:09:42Z
+401858249,Clemson,Miami,clemson tigers,2026-10-04T01:32:02Z
+401858478,USC,Washington,usc trojans,2026-10-04T01:19:14Z
+401860898,Boise State,Utah State,boise state broncos,2026-10-04T01:18:26Z
+401862792,South Florida,Temple,south florida bulls,2026-10-04T01:04:15Z
+401869842,Louisiana Tech,Army,louisiana tech bulldogs,2026-10-04T01:10:00Z
+401856706,LSU,McNeese,lsu tigers,2026-10-04T01:29:43Z
+401858477,Rutgers,Indiana,scarlet knights,2026-10-04T01:42:13Z
+401869932,Louisiana,Arkansas State,cajuns,2026-10-04T01:30:20Z
+401860921,Washington State,Fresno State,washington state cougars,2026-10-04T03:24:02Z
+401856817,Arizona State,Baylor,sun devils,2026-10-04T04:26:19Z
+401860900,San Diego State,Texas State,aztecs,2026-10-04T04:13:58Z
+401856820,Arizona,Cincinnati,arizona wildcats,2026-10-04T04:36:39Z
+401864513,Hawai'i,San José State,rainbow warriors,2026-10-04T05:35:03Z
+401871090,Troy,Southern Miss,troy trojans,2026-10-07T01:44:17Z
+401871051,Kennesaw State,Jacksonville State,kennesaw state owls,2026-10-08T00:41:50Z
+401871066,Florida International,New Mexico State,florida international panthers,2026-10-08T01:41:20Z
+401870766,Liberty,Sam Houston,flames,2026-10-09T00:38:21Z
+401871052,Western Kentucky,Missouri State,hilltoppers,2026-10-09T00:39:09Z
+401862794,UTSA,South Florida,roadrunners,2026-10-09T01:19:18Z
+401869933,Arkansas State,South Alabama,red wolves,2026-10-09T01:25:52Z
+401858254,Louisville,Florida State,louisville cardinals,2026-10-10T00:45:46Z
+401858487,Washington,Iowa,washington huskies,2026-10-10T02:45:33Z
+401860922,Utah State,Washington State,utah state aggies,2026-10-10T03:02:44Z
+401864519,San José State,Wyoming,san jose state spartans,2026-10-10T02:37:23Z
+401856826,BYU,Iowa State,byu cougars,2026-10-10T04:00:52Z
+401856716,Missouri,Texas A&M,missouri tigers,2026-10-10T17:48:18Z
+401856823,West Virginia,Arizona,west virginia mountaineers,2026-10-10T17:45:36Z
+401856824,Oklahoma State,UCF,oklahoma state cowboys,2026-10-10T17:45:29Z
+401858256,Pittsburgh,North Carolina,pittsburgh panthers,2026-10-10T17:32:56Z
+401858260,NC State,Wake Forest,wolfpack,2026-10-10T17:41:36Z
+401858481,Nebraska,Indiana,cornhuskers,2026-10-10T17:41:34Z
+401862795,Army,Tulane,black knights,2026-10-10T17:30:44Z
+401866436,Bowling Green,Sacramento State,bowling green falcons,2026-10-10T17:38:39Z
+401858482,Northwestern,Ball State,northwestern wildcats,2026-10-10T18:11:03Z
+401862797,East Carolina,Rice,east carolina pirates,2026-10-10T18:38:35Z
+401869843,App State,Old Dominion,appalachian state mountaineers,2026-10-10T18:33:50Z
+401866440,Massachusetts,Miami (OH),minutemen,2026-10-10T19:39:08Z
+401856717,Oklahoma,Texas,sooners,2026-10-10T21:34:03Z
+401856718,Vanderbilt,Ole Miss,commodores,2026-10-10T21:32:36Z
+401856825,Kansas State,Houston,kansas state wildcats,2026-10-10T21:18:48Z
+401858255,Georgia Tech,Duke,yellow jackets,2026-10-10T21:15:05Z
+401858257,Notre Dame,Stanford,fighting irish,2026-10-10T21:16:05Z
+401858259,California,Virginia Tech,golden bears,2026-10-10T21:15:59Z
+401858480,Michigan State,Illinois,michigan state spartans,2026-10-10T21:09:55Z
+401858484,Oregon,UCLA,ducks,2026-10-10T21:28:08Z
+401862796,North Texas,Charlotte,mean green,2026-10-10T21:14:56Z
+401862799,Navy,Tulsa,midshipmen,2026-10-10T21:04:41Z
+401866435,Akron,Eastern Michigan,zips,2026-10-10T21:03:45Z
+401866437,Toledo,Buffalo,rockets,2026-10-10T21:15:24Z
+401866438,Ohio,Central Michigan,ohio bobcats,2026-10-10T21:05:54Z
+401866439,Western Michigan,Kent State,western michigan broncos,2026-10-10T21:07:45Z
+401861964,Temple,UConn,temple owls,2026-10-10T21:28:49Z
+401856713,Arkansas,Tennessee,razorbacks,2026-10-10T21:50:27Z
+401858483,Ohio State,Maryland,buckeyes,2026-10-10T22:01:34Z
+401860902,Oregon State,San Diego State,beavers,2026-10-10T23:51:03Z
+401856715,Kentucky,LSU,kentucky wildcats,2026-10-11T00:48:07Z
+401862798,Memphis,UAB,memphis tigers,2026-10-11T00:43:06Z
+401864517,UTEP,Nevada,miners,2026-10-11T00:55:06Z
+401864518,UNLV,North Dakota State,unlv rebels,2026-10-11T00:56:08Z
+401869943,Marshall,Coastal Carolina,thundering herd,2026-10-11T00:32:14Z
+401856712,Alabama,Georgia,crimson tide,2026-10-11T01:32:08Z
+401858258,Virginia,Syracuse,cavaliers,2026-10-11T01:11:41Z
+401858485,Penn State,USC,nittany lions,2026-10-11T01:15:57Z
+401869949,Georgia Southern,James Madison,georgia southern eagles,2026-10-11T01:55:39Z
+401869965,Louisiana Tech,Louisiana,louisiana tech bulldogs,2026-10-11T01:06:46Z
+401856827,Utah,Kansas,utes,2026-10-11T02:03:13Z
+401858486,Purdue,Minnesota,boilermakers,2026-10-11T01:40:22Z
+401860901,Fresno State,Boise State,fresno state bulldogs,2026-10-11T04:43:39Z
+401871067,Middle Tennessee,Delaware,blue raiders,2026-10-14T00:42:16Z
+401871053,Jacksonville State,Florida International,jacksonville state gamecocks,2026-10-14T01:44:02Z
+401871054,Missouri State,Kennesaw State,missouri state bears,2026-10-15T01:07:23Z
+401871068,Sam Houston,Western Kentucky,bearkats,2026-10-15T01:43:59Z
+401862800,UAB,East Carolina,uab blazers,2026-10-16T01:15:44Z
+401869950,Old Dominion,Georgia Southern,monarchs,2026-10-16T01:22:34Z
+401860923,Texas State,Colorado State,texas state bobcats,2026-10-16T01:55:45Z
+401862801,Tulane,Memphis,green wave,2026-10-17T01:25:33Z
+401858493,Purdue,Washington,boilermakers,2026-10-17T01:51:37Z
+401869844,Coastal Carolina,App State,chanticleers,2026-10-17T01:46:09Z
+401856720,LSU,Mississippi State,lsu tigers,2026-10-17T17:49:24Z
+401856724,Texas,Florida,longhorns,2026-10-17T17:45:40Z
+401856829,West Virginia,Cincinnati,west virginia mountaineers,2026-10-17T17:47:56Z
+401856830,Kansas State,Kansas,kansas state wildcats,2026-10-17T17:51:52Z
+401858261,Clemson,Charleston Southern,clemson tigers,2026-10-17T17:41:01Z
+401858267,Boston College,Pittsburgh,boston college eagles,2026-10-17T17:46:36Z
+401858268,SMU,Virginia,smu mustangs,2026-10-17T17:37:09Z
+401858488,Indiana,Ohio State,hoosiers,2026-10-17T18:04:48Z
+401858491,Michigan State,Northwestern,michigan state spartans,2026-10-17T17:39:21Z
+401862802,Army,Florida Atlantic,black knights,2026-10-17T17:45:47Z
+401866441,Bowling Green,Ball State,bowling green falcons,2026-10-17T17:31:04Z
+401869957,James Madison,Georgia State,james madison dukes,2026-10-17T17:57:14Z
+401858489,Maryland,Rutgers,terrapins,2026-10-17T18:13:22Z
+401856725,Texas A&M,The Citadel,texas a&m aggies,2026-10-17T18:31:33Z
+401862803,Temple,Charlotte,temple owls,2026-10-17T18:36:37Z
+401866442,Buffalo,Massachusetts,buffalo bulls,2026-10-17T18:42:59Z
+401866443,Central Michigan,Western Michigan,chippewas,2026-10-17T18:49:25Z
+401856719,Georgia,Auburn,georgia bulldogs,2026-10-17T21:19:45Z
+401856721,Ole Miss,Missouri,ole miss rebels,2026-10-17T21:17:59Z
+401856723,Tennessee,Alabama,volunteers,2026-10-17T21:40:06Z
+401856828,Texas Tech,Arizona State,red raiders,2026-10-17T21:35:42Z
+401858264,Virginia Tech,Georgia Tech,hokies,2026-10-17T21:02:40Z
+401858266,Duke,North Carolina,duke blue devils,2026-10-17T21:17:57Z
+401858490,Michigan,Penn State,wolverines,2026-10-17T21:17:13Z
+401864522,Wyoming,Northern Illinois,wyoming cowboys,2026-10-17T21:15:34Z
+401864524,Air Force,UNLV,air force falcons,2026-10-17T21:05:02Z
+401866444,Eastern Michigan,Toledo,eastern michigan eagles,2026-10-17T21:14:08Z
+401866478,Miami (OH),Akron,miami (oh) redhawks,2026-10-17T21:12:59Z
+401862805,Rice,Tulsa,rice owls,2026-10-17T22:11:37Z
+401869966,Louisiana,Troy,cajuns,2026-10-17T22:41:52Z
+401860903,Oregon State,Washington State,beavers,2026-10-17T23:53:34Z
+401856726,Vanderbilt,Arkansas,commodores,2026-10-18T00:39:21Z
+401856832,Baylor,TCU,baylor bears,2026-10-18T00:46:39Z
+401858263,Miami,Florida State,hurricanes,2026-10-18T00:56:25Z
+401862806,South Florida,Kent State,south florida bulls,2026-10-18T00:41:33Z
+401864520,North Dakota State,Nevada,north dakota state bison,2026-10-18T00:40:30Z
+401856722,Oklahoma,Kentucky,sooners,2026-10-18T01:04:45Z
+401856809,BYU,Notre Dame,byu cougars,2026-10-18T01:30:22Z
+401856831,Houston,Oklahoma State,houston cougars,2026-10-18T01:15:24Z
+401858262,Stanford,Elon,stanford cardinal,2026-10-18T01:09:16Z
+401858265,Syracuse,Louisville,orange,2026-10-18T01:24:41Z
+401858494,UCLA,Wisconsin,bruins,2026-10-18T01:09:08Z
+401862804,UTSA,Navy,roadrunners,2026-10-18T01:48:29Z
+401864523,UTEP,San José State,miners,2026-10-18T02:35:31Z
+401866445,Sacramento State,Ohio,sacramento state hornets,2026-10-18T03:44:34Z
+401856833,Colorado,Utah,buffaloes,2026-10-18T04:16:40Z
+401858269,California,Wake Forest,golden bears,2026-10-18T04:36:51Z
+401860904,San Diego State,Fresno State,aztecs,2026-10-18T04:11:07Z
+401864521,Hawai'i,New Mexico,rainbow warriors,2026-10-18T04:20:47Z
+401858492,Oregon,Nebraska,ducks,2026-10-18T04:54:05Z
+401871055,Florida International,Middle Tennessee,florida international panthers,2026-10-21T00:51:43Z
+401871069,Delaware,Missouri State,blue hens,2026-10-21T00:39:53Z
+401871092,Marshall,South Alabama,thundering herd,2026-10-21T01:16:51Z
+401871070,Sam Houston,New Mexico State,bearkats,2026-10-22T01:52:25Z
+401869845,App State,James Madison,appalachian state mountaineers,2026-10-23T00:42:27Z
+401871056,Kennesaw State,Liberty,kennesaw state owls,2026-10-23T00:34:30Z
+401862807,Memphis,East Carolina,memphis tigers,2026-10-23T01:36:58Z
+401858271,Virginia,Duke,cavaliers,2026-10-24T00:34:07Z
+401861965,UConn,Massachusetts,uconn huskies,2026-10-24T00:42:40Z
+401862808,Tulsa,Army,golden hurricane,2026-10-24T02:13:04Z
+401864525,Wyoming,Air Force,wyoming cowboys,2026-10-24T02:36:58Z
+401858272,Stanford,NC State,stanford cardinal,2026-10-24T04:16:57Z
+401856728,Auburn,LSU,auburn tigers,2026-10-24T18:00:37Z
+401856840,Cincinnati,Texas Tech,bearcats,2026-10-24T17:52:42Z
+401856841,TCU,West Virginia,horned frogs,2026-10-24T17:40:08Z
+401858270,SMU,California,smu mustangs,2026-10-24T17:56:30Z
+401858274,Miami,Pittsburgh,hurricanes,2026-10-24T17:52:17Z
+401858496,Michigan,Indiana,wolverines,2026-10-24T17:52:28Z
+401858498,Northwestern,Rutgers,northwestern wildcats,2026-10-24T17:48:49Z
+401862809,Florida Atlantic,Rice,florida atlantic owls,2026-10-24T17:51:46Z
+401866450,Toledo,Western Michigan,rockets,2026-10-24T17:51:32Z
+401856834,Kansas,Baylor,jayhawks,2026-10-24T18:33:26Z
+401866446,Kent State,Akron,golden flashes,2026-10-24T18:34:39Z
+401866476,Central Michigan,Miami (OH),chippewas,2026-10-24T18:35:42Z
+401858495,Illinois,Oregon,fighting illini,2026-10-24T20:36:21Z
+401856727,Alabama,Texas A&M,crimson tide,2026-10-24T21:30:06Z
+401856730,Mississippi State,Oklahoma,mississippi state bulldogs,2026-10-24T21:02:37Z
+401856731,South Carolina,Tennessee,south carolina gamecocks,2026-10-24T21:18:22Z
+401856835,UCF,BYU,ucf knights,2026-10-24T21:26:00Z
+401858273,Georgia Tech,Boston College,yellow jackets,2026-10-24T21:18:09Z
+401858497,Minnesota,Iowa,golden gophers,2026-10-24T21:16:28Z
+401858499,UCLA,Michigan State,bruins,2026-10-24T21:21:58Z
+401862810,Navy,North Texas,midshipmen,2026-10-24T21:13:00Z
+401864526,Northern Illinois,Hawai'i,northern illinois huskies,2026-10-24T21:09:21Z
+401866447,Ball State,Sacramento State,ball state cardinals,2026-10-24T21:12:55Z
+401866448,Buffalo,Bowling Green,buffalo bulls,2026-10-24T20:57:34Z
+401856839,Arizona State,Kansas State,sun devils,2026-10-24T21:43:13Z
+401866449,Ohio,Eastern Michigan,ohio bobcats,2026-10-24T21:41:38Z
+401871094,Troy,UL Monroe,troy trojans,2026-10-24T21:36:25Z
+401864528,Nevada,San José State,wolf pack,2026-10-24T22:29:13Z
+401869967,Southern Miss,Louisiana,southern miss,2026-10-24T22:46:20Z
+401871093,Louisiana Tech,Old Dominion,louisiana tech bulldogs,2026-10-24T22:27:17Z
+401860907,Washington State,Boise State,washington state cougars,2026-10-24T23:48:08Z
+401860905,Colorado State,San Diego State,colorado state rams,2026-10-25T00:25:20Z
+401856836,Oklahoma State,Colorado,oklahoma state cowboys,2026-10-25T00:56:34Z
+401858276,Clemson,Virginia Tech,clemson tigers,2026-10-25T00:33:20Z
+401869935,Arkansas State,Georgia State,red wolves,2026-10-25T00:33:00Z
+401856729,Kentucky,Vanderbilt,kentucky wildcats,2026-10-25T01:08:09Z
+401856732,Texas,Ole Miss,longhorns,2026-10-25T01:36:58Z
+401856838,Arizona,Iowa State,arizona wildcats,2026-10-25T01:17:37Z
+401858275,North Carolina,Syracuse,tar heels,2026-10-25T01:08:52Z
+401858500,Wisconsin,USC,badgers,2026-10-25T01:05:53Z
+401860906,Texas State,Utah State,texas state bobcats,2026-10-25T01:14:18Z
+401862811,Tulane,UTSA,green wave,2026-10-25T01:52:40Z
+401864527,New Mexico,North Dakota State,lobos,2026-10-25T03:54:12Z
+401856837,Utah,Houston,utes,2026-10-25T03:58:15Z
+401871071,Western Kentucky,Delaware,hilltoppers,2026-10-28T00:37:01Z
+401871072,Missouri State,Sam Houston,missouri state bears,2026-10-28T01:47:58Z
+401871058,Middle Tennessee,Kennesaw State,blue raiders,2026-10-29T00:43:15Z
+401871057,New Mexico State,Jacksonville State,new mexico state aggies,2026-10-29T01:32:02Z
+401862812,North Texas,Florida Atlantic,mean green,2026-10-30T01:32:47Z
+401869963,James Madison,Troy,james madison dukes,2026-10-30T01:23:35Z
+401862813,Charlotte,Tulane,49ers,2026-10-31T00:53:42Z
+401856844,UCF,Baylor,ucf knights,2026-10-31T01:22:16Z
+401866451,Sacramento State,Kent State,sacramento state hornets,2026-10-31T04:25:04Z
+401856842,Texas Tech,Arizona,red raiders,2026-10-31T17:46:10Z
+401858277,NC State,California,wolfpack,2026-10-31T17:44:49Z
+401858278,Syracuse,SMU,orange,2026-10-31T17:46:12Z
+401858279,Duke,Boston College,duke blue devils,2026-10-31T17:53:45Z
+401858502,Iowa,Wisconsin,hawkeyes,2026-10-31T17:42:12Z
+401858503,Maryland,Illinois,terrapins,2026-10-31T17:37:55Z
+401859185,Navy,Notre Dame,midshipmen,2026-10-31T17:39:59Z
+401862816,South Florida,UAB,south florida bulls,2026-10-31T17:45:27Z
+401866452,Western Michigan,Bowling Green,western michigan broncos,2026-10-31T17:35:10Z
+401858507,Rutgers,Michigan,scarlet knights,2026-10-31T18:08:15Z
+401856735,Ole Miss,Auburn,ole miss rebels,2026-10-31T18:24:11Z
+401871096,Old Dominion,Marshall,monarchs,2026-10-31T18:52:58Z
+401856846,Colorado,Kansas State,buffaloes,2026-10-31T19:26:41Z
+401869944,Georgia State,Coastal Carolina,georgia state panthers,2026-10-31T19:43:07Z
+401861966,Air Force,UConn,air force falcons,2026-10-31T20:31:49Z
+401862815,East Carolina,Temple,east carolina pirates,2026-10-31T20:36:24Z
+401871097,South Alabama,Louisiana Tech,south alabama jaguars,2026-10-31T20:47:52Z
+401858283,Louisville,Stanford,louisville cardinals,2026-10-31T21:13:08Z
+401856734,Georgia,Florida,georgia bulldogs,2026-10-31T21:23:18Z
+401856843,BYU,Arizona State,byu cougars,2026-10-31T21:24:35Z
+401856845,TCU,Kansas,horned frogs,2026-10-31T21:18:35Z
+401858501,Indiana,Minnesota,hoosiers,2026-10-31T21:22:53Z
+401858505,Oregon,Northwestern,ducks,2026-10-31T21:11:10Z
+401860910,Utah State,Colorado State,utah state aggies,2026-10-31T21:01:49Z
+401864531,North Dakota State,UTEP,north dakota state bison,2026-10-31T21:01:57Z
+401871059,Liberty,Florida International,flames,2026-10-31T21:04:47Z
+401871095,UL Monroe,Southern Miss,warhawks,2026-10-31T21:04:05Z
+401856848,Cincinnati,Utah,bearcats,2026-10-31T21:34:40Z
+401858284,Wake Forest,Virginia,demon deacons,2026-10-31T21:22:01Z
+401864529,San José State,New Mexico,san jose state spartans,2026-10-31T21:26:35Z
+401856736,Oklahoma,South Carolina,sooners,2026-10-31T22:07:38Z
+401858506,Penn State,Purdue,nittany lions,2026-10-31T21:51:49Z
+401858508,UCLA,Nevada,bruins,2026-10-31T21:57:26Z
+401869846,Georgia Southern,App State,georgia southern eagles,2026-11-01T00:18:00Z
+401856847,Iowa State,Oklahoma State,cyclones,2026-11-01T00:52:15Z
+401858280,Florida State,Clemson,seminoles,2026-11-01T01:06:25Z
+401860909,San Diego State,Washington State,aztecs,2026-11-01T00:30:58Z
+401856737,Texas,Mississippi State,longhorns,2026-11-01T01:12:54Z
+401858281,Pittsburgh,Georgia Tech,pittsburgh panthers,2026-11-01T01:24:44Z
+401858282,North Carolina,Miami,tar heels,2026-11-01T01:17:25Z
+401858509,USC,Ohio State,usc trojans,2026-11-01T01:19:37Z
+401856733,Arkansas,Missouri,razorbacks,2026-11-01T01:30:44Z
+401858504,Nebraska,Washington,cornhuskers,2026-11-01T01:40:50Z
+401862814,Memphis,Army,memphis tigers,2026-11-01T01:43:57Z
+401860908,Boise State,Texas State,boise state broncos,2026-11-01T03:52:28Z
+401864530,UNLV,Northern Illinois,unlv rebels,2026-11-01T04:02:23Z
+401860924,Fresno State,Oregon State,fresno state bulldogs,2026-11-01T04:44:45Z
+401866453,Akron,Ohio,zips,2026-11-04T01:40:42Z
+401866454,Miami (OH),Buffalo,miami (oh) redhawks,2026-11-04T02:48:35Z
+401866455,Massachusetts,Ball State,minutemen,2026-11-05T01:42:09Z
+401866457,Sacramento State,Toledo,sacramento state hornets,2026-11-05T01:33:37Z
+401862817,Florida Atlantic,UTSA,florida atlantic owls,2026-11-06T02:42:11Z
+401869964,Southern Miss,James Madison,southern miss,2026-11-06T02:56:39Z
+401858288,SMU,Virginia Tech,smu mustangs,2026-11-07T01:46:43Z
+401862818,East Carolina,South Florida,east carolina pirates,2026-11-07T02:17:30Z
+401858510,Illinois,Nebraska,fighting illini,2026-11-07T02:55:24Z
+401864533,Nevada,New Mexico,wolf pack,2026-11-07T03:32:55Z
+401856855,Arizona,TCU,arizona wildcats,2026-11-07T05:14:15Z
+401856743,Missouri,Texas,missouri tigers,2026-11-07T18:48:59Z
+401856849,Utah,BYU,utes,2026-11-07T18:50:17Z
+401856853,Baylor,Iowa State,baylor bears,2026-11-07T18:48:02Z
+401858285,Syracuse,Clemson,orange,2026-11-07T18:42:27Z
+401858289,Boston College,Florida State,boston college eagles,2026-11-07T18:45:27Z
+401858292,UConn,North Carolina,uconn huskies,2026-11-07T18:43:50Z
+401858512,Minnesota,UCLA,golden gophers,2026-11-07T18:55:44Z
+401862822,Tulane,Tulsa,green wave,2026-11-07T18:41:51Z
+401858286,NC State,Duke,wolfpack,2026-11-07T19:23:25Z
+401858515,Purdue,Maryland,boilermakers,2026-11-07T19:02:11Z
+401856738,Auburn,Arkansas,auburn tigers,2026-11-07T19:29:08Z
+401856854,Kansas State,Oklahoma State,kansas state wildcats,2026-11-07T20:07:37Z
+401869945,Coastal Carolina,Old Dominion,chanticleers,2026-11-07T19:53:27Z
+401869927,App State,Georgia State,appalachian state mountaineers,2026-11-07T21:10:50Z
+401856744,South Carolina,Texas A&M,south carolina gamecocks,2026-11-07T21:32:51Z
+401869936,Arkansas State,UL Monroe,red wolves,2026-11-07T21:31:33Z
+401871073,Kennesaw State,Delaware,kennesaw state owls,2026-11-07T21:55:26Z
+401856740,LSU,Alabama,lsu tigers,2026-11-07T22:21:20Z
+401856851,Houston,Cincinnati,houston cougars,2026-11-07T22:30:22Z
+401858290,Wake Forest,Merrimack,demon deacons,2026-11-07T22:35:55Z
+401858514,Ohio State,Oregon,buckeyes,2026-11-07T22:31:02Z
+401858516,Washington,Penn State,washington huskies,2026-11-07T22:16:44Z
+401862819,UAB,Charlotte,uab blazers,2026-11-07T21:57:24Z
+401862820,Navy,Temple,midshipmen,2026-11-07T22:06:57Z
+401869951,Georgia Southern,Marshall,georgia southern eagles,2026-11-07T22:12:33Z
+401871076,Middle Tennessee,Western Kentucky,blue raiders,2026-11-07T22:12:55Z
+401856850,Kansas,UCF,jayhawks,2026-11-07T22:26:45Z
+401862821,North Texas,Rice,mean green,2026-11-07T22:44:09Z
+401864534,San José State,Northern Illinois,san jose state spartans,2026-11-07T22:54:04Z
+401871074,Florida International,Missouri State,florida international panthers,2026-11-07T22:42:26Z
+401871098,Troy,Louisiana Tech,troy trojans,2026-11-07T22:43:29Z
+401856742,Mississippi State,Vanderbilt,mississippi state bulldogs,2026-11-07T22:50:39Z
+401858517,Wisconsin,Rutgers,badgers,2026-11-07T22:43:53Z
+401869968,Louisiana,South Alabama,cajuns,2026-11-07T23:43:38Z
+401860911,Colorado State,Boise State,colorado state rams,2026-11-08T00:42:31Z
+401856745,Tennessee,Kentucky,volunteers,2026-11-08T00:58:45Z
+401871075,Jacksonville State,Sam Houston,jacksonville state gamecocks,2026-11-08T01:42:17Z
+401856741,Ole Miss,Georgia,ole miss rebels,2026-11-08T02:29:46Z
+401856852,Arizona State,Colorado,sun devils,2026-11-08T02:09:34Z
+401858287,Georgia Tech,Louisville,yellow jackets,2026-11-08T02:18:07Z
+401858291,Notre Dame,Miami,fighting irish,2026-11-08T02:11:59Z
+401858511,Michigan,Michigan State,wolverines,2026-11-08T02:22:11Z
+401858513,Northwestern,Iowa,northwestern wildcats,2026-11-08T02:12:52Z
+401862823,Army,Air Force,black knights,2026-11-08T02:07:26Z
+401856739,Florida,Oklahoma,gators,2026-11-08T02:23:39Z
+401870795,New Mexico State,Liberty,new mexico state aggies,2026-11-08T02:45:45Z
+401856856,Texas Tech,West Virginia,red raiders,2026-11-08T04:29:09Z
+401860913,Utah State,Fresno State,utah state aggies,2026-11-08T04:12:09Z
+401864532,UTEP,Hawai'i,miners,2026-11-08T04:17:09Z
+401860912,Oregon State,Texas State,beavers,2026-11-08T05:29:33Z
+401864535,UNLV,Wyoming,unlv rebels,2026-11-08T05:26:04Z

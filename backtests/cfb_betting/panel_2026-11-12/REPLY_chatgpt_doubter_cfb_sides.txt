@@ -1,0 +1,458 @@
+Worked for 13m 6s
+
+PART 1 of 12
+
+THE ENGINE: POSSIBLE, BUT UNPROVED
+
+Your packet does not demonstrate a repeatable, executable college edge. It also does not establish that one can never exist. The central defect is that the stated trigger, the historical test and the actual ticket are not consistently the same thing.
+
+All reported results below come from your packet. Additional calculations are mine. External operating facts are marked OUTSIDE.
+
+MAJOR: The 3.0-point threshold is a hurdle, not evidence of accuracy.
+
+A genuine three-probability-point advantage can exist. The question is whether the estimated fair is accurate enough, and whether the advantageous price remains available for the required quantity.
+
+At a half-point spread priced -110, a true three-point probability advantage over breakeven implies approximately 5.7% expected return on money risked. That is a substantial claimed advantage. Your evidence does not establish it.
+
+MAJOR: A no-vig median is a market estimate, not a demonstrated fair.
+
+The calculation must begin with both opposing prices from the same book, at the same spread and time. Remove that book’s margin using a fixed method, then aggregate the resulting probabilities.
+
+Six books can share the same information, pricing errors or stale feed. Their agreement does not provide six independent confirmations. With two books, the ordinary median is simply their average; one bad input can materially distort it.
+
+The four-book minimum for 1H versus two for 2H also means the same three-point threshold rests on different amounts of information. No college evidence establishes that this asymmetry is acceptable.
+
+FATAL if implemented incorrectly: The comparison must include the actual ticket’s costs and payout structure.
+
+Illustration: estimated fair 55%, Robinhood ask 52 cents, fee two cents. The effective cost is 54 cents. The advantage is one probability point, not three.
+
+When the three-point test already uses the correct all-in cost and matching settlement, “EV above zero” adds no separate protection. It largely repeats the same calculation.
+
+A quiet engine is not itself a defect. If qualifying prices are absent, “ENGINE: none” is the correct result. The defect would be treating the existence of a written trigger as evidence that its rare fires are profitable.
+
+PART 2 of 12
+
+THE HOOK: A LEGITIMATE IDEA WITH AN UNVALIDATED CONVERSION
+
+FATAL if the supplied table is used as a universal adjustment.
+
+At an integer sportsbook spread, de-vigging opposing odds estimates the win probability conditional on the bet not pushing. A half-point binary contract has no corresponding push. Those probabilities cannot be interchanged.
+
+Illustration, not an observed game:
+
+Suppose the consensus fair probability of covering -3.5 is 50%. Suppose the relevant probability of winning by exactly three is 11.5%.
+
+At -3, the win probability remains 50%, the push probability becomes 11.5%, and the loss probability becomes 38.5%. The conditional fair probability is 50 divided by 88.5, approximately 56.50%.
+
+Against -110, whose breakeven probability is 52.38%, this appears to create a 4.12-point advantage.
+
+But if the relevant push probability is actually 4%, the conditional fair becomes 52.08%. The same -110 ticket now has negative expected value.
+
+The table can therefore determine whether the engine invents a fire.
+
+Your 314-game figures—11.5% at three, 15.3% at seven, 6.1% at ten and 5.7% tied—leave essential questions unanswered:
+
+1. Are these signed margins or absolute margins?
+2. Which team determines the sign?
+3. Are they conditioned on the contemporaneous spread being near the number crossed?
+4. Which tiers and game states supplied the observations?
+5. Were the estimates chosen before examining the apparent opportunities?
+
+An absolute three-point margin can include either team winning by three. Those are different outcomes for a particular team laying three. Even a correctly signed frequency across all games is not automatically the push probability for games priced around three.
+
+The sample size does not cure that mismatch. Even treating all 314 games as homogeneous independent observations, the approximate 95% interval around 11.5% is roughly 8.4% to 15.5%. Conditioning on the relevant market leaves fewer observations.
+
+Also, a 1H table does not validate 2H conversions or pure FCS markets.
+
+What would change my mind: documented signed, market-conditioned counts; audited win/loss/push arithmetic; and validation on games that did not determine the table. The HOOK concept is sound. This packet has not established that its conversion inputs are sound.
+
+PART 3 of 12
+
+EXECUTION: YOUR HISTORIES CANNOT CERTIFY YOUR GATE
+
+FATAL to a claim of verified historical execution.
+
+Five-minute sportsbook snapshots and minute-level Robinhood bid/ask history can identify displayed candidates. As described, they cannot establish full-stake execution with every required quote verified within 30 seconds.
+
+There are separate questions:
+
+1. When was the quote last verified as available?
+2. Was it still available when the ticket was submitted?
+3. How much could actually be filled at that price?
+
+A fresh retrieval of a cached quote does not answer the first question. Conversely, an unchanged price is not automatically stale if its availability was freshly verified.
+
+Your rule also fails to specify whether “fillable for the full stake” applies to the venue, every reference book, or both.
+
+The four-cent bid-ask cap establishes neither depth nor fill probability.
+
+Using your stipulated two-cent fee, a 60-cent ask costs 62 cents per contract. Approximately 395 contracts are required to win $150 net, putting about $244.90 at risk. At -110, $150 to win requires $165 risked.
+
+One displayed contract at the best ask does not establish availability for approximately 395 contracts. “Half a unit” here describes target winnings, not constant downside.
+
+The 30-second requirement probably removes some false opportunities caused by stale quotes. It can also leave very few qualifying observations. Neither effect has been measured in college.
+
+Five-minute sampling has another limitation: it can miss opportunities that appeared and disappeared between snapshots. Zero recorded candidates cannot establish zero opportunities throughout halftime.
+
+OUTSIDE: A currently listed Kalshi college 2H spread explicitly includes overtime, and Bovada’s football rules also include overtime in 2H wagers. Historical comparisons still require the exact contract terms applicable to each row. Matching the spread number alone is insufficient. 
+
+I retain your two-cent fee for the calculations here. An actual cash-profit replay should verify the applicable Robinhood fees; its current documentation describes price-dependent commissions. 
+
+What would change my mind: contemporaneous quote verification, available quantity, final ticket cost and actual fill records. A displayed-price backtest cannot supply those missing facts.
+
+PART 4 of 12
+
+CLEAR LEAN: THE NEW GATE CHANGES WHAT “TWO OF THREE” MEANS
+
+MAJOR: At DSB, the voting rule largely collapses.
+
+If a DSB lean can be bet only at fair or better, the PRICE vote is already satisfied. Two of three then becomes:
+
+Favorable price, plus either PERSONNEL or FLOW, with no hard counter.
+
+That is one handicapping signal combined with a price filter. It is not two independent handicapping confirmations.
+
+For a Robinhood or Red105 ticket, the DSB PRICE vote may describe a price the operator is not buying. Its incremental value needs evidence. The actual venue must independently satisfy the price gate.
+
+“Priced at or above fair” is also directionally ambiguous. Higher decimal odds help the bettor; a higher contract cost or implied breakeven probability hurts. That wording is unsafe for an AI-operated protocol.
+
+MAJOR: The votes are insufficiently defined.
+
+PERSONNEL does not specify how competing absences produce a directional vote. Two missing starters can represent radically different losses. “Limited” lacks a measurable definition. An injury already incorporated into the market is not automatically an additional edge.
+
+FLOW names several statistics without supplying a complete classifier. How are sustain rate, giveaways and clean margin combined? What constitutes a short field? Are scoring drives that qualify under multiple exclusions subtracted once?
+
+The 1H version is especially weak: an optional read of each team’s previous game does not define how to account for different opponents. Missing FLOW also changes which combinations can produce a lean.
+
+A missing input correctly casts no vote. But that means two remaining inputs must agree; it does not justify filling the gap with narrative judgment.
+
+MAJOR: The hard counters are unvalidated discontinuities.
+
+A 1.5 yards-per-play gap can arise from very different play distributions. Two absent starters are not a consistent unit of personnel damage. A net-turnover threshold needs an explicit sign convention.
+
+The lead and turnover vetoes may be defensible precautions. Their exact cutoffs have not been shown to improve priced outcomes.
+
+Correlated votes are not automatically useless. But counting them does not establish incremental predictive value.
+
+What would change my mind: a specification two independent operators can reproduce, followed by priced results for the actual surviving combinations. The current 8-5 and 2-0 records cannot establish that.
+
+PART 5 of 12
+
+THE EVIDENCE: FIRST HALF AND THE EARLIER SECOND-HALF TESTS
+
+MAJOR: These records support narrower conclusions than their summaries suggest.
+
+1. First-half leans: 13 selections, 8-5.
+
+That is 61.5%, but the approximate 95% win-rate interval spans 35.5% to 82.3%. It establishes neither an edge nor its absence.
+
+Beating the close only two times in 13, with mean CLV of -0.9 spread points, undermines the claim that these selections identify favorable market positions. Eight winners do not repair that process evidence.
+
+However, spread-point CLV is incomplete without prices, closing timestamps and consistent settlement. Losing half a point across three differs from losing half a point elsewhere. Negative CLV is a warning, not a mathematical proof of negative EV.
+
+2. First-half replay: 91 games, 364 prices, three apparent advantages, maximum 0.52 probability points.
+
+None reached the actual three-point trigger. This supports rarity under that replay’s construction.
+
+It does not establish what DSB, Red105 or Robinhood offered unless their actual historical quotes were included as targets. Also establish whether the selected “best book” was excluded from its own consensus.
+
+The 364 prices are correlated observations from 91 games, not 364 independent games.
+
+3. Home 47-44; favorites 40-51.
+
+The home record is 51.6%, which would lose money at uniform -110. The favorite record is 44.0%.
+
+Neither establishes a profitable rule. Reversing the favorite result into a dog strategy after seeing it would create another selected hypothesis requiring independent validation.
+
+4. Anchor study: 102 games; betting toward the anchor 15-17; operator’s 36 anchor-side boards 15-21.
+
+The first betting record contains 32 decisions, not 102. Explain the remaining games. Explain how those 32 relate to the 36 operator boards.
+
+Both records provide no affirmative support for the anchor. Neither proves its population contribution is exactly zero. Adding overlapping records would inflate the evidence.
+
+5. About 40 halftime boards: FLOW 3-8, leaders laying points 5-10, FLOW-led leans 0-4.
+
+These are adverse screens with small, potentially overlapping subsets. They justify skepticism about those implementations.
+
+They do not prove an opposite strategy works. Four losses do not establish that FLOW cannot work, just as two wins do not establish CLEAR LEAN works.
+
+The one-day promotion and retirement of a rule is evidence of an unstable selection process, not reliable model comparison.
+
+PART 6 of 12
+
+THE EVIDENCE: 58-33 AND 17-6
+
+MAJOR: These are interesting screens. They are not established betting edges.
+
+The 91-game 2H replay produced zero engine fires because two books were never three points apart. That is not generally the specified test: an excluded venue against a de-vigged consensus of at least two outside books.
+
+CLEAR LEAN going 2-0 says almost nothing. A selection process winning at the -110 breakeven rate would win two consecutive bets about 27.4% of the time.
+
+Home 58-33 equals 63.7%. FLOW with an actual lead under 21 going 17-6 equals 73.9%.
+
+Their nominal 95% win-rate intervals are approximately:
+
+Home: 53.5% to 72.9%. FLOW: 53.5% to 87.4%.
+
+Those intervals assume a fixed rule and independent observations. They do not account for selecting the rules after examining the results.
+
+For illustration, assuming every ticket was -110, the one-sided exact probabilities against breakeven are approximately 0.019 for home and 0.030 for FLOW. Neither reaches 0.0167, the threshold obtained by dividing a 5% error allowance among just three claims. Your packet already contains more than three comparisons.
+
+More importantly, the actual prices are absent. A cover record cannot establish the return of Robinhood contracts at different strikes, asks and fees.
+
+Before interpreting home 58-33, audit:
+
+1. Home/away spread signs.
+2. Second-half margin versus final-game margin.
+3. Overtime treatment.
+4. Neutral-site “home” labels.
+5. Whether any quote was captured after the third quarter began.
+6. Whether missing markets selected an unusual subset.
+
+Leaders without FLOW went 22-26. Trailing teams favored went 12-15. Neither supports a positive edge or a profitable opposite rule. The leader comparison also requires the same lead restriction and pricing eligibility as the 17-6 group.
+
+Pooled FLOW 23-19 is 54.8%, with an approximate 95% interval of 40.0% to 68.8%.
+
+If 17-6 belongs inside that pool under identical definitions, the remaining observations are 6-13. If the earlier 3-8 is also a separate component, another 3-5 remains to be identified. Different filters could explain the counts; the packet does not reconcile them.
+
+Do not add the 0-4 separately without checking overlap.
+
+Two Saturdays provide a short calendar window, even when they contain many games. They cannot establish stability across the remainder of the season or bowls.
+
+PART 7 of 12
+
+NFL CARRY-OVER: PRICE DISCIPLINE IS PORTABLE; THE CLAIMED EDGE IS NOT
+
+MAJOR: The NFL evidence has unresolved arithmetic and transport problems.
+
+“68 of 901 games” is about 7.5%, but 41-33-1 contains 75 bets. Multiple bets per game could explain this. If so, disclose that and account for their dependence. Otherwise the counts conflict.
+
+The +5.4% return requires actual prices, stakes and a stated denominator. It cannot be uniquely reconstructed from the record.
+
+“Three in four gone in five minutes” needs its own denominator and definition of disappearance. It supports urgency in that NFL sample; it does not measure survival through the college workflow.
+
+Robinhood’s three qualifying observations in 125 NFL games equal 2.4%. That supports rarity in that sample. It does not estimate college frequency.
+
+The reported 2.7-point taking cost is also sample-specific. Do not impose it as an additional deduction after already using the actual ask and fee; that could count execution costs twice.
+
+The operator’s 12-5 versus 12-15-2 consists of 17 and 29 bets, respectively. Excluding pushes, the win rates are 70.6% and 44.4%.
+
+That is an observational split, not a controlled test. Differences in games, windows, venues, selection quality and prices could explain part or all of it.
+
+“Moved the ball and led covered about 52%” has no denominator. At -110, breakeven is 52.38%. That statement supplies no positive profitability evidence and cannot calibrate college FLOW.
+
+The fair-or-better gate is defensible as a conservative pricing constraint. For an unchanged bet, obtaining a better price improves its economics.
+
+But rejecting every selection priced worse than an estimated consensus is a separate proposition. A genuinely informative handicap could disagree with that consensus. Conversely, buying exactly at a correctly estimated fair supplies zero market-derived edge.
+
+College book coverage, consensus error, liquidity, personnel information and game-state distributions could differ. Those are reasons to test transport, not assumed explanations for an edge.
+
+There is also a practical interaction with -115:
+
+Using your two-cent fee, the lean’s all-in cost must be at most 53.49 cents to satisfy that odds cap. With whole-cent quotes, the ask must therefore be at most 51 cents. The 60-cent ask cap does not override this tighter lean restriction.
+
+The new price gate creates a different selection cohort. Earlier ungated lean records cannot validate it.
+
+The other copied rule concerns totals and is outside this sides-only review.
+
+PART 8 of 12
+
+CONTRADICTIONS, DEAD WEIGHT AND THE KILL SWITCH
+
+MAJOR: The engine is described as a price test but is also restricted by football-state vetoes.
+
+That is not inherently wrong. It means the complete claim is about a filtered price test. Evidence from unrestricted price discrepancies cannot validate that filtered implementation.
+
+Several specifications remain unresolved:
+
+1. “Confirmed QB change; market must have repriced” lacks an observable completion condition. A previously anticipated change might require no visible additional movement.
+2. The consensus rules require identical numbers while the conversion exception permits crossing numbers. Book-count and disagreement rules need explicit precedence.
+3. The historical FLOW definitions are incomplete.
+4. The final freshness requirement must apply after the last decision-changing check.
+
+MAJOR: Step 0 spends halftime time before establishing whether the price engine has a candidate.
+
+Pulling and printing complete drive tables for every game does not change an engine defined by outside prices, apart from separately specified vetoes.
+
+Personnel verification and applicable veto checks can matter. Producing the entire FLOW presentation before discovering that no candidate exists is a different workload.
+
+The pre-ticket sequence also says re-pull, then news check. If that check and subsequent phone interaction take more than 30 seconds, the refreshed quotes may no longer satisfy the rule.
+
+Whether this actually destroys opportunities requires measured timings. NFL disappearance rates cannot supply the missing college measurement.
+
+MINOR: In a sides-only review, the lead-of-28 branch adds nothing after the 21-to-27 prohibition; together they simply exclude spreads whenever the lead reaches 21.
+
+Likewise, “EV above zero” is redundant if the probability test already includes correct costs and payouts.
+
+MAJOR: The 0-3 kill switch is not evidence that an engine failed.
+
+If a system truly won 55% of independent bets, losing its first three would occur about 9.1% of the time.
+
+Clarify whether 0-3 means the first three bets, any three consecutive losses, or a record since a reset. These produce different stopping behavior.
+
+It may be a loss-tolerance rule. It cannot establish statistical invalidity. It also governs engines while your plain reading says operator-bet leans carry the action.
+
+MINOR: Raw shadow flags are cheap to preserve automatically. The dead weight is promising usable validation for every window, tier, venue, injury state and shadow subset within four Saturdays plus bowls.
+
+Pure FCS coverage is another boundary: FBS game data, including some FBS opponents from FCS, do not validate the full FCS universe.
+
+About 25 boards without the retired gap trigger supports “unproductive in those boards,” not “universally impossible.”
+
+PART 9 of 12
+
+THE TEST: FREEZE THE QUESTIONS AND OBSERVATION TIMES
+
+I would specify one historical screen with at most three claims. It would not claim to validate live execution.
+
+Claim A: The same-number price component produces correctly matched, displayed Robinhood opportunities. Report 1H and 2H separately.
+
+Claim B: The home-team 2H signal produces positive quote-based returns after the stated pricing restrictions and observable hard counters.
+
+Claim C: The original FLOW classifier, combined with an actual halftime lead from one through 20 points, produces positive quote-based returns on the same basis.
+
+Claim C requires the exact classifier that generated 17-6. Freeze its code and definitions before querying prices. If it cannot be recovered, classify 17-6 as nonreproducible and leave this claim unused. Do not replace it with a newly invented FLOW rule.
+
+Use this season’s completed games through November 11, 2026. Mark previously inspected games and report them separately. Neither group becomes prospective proof.
+
+Use games involving an FBS team, with FBS-versus-FCS results identified separately. Do not generalize to pure FCS contests. Exclude neutral venues from the physical-home claim.
+
+Before buying odds, verify that the records contain wall-clock halftime and third-quarter kickoff timestamps. A game clock alone cannot identify the correct historical odds snapshot.
+
+Observation schedule:
+
+1H: The first archive grid time at or after scheduled kickoff minus 15 minutes, followed by the next two five-minute snapshots. Exclude any snapshot at or after actual kickoff.
+
+2H: The first archive grid time after verified halftime, followed by the next two five-minute snapshots. Exclude any snapshot at or after the third-quarter kickoff.
+
+Use only information available at or before each observation. Never use the nearest later quote or a final corrected personnel report.
+
+For each claim, use the first eligible observation. Do not select whichever timestamp later yields the best result.
+
+Three snapshots of a game are observation opportunities, not three independent trials.
+
+Do not add receiver-of-kickoff, trailing-favorite, home-plus-FLOW, new lead thresholds or tier-specific strategy claims after seeing the results. Those would be additional searches.
+
+PART 10 of 12
+
+THE TEST: EXACT PRICES, FILTERS AND GRADING
+
+Freeze the outside-book roster before the replay. De-vig paired quotes within each book, then take the median probability.
+
+Retain four usable books for 1H and two for 2H. Apply the stated book-disagreement limits before discarding inconvenient books to obtain agreement.
+
+For the primary test, require identical half-point strikes and identical settlement. No push-table conversion. That isolates the same-number component; it leaves HOOK unvalidated.
+
+Claim A examines every qualifying same-number group. A displayed candidate requires:
+
+1. Robinhood ask at most 60 cents.
+2. Bid-ask width at most four cents.
+3. Median fair minus ask minus two cents of at least three probability points.
+4. A recorded target quote at or before the observation time.
+
+Count distinct game-windows for incidence. Multiple strikes do not become independent evidence. Record whether source timestamps establish freshness; unknown freshness remains unknown.
+
+For Claims B and C, choose the reference main line before examining Robinhood prices: the modal signed home spread across reference books. Break ties by the smallest absolute spread, then the smaller signed value. If it is an integer or lacks a matching contract, that observation is ineligible.
+
+The candidate side is home for B and the original qualifying FLOW side for C.
+
+Apply these observable lean counters: halftime lead under 21; absolute net giveaway difference at most one; no yards-per-play gap of at least 1.5 against the selected side. Freeze the yardage/play accounting before running the test.
+
+Apply both lean price gates: effective cost at most the consensus fair, and effective cost at most 53.49 cents under your stipulated fee.
+
+Use the first observation passing these rules. Keep the ungated records descriptive; the gated cohort is primary.
+
+Historical personnel verification is missing from the listed inventory. Consequently, B and C are priced feature screens, not complete CLEAR LEAN replays. Do not retrospectively mark unknown quarterbacks STABLE.
+
+Normalize simulated tickets to approximately $150 net winnings, with the integer-contract rounding convention fixed in advance. A loss costs the recorded purchase amount including fees; a win pays the contract proceeds minus that amount.
+
+Report return as total profit divided by total cash risked. Grade the specified half and its actual overtime terms.
+
+These remain quote-based simulations because depth and fills are absent.
+
+DSB and Red105 cannot be faithfully replayed from this inventory without their target-venue histories. A DraftKings offer cannot silently stand in for either.
+
+PART 11 of 12
+
+THE TEST: PASSES, SAMPLE REQUIREMENTS AND COST
+
+Claim A has a deliberately limited pass condition: at least one correctly matched displayed candidate in a window establishes that the sampled price component was not empty in that window.
+
+It does not establish useful frequency, full-stake execution or profitability. A successful 2H observation cannot rescue an empty 1H result. Report eligible game-windows, candidate game-windows, missing coverage and freshness verification separately.
+
+There is no historical execution pass available from the listed data.
+
+For B and C, fix the following screen criterion before running:
+
+Positive aggregate return, with a one-sided 98.33% lower confidence bound above zero.
+
+Calculate the interval by resampling complete calendar-week blocks, preserving all selected games and their profit and risk within each block. Use 100,000 resamples and a fixed seed, such as 20261112. Recompute aggregate profit divided by aggregate risk in every resample.
+
+Treat fewer than eight contributing weeks as insufficient for this block-based screen. The interval is an approximation, not a cure for selection bias.
+
+Report overlap between B and C. Their tickets cannot be pooled as independent confirmations.
+
+Sample requirements depend on the true effect. Under an illustrative independent, constant -110 model, approximately 80% power at this significance threshold requires:
+
+About 693 bets if the true win rate is 58%.
+
+About 2,440 bets for a true three-probability-point advantage over -110 breakeven.
+
+Actual varying prices, dependence and missing eligibility can require more. Seven hundred scheduled games do not provide 700 qualifying bets.
+
+This is why four Saturdays plus bowls cannot reasonably promise confirmation of a modest edge. A favorable but underpowered result remains inconclusive.
+
+Cost:
+
+Seven hundred games, two half-spread markets, three snapshots per market, ten credits per lookup: approximately 42,000 credits.
+
+That leaves about 7,000 for failed pulls, timing audits and closing-price checks on selected candidates.
+
+Complete additional closing snapshots for both halves of all 700 games would cost another 14,000, exceeding the budget. Do not promise that coverage.
+
+Inventory free Robinhood contract coverage and settlement compatibility before spending credits.
+
+What remains for future games: contemporaneous personnel states, verified quote availability, actual quantities and fills, completion of the phone workflow, and independent outcomes under unchanged rules.
+
+A historical pass establishes a reason to continue evaluating a claim. It cannot retroactively turn the discovery sample into proof.
+
+PART 12 of 12
+
+SEVERITY AND WHAT WOULD CHANGE MY MIND
+
+FATAL: Incorrect payoff or push conversion.
+
+This can manufacture the qualifying edge. What changes my mind: audited examples separating wins, losses and pushes; matching settlement; and independently validated, market-conditioned conversion inputs.
+
+FATAL: Calling historical displayed prices executable fires.
+
+The supplied histories do not establish the required quantity or final availability. What changes my mind: contemporaneous depth or accepted-stake evidence, final price verification and actual fills.
+
+FATAL to reproducibility: Undefined classifiers or incorrect grading.
+
+The 17-6 claim cannot be faithfully tested without its original classifier. A home record graded using the wrong half, spread sign or overtime treatment is unusable. What changes my mind: reproducible code, source rows and independent reconciliation.
+
+MAJOR: Treating the retail median as established fair value.
+
+The three-point threshold has no demonstrated college calibration. What changes my mind: target-excluded calibration of the frozen consensus method, robustness to individual books, and future priced results.
+
+MAJOR: Presenting CLEAR LEAN as multiple independent confirmations.
+
+The DSB price gate already supplies one vote; the remaining signals and counters are incompletely defined. What changes my mind: reproducible selections and evidence that the surviving combinations add information beyond the priced market.
+
+MAJOR: Treating selected records as validated edges.
+
+This covers 8-5, 2-0, 58-33, 17-6, the pooled FLOW result and conclusions drawn from the losing subsets. What changes my mind: reconciled denominators, exact ticket economics and sufficient future results under frozen rules. Another favorable historical subdivision would not do it.
+
+MAJOR: Claiming the NFL gate is proven in college.
+
+Better prices are mathematically preferable for unchanged bets. The profitability of the selection gate remains untested. What changes my mind: a college replay with unchanged side selections and actual effective prices, followed by independent confirmation.
+
+MAJOR: Workflow latency and the kill switch’s interpretation.
+
+Required steps can consume quote validity, while three losses cannot diagnose model failure. What changes my mind: measured end-to-end timing and a clear statement that the stopping rule controls tolerated losses rather than establishes statistical failure.
+
+MINOR: Redundant branches and excessive validation promises.
+
+The 28-point branch, duplicate EV check and proliferation of tiny logging cohorts add complexity without demonstrated decision value. What changes my mind: identifying the distinct decision each changes, or a credible sample plan for each claimed validation.
+
+Claude’s decisions need these distinctions. A winning Saturday cannot repair incorrect probability arithmetic, mismatched grading or assumed fills.

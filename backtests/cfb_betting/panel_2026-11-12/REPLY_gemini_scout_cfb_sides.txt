@@ -1,0 +1,123 @@
+1. THE ENGINE AND KALSHI
+
+Finding 1: Professional top-down bettors compare an outlier book against a market-making book (Circa, BookMaker, Pinnacle) across half-points using conditional push probabilities rather than waiting for a 3-point win-probability gap at an identical spread.
+Source: Unabated / Rufus Peabody (2026, strong) and Converting College Football Point Spread Differentials to Probabilities (2022, strong).
+Confidence: High.
+Bears on: 1H engine, 2H engine.
+How to check it with our data: Pull 5-minute archive snapshots to count how often Bovada or DraftKings crosses a key number (3, 7) against sharp books versus differing by 3% at the same spread.
+
+Finding 2: Same-number 3.0% win-probability edges (~25–30 cents of juice) almost never exist in pregame retail derivatives because clone books copy market-maker spreads and shade juice by only 5 to 10 cents; halftime windows (15–20 minutes in college) produce brief dislocations before limits settle, though exact college halftime frequency and decay rates are not verified.
+Source: PMC / Integrity Fees in Sports Betting Markets (2021, strong for window length); retail frequency/decay not verified in academic literature.
+Confidence: Medium.
+Bears on: 1H engine, 2H engine.
+How to check it with our data: Measure duration and frequency of 3.0% edges between successive 5-minute halftime snapshots in the 2026 FBS archive.
+
+Finding 3: Crossing the spread on Kalshi (via Robinhood) incurs a taker fee up to 1.75% at 50 cents ($0.07 x P x (1-P)) plus bid-ask spread, whereas resting a maker limit order drops the fee by 75% (to ~0.44%) and captures the spread.
+Source: Kalshi Fee Schedule via OddsShopper / Shander (2026, strong).
+Confidence: High.
+Bears on: 1H engine, 2H engine.
+How to check it with our data: Simulate resting a maker bid at (fair minus 3.0%) in your minute-by-minute Kalshi history and measure fill rate before kickoff and 3Q kickoff.
+
+Finding 4: College football point-margin standard deviation (~21 overall; ~15.35 conditional on spread) is much wider than the NFL's, shrinking the win-probability value of each half-point on high-total and wide-spread games.
+Source: ResearchGate / arXiv CFB Point Spread Differentials (2022, strong).
+Confidence: High.
+Bears on: 1H engine, 2H engine.
+How to check it with our data: Compute empirical push rates on 3 and 7 across all 700 FBS games from 2026 split into total-points terciles (under 48, 48–58, over 58).
+
+2. COLLEGE HALVES MARKET STRUCTURE
+
+Finding 5: Circa, BookMaker/CRIS, and Pinnacle lead college football pricing, posting limits on mid-major and derivative halves at $500 to $1,000, which lets soft US retail books lag on G5, FCS, and early/late kickoffs where sharp liquidity is thin.
+Source: Circa Sports Betting Limits (2020, strong) and Business of College Sports (2025, medium).
+Confidence: High.
+Bears on: 1H engine, 2H engine.
+How to check it with our data: Stratify DraftKings-versus-Bovada 1H and 2H line dispersion in your archive by conference tier (P4 vs G5) and kickoff slot.
+
+Finding 6: Sportsbooks build 2H spreads by blending pregame power ratings with 1H score, key injuries, and possession state rather than halving the pregame spread, though exact proprietary bookmaker weights are not verified.
+Source: Miller & Davidow, The Logic of Sports Betting (2019, strong) and OddsIndex (2025, weak).
+Confidence: Medium.
+Bears on: 2H engine, lean.
+How to check it with our data: Regress archived 2H opening spreads on 0.50x pregame spread, 1H margin, and 1H yards-per-play margin across 300 games to reveal the market's exact implicit weights.
+
+3. THE LEAN INPUTS AND DEFINITIONS
+
+Finding 7: Down-and-distance Success Rate (gaining >=50% of yards to go on 1st down, >=70% on 2nd down, 100% on 3rd/4th down) is far more stable and predictive from half to half than raw yards per play, which is skewed by unsustained explosive plays (IsoPPP: average yards or EPA on successful plays only).
+Source: Bill Connelly / Ed Feng, The Power Rank (2021, strong) and Easwaran CFB Analytics (2019, medium).
+Confidence: High.
+Bears on: Lean.
+How to check it with our data: Compare 1H Success Rate margin against 1H YPP margin as predictors of 2H ATS cover across your 700 FBS play-by-play files.
+
+Finding 8: Fumble recovery rate is pure noise (split-half correlation -0.041; 51.1% recovery rate), whereas interceptions per pass attempt (0.262) and fumbles committed (0.177) carry modest skill, meaning fumble-driven halftime deficits regress sharply while interception-driven deficits partially reflect team quality.
+Source: Zakarian, NFL Predictive Analytics (2026, strong) and Connelly, Study Hall (2017, strong).
+Confidence: High.
+Bears on: Lean.
+How to check it with our data: Split 1H turnover margin in your 2026 play-by-play into fumbles lost versus interceptions thrown and test 2H ATS performance of teams trailing via lost fumbles.
+
+Finding 9: Defensive Havoc Rate—defined from play-by-play as (tackles for loss + forced fumbles + interceptions + pass breakups) / total opponent plays (FBS average ~16%)—captures disruptive trench mismatches, while Finishing Drives (points per trip inside the opponent's 40-yard line) isolates red-zone variance.
+Source: Bill Connelly via The Sports Arsenal (2021, medium) and Havocrate Glossary (2025, medium).
+Confidence: Medium.
+Bears on: Lean.
+How to check it with our data: Compute 1H Havoc Rate and points-per-inside-40 trip for all 2026 FBS games and test correlation with 2H net margin when a team trails despite winning both.
+
+Finding 10: Quarterback injuries are explicitly modeled by sharp syndicates, whereas single non-QB starter absences (tackles, corners, receivers) rarely move college spreads unless clustered along the offensive line; exact half-spread point values for college linemen are not verified.
+Source: Peabody & Massey / Unabated (2025, strong) and Eager & Chahrouri, PFF (2018, medium).
+Confidence: Medium.
+Bears on: Lean.
+How to check it with our data: Audit logged pregame leans where non-QB personnel cast the deciding vote against closing line value.
+
+4. THE TWO SHADOW COLUMNS
+
+Finding 11: Published literature shows home underdogs hold slight historical full-game edges in college football, and Berger & Pope found NCAA basketball teams trailing by 1 at half outperform by ~2.1–2.5%, but a 12,455-game football regression-discontinuity replication found zero halftime deficit/home boost (p=0.97); a 63.7% (58-33) blind 2H home-team edge is unverified and almost certainly small-sample noise.
+Source: Paul & Weinbach (2015, strong), Berger & Pope (2011, strong), and Macalester College NFL RD Study (2022, strong).
+Confidence: High.
+Bears on: Shadow column.
+How to check it with our data: Spend ~3,000 odds credits to pull 2H closing spreads for 300 random 2026 FBS games and check blind 2H home ATS cover rate.
+
+Finding 12: No peer-reviewed study validates a 74% (17-6) ATS edge for 1H YPP leaders leading by under 21, and your own NFL baseline (~52%) warns that public halftime markets already price obvious box-score dominance.
+Source: Academic CFB validation not verified; OddsIndex (2025, weak).
+Confidence: Medium.
+Bears on: Shadow column.
+How to check it with our data: Test the exact filter (1H YPP advantage > 0 and halftime lead 1 to 20) against archived 2H spreads across those same 300 2026 games.
+
+5. COLLEGE-SPECIFIC HALFTIME EFFECTS
+
+Finding 13: Teams receiving the 3Q kickoff average 0.6 extra drives and +1.6 raw points in the second half in football play-by-play studies, though sharp 2H models price possession in.
+Source: Sharp Football Analysis (2019, medium) and Journal of Sports Economics (2016, strong).
+Confidence: Medium.
+Bears on: Shadow column, 2H engine.
+How to check it with our data: Check whether DraftKings/Bovada 2H spreads in your archive differ systematically by ~1.5 points depending on who kicked off to start the game.
+
+Finding 14: The running clock on first downs (2023) and mandatory two-minute timeout (2024) cut roughly 8 plays per game, while 2024 FBS helmet radios (shut off at 15 seconds) and 2025–2026 fake-injury timeout penalties alter tempo and late-half execution.
+Source: NCAA Rules Book / NCAA.org (2025–2026, strong) and Fox Sports (2025, medium).
+Confidence: High.
+Bears on: 1H engine, 2H engine.
+How to check it with our data: Calculate 2026 2H play counts and scoring variance in tempo-versus-slow matchups to verify if shortened second halves compress spread cover margins.
+
+Finding 15: Physiological hypoxia above 5,000 feet (Wyoming, Air Force, Colorado, New Mexico, Colorado State) accelerates second-half lactate fatigue in unacclimated visitors, while teams with a marquee opponent next week underperform their 1H residual by 1.62 points in the 2H ("lookahead attenuation").
+Source: Action Network / ACSM summaries (2026, medium) and MathWizardShoe empirical CFB study (2026, medium).
+Confidence: Medium.
+Bears on: NEW.
+How to check it with our data: Test 2H ATS performance of mountain-elevation hosts and fade P4 favorites leading at half the week before a top-25 opponent.
+
+6. SIX NEW SIDE STRATEGIES (RANKED)
+
+1. NEW — Kalshi Halftime Passive Maker: Post resting limit orders on Robinhood/Kalshi 2H contracts at no-vig sharp consensus minus 2.5% during the first 10 minutes of halftime, canceling before 3Q kickoff. Mechanism: Captures retail panic/hedging flow while cutting exchange fees by 75%. Why missed: Takers pay ~4.5% in combined spread and fee; makers get paid. Evidence: Kalshi fee math (2026, strong). Catches: 4–8 games/Saturday. Test: Free minute-by-minute Kalshi bid-ask archive vs DraftKings/Bovada halftime fair.
+
+2. NEW — Cross-Number Derivative Shopping: Replace same-number de-vigging with cross-number EV using empirical 2026 half-spread push rates (especially 2.5/3/3.5 and 6.5/7/7.5 in low-total games under 48). Mechanism: Half-points double in value in 30-minute halves with compressed play counts. Why missed: Recreational books move half-spreads mechanically off full-game moves. Evidence: Unabated (2026, strong). Catches: 3–6 games/Saturday. Test: 700-game 2026 half scores + archived 1H/2H lines.
+
+3. NEW — Pure Luck Halftime Regression: Bet 2H side on teams trailing by 1 to 14 points who won 1H Success Rate by >=7% AND lost 1H fumble-recovery margin or inside-40 finishing by >=7 points. Mechanism: Strips noisy YPP explosives and isolates 50/50 fumble/red-zone variance. Why missed: Casual bettors and simple live algorithms anchor on halftime score and raw yardage. Evidence: Zakarian (2026, strong), Connelly (2021, strong). Catches: 2–4 games/Saturday. Test: 2026 PBP + 10-credit halftime odds lookup on qualifying games (~800 credits total).
+
+4. NEW — G5/FCS 3Q Kickoff Mispricing: Bet 2H side in G5/FCS games when a team receives the 3Q kickoff and the 2H spread equals or improves upon 0.50x pregame spread (adjusted for injuries) without pricing the ~1.6-point possession edge. Mechanism: Extra possession in a shortened clock era. Why missed: Low-limit G5 halftime lines get less trader attention. Evidence: Sharp Football (2019, medium). Catches: 2–5 games/Saturday. Test: 2026 PBP kickoff log + G5 archived 2H lines.
+
+5. NEW — Lookahead Second-Half Attenuation Fade: Fade P4 favorites of 10–24 points in the 2H when leading by 10–20 at half with a conference rival or ranked opponent next week. Mechanism: Coaches pull starters early and run vanilla clock-bleed scripts under the new running-clock rules. Why missed: Pregame power ratings assume 60-minute effort. Evidence: MathWizardShoe CFB study (-1.62 pts, 2026, medium). Catches: 2–3 games/Saturday. Test: 2026 schedule + archived 2H spreads (~500 credits).
+
+6. NEW — Sea-Level Visitor at >5,000 ft 2H Fade: Bet mountain-elevation hosts (Wyoming, Air Force, Colorado, CSU, UNM) on 2H spread against visitors from <1,000 ft in close games (margin within 10 at half). Mechanism: Cumulative 2H hypoxemic lactate buildup. Why missed: Pregame HFA prices full-game altitude, not the nonlinear 2H fatigue curve. Evidence: ACSM / sports physiology (medium; CFB 2H ATS size unverified). Catches: 1–2 games/Saturday. Test: Filter 2026 mountain home games (~300 credits).
+
+TEST FIRST (TOP 3)
+1. Strategy #1 (Kalshi halftime maker fills vs books' fair) — costs 0 credits on Kalshi side, directly fixes the 2.7-point taker drag.
+2. Findings 11 & 12 + Strategy #3 (300-game, ~3,000-credit 2H archive pull joined to 2026 PBP) — simultaneously tests 2H Home, Lead <21 w/ FLOW, and Success-Rate/Fumble regression out-of-sample.
+3. Strategy #2 (empirical 2026 CFB 1H/2H push tables by total bucket + cross-number edge frequency).
+
+DROP NOW (TOP 3)
+1. Pregame 1H Optional Previous-Game FLOW Read — single-game prior YPP/Middle-Eight carry near-zero next-game ATS signal (r=0.057) and earned -0.9 CLV.
+2. Same-Number-Only Restriction on Engines — waiting for 3.0% at the identical spread guarantees near-zero fires; allow cross-number conversion via total-adjusted push tables.
+3. Raw YPP and Unsplit Turnovers in CLEAR LEAN — replace raw YPP with Success Rate and treat lost fumbles separately from interceptions.
