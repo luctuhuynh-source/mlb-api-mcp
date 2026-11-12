@@ -1,0 +1,17 @@
+event_id,home,away,asked,ts,market,book,point,price_a,price_b
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:32:55Z,2026-11-01T22:30:36Z,spreads_h2,betrivers,-4.5,-112,-134
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:32:55Z,2026-11-01T22:30:36Z,spreads_h2,bovada,-3.5,-108,-112
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:32:55Z,2026-11-01T22:30:36Z,spreads_h2,draftkings,-4.5,-110,-125
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:32:55Z,2026-11-01T22:30:36Z,spreads_h2,fanduel,-3.5,-120,-110
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:32:55Z,2026-11-01T22:30:36Z,totals_h2,betrivers,22.5,-124,-118
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:32:55Z,2026-11-01T22:30:36Z,totals_h2,bovada,22.5,-112,-108
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:32:55Z,2026-11-01T22:30:36Z,totals_h2,draftkings,22.5,-115,-115
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:32:55Z,2026-11-01T22:30:36Z,totals_h2,fanduel,22.5,-112,-118
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:39:53Z,2026-11-01T22:35:36Z,spreads_h2,betrivers,-4.5,-109,-134
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:39:53Z,2026-11-01T22:35:36Z,spreads_h2,bovada,-3.5,-110,-110
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:39:53Z,2026-11-01T22:35:36Z,spreads_h2,draftkings,-4.5,-110,-125
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:39:53Z,2026-11-01T22:35:36Z,spreads_h2,fanduel,-3.5,-120,-110
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:39:53Z,2026-11-01T22:35:36Z,totals_h2,betrivers,22.5,-124,-118
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:39:53Z,2026-11-01T22:35:36Z,totals_h2,bovada,23.0,-110,-110
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:39:53Z,2026-11-01T22:35:36Z,totals_h2,draftkings,22.5,-115,-115
+2ff84d3f6053d083c8c0a5bebf7cdd4c,Los Angeles Rams,Los Angeles Chargers,2026-11-01T22:39:53Z,2026-11-01T22:35:36Z,totals_h2,fanduel,22.5,-112,-118
