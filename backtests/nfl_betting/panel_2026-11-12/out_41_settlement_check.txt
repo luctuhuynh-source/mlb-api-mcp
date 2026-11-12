@@ -1,0 +1,10 @@
+overtime games: 170 of 2931 (5.8%)
+  every game             n 2931 | with overtime 1476-1379-76 51.7% | regulation only 1495-1358-78 52.4% | gain 0.7 points
+  half-point lines only  n 1543 | with overtime 806-737-0 52.2% | regulation only 817-726-0 52.9% | gain 0.7 points
+  wind 15+               n  257 | with overtime 143-107-7 57.2% | regulation only 143-107-7 57.2% | gain 0.0 points
+  wind 10+               n  723 | with overtime 386-318-19 54.8% | regulation only 386-316-21 55.0% | gain 0.2 points
+  first half 28+         n  806 | with overtime 428-361-17 54.2% | regulation only 431-359-16 54.6% | gain 0.3 points
+  halftime margin 0-3    n  737 | with overtime 375-343-19 52.2% | regulation only 379-337-21 52.9% | gain 0.7 points
+  halftime margin 0-7    n 1541 | with overtime 785-719-37 52.2% | regulation only 797-704-40 53.1% | gain 0.9 points
+  overtime games alone: with overtime 44-121-5 (26.7%), regulation only 63-100-7 (38.7%)
+check: regulation points are never above the with-overtime points in any game -> True

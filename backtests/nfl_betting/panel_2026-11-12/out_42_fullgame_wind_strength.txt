@@ -1,0 +1,8 @@
+wind 10+       n  965  return  +9.7%  se 3.1 (by week 3.0)  z 3.26  one-sided p 0.0006  x45 comparisons 0.025  | lower 95% bound +4.8%
+      by period: 2011-16 +3.2% (n 405) ; 2017-21 +17.2% (n 338) ; 2022-26 +10.1% (n 222)
+wind 15+       n  326  return  +9.4%  se 5.3 (by week 5.3)  z 1.79  one-sided p 0.0370  x45 comparisons 1.000  | lower 95% bound +0.7%
+      by period: 2011-16 +7.4% (n 145) ; 2017-21 +12.3% (n 116) ; 2022-26 +8.8% (n 65)
+wind 10-14     n  639  return  +9.8%  se 3.8 (by week 3.7)  z 2.66  one-sided p 0.0039  x45 comparisons 0.174  | lower 95% bound +3.8%
+      by period: 2011-16 +0.8% (n 260) ; 2017-21 +19.8% (n 222) ; 2022-26 +10.6% (n 157)
+wind under 10  n 1849  return  -5.9%  se 2.2 (by week 2.4)  z -2.50  one-sided p 0.9937  x45 comparisons 1.000  | lower 95% bound -9.8%
+      by period: 2011-16 -4.4% (n 770) ; 2017-21 -4.0% (n 621) ; 2022-26 -11.0% (n 458)

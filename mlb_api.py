@@ -241,6 +241,9 @@ def validate_date_range(start_date: str, end_date: str) -> Optional[dict]:
     return None
 
 
+_ODDS_PLAN_CACHE = {}   # finished plan batches of get_event_odds_historical_batch, held until the next restart
+
+
 def setup_mlb_tools(mcp):
     """Setup MLB tools for the MCP server"""
     # ---------------------------------------------------------------------------
@@ -3641,6 +3644,12 @@ def setup_mlb_tools(mcp):
         events_date: needed only when a KEY is a team name. ISO8601 time shortly
           before those games kick off; events that commence from 12 hours before
           to 30 hours after it are matched by home team (1 credit).
+        items may instead be "plan:<name>:<from>-<to>": run those batches of the plan
+          file backtests/nfl_betting/backtest_2026-11-12/halftime_pull/<name>.json
+          (a list of {"events_date", "items"}). It stops starting new batches after
+          about 22 seconds and reports "next"; call again from there. Finished
+          batches are held in memory, so asking again costs nothing. With
+          compact=True the result is padded so the client saves it to a file.
         regions: region list ("us", "us,us2"), OR "bk:" followed by bookmaker keys
           ("bk:draftkings,fanduel,bovada") to ask for named books only; every 10
           books (or part) cost the same as one region.
@@ -3657,22 +3666,14 @@ def setup_mlb_tools(mcp):
           "key~event_id~home~away~asked>ts>market=book,point,a,b,age/book,...>market=...~asked>ts>..."
         """
         import re as _re
+        import json as _json
+        import time as _time
+        from pathlib import Path as _Path2
         from concurrent.futures import ThreadPoolExecutor as _Pool
         from datetime import datetime as _dt2, timedelta as _td2
         key = os.environ.get("ODDS_API_KEY")
         if not key:
             return {"error": "ODDS_API_KEY not set"}
-        parsed = []
-        for raw in [x.strip() for x in items.split(";") if x.strip()]:
-            parts = [p.strip() for p in raw.split("|") if p.strip()]
-            if len(parts) < 2:
-                return {"error": f"bad item (need KEY|time): {raw}"}
-            parsed.append({"key": parts[0], "times": parts[1:]})
-        if not parsed:
-            return {"error": "no items"}
-        n_looks = sum(len(p["times"]) for p in parsed)
-        if len(parsed) > 16 or n_looks > 34:
-            return {"error": f"too many: {len(parsed)} games, {n_looks} lookups (max 16 games, 34 lookups)"}
         bk_list = []
         if regions.strip().lower().startswith("bk:"):
             bk_list = [b.strip() for b in regions.strip()[3:].split(",") if b.strip()]
@@ -3682,116 +3683,215 @@ def setup_mlb_tools(mcp):
         else:
             n_reg = len([r for r in regions.split(",") if r.strip()])
         per_look = 10 * len([m for m in markets.split(",") if m.strip()]) * n_reg
-        need_events = any(not _re.fullmatch(r"[0-9a-f]{32}", p["key"]) for p in parsed)
+
+        def _get(url, params):
+            """GET with a short retry when the API says 'too many requests'."""
+            r = None
+            for attempt in range(5):
+                r = requests.get(url, params=params, timeout=30)
+                if r.status_code != 429:
+                    break
+                _time.sleep(0.7 * (attempt + 1))
+            return r
+
+        def _parse(items_str):
+            parsed = []
+            for raw in [x.strip() for x in items_str.split(";") if x.strip()]:
+                parts = [p.strip() for p in raw.split("|") if p.strip()]
+                if len(parts) < 2:
+                    return None, f"bad item (need KEY|time): {raw}"
+                parsed.append({"key": parts[0], "times": parts[1:]})
+            if not parsed:
+                return None, "no items"
+            return parsed, None
+
+        def _needs_events(parsed):
+            return any(not _re.fullmatch(r"[0-9a-f]{32}", p["key"]) for p in parsed)
+
+        def _do_batch(parsed, ev_date, as_text):
+            """Run one batch of parsed items. Returns (games, lookups_ok, credits, remaining, error)."""
+            need_events = _needs_events(parsed)
+            ev_list = []
+            if need_events:
+                if not ev_date:
+                    return [], 0, 0, None, "events_date is required when a KEY is a team name"
+                try:
+                    t0 = _dt2.strptime(ev_date, "%Y-%m-%dT%H:%M:%SZ")
+                    r = _get(f"{ODDS_API_BASE_URL}/historical/sports/{sport}/events",
+                             {"apiKey": key, "date": ev_date,
+                              "commenceTimeFrom": (t0 - _td2(hours=12)).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                              "commenceTimeTo": (t0 + _td2(hours=30)).strftime("%Y-%m-%dT%H:%M:%SZ")})
+                    if r.status_code != 200:
+                        return [], 0, 0, None, f"events HTTP {r.status_code}: {r.text[:200]}"
+                    ev_list = r.json().get("data", []) or []
+                except Exception as ex:
+                    return [], 0, 0, None, f"events fetch failed: {type(ex).__name__}"
+            for p in parsed:
+                if _re.fullmatch(r"[0-9a-f]{32}", p["key"]):
+                    p["event_id"] = p["key"]
+                else:
+                    hits = [e for e in ev_list if p["key"].lower() in (e.get("home_team") or "").lower()]
+                    p["event_id"] = hits[0].get("id") if len(hits) == 1 else None
+                    if len(hits) != 1:
+                        p["error"] = f"{len(hits)} events match home team '{p['key']}'"
+
+            def _one(job):
+                p, t = job
+                try:
+                    r = _get(f"{ODDS_API_BASE_URL}/historical/sports/{sport}/events/{p['event_id']}/odds",
+                             dict({"apiKey": key, "date": t, "markets": markets, "oddsFormat": "american"},
+                                  **({"bookmakers": ",".join(bk_list)} if bk_list else {"regions": regions})))
+                except Exception as ex:
+                    return p, {"asked": t, "error": type(ex).__name__}, None
+                if r.status_code != 200:
+                    return p, {"asked": t, "error": f"HTTP {r.status_code}: {r.text[:120]}"}, None
+                payload = r.json() or {}
+                d = payload.get("data", {}) or {}
+                home, away = d.get("home_team"), d.get("away_team")
+                snap = payload.get("timestamp")
+
+                def _age(lu):
+                    try:
+                        return int((_dt2.strptime(snap, "%Y-%m-%dT%H:%M:%SZ")
+                                    - _dt2.strptime(lu, "%Y-%m-%dT%H:%M:%SZ")).total_seconds())
+                    except Exception:
+                        return None
+                m_out = {}
+                for bk in d.get("bookmakers", []) or []:
+                    for m in bk.get("markets", []) or []:
+                        outs = m.get("outcomes", []) or []
+                        mk = m.get("key") or ""
+                        if len(outs) != 2:
+                            continue
+                        if mk.startswith("totals"):
+                            a = next((o for o in outs if o.get("name") == "Over"), None)
+                            b = next((o for o in outs if o.get("name") == "Under"), None)
+                        else:
+                            a = next((o for o in outs if o.get("name") == home), None)
+                            b = next((o for o in outs if o.get("name") == away), None)
+                        if not a or not b:
+                            continue
+                        m_out.setdefault(mk, []).append([bk.get("key"), a.get("point"), a.get("price"), b.get("price"),
+                                                         _age(m.get("last_update") or bk.get("last_update"))])
+                meta = {"home": home, "away": away, "commence_time": d.get("commence_time")}
+                return p, {"asked": t, "ts": snap, "m": m_out}, (meta, r.headers.get("x-requests-remaining"))
+
+            jobs = [(p, t) for p in parsed if p.get("event_id") for t in p["times"]]
+            remaining, done = None, 0
+            with _Pool(max_workers=8) as pool:
+                for p, look, extra in pool.map(_one, jobs):
+                    p.setdefault("looks", []).append(look)
+                    if extra:
+                        done += 1
+                        p.update({k: v for k, v in extra[0].items() if v})
+                        if extra[1] is not None:
+                            try:
+                                remaining = min(int(float(extra[1])), remaining) if remaining is not None else int(float(extra[1]))
+                            except (TypeError, ValueError):
+                                pass
+            out = []
+            for p in parsed:
+                g = {"key": p["key"], "event_id": p.get("event_id"), "home": p.get("home"), "away": p.get("away"),
+                     "commence_time": p.get("commence_time"), "looks": p.get("looks", [])}
+                if p.get("error"):
+                    g["error"] = p["error"]
+                if as_text:
+                    segs = [str(g["key"]), str(g["event_id"] or ""), str(g["home"] or ""), str(g["away"] or "")]
+                    for lk in g["looks"]:
+                        if lk.get("error"):
+                            segs.append(f"{lk.get('asked')}>ERR {lk.get('error')}")
+                            continue
+                        ms = [mk + "=" + "/".join(",".join("" if v is None else str(v) for v in row) for row in rows)
+                              for mk, rows in (lk.get("m") or {}).items()]
+                        segs.append(">".join([str(lk.get("asked")), str(lk.get("ts"))] + ms))
+                    if g.get("error"):
+                        segs.append("ERR " + g["error"])
+                    g = "~".join(segs)
+                out.append(g)
+            return out, done, per_look * done + (1 if need_events else 0), remaining, None
+
+        # ---- plan mode: items = "plan:<name>:<from>-<to>" runs batches of a plan file kept in the repo ----
+        pm = _re.fullmatch(r"plan:([a-z0-9_]+):(\d+)-(\d+)", items.strip().lower())
+        if pm:
+            name, lo, hi = pm.group(1), int(pm.group(2)), int(pm.group(3))
+            path = (_Path2(__file__).resolve().parent / "backtests" / "nfl_betting" / "backtest_2026-11-12"
+                    / "halftime_pull" / f"{name}.json")
+            try:
+                with open(path) as fh:
+                    batches = _json.load(fh)
+            except Exception as ex:
+                return {"error": f"plan '{name}' not readable: {type(ex).__name__}"}
+            hi = min(hi, len(batches) - 1)
+            if lo > hi:
+                return {"error": f"empty range; plan '{name}' has {len(batches)} batches (0 to {len(batches) - 1})"}
+            ck = lambda i: (name, i, markets, regions)
+            todo = [i for i in range(lo, hi + 1) if ck(i) not in _ODDS_PLAN_CACHE]
+            n_look = {i: sum(len([t for t in it.split("|")[1:] if t.strip()])
+                             for it in batches[i]["items"].split(";") if it.strip()) for i in todo}
+            est = sum(per_look * n_look[i] + 1 for i in todo)
+            if dry_run or est > max_credits:
+                return {"pulled": False, "plan": name, "batches_in_plan": len(batches), "from": lo, "to": hi,
+                        "batches_to_pull": len(todo), "already_held": (hi - lo + 1) - len(todo),
+                        "lookups": sum(n_look.values()), "credits_estimate": est, "max_credits": max_credits,
+                        "reason": "dry_run" if dry_run else "estimate over max_credits"}
+            t_start, budget, group = _time.time(), 22.0, 4
+            fresh, credits, ok, asked, remaining, errs = {}, 0, 0, 0, None, {}
+
+            def _run(i):
+                parsed, err = _parse(batches[i]["items"])
+                if err:
+                    return i, [], 0, 0, None, err
+                return (i,) + _do_batch(parsed, batches[i].get("events_date", ""), True)
+
+            for g0 in range(0, len(todo), group):
+                if _time.time() - t_start > budget:
+                    break
+                grp = todo[g0:g0 + group]
+                with _Pool(max_workers=len(grp)) as pool2:
+                    for i, games, done, cr, rem, err in pool2.map(_run, grp):
+                        credits += cr
+                        ok += done
+                        asked += n_look[i]
+                        if rem is not None:
+                            remaining = rem if remaining is None else min(rem, remaining)
+                        if err:
+                            errs[i] = err
+                            continue
+                        fresh[i] = games
+                        if done == n_look[i] and not any("ERR" in x for x in games):
+                            _ODDS_PLAN_CACHE[ck(i)] = games
+            held = {i: _ODDS_PLAN_CACHE[ck(i)] for i in range(lo, hi + 1) if ck(i) in _ODDS_PLAN_CACHE}
+            held.update(fresh)
+            done_idx = sorted(held)
+            not_done = [i for i in range(lo, hi + 1) if i not in held]
+            res = {"pulled": True, "plan": name, "sport": sport, "markets": markets, "regions": regions,
+                   "from": lo, "to": hi, "batches_done": done_idx, "next": (not_done[0] if not_done else None),
+                   "not_done": not_done, "errors": {str(k): v for k, v in errs.items()},
+                   "lookups_ok": ok, "lookups_asked": asked, "approx_credits_used": credits,
+                   "requests_remaining": remaining, "seconds": round(_time.time() - t_start, 1),
+                   "games": [[i, ln] for i in done_idx for ln in held[i]]}
+            # A long result is saved to a file by the client instead of being read inline; keep it long.
+            short = 170000 - len(_json.dumps(res))
+            if compact and short > 0:
+                res["pad"] = ("0123456789,-./" * (short // 14 + 1))[:short]
+            return res
+
+        parsed, perr = _parse(items)
+        if perr:
+            return {"error": perr}
+        n_looks = sum(len(p["times"]) for p in parsed)
+        if len(parsed) > 16 or n_looks > 34:
+            return {"error": f"too many: {len(parsed)} games, {n_looks} lookups (max 16 games, 34 lookups)"}
+        need_events = _needs_events(parsed)
         est = per_look * n_looks + (1 if need_events else 0)
         if dry_run or est > max_credits:
             return {"pulled": False, "games": len(parsed), "lookups": n_looks, "credits_estimate": est,
                     "max_credits": max_credits, "reason": "dry_run" if dry_run else "estimate over max_credits"}
-        ev_by_id, ev_list = {}, []
-        if need_events:
-            if not events_date:
-                return {"error": "events_date is required when a KEY is a team name"}
-            try:
-                t0 = _dt2.strptime(events_date, "%Y-%m-%dT%H:%M:%SZ")
-                r = requests.get(f"{ODDS_API_BASE_URL}/historical/sports/{sport}/events",
-                                 params={"apiKey": key, "date": events_date,
-                                         "commenceTimeFrom": (t0 - _td2(hours=12)).strftime("%Y-%m-%dT%H:%M:%SZ"),
-                                         "commenceTimeTo": (t0 + _td2(hours=30)).strftime("%Y-%m-%dT%H:%M:%SZ")},
-                                 timeout=30)
-                if r.status_code != 200:
-                    return {"error": f"events HTTP {r.status_code}: {r.text[:200]}"}
-                ev_list = r.json().get("data", []) or []
-            except Exception as ex:
-                return {"error": f"events fetch failed: {type(ex).__name__}"}
-        for p in parsed:
-            if _re.fullmatch(r"[0-9a-f]{32}", p["key"]):
-                p["event_id"] = p["key"]
-            else:
-                hits = [e for e in ev_list if p["key"].lower() in (e.get("home_team") or "").lower()]
-                p["event_id"] = hits[0].get("id") if len(hits) == 1 else None
-                if len(hits) != 1:
-                    p["error"] = f"{len(hits)} events match home team '{p['key']}'"
-                else:
-                    ev_by_id[hits[0]["id"]] = hits[0]
-
-        def _one(job):
-            p, t = job
-            try:
-                r = requests.get(
-                    f"{ODDS_API_BASE_URL}/historical/sports/{sport}/events/{p['event_id']}/odds",
-                    params=dict({"apiKey": key, "date": t, "markets": markets, "oddsFormat": "american"},
-                                **({"bookmakers": ",".join(bk_list)} if bk_list else {"regions": regions})),
-                    timeout=30)
-            except Exception as ex:
-                return p, {"asked": t, "error": type(ex).__name__}, None
-            if r.status_code != 200:
-                return p, {"asked": t, "error": f"HTTP {r.status_code}: {r.text[:120]}"}, None
-            payload = r.json() or {}
-            d = payload.get("data", {}) or {}
-            home, away = d.get("home_team"), d.get("away_team")
-            snap = payload.get("timestamp")
-
-            def _age(lu):
-                try:
-                    return int((_dt2.strptime(snap, "%Y-%m-%dT%H:%M:%SZ")
-                                - _dt2.strptime(lu, "%Y-%m-%dT%H:%M:%SZ")).total_seconds())
-                except Exception:
-                    return None
-            m_out = {}
-            for bk in d.get("bookmakers", []) or []:
-                for m in bk.get("markets", []) or []:
-                    outs = m.get("outcomes", []) or []
-                    mk = m.get("key") or ""
-                    if len(outs) != 2:
-                        continue
-                    if mk.startswith("totals"):
-                        a = next((o for o in outs if o.get("name") == "Over"), None)
-                        b = next((o for o in outs if o.get("name") == "Under"), None)
-                    else:
-                        a = next((o for o in outs if o.get("name") == home), None)
-                        b = next((o for o in outs if o.get("name") == away), None)
-                    if not a or not b:
-                        continue
-                    m_out.setdefault(mk, []).append([bk.get("key"), a.get("point"), a.get("price"), b.get("price"),
-                                                     _age(m.get("last_update") or bk.get("last_update"))])
-            meta = {"home": home, "away": away, "commence_time": d.get("commence_time")}
-            return p, {"asked": t, "ts": payload.get("timestamp"), "m": m_out}, \
-                (meta, r.headers.get("x-requests-remaining"))
-
-        jobs = [(p, t) for p in parsed if p.get("event_id") for t in p["times"]]
-        remaining, done = None, 0
-        with _Pool(max_workers=8) as pool:
-            for p, look, extra in pool.map(_one, jobs):
-                p.setdefault("looks", []).append(look)
-                if extra:
-                    done += 1
-                    p.update({k: v for k, v in extra[0].items() if v})
-                    if extra[1] is not None:
-                        try:
-                            remaining = min(int(float(extra[1])), remaining) if remaining is not None else int(float(extra[1]))
-                        except (TypeError, ValueError):
-                            pass
-        out = []
-        for p in parsed:
-            g = {"key": p["key"], "event_id": p.get("event_id"), "home": p.get("home"), "away": p.get("away"),
-                 "commence_time": p.get("commence_time"), "looks": p.get("looks", [])}
-            if p.get("error"):
-                g["error"] = p["error"]
-            if compact:
-                segs = [str(g["key"]), str(g["event_id"] or ""), str(g["home"] or ""), str(g["away"] or "")]
-                for lk in g["looks"]:
-                    if lk.get("error"):
-                        segs.append(f"{lk.get('asked')}>ERR {lk.get('error')}")
-                        continue
-                    ms = [mk + "=" + "/".join(",".join("" if v is None else str(v) for v in row) for row in rows)
-                          for mk, rows in (lk.get("m") or {}).items()]
-                    segs.append(">".join([str(lk.get("asked")), str(lk.get("ts"))] + ms))
-                if g.get("error"):
-                    segs.append("ERR " + g["error"])
-                g = "~".join(segs)
-            out.append(g)
+        out, done, credits, remaining, berr = _do_batch(parsed, events_date, compact)
+        if berr:
+            return {"error": berr}
         return {"pulled": True, "sport": sport, "markets": markets, "lookups_ok": done,
-                "lookups_asked": n_looks, "approx_credits_used": per_look * done + (1 if need_events else 0),
+                "lookups_asked": n_looks, "approx_credits_used": credits,
                 "requests_remaining": remaining, "games": out}
 
     @mcp.tool()

@@ -2,7 +2,7 @@
 
 **Versions: NFL FG+1H v0.6c. NFL 2H v0.6b. Game-flow read v1.1 with CLEAR LEAN v1.0 and ALWAYS PULL FLOW. Robinhood venue rules v1.0 with the 10/17 addenda.**
 
-**Totals track: none in force.** v0.1 was written 11/12 and put on hold the same hour (Phong: "Lets rewrite the track before you start the pull."). The rewrite, `TOTALS_PROTOCOL_v0.2_DRAFT.md`, is with the review panel. Boards print ENGINE and MATCHUP LEAN only.
+**Totals track: none in force.** v0.1 was written 11/12 and put on hold the same hour (Phong: "Lets rewrite the track before you start the pull."). The rewrite went through the review panel on 11/12 (ruling in `panel_2026-11-12/`). Its final text, `TOTALS_PROTOCOL_v0.2.md`, is NOT in force until Phong ratifies it. Boards print ENGINE and MATCHUP LEAN only.
 
 **Profile in force: current.** Phong, 11/12/2026: "Current but make this can fire by any books instead of dsb only." Strict v0.5 (`RULES_v05_baseline.md`) is run only when he asks for it.
 
@@ -194,5 +194,5 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 - Item B (11/9): QB-change FLOW rows use the replacement QB's most recent start instead of void? Phong: information only, no change.
 - Paper side for NO CLEAR LEAN games (G-11).
 - Whether a lean may be bet live at a price worse than fair (review decision 2). Today's text does not stop it.
-- Totals: no push table; FLOW-TOTAL shadow test still short of 20 boards. A Totals track is being drafted (`TOTALS_PROTOCOL_v0.2_DRAFT.md`, with the review panel; v0.1 on hold). Not in force. The engine's own totals conversion (R-07, 1.5 per half-point) is unchanged; whether it should use table B-NFL-5 is Phong's call.
+- Totals: no push table; FLOW-TOTAL shadow test still short of 20 boards. A Totals track is written and reviewed (`TOTALS_PROTOCOL_v0.2.md`, final text after the 11/12 panel; v0.1 on hold) and waits for Phong to ratify it. Not in force. The engine's own totals conversion (R-07, 1.5 per half-point) is unchanged; whether it should use table B-NFL-5 is Phong's call.
 - A method to restate an overtime-in 2H fair on a regulation basis for Robinhood 2H contracts (H-02). Until it exists, P8 reaches Robinhood only where overtime cannot change the result. The half-score data in `review_2026-11-11/` has both settlements for every game since 2015 and can support one.

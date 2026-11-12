@@ -12,8 +12,11 @@ proposed engine changes and the case for a separate totals track; nothing in it 
 |---|---|
 | `REVIEW_2026-11-11.md` | The 11/11 review: results by version, closing-line value, 12-season FLOW check, what was fixed, decisions for Phong |
 | `BACKTEST_2026-11-12.md` + `backtest_2026-11-12/` | 11/12 backtests: lean and total rules against real second-half lines 2011-2021, totals key numbers and half-point values, wind, a stand-in engine test on the 45 closing snapshots, what a paid test would cost. Scripts, outputs and the decoded second-half line file |
-| `TOTALS_PROTOCOL_v0.2_DRAFT.md` | The totals rewrite Phong asked for on 11/12: what the earlier MLB Over and Under protocols and the early NFL totals fires showed, the NFL cells put through the same gate, draft rules T-01 to T-15, and the test plan for the paid pull. DRAFT, with the review panel, not in force |
-| `panel_2026-11-12/` | The two review prompts (Gemini as scout, ChatGPT as doubter; Claude is the manager) |
+| `TOTALS_PROTOCOL_v0.2.md` | NFL Totals protocol v0.2, final text after the panel review of 11/12: a paper ledger for Under cells (wind, first-half score), rules T-01 to T-15, a two-level gate. NOT IN FORCE until Phong ratifies it |
+| `TOTALS_PROTOCOL_v0.2_DRAFT.md` | The draft the panel reviewed: what the earlier MLB Over and Under protocols and the early NFL totals fires showed, the NFL cells put through the same gate, draft rules, draft test plan. Superseded by the final text |
+| `panel_2026-11-12/` | The review panel on the totals rewrite (Gemini as scout, ChatGPT as doubter; Claude is the manager): both prompts, both replies as received, `PANEL_RULING_2026-11-12.md` (every finding ruled on), and the manager's check scripts 40 to 42 with their outputs |
+| `backtest_2026-11-12/halftime_pull/` | The paid pull: `TEST_PLAN_LOCKED.md` (six claims, fixed before any price is graded), the two plan files, the halftime clock for 990 games, and the collectors |
+| `backtest_2026-11-12/robinhood_pilot/` | Robinhood (Kalshi) price history against the books' fair at the 45 saved closes: plan, quotes, scripts 30 to 32, outputs |
 | `TOTALS_TRACK_v0.1.md` | NFL Totals track v0.1, written 11/12 and put ON HOLD the same hour pending the rewrite. Not run. Table B-NFL-5 |
 | `RULES_CURRENT.md` | Numbered rules in force today (1H v0.6c / 2H v0.6b, rules text 2026-11-12): v0.5 + the eight changes + one reading per contradiction + the push-table fix |
 | `PUSH_TABLE_B-NFL-3.md` + `push_table_onesided_2015_2026.csv` | One-sided exact-margin table (push probability of a line), 2015-2026. Replaces the either-team table for HOOK pricing and number conversions |
