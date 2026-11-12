@@ -3794,6 +3794,8 @@ def setup_mlb_tools(mcp):
         Robinhood "Buy Yes" price; Buy No = 100 - yes_bid. "raw_first" is one
         candle untouched, as a check on the field names.
         """
+        import time as _time
+
         def _c(v):
             if v is None:
                 return None
@@ -3845,12 +3847,26 @@ def setup_mlb_tools(mcp):
             tk = m.get("ticker") or ""
             series = tk.split("-")[0]
             params = {"start_ts": int(start_ts), "end_ts": int(end_ts), "period_interval": int(period_interval)}
-            data, err, src = None, None, None
-            for path in (f"/series/{series}/markets/{tk}/candlesticks", f"/historical/markets/{tk}/candlesticks"):
-                data, err = _try(path, params)
-                if data is not None and (data.get("candlesticks") or []):
-                    src = "live" if path.startswith("/series") else "archive"
-                    break
+
+            def _paced(path):
+                # Kalshi answers HTTP 429 when asked too fast: wait and try again, a few times
+                d, e = None, None
+                for attempt in range(5):
+                    d, e = _try(path, params)
+                    if e != "HTTP 429":
+                        break
+                    _time.sleep(0.8 * (attempt + 1))
+                return d, e
+
+            _time.sleep(0.08)
+            data, err = _paced(f"/series/{series}/markets/{tk}/candlesticks")
+            src = "live" if data is not None and (data.get("candlesticks") or []) else None
+            if src is None and err != "HTTP 429":
+                d2, e2 = _paced(f"/historical/markets/{tk}/candlesticks")
+                if d2 is not None and (d2.get("candlesticks") or []):
+                    data, err, src = d2, None, "archive"
+                elif err is None and e2 == "HTTP 429":
+                    err = e2
             cs = (data or {}).get("candlesticks", []) or []
             rows = []
             for c in cs[-max_candles:]:
