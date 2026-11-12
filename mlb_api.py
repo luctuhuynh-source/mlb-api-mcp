@@ -242,6 +242,7 @@ def validate_date_range(start_date: str, end_date: str) -> Optional[dict]:
 
 
 _ODDS_PLAN_CACHE = {}   # finished plan batches of get_event_odds_historical_batch, held until the next restart
+_KALSHI_PLAN_CACHE = {}   # finished plan games of kalshi_get_candlesticks, held until the next restart
 
 
 def setup_mlb_tools(mcp):
@@ -3920,6 +3921,19 @@ def setup_mlb_tools(mcp):
         before a time is the standing quote at that time. yes_ask is the
         Robinhood "Buy Yes" price; Buy No = 100 - yes_bid. "raw_first" is one
         candle untouched, as a check on the field names.
+
+        Plan mode: tickers = "plan:<name>:<from>-<to>" pulls those games of the plan
+        file backtests/nfl_betting/backtest_2026-11-12/robinhood_test/<name>.json
+        (a list of {"g": game id, "ev": [[event ticker, alternates...], ...],
+        "t0": start, "t1": end}). Every contract of each event, one-minute candles
+        from t0 to t1, plus the standing quote before t0. It stops starting new
+        games after about 22 seconds and reports "next"; finished games are held
+        until the server restarts, so asking again costs nothing. One text line
+        per event: "i~game~event~source~t0~markets~contract^contract^..." with
+        contract = "suffix,strike,result,status,label|m,bid,ask,ask_low,bid_high,
+        trade_low,trade_high,volume;..." (m = minutes after t0; cents; a minute
+        with no change and no trade is left out). event_ticker="peek" returns the
+        first game only, short and readable, with raw samples.
         """
         import time as _time
 
@@ -3951,6 +3965,204 @@ def setup_mlb_tools(mcp):
                 return r.json(), None
             except Exception:
                 return None, "bad json"
+
+        # ---- plan mode: tickers = "plan:<name>:<from>-<to>" pulls the games of a plan file kept in the repo ----
+        import re as _re3
+        import json as _json3
+        from pathlib import Path as _Path3
+        from concurrent.futures import ThreadPoolExecutor as _Pool3
+        pm = _re3.fullmatch(r"plan:([a-z0-9_]+):(\d+)-(\d+)", tickers.strip().lower())
+        if pm:
+            name, lo, hi = pm.group(1), int(pm.group(2)), int(pm.group(3))
+            peek = event_ticker.strip().lower() == "peek"
+            ppath = (_Path3(__file__).resolve().parent / "backtests" / "nfl_betting" / "backtest_2026-11-12"
+                     / "robinhood_test" / f"{name}.json")
+            try:
+                with open(ppath) as fh:
+                    plan = _json3.load(fh)
+            except Exception as ex:
+                return {"error": f"plan '{name}' not readable: {type(ex).__name__}"}
+            hi = min(hi, len(plan) - 1)
+            if peek:
+                hi = lo
+            if lo > hi:
+                return {"error": f"empty range; plan '{name}' has {len(plan)} games (0 to {len(plan) - 1})"}
+            t_start, budget, group = _time.time(), 22.0, 3
+            n_http = [0]
+            raw = {}
+
+            def _get_paced(path, params):
+                d, e = None, None
+                for attempt in range(5):
+                    _time.sleep(0.05)
+                    n_http[0] += 1
+                    d, e = _try(path, params)
+                    if e != "HTTP 429":
+                        break
+                    _time.sleep(0.8 * (attempt + 1))
+                return d, e
+
+            def _n(v):
+                # a price as short text, in cents, one decimal at most
+                if v is None:
+                    return ""
+                try:
+                    f = float(v)
+                except (TypeError, ValueError):
+                    return ""
+                c = round(f * 100 if (isinstance(v, str) and "." in v) or (0 < f < 1) else f, 1)
+                return str(int(c)) if c == int(c) else str(c)
+
+            def _f(d, field):
+                if not isinstance(d, dict):
+                    return ""
+                for k in (field + "_dollars", field):
+                    if d.get(k) is not None:
+                        return _n(d.get(k))
+                return ""
+
+            def _vol(c):
+                v = c.get("volume_fp", c.get("volume"))
+                try:
+                    f = float(v)
+                except (TypeError, ValueError):
+                    return ""
+                if f == 0:
+                    return ""
+                return str(int(f)) if f == int(f) else str(round(f, 2))
+
+            def _rows(cs, t0, t1):
+                rows, prev, before = [], None, None
+                for c in sorted(cs, key=lambda x: x.get("end_period_ts") or 0):
+                    ts = c.get("end_period_ts")
+                    if ts is None or ts > t1:
+                        continue
+                    yb, ya, pr = c.get("yes_bid") or {}, c.get("yes_ask") or {}, c.get("price") or {}
+                    v = _vol(c)
+                    r = [_f(yb, "close"), _f(ya, "close"), _f(ya, "low"), _f(yb, "high"),
+                         _f(pr, "low") if v else "", _f(pr, "high") if v else "", v]
+                    if ts <= t0:
+                        before = ["0", r[0], r[1], "", "", "", ""]   # the standing quote going into the window
+                        prev = (r[0], r[1])
+                        continue
+                    same = prev is not None and (r[0], r[1]) == prev and r[2] in ("", r[1]) and r[3] in ("", r[0]) and not v
+                    prev = (r[0], r[1])
+                    if same:
+                        continue
+                    rows.append([str(int(round((ts - t0) / 60.0)))] + r)
+                if before is not None:
+                    rows.insert(0, before)
+                return ";".join(",".join(x) for x in rows)
+
+            def _candles(tks, t0, t1):
+                """Candles for the contracts of one event. Returns ({ticker: candles}, source, error)."""
+                got, src, err = {}, "batch", None
+                for c0 in range(0, len(tks), 40):
+                    d, e = _get_paced("/markets/candlesticks",
+                                      {"market_tickers": ",".join(tks[c0:c0 + 40]), "start_ts": int(t0) - 60, "end_ts": int(t1),
+                                       "period_interval": 1, "include_latest_before_start": "true"})
+                    if e:
+                        err = e
+                        break
+                    for m in (d or {}).get("markets", []) or []:
+                        got[m.get("market_ticker")] = m.get("candlesticks") or []
+                if not err and any(got.get(t) for t in tks):
+                    return got, src, None
+                got, src = {}, "single"
+                for tk in tks:
+                    if _time.time() - t_start > budget + 6:
+                        return got, src, "out of time"
+                    series = tk.split("-")[0]
+                    params = {"start_ts": int(t0) - 1800, "end_ts": int(t1), "period_interval": 1}
+                    d, e = _get_paced(f"/series/{series}/markets/{tk}/candlesticks", params)
+                    cs = (d or {}).get("candlesticks") or []
+                    if not cs and e != "HTTP 429":
+                        d2, e2 = _get_paced(f"/historical/markets/{tk}/candlesticks", params)
+                        cs = (d2 or {}).get("candlesticks") or []
+                        if cs:
+                            src, e = "archive", None
+                        elif e is None:
+                            e = e2
+                    if e == "HTTP 429":
+                        return got, src, e
+                    got[tk] = cs
+                return got, src, None
+
+            def _game(i):
+                it = plan[i]
+                t0, t1, lines, clean = int(it["t0"]), int(it["t1"]), [], True
+                for cands in it["ev"]:
+                    mk, used, last = [], None, None
+                    for ev in cands:
+                        for path in ("/markets", "/historical/markets"):
+                            d, e = _get_paced(path, {"event_ticker": ev, "limit": 200})
+                            if e:
+                                last = e
+                                continue
+                            mk = (d or {}).get("markets", []) or []
+                            if mk:
+                                used = ev
+                                break
+                        if mk:
+                            break
+                    if not mk:
+                        lines.append(f"{i}~{it['g']}~{cands[0]}~ERR no markets" + (f" ({last})" if last else ""))
+                        if last:
+                            clean = False      # a failed request, not a missing event: ask again later
+                        continue
+                    tks = [m.get("ticker") for m in mk if m.get("ticker")]
+                    got, src, err = _candles(tks, t0, t1)
+                    if err:
+                        lines.append(f"{i}~{it['g']}~{used}~ERR candles: {err}")
+                        clean = False
+                        continue
+                    if peek and "market" not in raw:
+                        raw["market"] = {k: mk[0].get(k) for k in list(mk[0].keys())[:60]}
+                        first = next((got[t] for t in tks if got.get(t)), [])
+                        raw["candles_first_two"] = first[:2]
+                        raw["candle_last"] = first[-1:] if first else []
+                        raw["candles_per_contract"] = {t.rsplit("-", 1)[-1]: len(got.get(t) or []) for t in tks}
+                    parts = []
+                    for m in mk:
+                        tk = m.get("ticker") or ""
+                        sub = _re3.sub(r"[~^|,;]", " ", str(m.get("yes_sub_title") or m.get("subtitle") or ""))[:26]
+                        parts.append(",".join([tk.rsplit("-", 1)[-1], str(m.get("floor_strike")), str(m.get("result") or ""),
+                                               str(m.get("status") or ""), sub]) + "|" + _rows(got.get(tk) or [], t0, t1))
+                    lines.append("~".join([str(i), it["g"], used, src, str(t0), str(len(mk)), "^".join(parts)]))
+                return i, lines, clean
+
+            todo = [i for i in range(lo, hi + 1) if (name, i) not in _KALSHI_PLAN_CACHE]
+            fresh, errs = {}, {}
+            for g0 in range(0, len(todo), group):
+                if _time.time() - t_start > budget:
+                    break
+                grp = todo[g0:g0 + group]
+                with _Pool3(max_workers=len(grp)) as pool3:
+                    for i, lines, clean in pool3.map(_game, grp):
+                        fresh[i] = lines
+                        if clean:
+                            _KALSHI_PLAN_CACHE[(name, i)] = lines
+                        else:
+                            errs[str(i)] = [ln.split("~")[-1][:80] for ln in lines if "~ERR" in ln]
+            held = {i: _KALSHI_PLAN_CACHE[(name, i)] for i in range(lo, hi + 1) if (name, i) in _KALSHI_PLAN_CACHE}
+            for i, lines in fresh.items():
+                held.setdefault(i, lines)
+            done_idx = sorted(i for i in held if str(i) not in errs)
+            not_done = [i for i in range(lo, hi + 1) if i not in done_idx]
+            res = {"pulled": True, "plan": name, "games_in_plan": len(plan), "from": lo, "to": hi,
+                   "games_done": done_idx, "next": (not_done[0] if not_done else None), "not_done": not_done,
+                   "errors": errs, "http_calls": n_http[0], "seconds": round(_time.time() - t_start, 1),
+                   "row_format": "i~game~event~source~t0~markets~suffix,strike,result,status,label|m,bid,ask,ask_low,bid_high,trade_low,trade_high,volume;...^...",
+                   "events": [[i, ln] for i in sorted(held) for ln in held[i]]}
+            if peek:
+                res["events"] = [[i, ln[:2600]] for i, ln in res["events"]]
+                res["raw"] = raw
+                return res
+            # A long result is saved to a file by the client instead of being read inline; keep it long.
+            short = 170000 - len(_json3.dumps(res))
+            if short > 0:
+                res["pad"] = ("0123456789,-./" * (short // 14 + 1))[:short]
+            return res
 
         if not start_ts or not end_ts or end_ts <= start_ts:
             return {"error": "start_ts and end_ts (Unix seconds) are required"}
