@@ -13,6 +13,7 @@ waiting on him) and **`RULES_CURRENT.md`** (the one flat rule list a board is ru
 | `RULES_CURRENT.md` | Numbered rules in force today (1H v0.6c / 2H v0.6a, rules text 2026-11-11): v0.5 + the seven changes + one reading per contradiction + the push-table fix |
 | `PUSH_TABLE_B-NFL-3.md` + `push_table_onesided_2015_2026.csv` | One-sided exact-margin table (push probability of a line), 2015-2026. Replaces the either-team table for HOOK pricing and number conversions |
 | `clv_1h_2026-10-18_to_11-05.csv` | Closing-line value for every first-half lean and fire in the rebuilt ledger |
+| `clv_2h_2026-10-18_to_11-05.csv` | The same for every second-half lean and fire (24 entries). Halftime and 3Q kickoff clock times for those games: `review_2026-11-11/halftime_clock_2026-10-18_to_11-05.csv` |
 | `review_2026-11-11/` | Data and scripts behind the review (closing-line snapshots, nflverse half scores 2015-2026, the four analysis scripts and their output) |
 | `RULES_v05_baseline.md` | Numbered rules of the FROZEN versions (10/11/2026 freeze): NFL FG+1H v0.5, NFL 2H v0.5, Game-flow read v1.1, Robinhood venue rules v1.0 |
 | `POST_FREEZE_CHANGES.md` | The seven changes made after the freeze (date, version, Phong's words), each waiting for keep / drop |

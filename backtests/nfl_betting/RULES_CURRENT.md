@@ -155,7 +155,7 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 - H-39 [P1] MATCHUP LEAN under CLEAR LEAN v1.0 (G-09). $0 paper line, graded on the 2H result on the venue's settlement basis (hit and beat-market). Must cite FLOW rows. IDs follow `LEDGER_REBUILT.md` (the old #-numbers collided and are dropped).
 - H-40 [=] Output: ENGINE, hard gates, executable numbers and prices, expiry and ticket instructions first; concise FLOW table. Two-part RECOMMENDED on every run.
 - H-41 [=] Per-game log fields: event id, halftime score and margin, halftime start, est. 3Q kickoff, 2H-KICK, live FG consensus, implied 2H line, DSB 2H line and price, delta, persistence T1/T2, gates, status, fill time and price.
-- H-42 [=] CLV: after the 3Q starts, the last valid pre-3Q consensus quote via the historical pull; no reliable close -> `CLOSE UNAVAILABLE`.
+- H-42 [=] CLV: after the 3Q starts, the last valid pre-3Q consensus quote via the historical pull; no reliable close -> `CLOSE UNAVAILABLE`. How-to, not a rule: if the board did not log the 3Q kickoff, the wall-clock time of the first 3rd-quarter play in nflverse play-by-play (`time_of_day`) gives it the next day; pull the last snapshot at least 30 seconds before it (`review_2026-11-11/05_clv_2h.py`).
 - H-43 [R] Separate 2H kill switch: retired, see M-04.
 
 ---

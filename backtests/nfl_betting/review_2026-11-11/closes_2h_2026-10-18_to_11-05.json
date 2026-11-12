@@ -1,0 +1,2937 @@
+{
+ "0b0b582b32b09ab6ff6664ffae0c9653|spreads_h2|2026-10-18T18:40:36Z": {
+  "snapshot_timestamp": "2026-10-18T18:40:36Z",
+  "previous_snapshot": "2026-10-18T18:35:36Z",
+  "next_snapshot": "2026-10-18T18:45:36Z",
+  "event_id": "0b0b582b32b09ab6ff6664ffae0c9653",
+  "away": "New York Jets",
+  "home": "New England Patriots",
+  "commence_time": "2026-10-18T17:02:43Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -2.5,
+    "books_at_modal": 2,
+    "mean_point": -2.88,
+    "fair_home_prob_at_modal": 0.5253,
+    "fair_home_price_at_modal": -111,
+    "points_seen": [
+     -3.5,
+     -3.0,
+     -2.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T18:40:23Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": -130,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T18:40:05Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": -102,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -132,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T18:39:46Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": -136,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -108,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T18:39:14Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6181"
+ },
+ "84aa9e190e625d7e9cd67e1f157a45b4|spreads_h2|2026-10-18T18:30:36Z": {
+  "snapshot_timestamp": "2026-10-18T18:30:36Z",
+  "previous_snapshot": "2026-10-18T18:25:36Z",
+  "next_snapshot": "2026-10-18T18:35:36Z",
+  "event_id": "84aa9e190e625d7e9cd67e1f157a45b4",
+  "away": "Tennessee Titans",
+  "home": "Indianapolis Colts",
+  "commence_time": "2026-10-18T17:03:40Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -3.5,
+    "books_at_modal": 3,
+    "mean_point": -3.38,
+    "fair_home_prob_at_modal": 0.4797,
+    "fair_home_price_at_modal": 108,
+    "points_seen": [
+     -3.5,
+     -3.0
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T18:29:12Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -105,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -130,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T18:30:07Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -108,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -126,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T18:30:27Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -112,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -132,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T18:30:34Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6171"
+ },
+ "e86227938fd3cf008fc5648fb5128344|spreads_h2|2026-10-18T18:35:36Z": {
+  "snapshot_timestamp": "2026-10-18T18:35:36Z",
+  "previous_snapshot": "2026-10-18T18:30:36Z",
+  "next_snapshot": "2026-10-18T18:40:36Z",
+  "event_id": "e86227938fd3cf008fc5648fb5128344",
+  "away": "Baltimore Ravens",
+  "home": "Cleveland Browns",
+  "commence_time": "2026-10-18T17:02:53Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -1.5,
+    "books_at_modal": 3,
+    "mean_point": -1.25,
+    "fair_home_prob_at_modal": 0.4662,
+    "fair_home_price_at_modal": 115,
+    "points_seen": [
+     -1.5,
+     -0.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T18:34:49Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -145,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 105,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T18:35:07Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -126,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": -106,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T18:35:11Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -141,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": -105,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T18:32:39Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -120,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "Cleveland Browns",
+        "price": 100,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6161"
+ },
+ "1cf74afd313e9fd300e1462012b174cb|spreads_h2|2026-10-18T18:40:36Z": {
+  "snapshot_timestamp": "2026-10-18T18:40:36Z",
+  "previous_snapshot": "2026-10-18T18:35:36Z",
+  "next_snapshot": "2026-10-18T18:45:36Z",
+  "event_id": "1cf74afd313e9fd300e1462012b174cb",
+  "away": "New Orleans Saints",
+  "home": "New York Giants",
+  "commence_time": "2026-10-18T17:03:01Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": 1.5,
+    "books_at_modal": 2,
+    "mean_point": 2.0,
+    "fair_home_prob_at_modal": 0.503,
+    "fair_home_price_at_modal": -101,
+    "points_seen": [
+     1.5,
+     2.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T18:40:23Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "New Orleans Saints",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -120,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T18:40:05Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "New Orleans Saints",
+        "price": -112,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -118,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T18:39:46Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "New Orleans Saints",
+        "price": -117,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -125,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T18:39:14Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "New Orleans Saints",
+        "price": -110,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -110,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6151"
+ },
+ "7c312fdf24fb35f58b0e07c2932cc997|spreads_h2,totals_h2|2026-10-18T18:45:36Z": {
+  "snapshot_timestamp": "2026-10-18T18:45:36Z",
+  "previous_snapshot": "2026-10-18T18:40:36Z",
+  "next_snapshot": "2026-10-18T18:50:36Z",
+  "event_id": "7c312fdf24fb35f58b0e07c2932cc997",
+  "away": "Chicago Bears",
+  "home": "Atlanta Falcons",
+  "commence_time": "2026-10-18T17:02:41Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -3.5,
+    "books_at_modal": 3,
+    "mean_point": -3.62,
+    "fair_home_prob_at_modal": 0.514,
+    "fair_home_price_at_modal": -106,
+    "points_seen": [
+     -4.0,
+     -3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   },
+   "totals_h2": {
+    "book_count": 4,
+    "modal_point": 26.5,
+    "books_at_modal": 2,
+    "mean_point": 26.12,
+    "fair_over_prob_at_modal": 0.494,
+    "fair_over_price_at_modal": 102,
+    "points_seen": [
+     25.5,
+     26.0,
+     26.5
+    ]
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T18:45:06Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -115,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Chicago Bears",
+        "price": -115,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "totals_h2",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 26.5,
+        "description": null
+       },
+       {
+        "name": "Under",
+        "price": -120,
+        "point": 26.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T18:45:24Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -128,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Chicago Bears",
+        "price": -106,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "totals_h2",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -116,
+        "point": 25.5,
+        "description": null
+       },
+       {
+        "name": "Under",
+        "price": -116,
+        "point": 25.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T18:45:25Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -134,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Chicago Bears",
+        "price": -112,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "totals_h2",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -120,
+        "point": 26.5,
+        "description": null
+       },
+       {
+        "name": "Under",
+        "price": -122,
+        "point": 26.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T18:43:35Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -105,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "Chicago Bears",
+        "price": -115,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "totals_h2",
+      "outcomes": [
+       {
+        "name": "Over",
+        "price": -110,
+        "point": 26.0,
+        "description": null
+       },
+       {
+        "name": "Under",
+        "price": -110,
+        "point": 26.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6131"
+ },
+ "caca2d752fe1a1779029082e95332fcc|spreads_h2|2026-10-18T18:50:36Z": {
+  "snapshot_timestamp": "2026-10-18T18:50:36Z",
+  "previous_snapshot": "2026-10-18T18:45:36Z",
+  "next_snapshot": "2026-10-18T18:55:36Z",
+  "event_id": "caca2d752fe1a1779029082e95332fcc",
+  "away": "Carolina Panthers",
+  "home": "Philadelphia Eagles",
+  "commence_time": "2026-10-18T17:02:48Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": 1.5,
+    "books_at_modal": 3,
+    "mean_point": 1.25,
+    "fair_home_prob_at_modal": 0.501,
+    "fair_home_price_at_modal": -100,
+    "points_seen": [
+     0.5,
+     1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T18:49:45Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -120,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -115,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T18:50:05Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -112,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -118,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T18:50:05Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -120,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -122,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T18:50:08Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -110,
+        "point": -0.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -110,
+        "point": 0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6121"
+ },
+ "45b2690b350ed45145c7a716b18e8e66|spreads_h2|2026-10-18T21:55:36Z": {
+  "snapshot_timestamp": "2026-10-18T21:55:36Z",
+  "previous_snapshot": "2026-10-18T21:50:36Z",
+  "next_snapshot": "2026-10-18T22:00:36Z",
+  "event_id": "45b2690b350ed45145c7a716b18e8e66",
+  "away": "Buffalo Bills",
+  "home": "Las Vegas Raiders",
+  "commence_time": "2026-10-18T20:25:15Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": 2.5,
+    "books_at_modal": 3,
+    "mean_point": 2.75,
+    "fair_home_prob_at_modal": 0.4591,
+    "fair_home_price_at_modal": 118,
+    "points_seen": [
+     2.5,
+     3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T21:53:52Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -145,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 105,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T21:55:25Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -138,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 104,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T21:55:06Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 102,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": -148,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T21:54:52Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -125,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": 105,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6111"
+ },
+ "20fefae8c296247460ba5773caa42218|spreads_h2|2026-10-18T22:00:36Z": {
+  "snapshot_timestamp": "2026-10-18T22:00:36Z",
+  "previous_snapshot": "2026-10-18T21:55:36Z",
+  "next_snapshot": "2026-10-18T22:05:36Z",
+  "event_id": "20fefae8c296247460ba5773caa42218",
+  "away": "Los Angeles Chargers",
+  "home": "Kansas City Chiefs",
+  "commence_time": "2026-10-18T20:25:25Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -2.5,
+    "books_at_modal": 3,
+    "mean_point": -2.25,
+    "fair_home_prob_at_modal": 0.4948,
+    "fair_home_price_at_modal": 102,
+    "points_seen": [
+     -2.5,
+     -1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T22:00:15Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -120,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -115,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T22:00:14Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -120,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T22:00:33Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -118,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -124,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T21:59:04Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6101"
+ },
+ "3729ac6d2a66b642850caf2044cdc658|spreads_h2|2026-10-18T21:35:36Z": {
+  "snapshot_timestamp": "2026-10-18T21:35:36Z",
+  "previous_snapshot": "2026-10-18T21:30:36Z",
+  "next_snapshot": "2026-10-18T21:40:36Z",
+  "event_id": "3729ac6d2a66b642850caf2044cdc658",
+  "away": "Arizona Cardinals",
+  "home": "Los Angeles Rams",
+  "commence_time": "2026-10-18T20:05:18Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -5.5,
+    "books_at_modal": 3,
+    "mean_point": -5.25,
+    "fair_home_prob_at_modal": 0.4963,
+    "fair_home_price_at_modal": 101,
+    "points_seen": [
+     -5.5,
+     -4.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T21:34:55Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -120,
+        "point": 5.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -115,
+        "point": -5.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T21:35:32Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -118,
+        "point": 5.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -112,
+        "point": -5.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T21:35:12Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -121,
+        "point": 4.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -121,
+        "point": -4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T21:33:45Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -110,
+        "point": 5.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -110,
+        "point": -5.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6091"
+ },
+ "ffebea881c1d7b2dfb85b3e590c35985|spreads_h2|2026-10-23T01:55:36Z": {
+  "snapshot_timestamp": "2026-10-23T01:55:36Z",
+  "previous_snapshot": "2026-10-23T01:50:36Z",
+  "next_snapshot": "2026-10-23T02:00:36Z",
+  "event_id": "ffebea881c1d7b2dfb85b3e590c35985",
+  "away": "New England Patriots",
+  "home": "Chicago Bears",
+  "commence_time": "2026-10-23T00:15:47Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": 1.5,
+    "books_at_modal": 3,
+    "mean_point": 1.38,
+    "fair_home_prob_at_modal": 0.5523,
+    "fair_home_price_at_modal": -123,
+    "points_seen": [
+     1.0,
+     1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-23T01:55:00Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -140,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": 105,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-23T01:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -142,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": 106,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-23T01:55:25Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -162,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": 110,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-23T01:55:29Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -110,
+        "point": 1.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -110,
+        "point": -1.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6081"
+ },
+ "5dce18baccec5d3ad5fb3a3ce52f7619|spreads_h2|2026-10-25T18:45:36Z": {
+  "snapshot_timestamp": "2026-10-25T18:45:36Z",
+  "previous_snapshot": "2026-10-25T18:40:36Z",
+  "next_snapshot": "2026-10-25T18:50:36Z",
+  "event_id": "5dce18baccec5d3ad5fb3a3ce52f7619",
+  "away": "Cleveland Browns",
+  "home": "Tennessee Titans",
+  "commence_time": "2026-10-25T17:03:28Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": 1.5,
+    "books_at_modal": 3,
+    "mean_point": 1.25,
+    "fair_home_prob_at_modal": 0.5111,
+    "fair_home_price_at_modal": -105,
+    "points_seen": [
+     0.5,
+     1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T18:45:20Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -110,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -125,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T18:45:20Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -108,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -126,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T18:45:20Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -121,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -122,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T18:45:22Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -105,
+        "point": -0.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -115,
+        "point": 0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6071"
+ },
+ "2bba7fde6f97d0e54403d53676e4ab63|spreads_h2|2026-10-25T18:45:36Z": {
+  "snapshot_timestamp": "2026-10-25T18:45:36Z",
+  "previous_snapshot": "2026-10-25T18:40:36Z",
+  "next_snapshot": "2026-10-25T18:50:36Z",
+  "event_id": "2bba7fde6f97d0e54403d53676e4ab63",
+  "away": "New York Giants",
+  "home": "Houston Texans",
+  "commence_time": "2026-10-25T17:02:57Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -3.5,
+    "books_at_modal": 4,
+    "mean_point": -3.5,
+    "fair_home_prob_at_modal": 0.4901,
+    "fair_home_price_at_modal": 104,
+    "points_seen": [
+     -3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T18:45:20Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -110,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -120,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T18:45:20Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -106,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -128,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T18:45:20Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -129,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -114,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T18:45:22Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": 100,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -120,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6061"
+ },
+ "436119bb3ccdaa6ed7808aa3ebd82b76|spreads_h2|2026-10-25T21:50:36Z": {
+  "snapshot_timestamp": "2026-10-25T21:50:36Z",
+  "previous_snapshot": "2026-10-25T21:45:36Z",
+  "next_snapshot": "2026-10-25T21:55:36Z",
+  "event_id": "436119bb3ccdaa6ed7808aa3ebd82b76",
+  "away": "Denver Broncos",
+  "home": "Arizona Cardinals",
+  "commence_time": "2026-10-25T20:05:45Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -0.5,
+    "books_at_modal": 2,
+    "mean_point": -1.0,
+    "fair_home_prob_at_modal": 0.4415,
+    "fair_home_price_at_modal": 127,
+    "points_seen": [
+     -1.5,
+     -0.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T21:50:18Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 120,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -165,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T21:50:19Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 122,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -168,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T21:49:57Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 112,
+        "point": -0.5,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -175,
+        "point": 0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T21:49:18Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 110,
+        "point": -0.5,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -130,
+        "point": 0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6051"
+ },
+ "e8e5715eefb6a9ce64765e9ddf49c0cc|spreads_h2|2026-10-25T21:55:36Z": {
+  "snapshot_timestamp": "2026-10-25T21:55:36Z",
+  "previous_snapshot": "2026-10-25T21:50:36Z",
+  "next_snapshot": "2026-10-25T22:00:36Z",
+  "event_id": "e8e5715eefb6a9ce64765e9ddf49c0cc",
+  "away": "Green Bay Packers",
+  "home": "Detroit Lions",
+  "commence_time": "2026-10-25T20:25:34Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -2.5,
+    "books_at_modal": 3,
+    "mean_point": -2.25,
+    "fair_home_prob_at_modal": 0.5075,
+    "fair_home_price_at_modal": -103,
+    "points_seen": [
+     -2.5,
+     -1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T21:53:54Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -125,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -110,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T21:55:20Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -118,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -112,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T21:54:57Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -124,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -118,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T21:53:35Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6041"
+ },
+ "4853610e63c246f2027a6a248e642c9a|spreads_h2|2026-10-27T02:00:36Z": {
+  "snapshot_timestamp": "2026-10-27T02:00:36Z",
+  "previous_snapshot": "2026-10-27T01:55:36Z",
+  "next_snapshot": "2026-10-27T02:05:36Z",
+  "event_id": "4853610e63c246f2027a6a248e642c9a",
+  "away": "Dallas Cowboys",
+  "home": "Philadelphia Eagles",
+  "commence_time": "2026-10-27T00:16:21Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -1.5,
+    "books_at_modal": 2,
+    "mean_point": -0.25,
+    "fair_home_prob_at_modal": 0.4261,
+    "fair_home_price_at_modal": 135,
+    "points_seen": [
+     -1.5,
+     0.5,
+     1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-27T01:59:56Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 115,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -160,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-27T02:00:18Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -152,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 114,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-27T01:59:55Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -177,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 120,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-27T01:58:30Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": 105,
+        "point": -0.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -125,
+        "point": 0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6031"
+ },
+ "98f1b121b793977434c046e76c707145|spreads_h2|2026-11-01T19:35:36Z": {
+  "snapshot_timestamp": "2026-11-01T19:35:36Z",
+  "previous_snapshot": "2026-11-01T19:30:36Z",
+  "next_snapshot": "2026-11-01T19:40:36Z",
+  "event_id": "98f1b121b793977434c046e76c707145",
+  "away": "Las Vegas Raiders",
+  "home": "New York Jets",
+  "commence_time": "2026-11-01T18:02:53Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": 2.5,
+    "books_at_modal": 3,
+    "mean_point": 2.62,
+    "fair_home_prob_at_modal": 0.4898,
+    "fair_home_price_at_modal": 104,
+    "points_seen": [
+     2.5,
+     3.0
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-01T19:35:27Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -120,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-01T19:35:28Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": -122,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-01T19:35:27Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": -134,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -109,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-01T19:34:44Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Las Vegas Raiders",
+        "price": -108,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -112,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6021"
+ },
+ "ab5ab731ab655bd6308bc7a922275518|spreads_h2|2026-11-01T19:45:36Z": {
+  "snapshot_timestamp": "2026-11-01T19:45:36Z",
+  "previous_snapshot": "2026-11-01T19:40:36Z",
+  "next_snapshot": "2026-11-01T19:50:36Z",
+  "event_id": "ab5ab731ab655bd6308bc7a922275518",
+  "away": "Cleveland Browns",
+  "home": "Pittsburgh Steelers",
+  "commence_time": "2026-11-01T18:02:23Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -1.5,
+    "books_at_modal": 3,
+    "mean_point": -1.25,
+    "fair_home_prob_at_modal": 0.4951,
+    "fair_home_price_at_modal": 102,
+    "points_seen": [
+     -1.5,
+     -0.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-01T19:44:56Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -120,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -115,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-01T19:45:20Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -118,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -112,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-01T19:44:58Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -122,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -118,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-01T19:44:14Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -110,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -110,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6011"
+ },
+ "05405af79752f5e742cdf50b61f6745e|spreads_h2|2026-11-01T22:55:36Z": {
+  "snapshot_timestamp": "2026-11-01T22:55:36Z",
+  "previous_snapshot": "2026-11-01T22:50:36Z",
+  "next_snapshot": "2026-11-01T23:00:36Z",
+  "event_id": "05405af79752f5e742cdf50b61f6745e",
+  "away": "New England Patriots",
+  "home": "Miami Dolphins",
+  "commence_time": "2026-11-01T21:25:39Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": 6.5,
+    "books_at_modal": 2,
+    "mean_point": 6.88,
+    "fair_home_prob_at_modal": 0.4597,
+    "fair_home_price_at_modal": 118,
+    "points_seen": [
+     6.5,
+     7.0,
+     7.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-01T22:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 100,
+        "point": 6.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -135,
+        "point": -6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-01T22:54:38Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 106,
+        "point": 6.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -140,
+        "point": -6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-01T22:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -130,
+        "point": 7.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -114,
+        "point": -7.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-01T22:54:41Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -105,
+        "point": 7.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": -7.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6001"
+ },
+ "f2a036d5edf483a277880014861e78ad|spreads_h2|2026-11-01T23:10:36Z": {
+  "snapshot_timestamp": "2026-11-01T23:10:36Z",
+  "previous_snapshot": "2026-11-01T23:05:36Z",
+  "next_snapshot": "2026-11-01T23:15:36Z",
+  "event_id": "f2a036d5edf483a277880014861e78ad",
+  "away": "Kansas City Chiefs",
+  "home": "Denver Broncos",
+  "commence_time": "2026-11-01T21:25:29Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -1.5,
+    "books_at_modal": 4,
+    "mean_point": -1.5,
+    "fair_home_prob_at_modal": 0.4714,
+    "fair_home_price_at_modal": 112,
+    "points_seen": [
+     -1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-01T23:09:52Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 105,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": -140,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-01T23:10:16Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": 102,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": -134,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-01T23:09:53Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": -106,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": -137,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-01T23:08:24Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Denver Broncos",
+        "price": -108,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "Kansas City Chiefs",
+        "price": -112,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "5991"
+ },
+ "b9c60db63b1a19ad319f24b33c0defe8|spreads_h2|2026-11-02T03:10:36Z": {
+  "snapshot_timestamp": "2026-11-02T03:10:36Z",
+  "previous_snapshot": "2026-11-02T03:05:36Z",
+  "next_snapshot": "2026-11-02T03:15:36Z",
+  "event_id": "b9c60db63b1a19ad319f24b33c0defe8",
+  "away": "Philadelphia Eagles",
+  "home": "Washington Commanders",
+  "commence_time": "2026-11-02T01:23:24Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -1.5,
+    "books_at_modal": 2,
+    "mean_point": -2.0,
+    "fair_home_prob_at_modal": 0.502,
+    "fair_home_price_at_modal": -101,
+    "points_seen": [
+     -2.5,
+     -1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-02T03:10:07Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Philadelphia Eagles",
+        "price": -110,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -120,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-02T03:09:46Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Philadelphia Eagles",
+        "price": -118,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -112,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-02T03:10:30Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Philadelphia Eagles",
+        "price": -117,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -125,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-02T03:09:03Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Philadelphia Eagles",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "5981"
+ },
+ "2ff84d3f6053d083c8c0a5bebf7cdd4c|spreads_h2|2026-11-01T22:35:36Z": {
+  "snapshot_timestamp": "2026-11-01T22:35:36Z",
+  "previous_snapshot": "2026-11-01T22:30:36Z",
+  "next_snapshot": "2026-11-01T22:40:36Z",
+  "event_id": "2ff84d3f6053d083c8c0a5bebf7cdd4c",
+  "away": "Los Angeles Chargers",
+  "home": "Los Angeles Rams",
+  "commence_time": "2026-11-01T21:05:33Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -3.5,
+    "books_at_modal": 2,
+    "mean_point": -4.0,
+    "fair_home_prob_at_modal": 0.505,
+    "fair_home_price_at_modal": -102,
+    "points_seen": [
+     -4.5,
+     -3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-01T22:35:34Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Los Angeles Chargers",
+        "price": -125,
+        "point": 4.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -110,
+        "point": -4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-01T22:35:34Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Los Angeles Chargers",
+        "price": -110,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -120,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-01T22:35:34Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Los Angeles Chargers",
+        "price": -134,
+        "point": 4.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -109,
+        "point": -4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-01T22:34:10Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Los Angeles Chargers",
+        "price": -110,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -110,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "5971"
+ },
+ "7d664fbcd39350e559d83c0068ba7169|spreads_h2|2026-11-03T02:55:36Z": {
+  "snapshot_timestamp": "2026-11-03T02:55:36Z",
+  "previous_snapshot": "2026-11-03T02:50:36Z",
+  "next_snapshot": "2026-11-03T03:00:36Z",
+  "event_id": "7d664fbcd39350e559d83c0068ba7169",
+  "away": "Chicago Bears",
+  "home": "Seattle Seahawks",
+  "commence_time": "2026-11-03T01:16:26Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": -1.5,
+    "books_at_modal": 3,
+    "mean_point": -1.38,
+    "fair_home_prob_at_modal": 0.4778,
+    "fair_home_price_at_modal": 109,
+    "points_seen": [
+     -1.5,
+     -1.0
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-03T02:55:03Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -130,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -105,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-03T02:55:25Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -124,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -108,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-03T02:55:04Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -136,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -108,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-03T02:53:39Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -105,
+        "point": 1.0,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -115,
+        "point": -1.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "5961"
+ },
+ "c75744790b7acf6260c78ba5e739c0e5|spreads_h2|2026-11-06T02:45:36Z": {
+  "snapshot_timestamp": "2026-11-06T02:45:36Z",
+  "previous_snapshot": "2026-11-06T02:40:36Z",
+  "next_snapshot": "2026-11-06T02:50:36Z",
+  "event_id": "c75744790b7acf6260c78ba5e739c0e5",
+  "away": "Jacksonville Jaguars",
+  "home": "Baltimore Ravens",
+  "commence_time": "2026-11-06T01:16:42Z",
+  "book_count": 4,
+  "consensus": {
+   "spreads_h2": {
+    "book_count": 4,
+    "modal_point": 3.5,
+    "books_at_modal": 2,
+    "mean_point": 3.12,
+    "fair_home_prob_at_modal": 0.5085,
+    "fair_home_price_at_modal": -103,
+    "points_seen": [
+     2.5,
+     3.0,
+     3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-06T02:45:17Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -120,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -115,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-06T02:45:13Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -122,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -110,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-06T02:45:15Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -117,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -125,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-06T02:44:55Z",
+    "markets": [
+     {
+      "key": "spreads_h2",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -105,
+        "point": 3.0,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -115,
+        "point": -3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "5951"
+ }
+}
