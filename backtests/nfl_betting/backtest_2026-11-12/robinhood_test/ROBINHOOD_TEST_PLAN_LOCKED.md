@@ -1,4 +1,4 @@
-# Robinhood second-half prices against the books - test plan, LOCKED 2026-11-12, about 4:20 AM
+# Robinhood second-half prices against the books - test plan, LOCKED 2026-11-12, about 4:00 AM
 
 Phong, 3:47 AM: "Ready for Gemini response? Then we can test robinhood". The Gemini file he posted at 3:48 AM is byte-for-byte the round-2 reply already on file (`../../panel_2026-11-12/round2/REPLY_gemini_scout_round2.txt`), so the round-2 ruling stands unchanged.
 
