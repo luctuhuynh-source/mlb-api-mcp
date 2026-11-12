@@ -3629,14 +3629,15 @@ def setup_mlb_tools(mcp):
                                         regions: str = "us",
                                         events_date: str = "",
                                         max_credits: int = 1200,
-                                        dry_run: bool = False) -> dict:
+                                        dry_run: bool = False,
+                                        compact: bool = False) -> dict:
         """Many historical event-odds lookups in ONE call, compact output.
 
         items: semicolon-separated, one per game: "KEY|time1|time2|..." where
           KEY is an Odds API event_id (32 hex chars) OR a home-team name
           fragment (e.g. "Chiefs"), and each time is an ISO8601 UTC snapshot time
           ("2026-10-18T18:25:00Z"). The API returns the snapshot at or before
-          each time. Up to 12 games and 30 lookups per call.
+          each time. Up to 16 games and 34 lookups per call.
         events_date: needed only when a KEY is a team name. ISO8601 time shortly
           before those games kick off; events that commence from 12 hours before
           to 30 hours after it are matched by home team (1 credit).
@@ -3647,6 +3648,8 @@ def setup_mlb_tools(mcp):
           "looks": [{"asked","ts","m": {market: [[book, point, price_a, price_b], ...]}}]}]}
           spreads: point = HOME spread, price_a = home, price_b = away.
           totals:  point = total, price_a = Over, price_b = Under.
+        compact=True returns each game as one text line instead (same fields):
+          "key~event_id~home~away~asked>ts>market=book,point,a,b/book,...>market=...~asked>ts>..."
         """
         import re as _re
         from concurrent.futures import ThreadPoolExecutor as _Pool
@@ -3663,8 +3666,8 @@ def setup_mlb_tools(mcp):
         if not parsed:
             return {"error": "no items"}
         n_looks = sum(len(p["times"]) for p in parsed)
-        if len(parsed) > 12 or n_looks > 30:
-            return {"error": f"too many: {len(parsed)} games, {n_looks} lookups (max 12 games, 30 lookups)"}
+        if len(parsed) > 16 or n_looks > 34:
+            return {"error": f"too many: {len(parsed)} games, {n_looks} lookups (max 16 games, 34 lookups)"}
         per_look = 10 * len([m for m in markets.split(",") if m.strip()]) * len([r for r in regions.split(",") if r.strip()])
         need_events = any(not _re.fullmatch(r"[0-9a-f]{32}", p["key"]) for p in parsed)
         est = per_look * n_looks + (1 if need_events else 0)
@@ -3734,7 +3737,7 @@ def setup_mlb_tools(mcp):
 
         jobs = [(p, t) for p in parsed if p.get("event_id") for t in p["times"]]
         remaining, done = None, 0
-        with _Pool(max_workers=6) as pool:
+        with _Pool(max_workers=8) as pool:
             for p, look, extra in pool.map(_one, jobs):
                 p.setdefault("looks", []).append(look)
                 if extra:
@@ -3751,6 +3754,18 @@ def setup_mlb_tools(mcp):
                  "commence_time": p.get("commence_time"), "looks": p.get("looks", [])}
             if p.get("error"):
                 g["error"] = p["error"]
+            if compact:
+                segs = [str(g["key"]), str(g["event_id"] or ""), str(g["home"] or ""), str(g["away"] or "")]
+                for lk in g["looks"]:
+                    if lk.get("error"):
+                        segs.append(f"{lk.get('asked')}>ERR {lk.get('error')}")
+                        continue
+                    ms = [mk + "=" + "/".join(",".join("" if v is None else str(v) for v in row) for row in rows)
+                          for mk, rows in (lk.get("m") or {}).items()]
+                    segs.append(">".join([str(lk.get("asked")), str(lk.get("ts"))] + ms))
+                if g.get("error"):
+                    segs.append("ERR " + g["error"])
+                g = "~".join(segs)
             out.append(g)
         return {"pulled": True, "sport": sport, "markets": markets, "lookups_ok": done,
                 "lookups_asked": n_looks, "approx_credits_used": per_look * done + (1 if need_events else 0),
