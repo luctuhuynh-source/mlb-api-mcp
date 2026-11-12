@@ -1,0 +1,91 @@
+YOU ARE THE SCOUT on a three-model review panel.
+Gemini (you) = scout. ChatGPT = doubter. Claude = manager, who makes every final decision. You do not decide and you do not rewrite the protocol. You bring the manager outside evidence it does not have.
+Search the web. Give a source (author or site, and year) for every factual claim. If you cannot verify something, write "not verified" instead of guessing.
+
+WHO THIS IS FOR
+A solo NFL bettor (the operator) who runs written, versioned betting protocols and has an AI run them from his phone. His venues:
+- Two sportsbook accounts that he uses as paper (simulated) accounts. Typical prices -105 to -115. Their second-half lines include overtime. Whole-number ties are refunded.
+- One real-money venue: Robinhood prediction markets, which pass through Kalshi contracts. Price paid = ask plus a 2 cent fee. Strikes are half-points. Half markets are regulation only; full-game markets include overtime.
+His unit is $300 to win. Everything in this draft is paper only ($0) until it earns a step up.
+
+WHAT IS BEING REVIEWED
+A draft "NFL Totals protocol v0.2": a separate track for Overs and Unders that runs beside his side-bet engine. It is a rewrite informed by his earlier totals protocols. Nothing is in force. After your report, the manager rules, the test plan is locked, and only then is about 50,000 credits of historical odds data bought (990 games, 2023 to 2026).
+
+WHAT HIS EARLIER TOTALS PROTOCOLS FOUND
+1. MLB first-five-innings OVER engine (2026). Built from a closing-line census of about 3,600 games across 7 books, 2025 and 2026. The rules were about the shape of the board, not a scoring model: consensus total 5.0 or higher, 5 or more books, bet the best Over price at the consensus number. Vetoes: one particular book alone has the best Over price; best price 10 or more cents better than the second best; books 1.0 or more apart on the number; average Under price -120 or worse at the consensus number. Backtest: 583 bets, plus 6.8 percent and plus 8.7 percent by season (found in a sweep of about 90 cells). Stricter re-run: 669 bets, plus 0.8 and plus 2.1 percent after one point of price slip, negative in one season at two points. Live: engine fires went 5 wins, 8 losses; one check of the last 20 recommendations read 7-12-1.
+   Post-mortem: (a) the backtest bet whole-number lines where a tie is refunded, but live bets were half-point strikes where the tie loses, bridged by a "derived fair" that assumed a 9 percent push rate when the measured rate was 12 to 14 percent. (b) Rules added after single bad nights, never backtested, selected against winners: qualifiers the engine fired went 0-4, the ones it skipped went 11-6.
+2. MLB UNDER protocol. Failed three separate backtests, including a pre-registered test of 7 cells (0 of 7 passed "return above zero in each of two seasons with 40 or more bets in each"). Unders were never bet.
+3. NFL second-half totals, early versions (September and October 2026). Price-gap fires on totals went 4-1 on five bets. Totals leans based on first-half yards per play lost to the market price three straight times and were barred.
+
+EVIDENCE BEHIND THE NFL DRAFT
+Free data only. No prices in the line data, so every bet is graded at -110 (break-even 52.4 percent) unless stated.
+Source A: real closing second-half lines for 2,946 NFL games, 2011 to 2021 (one book, one spread and one total per game). Second half includes overtime.
+Source B: closing full-game totals with closing prices, 2011 to November 9 2026 (nflverse), with a kickoff wind reading for outdoor games.
+Records are wins-losses-pushes for the side named.
+- Second-half Under, every game: 1476-1379-76, 51.7 percent.
+- Second-half Over lost in every group tested. 48.3 percent overall.
+- Second-half Under, outdoor wind 15 mph or more: 143-107-7, 57.2 percent. By period: 56.5 percent (2011-16), 58.0 percent (2017-21). Return plus 8.9 percent at -110, plus 4.7 at -120.
+- Second-half Under, wind 10 to 14: 243-211-12, 53.5 percent. By period 52.1 then 55.2 percent.
+- Second-half Under after a first half of 28 or more points: 428-361-17, 54.2 percent. By period 54.0 then 54.5. Return plus 3.5 percent at -110, minus 0.5 at -120. Split by wind: with wind 10 or more it is 102-67-4 (60.4 percent); without it 326-294-13 (52.6 percent; 54.0 then 51.0 by period).
+- Full-game Under, wind 15 or more: 181-140-5, 56.4 percent. By period 54.9 / 57.8 / 57.1 percent (2011-16 / 2017-21 / 2022-26).
+- Full-game Under, wind 10 to 14: 358-276-5, 56.5 percent. By period 51.6 / 61.4 / 57.7 percent.
+- Full-game Under, wind 10 or more, at the actual closing Under price (median about -106): plus 9.7 percent on 965 games; plus 3.2 / plus 17.2 / plus 10.1 by period.
+- Full-game Under, wind under 10: 48.3 percent. Domes: 49.0 percent.
+- Windy games close only about 0.5 to 1.0 point lower than calm games (average closing total 43.9 at 15 or more, 44.4 at 10 to 14, 44.9 under 10).
+- How the market sets a second-half total: 0.481 x pregame total, plus 0.063 x first-half points, minus 0.083 x halftime lead (R-squared 0.80). Actual second-half points load on first-half points at 0.034. The difference has t = minus 1.5.
+- Halftime lead of 17 or more: Under 49.0 percent (no effect).
+- Games within 3 at the half go to overtime 7.2 percent of the time against 5.3 percent otherwise. Unders did not do worse in those games.
+- When a game goes to overtime the second-half Under is 44-121.
+- A side and a total in the same second half: correlation about 0.09.
+- Share of second halves landing exactly on a number when the line is within half a point of it: 17: 11.9 percent, 20: 5.7, 21: 5.0, 23: 4.9, 24: 7.6, 27: 7.2; and 18: 0, 22: 2.0, 25: 1.7, 28: 0.9.
+- The operator's own 46 NFL half bets this season: 12-5 when the price taken was at the closing fair or better, 12-15-2 when it was worse.
+- About 45 comparisons were run in total to produce the above.
+Known weak points: no prices in the half-line data; second-half lines stop at 2021; the wind figure is a kickoff reading (only a forecast exists before kickoff); 22 percent of outdoor games in 2022-26 have no wind reading; NFL rules changed since 2021 (the 2024 kickoff, more fourth-down attempts).
+
+THE DRAFT RULES (v0.2)
+T-01 NFL only. Full-game totals before kickoff; second-half totals at halftime. First-half totals are logged only (no real first-half line history exists to test them).
+T-02 Paper only. Steps up, each on the operator's word: (a) the cell passes on 2023-2026 prices; (b) review at 30 graded printed lines; (c) small real stakes only after 60 lines with a closing price and closing-line value above the bookmaker margin.
+T-03 Lane A, price fires, unchanged from his engine: a total (Over or Under) fires only when a venue price is 3.0 or more probability points better than the consensus no-vig fair at the same number.
+T-04 Lane B, Under cells, declared in advance. U1 WIND-A: outdoor game or confirmed open roof, sustained wind 15 mph or more at kickoff. Printable. U2 WIND-B: the same at 10 to 14 mph. Logged only until it passes on 2023-2026. U3 SCORE: second half only, first-half points 28 or more. Logged only until it passes on 2023-2026, with and without wind reported apart.
+T-05 Price. A line prints only when the Under at the venue's number is at the consensus fair or better at that same number, with 3 or more books on that number. No conversion across numbers.
+T-06 Settlement. Printable venues: the two sportsbooks, and Robinhood full-game totals at a strike equal to the consensus number. Robinhood half totals are regulation only: logged, never printed.
+T-07 One totals line per game per window (full game before kickoff, second half at halftime).
+T-08 No line when a quarterback change at the half is unresolved, the weather pull failed, a retractable roof is unconfirmed, or fewer than 3 books post the number.
+T-09 Lane C. This track prints no Over. Overs are display-only until a declared Over cell passes the gate.
+T-10 Tags logged on every entry, none of them a veto until tested: LONE-BEST (one book alone has the best Under price by 10 or more cents), SPREAD-OUT (books' totals 1.0 or more apart), JUICE-OVER (average Over price -120 or worse at the consensus number), JUICE-UNDER (same for the Under), CLOSE (halftime margin 0 to 3), BOTH (wind 10 or more and first half 28 or more), plus the gap between the venue price and fair.
+T-11 No new rule from a single slate. A tag becomes a veto, and a logged cell becomes printable, only by passing T-13.
+T-12 Output: one line, "TOTALS (paper, $0): Under [number] [FG or 2H] at [venue] [price], WIND-A [mph], price [edge] vs fair", or "TOTALS: none". Logged-only entries are never shown to the operator. Every qualifier goes in the ledger, printed or not.
+T-13 The gate for any cell or tag: defined before the data is looked at; return above zero in each period with 40 or more bets per period; still above zero one price step worse; then confirmed on data not used to find it.
+T-14 Review at 30 graded printed lines. At 40, a cell at minus 3 percent or worse goes back to logged-only. No promotion on win-loss alone under 200 bets.
+T-15 A printed line the operator bets is his own discretionary ticket. The track never tells him to bet. A leading team's spread plus the Under in the same half counts as one thesis for exposure.
+
+THE TEST PLAN FOR THE DATA PURCHASE (to be locked before buying)
+Data: 990 games, 2023 to November 9 2026. At halftime, two looks per game (2 to 7 minutes in, and the last look before the third-quarter kickoff): second-half spreads and totals from 4 or so books. Before kickoff, one look: first-half totals. Full-game closing totals and prices are already on hand.
+Tests, each graded twice (at the best book price on the consensus number, and at the average price there):
+P1 WIND-A and WIND-B Unders on second-half totals 2023-2026 (unseen data).
+P2 WIND-A and WIND-B Unders on first-half totals 2023-2026 (unseen data).
+P3 SCORE Unders on second-half totals 2023-2026, with and without wind (unseen data).
+P4 The tags as modifiers: does a cell do worse when a tag is on. Acted on only with 40 or more bets in each arm.
+P5 How often one book is 2 or 3 points off the rest when halftime opens, and whether it is corrected by the close.
+P6 Control cells expected to fail: Overs in domes; Overs after a first half of 13 or fewer points.
+Full-game wind 2022-2026 has already been looked at and is not counted as confirmation.
+Pass rule: T-13 with periods 2023-2024 and 2025-2026. Fewer than 40 bets in a period = underpowered, stays logged-only. No cell is added after the data is seen without a fresh holdout.
+
+YOUR JOB
+1. WIND. Find the best public evidence on wind and NFL totals: which speeds matter, sustained wind against gusts, direction and stadium effects, and above all whether sportsbooks have closed the gap in recent seasons (2021 onward). Does our 56 to 57 percent Under rate at 15 mph or more match published work?
+2. SECOND HALF. Find evidence on second-half totals: Over and Under base rates, what happens after high-scoring or low-scoring first halves, how books set the halftime number, and whether a first-half 28-plus effect has been reported by anyone else.
+3. DATA. Find sources for (a) historical first-half and second-half total lines with prices after 2021, free or cheap; (b) historical hourly wind at NFL stadiums, observed and forecast; (c) what exactly the nflverse "wind" field is and where it comes from.
+4. WHAT CHANGED. List NFL rule and style changes since 2021 that could break a 2011-2021 result, with any measured effect on scoring by half.
+5. NEW CELLS. Propose up to 5 further cells worth declaring before the data is bought, Over or Under. For each: exact definition, the mechanism, why the market might miss it, the evidence, and roughly how many games a season it would catch. Rank them.
+6. TAGS. Is there evidence in NFL totals for any of our tags (one book alone with the best price, books far apart, heavy juice on one side)?
+7. HOW PROFESSIONALS DO IT. Anything documented on how professional totals bettors or bookmakers handle weather and halftime totals.
+
+REPORT FORMAT
+Numbered findings. For each one:
+Finding: one sentence.
+Source: who, year.
+Confidence: high, medium or low.
+Changes which rule or test: use the T and P numbers.
+How to check it with our data: one sentence.
+Then end with two short lists: the 3 changes you would make to the draft first, and the 3 things you would add to the test plan first.
+Keep it under 1,200 words. Plain text. No tables.

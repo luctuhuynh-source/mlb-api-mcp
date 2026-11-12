@@ -1,5 +1,7 @@
 # NFL Totals track v0.1 (paper only) - rules text of 2026-11-12
 
+**ON HOLD since 11/12/2026, about 1:15 AM. Not run on any board.** Phong: "Lets rewrite the track before you start the pull." The rewrite is `TOTALS_PROTOCOL_v0.2_DRAFT.md`, out for ChatGPT and Gemini review with Claude as manager. Until Phong ratifies a version, boards run as before: ENGINE and MATCHUP LEAN only.
+
 Ratified by Phong, 11/12/2026: "Lets do all 3" (the third item offered was "build totals: I write the totals track, paper only").
 Evidence and reasons: `BACKTEST_2026-11-12.md`, sections 6 and 7.
 
