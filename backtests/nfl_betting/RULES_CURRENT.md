@@ -2,7 +2,9 @@
 
 **Versions: NFL FG+1H v0.6c. NFL 2H v0.6b. Game-flow read v1.1 with CLEAR LEAN v1.0 and ALWAYS PULL FLOW. Robinhood venue rules v1.0 with the 10/17 addenda.**
 
-**Totals track: none in force.** v0.1 was written 11/12 and put on hold the same hour (Phong: "Lets rewrite the track before you start the pull."). The rewrite went through the review panel on 11/12 (ruling in `panel_2026-11-12/`). Its final text, `TOTALS_PROTOCOL_v0.2.md`, is NOT in force. The paid replication of 11/12 failed all three testable totals claims (`BACKTEST_2026-11-12.md`, section 15), so the protocol has no printable cell; Phong decides between a silent ledger and shelving it. Boards print ENGINE and MATCHUP LEAN only.
+**OPEN, HIGH (X-35, 11/12): R-02, H-02, H-12 and P8 treat Robinhood second-half contracts as regulation-only. The contract text says "2nd half (including overtime)". Not changed here: waiting for Phong to confirm in the app and say so. Until then a Robinhood 2H price is still handled as the rules below say.**
+
+**Totals track: none in force.** v0.1 was written 11/12 and put on hold the same hour (Phong: "Lets rewrite the track before you start the pull."). The rewrite went through the review panel on 11/12 (ruling in `panel_2026-11-12/`). Its final text, `TOTALS_PROTOCOL_v0.2.md`, is NOT in force. The paid replication of 11/12 failed all three testable totals claims (`BACKTEST_2026-11-12.md`, section 15), so the protocol has no printable cell; Phong decides between a silent ledger and shelving it. Round 2 (number table, 11/12) also failed: `BACKTEST_2026-11-12.md` section 17. Boards print ENGINE and MATCHUP LEAN only.
 
 **Profile in force: current.** Phong, 11/12/2026: "Current but make this can fire by any books instead of dsb only." Strict v0.5 (`RULES_v05_baseline.md`) is run only when he asks for it.
 

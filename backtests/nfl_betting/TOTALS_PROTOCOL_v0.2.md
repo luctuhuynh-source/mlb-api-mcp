@@ -48,6 +48,7 @@ Written 11/12/2026 after the review Phong ordered ("I also want Chatgpt and Gemi
 - T-06
   - DSB and Red105: the second half includes overtime, as at the books.
   - Robinhood full game: includes overtime. Printable at a strike equal to a book number.
+  - **Correction 11/12, 3:45 AM: the next line is wrong. Robinhood second-half contracts count overtime (contract text; BACKTEST section 17.1). They settle like the sportsbooks and need no adjustment.**
   - Robinhood second half: regulation only. Overtime points can only hurt an Under, so the books' fair is a floor for a Robinhood second-half Under (worth 0.7 points on average, 2011-2021). It may print at a strike equal to a book number when its all-in price is at that fair or better, tagged REG-ONLY.
   - Every entry is graded on its own venue's settlement. No overtime game is ever left out.
 

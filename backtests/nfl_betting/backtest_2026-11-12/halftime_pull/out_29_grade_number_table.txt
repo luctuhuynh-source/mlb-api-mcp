@@ -1,0 +1,42 @@
+games in the plan: 990 | with scores: 990 | outdoor 674 (no wind reading 102) | indoor 316
+table built on 3230 second halves (2011-2022); s = 9.74 points
+second halves landing exactly on k (count of 3230): 13: 172, 14: 114, 15: 37, 16: 140, 17: 233, 18: 38, 19: 96, 20: 190, 21: 157, 22: 67, 23: 159, 24: 205, 25: 47, 26: 62, 27: 161, 28: 108, 29: 50, 30: 94, 31: 100
+
+=== CONVERSION CHECK ===
+V1 whole-number lines 2023-2026: 320 game-numbers | ties predicted by the table 7.0% | ties that happened 4.4% (standard error 1.1) | gap 2.3 standard errors -> FAILS
+     line 17: n  26  predicted 10.8%  happened 3.8%
+     line 20: n  48  predicted 8.4%  happened 8.3%
+     line 21: n  63  predicted 6.9%  happened 4.8%
+     line 22: n  30  predicted 2.9%  happened 0.0%
+     line 23: n  56  predicted 7.0%  happened 3.6%
+     line 24: n  47  predicted 9.1%  happened 4.3%
+V2 what the books charge for crossing a number (pairs of books one point apart on half-points, same look), beside the table:
+     all pairs: n 718 | books charge 1.4 points | table says 6.1 points
+     by number crossed: 17: books 2.9, table 10.8 (n 24) ; 18: books -0.8, table 1.7 (n 42) ; 19: books 0.6, table 4.3 (n 57) ; 20: books 3.3, table 8.4 (n 109) ; 21: books 1.4, table 6.9 (n 116) ; 22: books -0.2, table 2.9 (n 100) ; 23: books 1.5, table 7.0 (n 102) ; 24: books 2.5, table 9.2 (n 74) ; 25: books 0.1, table 2.1 (n 36) ; 26: books 0.1, table 2.9 (n 21) ; 27: books 1.8, table 7.7 (n 16)
+     for comparison the engine today uses a flat 3.0 points for a full point (1.5 per half-point)
+
+=== R1, the claim ===
+games with 3+ books at the decision look: 903 | book-sides priced: 9350 | mean edge -3.56
+R1  edge 3.0+, one wager per game: n 192  91-99-2  47.9% won  return -11.4%  | one step worse -13.0% | 2023-24 n 112 46-64-2 -21.6% ; 2025-26 n 80 45-35-0 +2.2%
+    five minutes later, same book and side: n 188  84-103-1  return -16.8%  (book had pulled the market: 0; no later look: 4)
+    cautious end of the return: -22.3% plain, -24.4% allowing for two claims | FAILED
+
+=== the same with every table value cut by a quarter, then raised by a quarter ===
+  x0.75: n 64  27-36-1  return -19.8%  (2023-24 -25.2%, 2025-26 -8.3%)  UNDERPOWERED (44 and 20 games)
+  x1.25: n 389  184-203-2  return -12.6%  (2023-24 -18.5%, 2025-26 -5.4%)  FAILED
+R1 VERDICT: FAILED
+
+=== FOR INFORMATION ONLY ===
+  3.0+ entries on the Under: n 89  42-46-1  return -12.6%
+  3.0+ entries on the Over: n 103  49-53-1  return -10.3%
+  venue number half a point off the others   n   7  4-2-1  return +24.3%
+  one point off                              n  98  46-51-1  return -11.0%
+  more than one point off                    n  87  41-46-0  return -14.2%
+  best edge in the game 2.0 to 2.9  n 121  60-61-0  return -8.5%
+  best edge in the game 1.0 to 1.9  n 144  73-70-1  return -5.2%
+  best edge in the game 0 to 0.9    n 132  77-53-2  return +10.0%
+  best edge in the game below 0     n 314  162-149-3  return -1.3%
+  how often: a 3.0+ number gap in 192 of 903 games (21%); by season {2023: 40, 2024: 72, 2025: 58, 2026: 22}
+  who hangs them: {'bovada': 44, 'fliff': 40, 'fanduel': 27, 'hardrockbet': 23, 'draftkings': 21, 'williamhill_us': 16, 'unibet_us': 13, 'ballybet': 4, 'betparx': 3, 'betrivers': 1}
+  with the flat 1.5 per half-point instead of the table, the same test:
+     n 28  12-16-0  return -16.1%  (2023-24 +0.5%, 2025-26 -44.3%)

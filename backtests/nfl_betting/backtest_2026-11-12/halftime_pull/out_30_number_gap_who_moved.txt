@@ -1,0 +1,12 @@
+gap at the first look (odd book minus the others, in points): mean size 1.50
+five minutes later: the others had moved toward the odd book in 65 (35%), away in 11, not at all in 112
+                    the odd book had moved toward the others in 83 (44%), away in 9, not at all in 96
+mean move toward each other: the others 0.25 points, the odd book 0.62 points | gap left: mean size 0.75
+by book (odd book moved toward the others, mean points / the others moved toward it, mean points / n):
+   bovada          0.13 / 0.31 / 43
+   draftkings      0.45 / 0.40 / 20
+   fanduel         0.48 / 0.25 / 27
+   fliff           1.18 / 0.14 / 40
+   hardrockbet     0.70 / 0.17 / 23
+   unibet_us       0.83 / -0.04 / 12
+   williamhill_us  0.47 / 0.52 / 15
