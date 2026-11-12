@@ -1,4 +1,4 @@
-# College football sides at halftime: backtest B-CFB-7 (11/12/2026, about 7:15 AM)
+# College football sides at halftime: backtest B-CFB-7 (11/12/2026, about 6:45 AM)
 
 Ordered by Phong (voice, then "Cfb review" 5:27 AM; panel replies posted 6:17 AM). Ruling: `panel_2026-11-12/PANEL_RULING_CFB_SIDES_2026-11-12.md`. Plan locked before the price pull: `backtest_2026-11-12/CFB_SIDES_TEST_PLAN_LOCKED.md`. Output: `backtest_2026-11-12/out_62_grade_cfb_sides.txt`, `out_63_push_table_audit.txt`.
 
