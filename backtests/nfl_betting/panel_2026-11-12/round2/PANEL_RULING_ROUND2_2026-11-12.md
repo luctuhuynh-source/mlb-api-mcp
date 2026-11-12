@@ -49,3 +49,9 @@ Panel: Gemini = scout, ChatGPT = doubter, Claude = manager. Slate: `TOTALS_STRAT
 1. Confirm in the Robinhood app that a second-half contract's rules line says "including overtime", then "fix it": correct R-02, H-02, H-12 and P8.
 2. "robinhood": a re-scoped test at the same number only (no table), second-half spreads and totals against the books at both halftime looks, this season's games. Free.
 3. "log it" for the two silent logs (yards-per-play Over; Over drift), or leave them.
+
+## 7. Outcome (11/12, 3:36 to 3:45 AM)
+- Phong, 3:36 AM: "RH include over time.  Fix it". Change P9 written: NFL 2H v0.6c, Robinhood venue rules v1.1 (`RULES_CURRENT.md`, `POST_FREEZE_CHANGES.md`, checklist C28, the football doc's NFL 2H tab, Robinhood tab and change log). X-35 and X-31 closed.
+- A third confirmation was found: the 10/15 SEA@DEN overtime game. Seattle won the second half by 11 in regulation and by 8 with overtime; "Seattle wins 2H by over 9.5" settled No.
+- Phong, 3:40 AM: "CFB too". The college contracts carry the same words (11/14 contract). CFB 2H v2.3a written into the football doc: eight lines corrected in place in the CFB 2H tab, an addendum, and a change-log entry. CFB rules live in the doc only; there is no CFB rule file in this repo.
+- Not re-graded: past Robinhood-priced entries from overtime games, NFL or college.
