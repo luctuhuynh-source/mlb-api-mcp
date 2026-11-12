@@ -1,0 +1,512 @@
+{
+ "protocol": "NFL betting",
+ "engine": "1H or 2H",
+ "profile": "v05 or current",
+ "date": "YYYY-MM-DD",
+ "games": [],
+ "run_time_pt": "",
+ "how_to_fill": "status = done | na | skipped. 'na' needs a note saying why. 'skipped' or blank makes the run NOT FULL. Items for the other engine or profile are ignored.",
+ "items": [
+  {
+   "id": "C01",
+   "check": "Rules read from the doc tab (or RULES_v05_baseline.md) in this chat, not from memory notes",
+   "rules": "README",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C02",
+   "check": "Profile and versions stated at the top of the reply",
+   "rules": "README",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C03",
+   "check": "Canary: every tool failure, partial pull or workaround flagged at the very top",
+   "rules": "F-05 H-09",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C04",
+   "check": "FLOW pulled for every game on this run, source game labelled",
+   "rules": "F-06 G-07 P7",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C05",
+   "check": "FLOW pulled for every game given deep review (or FLOW SKIPPED - TIME PRIORITY printed)",
+   "rules": "F-06 G-07",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C06",
+   "check": "Consensus pulled from 5 or more books, DSB left out, compared only at identical numbers",
+   "rules": "F-07 F-09 F-10",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C07",
+   "check": "Inactives / starters checked for EVERY game at about T-85/T-90, source named",
+   "rules": "F-18 P6",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C08",
+   "check": "QB status resolved or LINEUP UNRESOLVED printed for every game; OL SHOCK checked",
+   "rules": "F-19 F-20",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C09",
+   "check": "Weather / roof checked for every outdoor game; WIND FLAG applied",
+   "rules": "F-32 F-33",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C10",
+   "check": "CONSENSUS DIVERGENCE checked on every candidate",
+   "rules": "F-24 H-18",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C11",
+   "check": "HOOK candidates priced with win/push/loss at DSB's number; 3.0 floor and EV > 0 applied",
+   "rules": "F-23 H-17",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C12",
+   "check": "DERIV-LAG row logged for the 20-board count (no fire)",
+   "rules": "F-25 H-20",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C13",
+   "check": "One selection per game; ticket cap 3 per window",
+   "rules": "F-30 F-31 H-36",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C14",
+   "check": "Time lock respected: nothing after T-12 (1H) / Q3 -4 (2H); late items TIME-BLOCKED",
+   "rules": "F-36 H-34",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C15",
+   "check": "Run finished before kickoff (1H) / 3Q kickoff (2H); nothing recommended in-play",
+   "rules": "F-01 H-01 P2",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C16",
+   "check": "Robinhood ladder pulled for every game (reference under v05; price test with +2c fee under current)",
+   "rules": "F-02 H-02 P3",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C17",
+   "check": "Execution venue matches the profile (v05: DSB only; current: DSB or Robinhood, better EV first)",
+   "rules": "F-02 H-02 P3",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C18",
+   "check": "CLEAR LEAN test printed for every game run: three inputs, split, hard-counter check",
+   "rules": "P1",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C19",
+   "check": "A MATCHUP LEAN line for every game examined, citing its FLOW rows",
+   "rules": "F-41 H-39",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C20",
+   "check": "No lean or fire on a total rests on FLOW",
+   "rules": "H-38 G-03",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C21",
+   "check": "Halftime confirmed on the scoreboard; 2H kickoff receiver logged",
+   "rules": "H-08",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C22",
+   "check": "Pregame handoff loaded: HANDOFF VERIFIED / INCOMPLETE / UNAVAILABLE printed; open full-game tickets flagged",
+   "rules": "H-07 H-30",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C23",
+   "check": "1H drive chart pulled with play text; drive count and scoring reconciled to the linescore",
+   "rules": "H-09 G-06",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C24",
+   "check": "2H consensus from OT-inclusive books; live full-game line pulled for the implied 2H line",
+   "rules": "H-10 H-11 H-20",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C25",
+   "check": "Convergence screen: every half-point touching 3 or 7 evaluated as a HOOK CANDIDATE",
+   "rules": "H-15",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C26",
+   "check": "Blowout (17+), 45+ first half, wind, QB change and opener gates each checked",
+   "rules": "H-24 H-25 H-26 H-27 H-28",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C27",
+   "check": "FLOW-TOTAL (SHADOW) line printed (or 'no view')",
+   "rules": "H-38",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C28",
+   "check": "HOOK-through-divergence clause checked: DSB strictly beats every book, else shadow",
+   "rules": "P5",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C29",
+   "check": "Slate sweep row printed for every game with FLAGGED / STATIC",
+   "rules": "P4",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C30",
+   "check": "Watchlist of at most four deep reviews; lightweight screen line for every other game",
+   "rules": "F-15 F-16 F-17",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C31",
+   "check": "Every fire, lean, shadow and conditional written to the log with number, price, venue, timestamp",
+   "rules": "F-45 H-41",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C32",
+   "check": "OWED list printed: grades due, closes due, unconfirmed placements",
+   "rules": "F-43",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C33",
+   "check": "Previous board's grades and closing lines pulled before this run (or listed as still owed)",
+   "rules": "F-46 H-42",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C34",
+   "check": "Sizing stated in units ($300 to win); any upsizing declared before the price",
+   "rules": "F-03 M-01 M-02",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C35",
+   "check": "RECOMMENDED section printed at the end (bets with venue, number, price, size - or 'none')",
+   "rules": "F-42 H-40",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  }
+ ]
+}
