@@ -12,6 +12,8 @@ are a flat, numbered copy so a new chat cannot run half the rules without saying
 | `AUDIT_2026.md` | Board-by-board audit of this season, results split by version in force |
 | `run_checklist_template.json` | The checklist a chat fills in on every NFL board |
 | `check_run.py` | Reads a filled checklist, prints `PROTOCOL RUN: FULL` or `PROTOCOL RUN: NOT FULL - n item(s)` |
+| `VERSION_BY_DATE.md` | Version in force and what was actually run, board by board, 10/25 to 11/5/2026 (built from the `archive/` transcript reports) |
+| `archive/` | Transcript-only reports of each NFL betting chat, with the screenshots Phong sent |
 
 ## Full run or notify
 Every NFL board reply opens with the line `check_run.py` prints, word for word.
