@@ -1,5 +1,7 @@
 # NFL betting - 2026 season audit (9/24 to 11/9)
 
+> **Superseded in part (2026-11-11, later the same day).** The records in sections 1, 2 and 4 for 10/18 to 11/5 came from the running log. The chat archives show that log missed the 10/19, 10/22 and 10/25 boards, six 10/18 2H leans and two 10/18 engine fires. Use `LEDGER_REBUILT.md` for those dates: 1H leans 12-8-1, 2H leans 8-12-1, engine fires 4-0. Sections 3 and 5 are unchanged.
+
 Written 2026-11-11. Evidence: the two running logs kept across chats (NFL betting 9/24-10/31, and the NFL log from 11/1) and the
 football doc tabs and change log.
 

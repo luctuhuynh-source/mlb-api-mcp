@@ -1,0 +1,49 @@
+id,date,class,game,pick,venue_price,result,score,tag,ticket,ticket_status,archive,grade_source
+R01,10/18,1H lean,HOU@JAX,HOU +0.5,DSB +103,W,half HOU 17-14,2of3,none,Phong: not bet,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R02,10/18,1H lean,NYJ@NE,NE -4,DSB -100,W,half NE 17-3,3of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R03,10/18,1H lean,TEN@IND,IND -4,DSB -103,W,half IND 13-0,2of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R04,10/18,1H lean,ARI@LAR,LAR -7,DSB +102,L,half 9-9,3of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R05,10/18,1H lean,BUF@LV,BUF -3.5 (rerun; first print -3 -110),DSB -105,L,half 13-13,2of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R06,10/18,1H lean,LAC@KC,KC -4 (rerun; first print -4.5 +110),DSB -110,W,half KC 19-3,2of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R07,10/18,2H lean,TEN@IND,IND -2.5,DSB -110,L,2H TEN 26-7,3of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R08,10/18,2H lean,BAL@CLE,BAL +0.5,DSB -115,L,2H CLE 13-0,2of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R09,10/18,2H lean,NYJ@NE,NE -2.5,DSB -110,L,2H 9-16,3of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R10,10/18,2H lean,NO@NYG,NYG +1.5,DSB -100,L,2H 17-24,,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R11,10/18,2H lean,CHI@ATL,CHI +4,DSB -115,L,2H CHI 10-16,2of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R12,10/18,2H lean,CAR@PHI,CAR -1,DSB -105,W,2H 15-7,,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R13,10/18,2H lean,BUF@LV,LV +3,DSB -110,P,2H 17-20,,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R14,10/18,2H lean,LAC@KC,KC -2.5,DSB -110,L,2H 3-3,,$300 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R15,10/18,2H engine fire,CHI@ATL,Over 24.5 2H,DSB -105,W,2H total 26,DERIV-LAG,$500 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R16,10/18,2H engine fire,ARI@LAR,ARI +6.5 2H (also printed as the lean),DSB -110,W,2H ARI 9-7,DERIV-LAG,$500 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R17,10/19,1H lean,WAS@SF,SF -4,DSB -115,W,half SF 20-3,"2of3 (structural, no FLOW)",none stated,not in chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,graded 11/11 from ESPN linescores (not graded in its chat)
+R18,10/22,1H lean,NE@CHI,CHI -2.5,DSB -110,W,half CHI 20-14,,$500 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R19,10/22,FG lean,NE@CHI,CHI -3,DSB -105,W,final CHI 30-24,,$500 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R20,10/22,2H lean,NE@CHI,CHI +0.5,DSB -105,W,2H 10-10,3of3,$500 to win,Phong stated,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R21,10/25,1H lean,SF@ATL,SF -0.5,DSB -100,W,half SF 14-12,"2of3 (structural, no FLOW)",$300 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R22,10/25,1H lean,IND@MIN,MIN -4 (first print -3.5 -115),Red105 -105,L,half IND 10-6,"2of3 (structural, no FLOW)",$300 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R23,10/25,1H lean,MIA@NYJ,NYJ -2.5,DSB -115,L,half MIA 21-7,"2of3 (structural, no FLOW)",$300 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R24,10/25,1H lean,CIN@BAL,CIN -1,DSB -105,L,half BAL 13-0,"3of3 (structural, no FLOW)",$500 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R25,10/25,1H lean,NYG@HOU,HOU -6.5,Red105 -105,L,half 14-14,"2of3 (structural, no FLOW)",$300 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R26,10/25,1H lean,DEN@ARI,DEN -3,DSB -100,W,half DEN 13-6,"3of3 (structural, no FLOW)",$500 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R27,10/25,1H lean,GB@DET,DET -3,DSB -100,P,half DET 10-7,"3of3 (structural, no FLOW)",single,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R28,10/25,1H lean,KC@SEA,KC +2.5,DSB -105,L,half SEA 10-0,2of3 (personnel unverified),none stated,not in chat,archive/nfl_betting_2026-10-25_kc-sea-snf-1h.md,graded 11/11 from ESPN linescores (not graded in its chat)
+R29,10/25,parlay,CIN/DEN/DET 1H,CIN -1 / DEN -3 / DET -3,DSB,L,CIN leg lost,,$150,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R30,10/25,2H lean,CLE@TEN,CLE -0.5,DSB -105,L,2H 10-10,3of3,$300 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R31,10/25,2H lean,NYG@HOU,HOU -3.5,DSB +105,L,2H+OT NYG 13-7,2of3,$300 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R32,10/25,2H lean,DEN@ARI,DEN PK,DSB -100,W,2H DEN 17-10,3of3,$300 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R33,10/25,2H lean,GB@DET,DET -1.5,DSB -105,L,2H 10-10,3of3,$300 to win,assumed by chat,archive/nfl_betting_2026-10-18_nfl-betting-protocols.md,chat
+R34,10/26,1H lean,DAL@PHI,DAL -2.5,DSB -110,W,half DAL 20-14,2of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-26_dal-phi-mnf-1h-2h.md,chat
+R35,10/26,2H lean,DAL@PHI,DAL +0.5,DSB -115,W,2H DAL 18-7,3of3,$300 to win,Phong stated,archive/nfl_betting_2026-10-26_dal-phi-mnf-1h-2h.md,chat
+R36,10/29,1H lean,CAR@GB,GB -2.5,DSB -110,W,half GB 20-10,2of3,$300 to win,Phong stated 11/1,archive/nfl_betting_2026-10-29_car-gb-tnf-1h.md,half score from the 2H archive; Phong 11/1: lean won
+R37,11/1,1H lean,CLE@PIT,CLE +2.5,DSB -100,L,half PIT 20-6,,none stated,not in chat,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,chat
+R38,11/1,1H lean,NE@MIA,MIA +3.5,DSB -100,W,half MIA 13-3,,none stated,not in chat,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,chat
+R39,11/1,2H lean,LV@NYJ,NYJ +3,DSB -110,L,2H LV 24-10,,none stated,not in chat,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,graded 11/11 from ESPN linescores (not graded in its chat)
+R40,11/1,2H lean,CLE@PIT,PIT -0.5,DSB -100,W,2H PIT 7-0,,none stated,not in chat,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,graded 11/11 from ESPN linescores (not graded in its chat)
+R41,11/1,2H lean,NE@MIA,MIA +7,DSB -100,L,2H NE 21-6,3of3,none stated,not in chat,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,graded 11/11 from ESPN linescores (not graded in its chat)
+R42,11/1,2H lean,KC@DEN,KC +1,DSB -100,L,2H DEN 15-7,3of3,none stated,not in chat,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,graded 11/11 from ESPN linescores (not graded in its chat)
+R43,11/1,2H lean,PHI@WAS,WAS -1,DSB -115,W,2H WAS 14-0,,none stated,not in chat,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,graded 11/11 from ESPN linescores (not graded in its chat)
+R44,11/1,2H engine fire,LAC@LAR,LAR -3 2H,DSB -105,W,2H LAR 14-0,HOOK through divergence (v0.6a),placement unconfirmed,not in chat,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,graded 11/11 from ESPN linescores (not graded in its chat)
+R45,11/2,1H engine fire,CHI@SEA,CHI +2.5 1H,DSB +110,W,half CHI 13-9,direct gap,$300 to win,Phong stated,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,chat
+R46,11/2,2H lean,CHI@SEA,CHI +1,DSB -100,W,2H CHI 21-8,,"CONFLICT: archive ""I'll pass then.""; 11/9 log says he bet $300",unresolved,archive/nfl_betting_2026-11-01_week8-slate-workflow.md,graded 11/11 from ESPN linescores (not graded in its chat)
+R47,11/5,1H lean,JAX@BAL,JAX -4.5,Robinhood 52c,W,half JAX 17-3,2of3,"""placed 300"" vs 1,028 contracts on screen",Phong stated; size unresolved,archive/nfl_betting_2026-11-05_jax-bal-tnf-week9-sunday.md,chat
+R48,11/5,2H lean,JAX@BAL,JAX -3,DSB -105,W,2H JAX 16-7,3of3,$300 to win,Phong stated,archive/nfl_betting_2026-11-05_jax-bal-tnf-week9-sunday.md,chat
