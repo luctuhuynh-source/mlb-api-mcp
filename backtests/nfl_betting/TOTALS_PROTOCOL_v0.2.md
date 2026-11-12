@@ -1,5 +1,7 @@
 # NFL Totals protocol v0.2 (paper only) - final text after panel review
 
+**SUPERSEDED 11/12/2026, 5:05 AM by `TOTALS_PROTOCOL_v0.3.md` (change P10).**
+
 **Status: NOT IN FORCE, and after the replication it has no printable cell.** The paid pull was graded on the locked plan on 11/12 (`BACKTEST_2026-11-12.md`, section 15): the second-half wind Under returned -0.9% at real halftime prices and FAILED, so by the plan's own rule no wind line prints in either window; the first-half wind claim and the stand-alone SCORE claim FAILED too. What is left of this protocol is a silent ledger. Phong decides: keep it as a silent ledger, or shelve it. Boards run as before (ENGINE and MATCHUP LEAN only) and v0.1 stays on hold.
 Written 11/12/2026 after the review Phong ordered ("I also want Chatgpt and Gemini inputs on this revised protocol of the totals... You as the manager always"). The draft the panel saw is `TOTALS_PROTOCOL_v0.2_DRAFT.md`. Every ruling and its reason is in `panel_2026-11-12/PANEL_RULING_2026-11-12.md`.
 

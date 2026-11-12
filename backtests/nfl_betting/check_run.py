@@ -7,7 +7,7 @@ import json, sys, os, hashlib
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 VERSIONS = {"v05": {"1H": "NFL FG+1H v0.5", "2H": "NFL 2H v0.5"},
-            "current": {"1H": "NFL FG+1H v0.6c", "2H": "NFL 2H v0.6c"}}
+            "current": {"1H": "NFL FG+1H v0.6c", "2H": "NFL 2H v0.6c", "TOTALS": "NFL Totals v0.3"}}
 # Phong, 11/12/2026: "Current but make this can fire by any books instead of dsb only."
 PROFILE_IN_FORCE = "current"
 # The flat rule list each profile is run from. Its hash is printed so two runs can be shown to have used the same text.
