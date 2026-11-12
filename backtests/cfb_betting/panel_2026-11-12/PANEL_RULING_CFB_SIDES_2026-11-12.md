@@ -1,4 +1,4 @@
-# Panel ruling: college football sides (CFB 1H v2.0e, CFB 2H v2.3b) - 2026-11-12, about 7:00 AM
+# Panel ruling: college football sides (CFB 1H v2.0e, CFB 2H v2.3b) - 2026-11-12, about 6:35 AM
 
 Panel: Gemini = scout, ChatGPT = doubter, Claude = manager. Ordered by Phong by voice ("write a detailed summaries of what we currently have ... a command prompt so that way ChatGPT and Gemini can help us examine our protocol ... then after that, maybe we can run a back test on the new finding ... let's just do this with the side only"), typed "Cfb review" 5:27 AM, replies posted 6:17 AM ("Here are their responses"). Packet: `../CFB_SIDES_SUMMARY_2026-11-12.md`. Prompts and replies as received: this folder. Locked test plan: `../backtest_2026-11-12/CFB_SIDES_TEST_PLAN_LOCKED.md`.
 

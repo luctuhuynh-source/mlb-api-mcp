@@ -1,4 +1,4 @@
-# College football sides at halftime - test plan, LOCKED 2026-11-12, about 7:00 AM (audit B-CFB-7)
+# College football sides at halftime - test plan, LOCKED 2026-11-12, about 6:35 AM (audit B-CFB-7)
 
 Locked by the manager after the panel review (`../panel_2026-11-12/PANEL_RULING_CFB_SIDES_2026-11-12.md`). The commit that adds this file is the lock. It is made before any second-half result is summarised and before the price pull. After the first result is seen, no threshold is moved, no claim is reworded and no view is added.
 
