@@ -13,6 +13,12 @@ version in force (Phong, 11/11: "there was a version that got frozen since it wa
 | P6 | 11/8 | 1H | v0.6b | Bye-week teams use their last played game's FLOW row (STALE-1WK); inactives from team sites / official tracker at T-90 | "Do both." | F-06, F-18 (data source only) |
 | P7 | 11/9 | 1H (and Game-flow tab, all engines) | v0.6c | ALWAYS PULL FLOW: every game, every run, never skipped for time; a game can be FLAGGED on FLOW alone | "Always pull flow." | F-06 fallback, G-07 |
 
+## Keep / drop (11/11/2026 review, `REVIEW_2026-11-11.md` section 10)
+Recommended: keep all seven. No change is tied to worse results: v0.6 and v0.6a pick leans with the same rule and went 15-18-2 and
+7-3. Two conditions: P5 runs on the corrected push table (its one fire, LAR -3, reads +2.1 instead of +4.4 and would not have
+fired), and P4 keeps the two v0.5 parts it never retired (four full runs per window, inactives for every game). Phong's ruling is
+still needed to make `current` the profile in force.
+
 ## What strict v0.5 would bring back
 - A lean line on every game examined (no NO CLEAR LEAN filter). Under the 10/11 betting policy that means more tickets.
 - The 1H T-12 placement cutoff and the 2H Q3 -4 lock. Boards run late (11/8 GB@NE at T-2, most halftime boards) would be TIME-BLOCKED.

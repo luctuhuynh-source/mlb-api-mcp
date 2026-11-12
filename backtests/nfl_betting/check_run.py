@@ -8,6 +8,9 @@ import json, sys, os, hashlib
 HERE = os.path.dirname(os.path.abspath(__file__))
 VERSIONS = {"v05": {"1H": "NFL FG+1H v0.5", "2H": "NFL 2H v0.5"},
             "current": {"1H": "NFL FG+1H v0.6c", "2H": "NFL 2H v0.6a"}}
+# The flat rule list each profile is run from. Its hash is printed so two runs can be shown to have used the same text.
+RULE_FILES = {"v05": "RULES_v05_baseline.md", "current": "RULES_CURRENT.md"}
+RULES_TEXT_DATE = {"v05": "frozen 2026-10-11", "current": "rules text 2026-11-11"}
 
 def main():
     if len(sys.argv) != 2:
@@ -43,9 +46,9 @@ def main():
         bad.append("no games listed")
     if not d.get("run_time_pt"):
         bad.append("run time (Pacific) not given")
-    rules = os.path.join(HERE, "RULES_v05_baseline.md")
+    rules = os.path.join(HERE, RULE_FILES[prof])
     rh = hashlib.sha256(open(rules, "rb").read()).hexdigest()[:16]
-    ver = VERSIONS[prof][eng]
+    ver = "%s (%s)" % (VERSIONS[prof][eng], RULES_TEXT_DATE[prof])
     bar = "=" * 100
     print(bar)
     if bad:
@@ -55,8 +58,8 @@ def main():
     else:
         print("PROTOCOL RUN: FULL - %s, profile %s, %d of %d checks answered. This line goes at the very top of the reply to Phong."
               % (ver, prof, done, len(want)))
-    print("Engine %s | %s | games: %s | run %s PT | rule list hash %s" %
-          (eng, ver, ", ".join(d.get("games", [])) or "-", d.get("run_time_pt") or "-", rh))
+    print("Engine %s | %s | games: %s | run %s PT | rule list %s hash %s" %
+          (eng, ver, ", ".join(d.get("games", [])) or "-", d.get("run_time_pt") or "-", RULE_FILES[prof], rh))
     print("This check confirms each rule was answered by the chat. It does not verify the answers, grading, or closing lines.")
     print(bar)
 

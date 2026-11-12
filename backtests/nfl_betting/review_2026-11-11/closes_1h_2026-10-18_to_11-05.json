@@ -1,0 +1,5042 @@
+{
+ "0b0b582b32b09ab6ff6664ffae0c9653|spreads_h1|2026-10-18T16:55:36Z": {
+  "snapshot_timestamp": "2026-10-18T16:55:36Z",
+  "previous_snapshot": "2026-10-18T16:50:36Z",
+  "next_snapshot": "2026-10-18T17:00:36Z",
+  "event_id": "0b0b582b32b09ab6ff6664ffae0c9653",
+  "away": "New York Jets",
+  "home": "New England Patriots",
+  "commence_time": "2026-10-18T17:05:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -4.5,
+    "books_at_modal": 4,
+    "mean_point": -4.19,
+    "fair_home_prob_at_modal": 0.4755,
+    "fair_home_price_at_modal": 110,
+    "points_seen": [
+     -4.5,
+     -4.0,
+     -3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T16:55:11Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": -125,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": 105,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-18T16:55:28Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": 104,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -125,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T16:55:10Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": 100,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -120,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-18T16:55:10Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": -117,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -103,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-18T16:54:42Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -105,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T16:55:12Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": 100,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -124,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-18T16:55:29Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": 100,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -118,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T16:53:36Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "New England Patriots",
+        "price": -110,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -110,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6413"
+ },
+ "57418b2cf5aca558b3c98eafac1e264a|spreads_h1|2026-10-18T13:25:36Z": {
+  "snapshot_timestamp": "2026-10-18T13:25:36Z",
+  "previous_snapshot": "2026-10-18T13:20:36Z",
+  "next_snapshot": "2026-10-18T13:30:36Z",
+  "event_id": "57418b2cf5aca558b3c98eafac1e264a",
+  "away": "Houston Texans",
+  "home": "Jacksonville Jaguars",
+  "commence_time": "2026-10-18T13:35:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -0.5,
+    "books_at_modal": 6,
+    "mean_point": -0.75,
+    "fair_home_prob_at_modal": 0.4953,
+    "fair_home_price_at_modal": 102,
+    "points_seen": [
+     -1.5,
+     -0.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T13:25:29Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -110,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -110,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-18T13:25:29Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -107,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -113,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T13:25:35Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -120,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 100,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-18T13:24:54Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -110,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -108,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-18T13:24:53Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -115,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -105,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T13:19:08Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -115,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -105,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-18T13:25:12Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -115,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -105,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T13:24:53Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -129,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 104,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6402"
+ },
+ "84aa9e190e625d7e9cd67e1f157a45b4|spreads_h1|2026-10-18T16:55:36Z": {
+  "snapshot_timestamp": "2026-10-18T16:55:36Z",
+  "previous_snapshot": "2026-10-18T16:50:36Z",
+  "next_snapshot": "2026-10-18T17:00:36Z",
+  "event_id": "84aa9e190e625d7e9cd67e1f157a45b4",
+  "away": "Tennessee Titans",
+  "home": "Indianapolis Colts",
+  "commence_time": "2026-10-18T17:00:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -3.5,
+    "books_at_modal": 6,
+    "mean_point": -3.69,
+    "fair_home_prob_at_modal": 0.5178,
+    "fair_home_price_at_modal": -107,
+    "points_seen": [
+     -4.5,
+     -4.0,
+     -3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T16:55:11Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -115,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -105,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-18T16:55:28Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -120,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -102,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-18T16:54:42Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -120,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 100,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T16:55:10Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -120,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -105,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-18T16:55:10Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -120,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": 100,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T16:55:12Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -107,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -115,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-18T16:55:29Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -118,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -102,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T16:53:36Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -105,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "Tennessee Titans",
+        "price": -115,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6392"
+ },
+ "3729ac6d2a66b642850caf2044cdc658|spreads_h1|2026-10-18T20:00:36Z": {
+  "snapshot_timestamp": "2026-10-18T20:00:36Z",
+  "previous_snapshot": "2026-10-18T19:55:36Z",
+  "next_snapshot": "2026-10-18T20:05:36Z",
+  "event_id": "3729ac6d2a66b642850caf2044cdc658",
+  "away": "Arizona Cardinals",
+  "home": "Los Angeles Rams",
+  "commence_time": "2026-10-18T20:05:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -7.5,
+    "books_at_modal": 4,
+    "mean_point": -7.19,
+    "fair_home_prob_at_modal": 0.4691,
+    "fair_home_price_at_modal": 113,
+    "points_seen": [
+     -7.5,
+     -7.0,
+     -6.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T19:59:40Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -122,
+        "point": 7.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 102,
+        "point": -7.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-18T19:59:59Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -125,
+        "point": 7.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 105,
+        "point": -7.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-18T20:00:01Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 100,
+        "point": 7.0,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -120,
+        "point": -7.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T20:00:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -125,
+        "point": 7.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 105,
+        "point": -7.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-18T20:00:18Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -102,
+        "point": 7.0,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -118,
+        "point": -7.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T20:00:02Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 102,
+        "point": 6.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -127,
+        "point": -6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-18T20:00:01Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -125,
+        "point": 7.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": 105,
+        "point": -7.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T19:59:45Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -105,
+        "point": 7.0,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Rams",
+        "price": -115,
+        "point": -7.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6382"
+ },
+ "45b2690b350ed45145c7a716b18e8e66|spreads_h1|2026-10-18T20:20:36Z": {
+  "snapshot_timestamp": "2026-10-18T20:20:36Z",
+  "previous_snapshot": "2026-10-18T20:15:36Z",
+  "next_snapshot": "2026-10-18T20:25:36Z",
+  "event_id": "45b2690b350ed45145c7a716b18e8e66",
+  "away": "Buffalo Bills",
+  "home": "Las Vegas Raiders",
+  "commence_time": "2026-10-18T20:30:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": 3.5,
+    "books_at_modal": 8,
+    "mean_point": 3.5,
+    "fair_home_prob_at_modal": 0.509,
+    "fair_home_price_at_modal": -104,
+    "points_seen": [
+     3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T20:20:08Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": 100,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": -120,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-18T20:20:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -105,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": -115,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T20:20:07Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -110,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": -110,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-18T20:20:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -105,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": -115,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-18T20:20:08Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -105,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": -115,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T20:19:30Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -105,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": -120,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-18T20:20:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -108,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": -110,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T20:19:16Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Buffalo Bills",
+        "price": -110,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Las Vegas Raiders",
+        "price": -110,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6372"
+ },
+ "20fefae8c296247460ba5773caa42218|spreads_h1|2026-10-18T20:20:36Z": {
+  "snapshot_timestamp": "2026-10-18T20:20:36Z",
+  "previous_snapshot": "2026-10-18T20:15:36Z",
+  "next_snapshot": "2026-10-18T20:25:36Z",
+  "event_id": "20fefae8c296247460ba5773caa42218",
+  "away": "Los Angeles Chargers",
+  "home": "Kansas City Chiefs",
+  "commence_time": "2026-10-18T20:30:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -4.5,
+    "books_at_modal": 4,
+    "mean_point": -4.19,
+    "fair_home_prob_at_modal": 0.4833,
+    "fair_home_price_at_modal": 107,
+    "points_seen": [
+     -4.5,
+     -4.0,
+     -3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-18T20:20:08Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -122,
+        "point": -3.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": 102,
+        "point": 3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-18T20:20:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 104,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -125,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-18T20:20:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -115,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -105,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-18T20:20:07Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -105,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -115,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-18T20:20:08Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -115,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -105,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-18T20:19:30Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -110,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -113,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-18T20:20:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": 100,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -120,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-18T20:19:16Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -110,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "Los Angeles Chargers",
+        "price": -110,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6362"
+ },
+ "f122527f003276d3bca19efa48c902c1|spreads_h1|2026-10-20T00:10:36Z": {
+  "snapshot_timestamp": "2026-10-20T00:10:36Z",
+  "previous_snapshot": "2026-10-20T00:05:36Z",
+  "next_snapshot": "2026-10-20T00:15:36Z",
+  "event_id": "f122527f003276d3bca19efa48c902c1",
+  "away": "Washington Commanders",
+  "home": "San Francisco 49ers",
+  "commence_time": "2026-10-20T00:18:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -4.5,
+    "books_at_modal": 5,
+    "mean_point": -4.31,
+    "fair_home_prob_at_modal": 0.4838,
+    "fair_home_price_at_modal": 107,
+    "points_seen": [
+     -4.5,
+     -4.0
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-20T00:09:55Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": 100,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -120,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-20T00:07:02Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": -106,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -114,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-20T00:09:55Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": -115,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -105,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-20T00:10:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": 100,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -120,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-20T00:09:55Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": -115,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -105,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-20T00:09:35Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": -108,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -115,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-20T00:09:11Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": 100,
+        "point": -4.5,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -120,
+        "point": 4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-20T00:08:26Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "San Francisco 49ers",
+        "price": -115,
+        "point": -4.0,
+        "description": null
+       },
+       {
+        "name": "Washington Commanders",
+        "price": -105,
+        "point": 4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6351"
+ },
+ "ffebea881c1d7b2dfb85b3e590c35985|spreads,spreads_h1|2026-10-23T00:10:36Z": {
+  "snapshot_timestamp": "2026-10-23T00:10:36Z",
+  "previous_snapshot": "2026-10-23T00:05:36Z",
+  "next_snapshot": "2026-10-23T00:15:36Z",
+  "event_id": "ffebea881c1d7b2dfb85b3e590c35985",
+  "away": "New England Patriots",
+  "home": "Chicago Bears",
+  "commence_time": "2026-10-23T00:20:00Z",
+  "book_count": 11,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -2.5,
+    "books_at_modal": 5,
+    "mean_point": -2.25,
+    "fair_home_prob_at_modal": 0.5002,
+    "fair_home_price_at_modal": -100,
+    "points_seen": [
+     -2.5,
+     -2.0,
+     -1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   },
+   "spreads": {
+    "book_count": 11,
+    "modal_point": -3.0,
+    "books_at_modal": 11,
+    "mean_point": -3.0,
+    "fair_home_prob_at_modal": 0.4896,
+    "fair_home_price_at_modal": 104,
+    "points_seen": [
+     -3.0
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-23T00:10:08Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -108,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -112,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-23T00:09:41Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -107,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -113,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -112,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -109,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-23T00:10:09Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-23T00:10:31Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -110,
+        "point": -2.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -110,
+        "point": 2.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "lowvig",
+    "title": "LowVig.ag",
+    "last_update": "2026-10-23T00:10:30Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 102,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -113,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-23T00:10:27Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -110,
+        "point": -2.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -110,
+        "point": 2.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-23T00:10:31Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -106,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -109,
+        "point": -1.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -114,
+        "point": 1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "mybookieag",
+    "title": "MyBookie.ag",
+    "last_update": "2026-10-23T00:08:57Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-23T00:10:09Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 100,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -110,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -108,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanatics",
+    "title": "Fanatics",
+    "last_update": "2026-10-23T00:08:10Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-23T00:06:44Z",
+    "markets": [
+     {
+      "key": "spreads",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     },
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6331"
+ },
+ "b1be064fb52a198a62109c279e7ab24c|spreads_h1|2026-10-25T16:55:36Z": {
+  "snapshot_timestamp": "2026-10-25T16:55:36Z",
+  "previous_snapshot": "2026-10-25T16:50:36Z",
+  "next_snapshot": "2026-10-25T17:00:36Z",
+  "event_id": "b1be064fb52a198a62109c279e7ab24c",
+  "away": "San Francisco 49ers",
+  "home": "Atlanta Falcons",
+  "commence_time": "2026-10-25T17:05:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": 0.5,
+    "books_at_modal": 6,
+    "mean_point": 0.75,
+    "fair_home_prob_at_modal": 0.5014,
+    "fair_home_price_at_modal": -101,
+    "points_seen": [
+     0.5,
+     1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -110,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": -110,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-25T16:52:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -105,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": -115,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -115,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": -105,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -120,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": 100,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-25T16:55:00Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -110,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": -110,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -121,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": -103,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-25T16:55:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -108,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": -110,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T16:55:06Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Atlanta Falcons",
+        "price": -115,
+        "point": 0.5,
+        "description": null
+       },
+       {
+        "name": "San Francisco 49ers",
+        "price": -105,
+        "point": -0.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6321"
+ },
+ "550ec5290f935d311995affbcb0b5c79|spreads_h1|2026-10-25T16:55:36Z": {
+  "snapshot_timestamp": "2026-10-25T16:55:36Z",
+  "previous_snapshot": "2026-10-25T16:50:36Z",
+  "next_snapshot": "2026-10-25T17:00:36Z",
+  "event_id": "550ec5290f935d311995affbcb0b5c79",
+  "away": "Cincinnati Bengals",
+  "home": "Baltimore Ravens",
+  "commence_time": "2026-10-25T17:05:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": 1.5,
+    "books_at_modal": 5,
+    "mean_point": 1.5,
+    "fair_home_prob_at_modal": 0.509,
+    "fair_home_price_at_modal": -104,
+    "points_seen": [
+     1.0,
+     1.5,
+     2.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -112,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Cincinnati Bengals",
+        "price": -108,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-25T16:52:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -115,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Cincinnati Bengals",
+        "price": -105,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -105,
+        "point": 1.0,
+        "description": null
+       },
+       {
+        "name": "Cincinnati Bengals",
+        "price": -115,
+        "point": -1.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -115,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Cincinnati Bengals",
+        "price": -105,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-25T16:55:00Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -105,
+        "point": 1.0,
+        "description": null
+       },
+       {
+        "name": "Cincinnati Bengals",
+        "price": -115,
+        "point": -1.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -121,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Cincinnati Bengals",
+        "price": -103,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-25T16:55:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -110,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Cincinnati Bengals",
+        "price": -110,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T16:55:06Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Cincinnati Bengals",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6311"
+ },
+ "2bba7fde6f97d0e54403d53676e4ab63|spreads_h1|2026-10-25T16:55:36Z": {
+  "snapshot_timestamp": "2026-10-25T16:55:36Z",
+  "previous_snapshot": "2026-10-25T16:50:36Z",
+  "next_snapshot": "2026-10-25T17:00:36Z",
+  "event_id": "2bba7fde6f97d0e54403d53676e4ab63",
+  "away": "New York Giants",
+  "home": "Houston Texans",
+  "commence_time": "2026-10-25T17:05:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -6.5,
+    "books_at_modal": 8,
+    "mean_point": -6.5,
+    "fair_home_prob_at_modal": 0.5087,
+    "fair_home_price_at_modal": -104,
+    "points_seen": [
+     -6.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -115,
+        "point": -6.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -105,
+        "point": 6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-25T16:52:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -112,
+        "point": -6.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -108,
+        "point": 6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -120,
+        "point": -6.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": 100,
+        "point": 6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -110,
+        "point": -6.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -110,
+        "point": 6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-25T16:55:00Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -120,
+        "point": -6.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": 100,
+        "point": 6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -108,
+        "point": -6.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -115,
+        "point": 6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-25T16:55:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -112,
+        "point": -6.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -105,
+        "point": 6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T16:55:06Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Houston Texans",
+        "price": -115,
+        "point": -6.5,
+        "description": null
+       },
+       {
+        "name": "New York Giants",
+        "price": -105,
+        "point": 6.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6301"
+ },
+ "f3992ad4496724baf7dcd1ef58245d6b|spreads_h1|2026-10-25T16:55:36Z": {
+  "snapshot_timestamp": "2026-10-25T16:55:36Z",
+  "previous_snapshot": "2026-10-25T16:50:36Z",
+  "next_snapshot": "2026-10-25T17:00:36Z",
+  "event_id": "f3992ad4496724baf7dcd1ef58245d6b",
+  "away": "Indianapolis Colts",
+  "home": "Minnesota Vikings",
+  "commence_time": "2026-10-25T17:05:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -3.5,
+    "books_at_modal": 4,
+    "mean_point": -3.75,
+    "fair_home_prob_at_modal": 0.5245,
+    "fair_home_price_at_modal": -110,
+    "points_seen": [
+     -4.0,
+     -3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -102,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": -118,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -110,
+        "point": 4.0,
+        "description": null
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": -110,
+        "point": -4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-25T16:52:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -110,
+        "point": 4.0,
+        "description": null
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": -110,
+        "point": -4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 105,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": -125,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-25T16:55:00Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -110,
+        "point": 4.0,
+        "description": null
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": -110,
+        "point": -4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 100,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": -125,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-25T16:55:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": 100,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": -120,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T16:55:06Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Indianapolis Colts",
+        "price": -110,
+        "point": 4.0,
+        "description": null
+       },
+       {
+        "name": "Minnesota Vikings",
+        "price": -110,
+        "point": -4.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6291"
+ },
+ "be5dd120ca08b43d647b6caa8953500a|spreads_h1|2026-10-25T16:55:36Z": {
+  "snapshot_timestamp": "2026-10-25T16:55:36Z",
+  "previous_snapshot": "2026-10-25T16:50:36Z",
+  "next_snapshot": "2026-10-25T17:00:36Z",
+  "event_id": "be5dd120ca08b43d647b6caa8953500a",
+  "away": "Miami Dolphins",
+  "home": "New York Jets",
+  "commence_time": "2026-10-25T17:05:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -2.5,
+    "books_at_modal": 7,
+    "mean_point": -1.0,
+    "fair_home_prob_at_modal": 0.5164,
+    "fair_home_price_at_modal": -107,
+    "points_seen": [
+     -2.5,
+     9.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -102,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -118,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-25T16:52:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-25T16:55:23Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-25T16:55:00Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T16:55:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 600,
+        "point": -9.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -1000,
+        "point": 9.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-25T16:55:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T16:55:06Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "New York Jets",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6281"
+ },
+ "436119bb3ccdaa6ed7808aa3ebd82b76|spreads_h1|2026-10-25T20:00:36Z": {
+  "snapshot_timestamp": "2026-10-25T20:00:36Z",
+  "previous_snapshot": "2026-10-25T19:55:36Z",
+  "next_snapshot": "2026-10-25T20:05:36Z",
+  "event_id": "436119bb3ccdaa6ed7808aa3ebd82b76",
+  "away": "Denver Broncos",
+  "home": "Arizona Cardinals",
+  "commence_time": "2026-10-25T20:10:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": 3.0,
+    "books_at_modal": 4,
+    "mean_point": 2.88,
+    "fair_home_prob_at_modal": 0.5103,
+    "fair_home_price_at_modal": -104,
+    "points_seen": [
+     2.5,
+     3.0,
+     3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T20:00:03Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 120,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -142,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-25T19:59:41Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -114,
+        "point": 3.0,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -106,
+        "point": -3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-25T20:00:03Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T20:00:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -125,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": 105,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-25T20:00:03Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T20:00:26Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 104,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -129,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-25T20:00:04Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T19:58:38Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Arizona Cardinals",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       },
+       {
+        "name": "Denver Broncos",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6271"
+ },
+ "e8e5715eefb6a9ce64765e9ddf49c0cc|spreads_h1|2026-10-25T20:20:36Z": {
+  "snapshot_timestamp": "2026-10-25T20:20:36Z",
+  "previous_snapshot": "2026-10-25T20:15:36Z",
+  "next_snapshot": "2026-10-25T20:25:36Z",
+  "event_id": "e8e5715eefb6a9ce64765e9ddf49c0cc",
+  "away": "Green Bay Packers",
+  "home": "Detroit Lions",
+  "commence_time": "2026-10-25T20:25:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -2.5,
+    "books_at_modal": 5,
+    "mean_point": -2.69,
+    "fair_home_prob_at_modal": 0.5254,
+    "fair_home_price_at_modal": -111,
+    "points_seen": [
+     -3.0,
+     -2.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-25T20:20:15Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-25T20:19:54Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -125,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 104,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-25T20:20:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -125,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 105,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-25T20:20:15Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -105,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -115,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-25T20:20:16Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -106,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -114,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-25T20:19:54Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -122,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -103,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-25T20:20:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-25T20:18:49Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Detroit Lions",
+        "price": -110,
+        "point": -3.0,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -110,
+        "point": 3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6261"
+ },
+ "176d474ed8b2bbf1eb4d7e9c56b4bf22|spreads_h1|2026-10-26T00:15:36Z": {
+  "snapshot_timestamp": "2026-10-26T00:15:36Z",
+  "previous_snapshot": "2026-10-26T00:10:36Z",
+  "next_snapshot": "2026-10-26T00:20:36Z",
+  "event_id": "176d474ed8b2bbf1eb4d7e9c56b4bf22",
+  "away": "Kansas City Chiefs",
+  "home": "Seattle Seahawks",
+  "commence_time": "2026-10-26T00:22:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -2.5,
+    "books_at_modal": 6,
+    "mean_point": -2.25,
+    "fair_home_prob_at_modal": 0.4989,
+    "fair_home_price_at_modal": 100,
+    "points_seen": [
+     -2.5,
+     -1.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-26T00:15:00Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -112,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -108,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-26T00:15:21Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-26T00:13:59Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -115,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -105,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-26T00:15:01Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -110,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -110,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-26T00:14:20Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-26T00:15:20Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -122,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 100,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-26T00:15:00Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -108,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-26T00:15:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Kansas City Chiefs",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6251"
+ },
+ "4853610e63c246f2027a6a248e642c9a|spreads_h1|2026-10-27T00:10:36Z": {
+  "snapshot_timestamp": "2026-10-27T00:10:36Z",
+  "previous_snapshot": "2026-10-27T00:05:36Z",
+  "next_snapshot": "2026-10-27T00:15:36Z",
+  "event_id": "4853610e63c246f2027a6a248e642c9a",
+  "away": "Dallas Cowboys",
+  "home": "Philadelphia Eagles",
+  "commence_time": "2026-10-27T00:18:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": 2.5,
+    "books_at_modal": 8,
+    "mean_point": 2.5,
+    "fair_home_prob_at_modal": 0.4861,
+    "fair_home_price_at_modal": 106,
+    "points_seen": [
+     2.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-27T00:10:28Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-27T00:09:41Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-27T00:09:19Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -114,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -107,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-27T00:10:29Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-27T00:10:27Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -118,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -102,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-27T00:10:06Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -117,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -107,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-27T00:10:06Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-27T00:10:11Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Dallas Cowboys",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       },
+       {
+        "name": "Philadelphia Eagles",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6241"
+ },
+ "ab2865e9f2d4b012de8bc6fb6de11a7c|spreads_h1|2026-10-30T00:10:36Z": {
+  "snapshot_timestamp": "2026-10-30T00:10:36Z",
+  "previous_snapshot": "2026-10-30T00:05:36Z",
+  "next_snapshot": "2026-10-30T00:15:36Z",
+  "event_id": "ab2865e9f2d4b012de8bc6fb6de11a7c",
+  "away": "Carolina Panthers",
+  "home": "Green Bay Packers",
+  "commence_time": "2026-10-30T00:15:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -2.5,
+    "books_at_modal": 8,
+    "mean_point": -2.5,
+    "fair_home_prob_at_modal": 0.5103,
+    "fair_home_price_at_modal": -104,
+    "points_seen": [
+     -2.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-10-30T00:10:27Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-10-30T00:09:57Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-10-30T00:10:28Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -104,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -116,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-10-30T00:10:27Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-10-30T00:09:59Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -113,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-10-30T00:10:28Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-10-30T00:10:07Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -112,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-10-30T00:09:36Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Carolina Panthers",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Green Bay Packers",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6231"
+ },
+ "ab5ab731ab655bd6308bc7a922275518|spreads_h1|2026-11-01T17:55:36Z": {
+  "snapshot_timestamp": "2026-11-01T17:55:36Z",
+  "previous_snapshot": "2026-11-01T17:50:36Z",
+  "next_snapshot": "2026-11-01T18:00:36Z",
+  "event_id": "ab5ab731ab655bd6308bc7a922275518",
+  "away": "Cleveland Browns",
+  "home": "Pittsburgh Steelers",
+  "commence_time": "2026-11-01T18:00:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": -2.5,
+    "books_at_modal": 8,
+    "mean_point": -2.5,
+    "fair_home_prob_at_modal": 0.5115,
+    "fair_home_price_at_modal": -105,
+    "points_seen": [
+     -2.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-01T17:53:49Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-11-01T17:55:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -104,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -117,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-01T17:55:26Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": 100,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -120,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-01T17:55:28Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -113,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-11-01T17:55:27Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -104,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -116,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-11-01T17:55:02Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-11-01T17:55:28Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -102,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-01T17:54:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Cleveland Browns",
+        "price": -105,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Pittsburgh Steelers",
+        "price": -115,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6221"
+ },
+ "05405af79752f5e742cdf50b61f6745e|spreads_h1|2026-11-01T21:20:36Z": {
+  "snapshot_timestamp": "2026-11-01T21:20:36Z",
+  "previous_snapshot": "2026-11-01T21:15:36Z",
+  "next_snapshot": "2026-11-01T21:25:36Z",
+  "event_id": "05405af79752f5e742cdf50b61f6745e",
+  "away": "New England Patriots",
+  "home": "Miami Dolphins",
+  "commence_time": "2026-11-01T21:25:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": 3.5,
+    "books_at_modal": 7,
+    "mean_point": 3.25,
+    "fair_home_prob_at_modal": 0.4893,
+    "fair_home_price_at_modal": 104,
+    "points_seen": [
+     1.5,
+     3.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-01T21:19:54Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -105,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-11-01T21:20:32Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -104,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -117,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-11-01T21:19:56Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -105,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-01T21:20:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 100,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -120,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-01T21:20:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": 130,
+        "point": 1.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -162,
+        "point": -1.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-11-01T21:20:17Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -105,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-11-01T21:20:18Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -105,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -115,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-01T21:20:22Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Miami Dolphins",
+        "price": -112,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "New England Patriots",
+        "price": -108,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6211"
+ },
+ "7d664fbcd39350e559d83c0068ba7169|spreads_h1|2026-11-03T01:15:36Z": {
+  "snapshot_timestamp": "2026-11-03T01:15:36Z",
+  "previous_snapshot": "2026-11-03T01:10:36Z",
+  "next_snapshot": "2026-11-03T01:20:36Z",
+  "event_id": "7d664fbcd39350e559d83c0068ba7169",
+  "away": "Chicago Bears",
+  "home": "Seattle Seahawks",
+  "commence_time": "2026-11-03T01:20:00Z",
+  "book_count": 7,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 7,
+    "modal_point": -2.5,
+    "books_at_modal": 4,
+    "mean_point": -2.86,
+    "fair_home_prob_at_modal": 0.5306,
+    "fair_home_price_at_modal": -113,
+    "points_seen": [
+     -3.5,
+     -3.0,
+     -2.5
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-03T01:15:24Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -118,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -102,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-03T01:15:33Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -110,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -110,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-03T01:15:06Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -129,
+        "point": 3.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 104,
+        "point": -3.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-11-03T01:15:27Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 115,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -135,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-11-03T01:14:37Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": 115,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -135,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-11-03T01:15:33Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -102,
+        "point": 2.5,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": -118,
+        "point": -2.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-03T01:11:56Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Chicago Bears",
+        "price": -125,
+        "point": 3.0,
+        "description": null
+       },
+       {
+        "name": "Seattle Seahawks",
+        "price": 105,
+        "point": -3.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6201"
+ },
+ "c75744790b7acf6260c78ba5e739c0e5|spreads_h1|2026-11-06T01:10:36Z": {
+  "snapshot_timestamp": "2026-11-06T01:10:36Z",
+  "previous_snapshot": "2026-11-06T01:05:37Z",
+  "next_snapshot": "2026-11-06T01:15:36Z",
+  "event_id": "c75744790b7acf6260c78ba5e739c0e5",
+  "away": "Jacksonville Jaguars",
+  "home": "Baltimore Ravens",
+  "commence_time": "2026-11-06T01:20:00Z",
+  "book_count": 8,
+  "consensus": {
+   "spreads_h1": {
+    "book_count": 8,
+    "modal_point": 5.5,
+    "books_at_modal": 6,
+    "mean_point": 5.44,
+    "fair_home_prob_at_modal": 0.4955,
+    "fair_home_price_at_modal": 102,
+    "points_seen": [
+     4.5,
+     5.5,
+     6.0
+    ],
+    "note": "modal_point is the HOME spread; away = -modal_point"
+   }
+  },
+  "books": [
+   {
+    "key": "draftkings",
+    "title": "DraftKings",
+    "last_update": "2026-11-06T01:10:25Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -108,
+        "point": 5.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -112,
+        "point": -5.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "williamhill_us",
+    "title": "Caesars",
+    "last_update": "2026-11-06T01:10:04Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -106,
+        "point": 5.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -114,
+        "point": -5.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betus",
+    "title": "BetUS",
+    "last_update": "2026-11-06T01:10:26Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -120,
+        "point": 6.0,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": 100,
+        "point": -6.0,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "fanduel",
+    "title": "FanDuel",
+    "last_update": "2026-11-06T01:10:33Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -110,
+        "point": 5.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -110,
+        "point": -5.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betonlineag",
+    "title": "BetOnline.ag",
+    "last_update": "2026-11-06T01:10:04Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -110,
+        "point": 5.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -110,
+        "point": -5.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betrivers",
+    "title": "BetRivers",
+    "last_update": "2026-11-06T01:10:03Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -110,
+        "point": 5.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -113,
+        "point": -5.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "betmgm",
+    "title": "BetMGM",
+    "last_update": "2026-11-06T01:10:02Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -105,
+        "point": 5.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -115,
+        "point": -5.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "key": "bovada",
+    "title": "Bovada",
+    "last_update": "2026-11-06T01:08:37Z",
+    "markets": [
+     {
+      "key": "spreads_h1",
+      "outcomes": [
+       {
+        "name": "Baltimore Ravens",
+        "price": -112,
+        "point": 4.5,
+        "description": null
+       },
+       {
+        "name": "Jacksonville Jaguars",
+        "price": -108,
+        "point": -4.5,
+        "description": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "requests_remaining": "6191"
+ }
+}

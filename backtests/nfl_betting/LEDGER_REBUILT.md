@@ -6,7 +6,7 @@ Rebuilt 2026-11-11 at Phong's direction ("Rebuilt from archive"). Row-level data
 - **Rows:** every lean, engine fire and parlay listed in the eight transcript-only reports in `archive/`. Nothing was taken from the running log for 10/18-11/5.
 - **Grades:** as graded in the chat that ran the board, where it graded. Nine entries were never graded in their chats; they were graded 11/11 from ESPN linescores (the `get_football_scoreboard` pull for 10/19, 10/25, 11/1 and 11/2). Those nine are marked in the CSV and listed in section 5. All nine games ended in regulation.
 - **Old shadow numbers are dropped.** Two chats numbered 2H shadows independently and collided: "#33-#44" in the 10/18-10/25 chat are different bets from "#33-#42" in the running log. Rows here carry new IDs only.
-- **Hit-only.** No closing line was pulled on any row. Nothing here shows the protocol beats the price.
+- **Closing lines:** none when this was built. Added later on 11/11: first-half closes for all 22 first-half entries and the one full-game lean (`clv_1h_2026-10-18_to_11-05.csv`). The first-half leans beat the books' closing price 18 of 21 but closed 1.0 point worse than the no-vig fair on average. Second-half closes are still not pulled. See `REVIEW_2026-11-11.md` section 2.
 - DSB and Red105 are paper accounts. Robinhood is live money (one row: 11/5 JAX 1H).
 
 ## 1. Record, 10/18 to 11/5 (archive-backed)
@@ -90,7 +90,7 @@ Stated tickets, excluding the two unresolved items: **+$2,611**. Including 10/25
 The 10/25 and 11/1 chat grades already in the archives were re-checked against the same linescores; none changed.
 
 ## 6. Still open
-- Closing lines on every row.
+- Closing lines on the second-half rows (the 3Q kickoff time was logged on only a few boards; about 250 to 500 Odds API credits to recover).
 - 10/25 ticket sizes; the 11/2 CHI 2H ticket conflict; the 11/5 JAX 1H fill size; whether the LAR -3 fire was placed and whether the price was live when it was issued.
 - No archive report yet for 10/11-10/15 (in the "NFL betting protocols" chat, outside the range it was asked for), the 11/8 afternoon chat (LV@SF, HOU@LAC 2H) or 11/9 BUF@MIN.
 - Paper no-bets on NO CLEAR LEAN games were never graded on the close and are not counted here.

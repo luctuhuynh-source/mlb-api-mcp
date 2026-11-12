@@ -9,7 +9,7 @@
  "items": [
   {
    "id": "C01",
-   "check": "Rules read from the doc tab (or RULES_v05_baseline.md) in this chat, not from memory notes",
+   "check": "Rules read in this chat from the doc tab or from the rule list of the profile (RULES_CURRENT.md / RULES_v05_baseline.md), not from memory notes",
    "rules": "README",
    "engine": [
     "1H",
@@ -151,7 +151,7 @@
   },
   {
    "id": "C11",
-   "check": "HOOK candidates priced with win/push/loss at DSB's number; 3.0 floor and EV > 0 applied",
+   "check": "HOOK candidates priced with win/push/loss at the venue's number; 3.0 floor and EV > 0 applied",
    "rules": "F-23 H-17",
    "engine": [
     "1H",
@@ -465,7 +465,7 @@
   },
   {
    "id": "C33",
-   "check": "Previous board's grades and closing lines pulled before this run (or listed as still owed)",
+   "check": "Previous board's grades and closing lines pulled before this run (or listed as still owed), CLV per Liem L1.1",
    "rules": "F-46 H-42",
    "engine": [
     "1H",
@@ -497,6 +497,50 @@
    "id": "C35",
    "check": "RECOMMENDED section printed at the end (bets with venue, number, price, size - or 'none')",
    "rules": "F-42 H-40",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C36",
+   "check": "Push probability and any conversion between numbers taken from the one-sided table B-NFL-3, not the either-team frequencies printed in the tabs",
+   "rules": "F-10 F-14 F-23 H-12 H-17 R-07; formula fix 11/11, PUSH_TABLE_B-NFL-3.md",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C37",
+   "check": "Halftime start and estimated 3Q kickoff logged in Pacific time for every game run (needed to pull the 2H close)",
+   "rules": "H-31 H-41 H-42",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C38",
+   "check": "Fire class named for every fire (HOOK / direct gap / HOOK through divergence); no DERIV-LAG fire before 20 logged boards",
+   "rules": "F-25 F-28 H-19 H-20",
    "engine": [
     "1H",
     "2H"

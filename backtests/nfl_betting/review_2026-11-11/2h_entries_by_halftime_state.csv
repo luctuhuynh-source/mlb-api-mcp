@@ -1,0 +1,25 @@
+id,date,class,game,pick,half_away_home,our_halftime_margin,state,line,result
+R07,10/18,2H lean,TEN@IND,IND -2.5,0-13,13.0,leader,-2.5,L
+R08,10/18,2H lean,BAL@CLE,BAL +0.5,10-0,10.0,leader,0.5,L
+R09,10/18,2H lean,NYJ@NE,NE -2.5,3-17,14.0,leader,-2.5,L
+R10,10/18,2H lean,NO@NYG,NYG +1.5,10-10,0.0,tied,1.5,L
+R11,10/18,2H lean,CHI@ATL,CHI +4,21-7,14.0,leader,4.0,L
+R12,10/18,2H lean,CAR@PHI,CAR -1,10-7,3.0,leader,-1.0,W
+R13,10/18,2H lean,BUF@LV,LV +3,13-13,0.0,tied,3.0,P
+R14,10/18,2H lean,LAC@KC,KC -2.5,3-19,16.0,leader,-2.5,L
+R15,10/18,2H engine fire,CHI@ATL,Over 24.5 2H,21-7,,,,W
+R16,10/18,2H engine fire,ARI@LAR,ARI +6.5 2H (also printed as the lean),9-9,0.0,tied,6.5,W
+R20,10/22,2H lean,NE@CHI,CHI +0.5,14-20,6.0,leader,0.5,W
+R30,10/25,2H lean,CLE@TEN,CLE -0.5,17-14,3.0,leader,-0.5,L
+R31,10/25,2H lean,NYG@HOU,HOU -3.5,14-14,0.0,tied,-3.5,L
+R32,10/25,2H lean,DEN@ARI,DEN PK,13-6,7.0,leader,0.0,W
+R33,10/25,2H lean,GB@DET,DET -1.5,7-10,3.0,leader,-1.5,L
+R35,10/26,2H lean,DAL@PHI,DAL +0.5,20-14,6.0,leader,0.5,W
+R39,11/1,2H lean,LV@NYJ,NYJ +3,14-23,9.0,leader,3.0,L
+R40,11/1,2H lean,CLE@PIT,PIT -0.5,6-20,14.0,leader,-0.5,W
+R41,11/1,2H lean,NE@MIA,MIA +7,3-13,10.0,leader,7.0,L
+R42,11/1,2H lean,KC@DEN,KC +1,17-13,4.0,leader,1.0,L
+R43,11/1,2H lean,PHI@WAS,WAS -1,10-13,3.0,leader,-1.0,W
+R44,11/1,2H engine fire,LAC@LAR,LAR -3 2H,9-10,1.0,leader,-3.0,W
+R46,11/2,2H lean,CHI@SEA,CHI +1,13-9,4.0,leader,1.0,W
+R48,11/5,2H lean,JAX@BAL,JAX -3,17-3,14.0,leader,-3.0,W

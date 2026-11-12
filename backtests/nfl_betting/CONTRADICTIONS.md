@@ -1,7 +1,51 @@
 # Contradictions and gaps in the NFL protocol text (as of 2026-11-11)
 
-Found by reading the four tabs and the change log end to end. Nothing here has been fixed; each needs Phong's ruling or a clean-up
-he approves. Severity: HIGH = a chat reading the tab can run a different rule; MED = ambiguous; LOW = stale wording.
+Found by reading the four tabs and the change log end to end. Severity: HIGH = a chat reading the tab can run a different rule;
+MED = ambiguous; LOW = stale wording.
+
+## Status after the 11/11/2026 review
+
+Each item now has one reading in `RULES_CURRENT.md` and a "read this first" block at the top of both NFL tabs (plus NFL addenda in the
+Game-flow and Robinhood tabs). No existing sentence in the doc was reworded or deleted, so the old text is still there underneath;
+the blocks say which parts are dead. Readings marked [R] in the rule list are Phong's to overrule.
+
+| Item | Status | Reading (rule ID) |
+|---|---|---|
+| X-01 | Fixed by banner | The v0.2 code blocks are history. Dead parts are listed in the banner. One flat list: `RULES_CURRENT.md` |
+| X-02 | Fixed going forward | `VERSION_BY_DATE.md` separates the rule sets by date. The checker now prints the rules-text date next to the version label |
+| X-03 | Done | `REVIEW_2026-11-11.md` is the data-driven review the freeze called for |
+| X-04 | Fixed | Policy rules written into the banner and the rule list (M-01 to M-05) |
+| X-05 | Resolved | Robinhood is an execution venue, 10/17 (R-05) |
+| X-06 | Resolved | Same; v0.6a's "DSB-only" wording is superseded (R-05) |
+| X-07 | Resolved [R] | Ask + 2 cents vs fair at the same strike; a fire needs 3.0 points; "ask <= fair" is the minimum for any ticket (R-06) |
+| X-08 | Fixed [FIX] | NFL uses the one-sided table B-NFL-3. 11.5 / 15.3 / 5.7 are CFB figures (R-07) |
+| X-09 | Fixed [FIX] | Same table replaces both off-strike shift rules for NFL spreads; totals stay 1.5 per half-point (R-07) |
+| X-10 | Resolved [R] | Better-EV venue first; exact tie to DSB (R-09) |
+| X-11 | Resolved [R] | Engine-tab key numbers govern NFL (R-08) |
+| X-12 | Dead text | DSB overtime veto retired 10/4 (H-03) |
+| X-13 | Dead text | Anchor Mode is shadow-only (H-21) |
+| X-14 | Resolved [R] | The 3Q kickoff is the only hard stop; Q3 -4 retired by the 10/17 text (H-34) |
+| X-15 | Dead text | G-12 |
+| X-16 | Resolved | FLOW skip retired 11/9 (F-06, G-07) |
+| X-17 | Resolved [R] | Sweep all; FLOW every game; full runs on FLAGGED only; inactives for every game; STATIC re-swept on a 1-point move or a starter change (F-15 to F-18) |
+| X-18 | Resolved [R] | Four full runs per window stands (F-16) |
+| X-19 | Noted | Label stays "v1.1"; the rule list names it "v1.1 with CLEAR LEAN v1.0 and ALWAYS PULL FLOW" |
+| X-20 | Resolved [R] | The CLEAR LEAN list is the monitored list (F-21a) |
+| X-21 | Resolved [R] | Direct gap defined: 3.0 points over break-even at the same number, EV > 0, gates and divergence apply (F-28) |
+| X-22 | Resolved [R] | 1.5-point gap opens the evaluation; the fire needs 3.0 points priced at DSB's number (H-19) |
+| X-23 | Resolved | v0.5 governs: Overs after a 45+ first half are shadow-only (H-25) |
+| X-24 | Resolved [R] | Kill switches retired by Liem L3.3; NFL line 17u = $5,100 (M-04) |
+| X-25 | Resolved [R] | Two aligned inputs with no hard counter print the lean (G-10). Paper side for filtered games still undefined (G-11, review decision 3) |
+| X-26 | Superseded | `LEDGER_REBUILT.md`: 1H leans 18-11-1 since 10/11 |
+| X-27 | Superseded | `LEDGER_REBUILT.md`: 2H leans 19-17-1 since 10/11 |
+
+Found in the review, not in the list below:
+- X-28 HIGH, fixed. The push table (B-NFL-2) counts either team landing on the number. The boards used it as the push probability of a line, which is the one-sided figure and about half as large. See `PUSH_TABLE_B-NFL-3.md`.
+- X-29 MED, open. Nothing in the text says a lean bet with live money has to be at a fair price. First-half leans closed 1.0 point worse than fair on average (review decision 2).
+- X-31 MED, open. Robinhood 2H contracts are regulation-only; the 10/17 text says "convert before comparing" with no method. Reading until one is written: shadow (H-02).
+- X-30 MED, resolved [R]. Robinhood contract count: "contracts = size / ask" treats size as dollars risked, while the unit is $300 to win (R-10).
+
+## The list as found (2026-11-11, before the review)
 
 ## Structure
 - X-01 HIGH. Both NFL tabs are still titled "analyst protocol v0.2" and open with the v0.2 paste-ready code block. Every later version is an amendment stacked underneath. The code block still states rules that were later superseded: $50K bankroll and 0.5u = $250; Robinhood co-primary; the 70% public-ticket caution; 1H total = 0.485 x full; "QB1 confirmed active"; 2H "under 3 minutes -> shadow only"; the DSB overtime veto; "lead 17+ -> 2H total under only"; the "pregame close minus 1H result" anchor; Anchor Mode fires at 0.25u. A chat that stops at the code block runs v0.2.
