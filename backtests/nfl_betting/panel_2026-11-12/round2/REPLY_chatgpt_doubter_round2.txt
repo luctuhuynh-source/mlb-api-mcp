@@ -1,0 +1,93 @@
+Worked for 6m 3s
+
+1. FATAL - S5 has a settlement and timestamp problem.
+
+OUTSIDE contract check: current Kalshi NFL second-half-total markets explicitly include overtime. The blanket regulation-only premise is wrong for those contracts.  Audit the historical contract IDs before applying any 0.7-point adjustment; even a valid regulation adjustment varies by strike and game state.
+
+Minute-by-minute Robinhood quotes cannot be matched to minute-by-minute book fair when books were observed only twice. Use synchronized intersections, actual ask plus fees, sufficient size and measured phone latency. Forty-five closing half-spreads neither establish nor disprove a halftime totals opportunity.
+
+2. FATAL - S1 can manufacture the entire edge.
+
+Whole-number sportsbook fair is conditional on no push; half-point fair is unconditional. At approximately even fair, an assumed 11.9-percent push mass makes an integer-to-half move worth about 5.95 probability points; crossing 16.5 to 17.5 changes probability by the full 11.9. Neither is a universal adjustment.
+
+Require cell counts, uncertainty, half-specific tables and coherent win/push/loss probabilities conditioned on the relevant market. Zero observed at 18 does not establish true zero. Exclude the target book from consensus. Old closing-line samples need current calibration. A better number can be offset by juice. Tonight supports repairing conversion, not profitable betting.
+
+3. MAJOR - The headline spread tally needs reconciliation.
+
+41-33-1 is 75 outcomes, not 68 games. Multiple book bets require game-clustered uncertainty and a declared selection rule.
+
+Including push stakes in turnover, at -115 those outcomes earn $915 on $25,875 risked: 3.54 percent. At -110 they earn 5.70 percent; reported 5.4 is compatible with constant -110.66.
+
+Likewise 539-416-10 means 56.44 percent wins excluding pushes. Constant -110 produces 7.67 percent ROI; approximately -105.77 produces 9.7. The wind return divided by its stated standard error is 3.23. Obtain actual prices before calling either return verified.
+
+4. MAJOR - Repeated screening has exhausted the historical holdout.
+
+The 10.5-point gap divided by 3.9 gives 2.69 standard errors, roughly 0.007 two-sided before selection adjustments. It supports ordering, not proven profitability.
+
+Ten independent Over screens with a 3.9-percent false-pass rate give a 32.8-percent chance of at least one pass; ten Under screens give about 1.0 percent. The actual mixed, correlated family differs. A false-pass rate is not the probability a passing strategy is false.
+
+Allow at most two new frozen claims: second-half S1, then S5. Freeze sides, thresholds, timing, consensus and execution before grading. No inspected season becomes untouched by relabeling it. Use chronological season checks as diagnostics; future games are the holdout. One selected wager per game. Positive net returns in both periods, at least 40 games each, surviving one adverse price step and latency earn only a silent forward log. Define the step explicitly, such as -115 to -120 or one contract cent.
+
+5. MAJOR - S2 smuggles a failed Under back into consideration.
+
+Its Under reversed from plus 7.8 to minus 6.4 percent. A new price gate does not repair that evidence. The Over deserves a log, but its intersection with the price gate is untested; compare against the identical price gate without flow.
+
+Robinhood’s 2.4-point disadvantage does not automatically kill forecasting skill. Hypothetically, with book fair of 50 percent, a true 56.2-percent chance bought for 52.4 cents returns 7.3 percent. But neither that probability nor that matched strike is established, and S2’s at-fair gate rejects that price. Never subtract probability points directly from ROI.
+
+PART 1 of 2
+
+6. MAJOR - S3 has no supporting result and incomplete first-half inputs.
+
+Small team samples mix opponent strength, injuries and duplicated game outcomes. If tested, walk forward by week: use only completed prior games, each game’s contemporaneous lines, fixed preseason handling, minimum history and shrinkage; tune only on earlier seasons. Freeze the combination rule before testing. First-half totals alone cannot identify team-implied scoring without first-half spreads. That extension is not ready to test as described.
+
+7. MAJOR - S4’s data cannot identify leadership.
+
+Two snapshots show net movement, not which book moved first. Following and fading are separate claims. Once the move is known, only the later executable price counts. Testing at the early price is look-ahead. Require intermediate timestamps before considering leadership; otherwise drop this proposal.
+
+8. MAJOR - S6 spends credits before establishing access.
+
+Live full-game total minus first-half points and the second-half total describe the same remaining scoring only with matching settlement and game state. Staleness and vig can imitate lag. A slow paper book produces no real earnings. The 20,000 credits buy 2,000 market-lookups and consume 41 percent of the budget. Establish venue access and synchronized quote coverage before that purchase.
+
+9. MAJOR - S7 transfers evidence it does not have.
+
+Wind profits do not validate rain, snow or cold. Each condition and threshold adds another search. Weather known before betting and roof status also matter. No supplied result supports these claims; drop this batch.
+
+10. MAJOR - S8 turns an era split into a causal story.
+
+Recent 54.3-percent Overs imply only 1.52-percent ROI at -115. Rule-change causation is unproved. A 1.1-point mean excess can coexist with losing Overs.
+
+Regression slope differences are 0.040, minus 0.012 and minus 0.044; missing intercepts and uncertainty prevent a trading conclusion. Log drift with a fixed evaluation window. “Stop when lines catch up” is not an executable stopping rule.
+
+11. MAJOR - Price-only is defensible; “price explains most” is unproved.
+
+The personal records reconcile to 24-20-2; subgroup win rates are 70.6 and 44.4 percent, but only 44 decisions support that comparison. Fisher’s two-sided p is approximately 0.12. Closing fair also uses later information. Best-of-ten shopping improved wind ROI by 5.2 points; that does not transfer to two paper accounts.
+
+Paper profits are not real earnings. S1 becomes commercially relevant only through attainable prices such as S5. Directional rules have not demonstrated incremental executable value. Consensus itself is a benchmark, not truth. Correct price comparison followed by passing is a complete outcome.
+
+Without rows, I cannot verify actual-price returns, regressions, residual means, period weights, the 1.0-percent fit, mass estimates or random-screen methodology.
+
+12. MINOR - Most approximate returns reconcile; precision does not.
+
+At -115, break-even is 53.49 percent. With no pushes, the stated win rates imply these ROIs: top YPP Over 5.07; bottom YPP Under 1.52; red-zone Over 4.70; wind second-half Under minus 1.29; wind first-half Under minus 4.84; high-scoring-first-half Under minus 4.28; all Unders minus 9.33; all Overs minus 3.72 percent. Actual odds can explain discrepancies; first-half wind’s minus 3.2 corresponds approximately to -111.
+
+Equal -115 prices sit 3.49 probability points above fair, close to 3.6. Top YPP’s independent-game, no-push one-sided lower ROI bound is minus 3.3 percent, versus reported minus 4.1; require the original estimator and push counts. Both fail to establish profit. The 64.9-percent result is consistent with 37 wins from 57 decisions.
+
+13. RANKING.
+
+Next tests: S1, then S5 only after conversion and settlement checks pass.
+
+Silent logs: S2 Over only; S8.
+
+Drop from this batch: S2 Under, S3, S4, S6, S7.
+
+14. KILL CRITERIA.
+
+S1 betting thesis: end it if advantages disappear under correct push accounting, estimation uncertainty or attainable prices. Keep the arithmetic repair.
+
+S5 investigation: end it if synchronized quotes provide no fillable 3-point advantage after fees and latency over the preregistered observation window.
+
+S2 Over and S8: at a predeclared future checkpoint, an upper one-sided 95-percent bound on net ROI at most zero kills the profit claim. An interval spanning zero authorizes nothing. S2 also needs incremental value over its price-only comparison. Use game-level uncertainty. Do not rescue failures by changing thresholds.
+
+I would change my mind for frozen, prospective results at obtainable prices, with verified settlement, recorded missed fills and uncertainty narrow enough to support profit. Another favorable slice of these 990 games would not do it.
+
+PART 2 of 2

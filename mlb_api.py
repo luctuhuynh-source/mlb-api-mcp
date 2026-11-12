@@ -2381,6 +2381,10 @@ def setup_mlb_tools(mcp):
             mkts.append({
                 "ticker": m.get("ticker"),
                 "title": m.get("title"),
+                # settlement text, only on small pulls (limit 3 or less) so a normal pull stays short
+                **({"rules": (m.get("rules_primary") or "")[:700], "rules2": (m.get("rules_secondary") or "")[:500],
+                    "sub": m.get("yes_sub_title") or m.get("subtitle"), "strike": m.get("floor_strike"),
+                    "status": m.get("status"), "result": m.get("result")} if limit <= 3 else {}),
                 "yes_bid": _cents(m.get("yes_bid_dollars")),
                 "yes_ask": _cents(m.get("yes_ask_dollars")),          # = RH "Buy Yes" price
                 "no_bid": _cents(m.get("no_bid_dollars")),
