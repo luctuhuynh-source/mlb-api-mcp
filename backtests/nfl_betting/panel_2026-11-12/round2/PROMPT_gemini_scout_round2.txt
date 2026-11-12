@@ -1,0 +1,75 @@
+YOU ARE THE SCOUT on a three-model review panel, round 2.
+Gemini (you) = scout. ChatGPT = doubter. Claude = manager, who makes every final decision. You do not decide and you do not write the protocol. You bring outside evidence and new ideas the manager does not have.
+Search the web. Give a source (author or site, and year) for every factual claim, and say how strong the source is. Betting-content sites are weak sources: prefer academic papers, books and interviews by professional bettors or sportsbook traders, and data-backed analytics work. If you cannot verify something, write "not verified" instead of guessing.
+
+WHO THIS IS FOR
+A solo NFL bettor (the operator) who runs written, versioned betting protocols and has an AI run them from his phone. Venues: two sportsbook accounts used as paper (simulated) accounts, typical prices -105 to -115, second-half lines include overtime, ties refunded; and one real-money venue, Robinhood prediction markets (Kalshi contracts): price paid = ask plus a 2 cent fee, half-point strikes, half markets settle on regulation only. Unit: $300 to win. His engine bets a side or a total only when a venue price is 3.0 or more probability points better than the no-vig consensus of the books.
+
+WHAT HAPPENED IN ROUND 1 (the same night)
+He asked for a totals protocol. The draft was built on Unders in wind and Unders after a high-scoring first half. The panel reviewed it. Then 990 games of real odds were bought (2023 to November 9 2026): second-half spreads and totals from up to 10 books at two moments of halftime (2 to 7 minutes in, and just before the third-quarter kickoff), and first-half totals just before kickoff. Every claim was fixed in writing before grading. Results, graded at the average book's own number and price, staking to win $300, each game counted once:
+- Wind 10 mph or more, Under, second half: 179 games, 52.8 percent won, return minus 0.9 percent. Failed.
+- Wind 10 or more, Under, first half: 179 games, 50.9 percent, minus 3.2 percent. Failed.
+- First half of 28 or more points, Under, no wind: 209 games, 51.2 percent, minus 4.2 percent. Failed.
+- At the best of the posted books instead of the average book, the wind Under returned plus 4.3 percent.
+- Books charged about -115 on each side of a second-half total. The average book price was 3.6 points worse than fair.
+- Every second-half Under: 48.5 percent won, return minus 9.4 percent. Every Over: 51.5 percent, minus 3.7 percent. By period the Over was 49.5 percent in 2023-2024 and 54.3 percent in 2025-2026 (return plus 1.3 percent).
+- Second halves landed 1.1 points above the market's line on average (0.9 in 2023-2024, 1.4 in 2025-2026).
+- How the market set the second-half total in 2023-2026: 0.476 x pregame total, plus 0.042 x first-half points, minus 0.065 x halftime lead. Actual second-half points: 0.516 x pregame total, plus 0.030 x first-half points, minus 0.109 x halftime lead.
+- Full-game Under in wind 10 or more at the real closing price, 2011 to 2026: 539-416-10, plus 9.7 percent (standard error 3.0). By season since 2019: plus 19.9, plus 2.4, plus 20.3, plus 29.1, plus 25.3, then minus 9.2 (2024), plus 4.2 (2025), minus 4.7 (2026, 12 games).
+
+Then a flow test: ten claims fixed in advance, first-half play-by-play (both teams together) against the same second-half totals.
+- Combined first-half yards per play sorts second halves. Over rate against the line by third of yards per play: bottom 45.6 percent, middle 52.6, top 56.1. The same order in both periods (42.5, 51.3, 54.0 and then 49.3, 54.3, 59.1). Top against bottom: 10.5 points, standard error 3.9.
+- Over when yards per play is in the top third (above 5.89): 330 games, 56.2 percent, plus 5.1 percent (plus 1.4 then plus 10.6 by period). Passed the screen. The cautious end of that return (one-sided 95 percent) is minus 4.1 percent.
+- Under when yards per play is in the bottom third (below 4.93): 330 games, 54.3 percent, plus 1.3 percent (plus 7.8 then minus 6.4). Failed.
+- Over after two or more red-zone drives that ended without a touchdown: 390 games, 56.0 percent, plus 4.5 percent (plus 6.3 then plus 2.0). Passed, weakly.
+- Under when the first half had more than 23 points on under 4.93 yards per play: 64.9 percent on 57 games. Too few to judge.
+- Tempo (number of plays), three-and-out rate, sustained-drive rate and "cheap points" (return scores and short fields) showed nothing steady.
+- All the flow numbers together explain 1.0 percent of how far a second half lands from its line.
+- The screen was: return above zero in each of two periods with 40 or more games in each, and still above zero one price step worse. A random third of the games passes it 3.9 percent of the time as an Over claim and 0.1 percent as an Under claim.
+
+The engine's premise, each book in turn against the others at halftime:
+- A price 3.0 or more points better than the rest appeared in 68 of 901 games, every one a spread: 41-33-1, return plus 5.4 percent. Three in four were gone or smaller five minutes later. Prices 2.0 to 2.9 better went 29-40.
+- On totals compared at the same number, no book was 3.0 better in any of 685 games. Books differ on the NUMBER of a total, not on the price at one number: at the first halftime look the books' second-half totals were a full point or more apart in 70 percent of games.
+- His engine converts across totals numbers with a flat 1.5 points per half-point, never tested. Measured on real second-half lines of 2011-2021, the share of halves landing exactly on a total is: 17: 11.9 percent, 20: 5.7, 21: 5.0, 23: 4.9, 24: 7.6, 27: 7.2, and 18: 0.0, 22: 2.0, 25: 1.7, 28: 0.9. So a half-point is worth anything from nothing to about 6 points.
+
+Other facts:
+- Robinhood: at 45 closing snapshots its all-in half-spread prices averaged 2.4 points worse than fair. None was 2.0 better. Bid-ask about 1 cent. Regulation-only settlement is worth about 0.7 points to a second-half Under and costs an Over about the same.
+- His own 46 half bets this season: 12-5 when the price taken was at the closing fair or better, 12-15-2 when worse.
+- From his earlier baseball totals protocols: rules added after single bad nights selected against winners, and converting a fair price across numbers with a wrong tie rate (9 percent assumed, 12 to 14 measured) cost money.
+
+DATA ON HAND FOR NEW TESTS
+- The 990 games: every book quote with its number, both prices and its age, at two halftime looks; first-half totals before kickoff.
+- nflverse play-by-play for the same games: yards, drives, expected points added, success rate, no-huddle, pass rate, weather text, clock times.
+- Full-game closing totals and prices, 2011 to 2026. Real second-half closing lines 2011 to 2021 (one book, no prices).
+- Minute-by-minute Robinhood (Kalshi) bid and ask history for 2026 contracts.
+- About 49,000 odds credits. A historical lookup costs 10 per market.
+All of it has been looked at tonight, so a new result on it is a screen, not proof. Proof is games played from now on.
+
+THE MANAGER'S CANDIDATE STRATEGIES
+S1 NUMBER TABLE. Replace the flat 1.5 with a measured table of how often a total lands exactly on each number (second half, first half, full game). The engine then sees a venue that hangs a better NUMBER on a total. Fire at 3.0 or more after conversion. Test: each book against the others across numbers, on the 990 games.
+S2 FLOW PLUS PRICE. A totals lean prints only when two keys agree: first-half yards per play in the top third (Over) or bottom third (Under), and the venue's price at the fair or better.
+S3 TEAM HALF FORM. Each team's season-to-date second-half scoring, for and against, measured against what the second-half lines implied in its earlier games. Bet with it when both teams point the same way. Walk-forward only. The same for first halves.
+S4 HALFTIME LINE MOVE. The direction the consensus second-half total moves between the first minutes of halftime and the third-quarter kickoff, and which book moves first. Follow it or fade it.
+S5 ROBINHOOD TOTALS. Robinhood total contracts against the books' fair, converted with the S1 table and adjusted for regulation-only settlement, minute by minute at halftime. Find when it lags.
+S6 LIVE TOTAL CHECK. A book's second-half total against the live full-game total less first-half points at the same minute. Bet the slow one. Needs about 20,000 credits.
+S7 MORE WEATHER. Rain, snow and cold on full-game totals, 2011 to 2026.
+S8 OVER DRIFT. Second halves have run over the line since the 2025 rule changes. A watch item, with a stop when the lines catch up.
+
+YOUR JOB
+1. EACH STRATEGY, S1 to S8. The best outside evidence that it works or does not, how large the effect is said to be, and whether the market is known to have closed it. One finding each.
+2. KEY NUMBERS FOR TOTALS. Published landing frequencies for NFL full-game, first-half and second-half totals, especially after the 2015 extra-point change and the 2024-2025 kicking changes. Do they match ours?
+3. HOW HALFTIME TOTALS ARE MADE. How sportsbooks set and move second-half totals, how automated it is, which books are considered sharpest for NFL halves, and how long a stale halftime number survives.
+4. BETTER FLOW NUMBERS. We used yards per play. Is there evidence that success rate, expected points added per play, explosive-play rate, pressure rate, early-down pass rate or pace predict second-half scoring better? Give exact definitions we can compute from nflverse play-by-play.
+5. THE 2025-2026 SCORING SHIFT. Evidence on why second halves are running over the line (kickoff touchback spot, field-goal range, fourth-down decisions, the overtime rule), and whether books changed their totals in 2026.
+6. NEW IDEAS. Up to 6 strategies not on our list, ranked. For each: the exact rule, the mechanism, why the market might miss it, the evidence, how many games a season it catches, and which of our data can test it. Consider: referee crews, rest and travel, altitude and surface, division games, who receives the second-half kickoff, a quarterback change during a game, two-minute-drill scoring, team tendencies by half, team totals, and the link between a side and a total.
+7. WHAT PROFESSIONALS DO. Anything documented on how professional bettors attack NFL totals and derivatives (halves, quarters, team totals): number shopping, middles, live models, following or fading line moves.
+
+REPORT FORMAT
+Numbered findings. For each one:
+Finding: one sentence.
+Source: who, year, and strong, medium or weak.
+Confidence: high, medium or low.
+Bears on: S1 to S8, or NEW.
+How to check it with our data: one sentence.
+Then end with two short lists: the 3 strategies you would test first, and the 3 you would drop.
+Keep it under 1,300 words. Plain text. No tables.
