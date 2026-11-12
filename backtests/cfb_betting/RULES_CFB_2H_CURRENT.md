@@ -38,3 +38,11 @@ Source text: `CFB_2H_tab.txt` (the tab as exported 11/12/2026, 5:20 AM), with th
 - X-23 CLV: the 2H line at 3Q kickoff logged for every fire and printed lean; first-observed, decision and executed quotes with times (v1.4 item 7, v2.0 Rule 8).
 - X-24 Output format of section 6 on every run, one block per game; RECOMMENDED never omitted: ENGINE, then MATCHUP LEAN; then the shadow log.
 - X-25 Grading: every venue on 2H + overtime (v2.3, v2.3a). Live fires and shadows graded apart.
+
+## Open, not rules (11/12/2026, after backtest B-CFB-7; `BACKTEST_CFB_SIDES_2026-11-12.md`)
+- The home-team column (X-22) FAILED out of sample: 51.3% on 516 games. Proposed: close it. Phong's word needed.
+- The FLOW side with a lead under 21 FAILED at book prices (53.3% on 173 games, -1.4%); +6.4% at the fair price, which is not distinguishable from zero.
+- X-05 sends "books 1.0+ point apart" to shadow. The big books are a point or more apart on a college second-half spread in 64% of games, and 3.0 apart on the same number in 2 of 512.
+- These books charge about 7.5 points of return on a college second-half spread.
+- Proposed silent log ("log fade"): the trailing team when the halftime lead is 1 to 20 and the leader has no FLOW edge. Not a rule.
+

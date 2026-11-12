@@ -41,3 +41,11 @@ Panel: Gemini = scout, ChatGPT = doubter, Claude = manager. Ordered by Phong by 
 2. **CLEAR LEAN wording:** say plainly that a bettable lean = the fair or better at the venue being bet + one of personnel or FLOW + no hard counter; replace "priced at or above fair" with "the venue's price costs no more than the fair".
 3. **Pre-ticket order:** news check first, price re-pull last.
 4. **1H FLOW:** drop the optional previous-game read from first-half leans.
+
+## 6. Outcome of the test (about 7:15 AM)
+- All three claims FAILED at real halftime prices: home 51.3% on 516 games (-5.3%), FLOW side 53.3% on 173 (-1.4%), success-rate side 48.3% on 310 (-10.5%). Details: `../BACKTEST_CFB_SIDES_2026-11-12.md`.
+- The scout's finding 7 (success rate over yards per play) is not supported on these games. Its finding 11 (no home second-half edge) is.
+- The doubter's reading of 58-33 and 17-6 as selected screens is confirmed: 57-32 reproduced on the two Saturdays, 51.3% elsewhere.
+- Audit B-CFB-4 confirms the HOOK table error: the team laying 3 leads by exactly 3 in 5.6% of first halves, not 11.5%.
+- 6,793 credits used; 42,717 left.
+

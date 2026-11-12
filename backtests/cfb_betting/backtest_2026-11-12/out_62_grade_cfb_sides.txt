@@ -1,0 +1,88 @@
+/home/claude/mlb-api-mcp/backtests/cfb_betting/backtest_2026-11-12/62_grade_cfb_sides.py:12: RuntimeWarning: divide by zero encountered in divide
+  def imp(a): a = np.asarray(a, dtype=float); return np.where(a < 0, -a / (-a + 100), 100 / (a + 100))
+=== 9. COVERAGE ===
+usable games 665 | with any quote 665 | with a counting look (2+ clean books, before the third-quarter kickoff) 614 | discovery Saturdays among them 91
+quotes 2272 | not main line 7 | stale (last update before the end of the half) 8 | snapshot after the third-quarter kickoff 0 | clean 2206 | books per counting game: median 4
+clean quotes by book: {'draftkings': 614, 'hardrockbet': 562, 'ballybet': 383, 'bovada': 366, 'fliff': 281}
+counting games by week: {1: 74, 2: 75, 3: 63, 4: 62, 5: 53, 6: 55, 7: 59, 8: 56, 9: 56, 10: 61} | by tier: both power-four 235, other FBS v FBS 306, FBS v FCS 73
+snapshot time after the last first-half play, minutes: median 7.8, 5th to 95th percentile 5.2 to 9.8
+
+=== THE THREE CLAIMS (average clean book at its own number and price) ===
+H HOME, second half (neutral sites and the two discovery Saturdays out)
+  all verdict games                                          n  516   51.3% won  return   -5.3%  one step worse   -7.0%
+     first half of them (to 09/26)                           n  258   50.0% won  return   -7.6%
+     second half                                             n  258   52.5% won  return   -3.0%
+     FAILED | doubter's bar: lower bound -12.4% over 10 weeks -> clears: no | pushes 2.4 | by week 1:+6 2:-15 3:+2 4:-19 5:-1 6:-2 7:+4 8:+15 9:-38 10:-14
+F FLOW side, lead under 21 (discovery Saturdays out)
+  all verdict games                                          n  173   53.3% won  return   -1.4%  one step worse   -3.2%
+     first half of them (to 10/02)                           n   86   52.8% won  return   -2.6%
+     second half                                             n   87   53.9% won  return   -0.1%
+     FAILED | doubter's bar: lower bound -18.4% over 10 weeks -> clears: no | pushes 0.9 | by week 1:+29 2:-8 3:-60 4:+6 5:-1 6:+13 7:-16 8:-8 9:+24 10:-6
+S SUCCESS-RATE side, lead under 21 (all dates)
+  all verdict games                                          n  310   48.3% won  return  -10.5%  one step worse  -12.1%
+     first half of them (to 10/07)                           n  155   48.5% won  return  -10.3%
+     second half                                             n  155   48.2% won  return  -10.7%
+     FAILED | doubter's bar: lower bound -22.1% over 10 weeks -> clears: no | pushes 1.2 | by week 1:+13 2:-21 3:-34 4:-24 5:+7 6:+10 7:-28 8:-13 9:+10 10:-29
+overlap: F and S name the same team in 124 verdict games, opposite teams in 10
+
+=== 1. REPRODUCTION on the two discovery Saturdays (the 11/6 replay: home 58-33, FLOW under 21 17-6, both at DraftKings' number) ===
+  HOME                               at DraftKings: 57-32-0 | at the average book:                                                             n   89   64.8% won  return  +19.7%
+  FLOW side, lead under 21           at DraftKings: 18-10-0 | at the average book:                                                             n   28   65.1% won  return  +20.3%
+  SUCCESS-RATE side, lead under 21   at DraftKings: 25-28-0 | at the average book:                                                             n   53   47.5% won  return  -12.6%
+
+=== 2. PRICE BASIS ===
+  H: at the no-vig fair price   +2.1% | at the best book   -3.0% | at the average book   -5.3%
+  F: at the no-vig fair price   +6.4% | at the best book   +1.2% | at the average book   -1.4%
+  S: at the no-vig fair price   -3.5% | at the best book   -6.9% | at the average book  -10.5%
+
+=== 3. CONTROLS (all counting games, all dates) ===
+  away team (not neutral)                                    n  605   46.7% won  return  -13.3%
+  home team, all dates                                       n  605   53.3% won  return   -1.6%
+  halftime leader, lead 1 to 20                              n  448   48.6% won  return  -10.2%
+  halftime leader, lead 1 to 20, FLOW does not agree         n  259   43.8% won  return  -19.1%
+  trailing team, deficit 1 to 20                             n  448   51.4% won  return   -4.8%
+  team receiving the third-quarter kickoff                   n  613   51.6% won  return   -4.3%
+  favourite of the second-half line                          n  606   49.4% won  return   -8.0%
+
+=== 4. VARIANTS (all dates) ===
+  yards-per-play edge 1.5+ alone, lead under 21              n  246   57.1% won  return   +5.7%
+  FLOW side, all dates, lead under 21                        n  201   55.0% won  return   +1.7%
+  FLOW side when it leads (1 to 20)                          n  189   55.3% won  return   +2.2%
+  FLOW side when it trails or is tied                        n   12   50.0% won  return   -6.4%
+  SUCCESS-RATE side when it leads (1 to 20)                  n  248   47.1% won  return  -12.9%
+  SUCCESS-RATE side when it trails by 1 to 14 (the scout)    n   40   56.7% won  return   +6.5%
+  SUCCESS-RATE side that lost more fumbles in the half       n   28   53.2% won  return   -1.6%
+  F and S name the same team                                 n  143   51.8% won  return   -3.8%
+  FLOW names a team, success rate does not                   n   46   61.6% won  return  +13.1%
+  success rate names a team, FLOW does not                   n  155   46.2% won  return  -14.4%
+
+=== 5. TIERS ===
+  H, both power-four                                         n  176   51.7% won  return   -4.4%
+  H, other FBS v FBS                                         n  267   51.1% won  return   -5.8%
+  H, FBS v FCS                                               n   73   50.9% won  return   -5.7%
+  F, both power-four                                         n   61   50.7% won  return   -6.0%
+  F, other FBS v FBS                                         n   96   53.7% won  return   -0.8%
+  F, FBS v FCS                                               n   16   61.5% won  return  +12.4%
+  S, both power-four                                         n  117   44.7% won  return  -17.1%
+  S, other FBS v FBS                                         n  170   51.0% won  return   -5.5%
+  S, FBS v FCS                                               n   23   47.1% won  return  -13.3%
+
+=== 6. HOME, split (all dates, not neutral) ===
+  home is the pregame favourite                              n  417   52.4% won  return   -3.1%
+  home is the pregame underdog                               n  188   55.2% won  return   +1.7%
+  home leads at the half                                     n  352   51.0% won  return   -5.6%
+  home trails                                                n  210   57.5% won  return   +5.9%
+  tied                                                       n   43   51.0% won  return   -5.4%
+  home leads by 21+                                          n  100   46.0% won  return  -14.4%
+  home trails by 21+                                         n   22   54.5% won  return   -1.4%
+
+=== 7. ENGINE PREMISE: a book 3.0+ better than the no-vig median of the other clean books on the same number ===
+  3.0 or more    2 entries in   2 of 512 games with 3+ books | 1-1-0 | return   -9.5% | books: {'fliff': 1, 'draftkings': 1}
+  2.0 to 2.9     3 entries in   3 of 512 games with 3+ books | 2-1-0 | return  +37.8% | books: {'hardrockbet': 1, 'draftkings': 1, 'bovada': 1}
+  1.0 to 1.9     7 entries in   7 of 512 games with 3+ books | 4-3-0 | return  +13.0% | books: {'bovada': 3, 'hardrockbet': 2, 'draftkings': 1, 'fliff': 1}
+  spread of the books' second-half numbers within a game: same number 25%, half a point 10%, a point or more 64%
+
+=== 8. HOW THE MARKET SETS THE SECOND-HALF SPREAD (home minus away; counting games with a pregame spread) ===
+  market second-half line (home expected margin) = -0.21 +0.464 x pregame home edge -0.058 x halftime margin +0.09 x yards-per-play edge
+  actual second-half margin                      = +0.57 +0.468 x pregame home edge -0.155 x halftime margin +0.54 x yards-per-play edge
+  actual minus line: mean +0.72, standard deviation 10.6 | home covers 53.0% of decided games at the median line
