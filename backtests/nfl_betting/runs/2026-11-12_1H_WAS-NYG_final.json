@@ -692,6 +692,15 @@
    "fg": "NYG -1.5 x10, 40.5",
    "dsb_1h": "NYG -0.5 +115, 20",
    "note": "log-only"
+  },
+  {
+   "type": "grade",
+   "graded_pt": "2026-11-12 21:47",
+   "final": "WAS 24 NYG 21 (regulation)",
+   "1H": "WAS 10-7, 17 pts: no-bet stands; WAS +1/2 side W; DSB NYG -1/2 +115 paper L; Under 20/20.5 side W",
+   "2H": "14-14, 28 pts: no-bet stands; NYG -1/2 L, WAS +1/2 W; 2H ML tie (house rule); Over 20.5 W; Totals v0.3 no view",
+   "close_1H": "1:10:36Z snapshot, 8 books: NYG -0.5 fair 47.6% (+110); DSB NYG -1/2 +115 +1.1 vs close; WAS +1/2 fair 52.4%",
+   "close_2H": "2:50:36Z snapshot (3Q kick ~2:53Z), 4 books: NYG -1.5 x3 / -0.5 Bovada; 2H ML NYG 53.0%; total 19.5 x2 / 20.5 x2. Market moved to NYG after the board"
   }
  ],
  "run": "final pull"
