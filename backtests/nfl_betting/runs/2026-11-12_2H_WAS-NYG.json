@@ -1,0 +1,701 @@
+{
+ "protocol": "NFL betting",
+ "engine": "2H",
+ "profile": "current",
+ "date": "2026-11-12",
+ "games": [
+  "WAS@NYG"
+ ],
+ "run_time_pt": "18:42",
+ "how_to_fill": "status = done | na | skipped. 'na' needs a note saying why. 'skipped' or blank makes the run NOT FULL. Items for the other engine or profile are ignored.",
+ "items": [
+  {
+   "id": "C01",
+   "check": "Rules read in this chat from the doc tab or from the rule list of the profile (RULES_CURRENT.md / RULES_v05_baseline.md), not from memory notes",
+   "rules": "README",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "RULES_CURRENT.md (Engine B H-01..H-43, G, R) and TOTALS_PROTOCOL_v0.3.md read in this chat today; the 'NFL 2H prompt' doc tab itself was not opened on this run"
+  },
+  {
+   "id": "C02",
+   "check": "Profile and versions stated at the top of the reply",
+   "rules": "README",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "current; NFL 2H v0.6c, Game-flow v1.2 / CLEAR LEAN v1.1, RH venue v1.2, Totals v0.3"
+  },
+  {
+   "id": "C03",
+   "check": "Canary: every tool failure, partial pull or workaround flagged at the very top",
+   "rules": "F-05 H-09",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "Flags: only 4 books post 2H markets and they sit on three different spread numbers and three totals numbers; RH 2H winner ladder not pulled; weather reused from the 5:00 PM pull"
+  },
+  {
+   "id": "C04",
+   "check": "FLOW pulled for every game on this run, source game labelled",
+   "rules": "F-06 G-07 P7",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C05",
+   "check": "FLOW pulled for every game given deep review (or FLOW SKIPPED - TIME PRIORITY printed)",
+   "rules": "F-06 G-07",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C06",
+   "check": "Consensus pulled from 5 or more books, DSB left out, compared only at identical numbers",
+   "rules": "F-07 F-09 F-10",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C07",
+   "check": "Inactives / starters checked for EVERY game at about T-85/T-90, source named",
+   "rules": "F-18 P6",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C08",
+   "check": "QB status resolved or LINEUP UNRESOLVED printed for every game; OL SHOCK checked",
+   "rules": "F-19 F-20",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C09",
+   "check": "Weather / roof checked for every outdoor game; WIND FLAG applied",
+   "rules": "F-32 F-33",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C10",
+   "check": "CONSENSUS DIVERGENCE checked on every candidate",
+   "rules": "F-24 H-18",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "2H spread books NYG +1.5 (DK, BetRivers), -0.5 (Bovada), -1.5 (FD) -> CONSENSUS DIVERGENCE. 2H total 19.5 x2 / 20 / 20.5 -> divergence"
+  },
+  {
+   "id": "C11",
+   "check": "HOOK candidates priced with win/push/loss at the venue's number; 3.0 floor and EV > 0 applied",
+   "rules": "F-23 H-17",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "No venue number on 3 or 7 -> no HOOK candidate"
+  },
+  {
+   "id": "C12",
+   "check": "DERIV-LAG row logged for the 20-board count (no fire)",
+   "rules": "F-25 H-20",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "Live FG WAS -2.5 x5 / -3 x2 / -3.5, total 36.5 x4 / 37 / 37.5 -> implied 2H NYG -0.5, 19.5-20.5; DSB NYG -1/2, 20.5 -> no LAG REVIEW; single observation, PERSISTENCE UNVERIFIED"
+  },
+  {
+   "id": "C13",
+   "check": "One selection per game; ticket cap 3 per window",
+   "rules": "F-30 F-31 H-36",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "No selection"
+  },
+  {
+   "id": "C14",
+   "check": "Time lock respected: nothing after T-12 (1H) / Q3 -4 (2H); late items TIME-BLOCKED",
+   "rules": "F-36 H-34",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C15",
+   "check": "Run finished before kickoff (1H) / 3Q kickoff (2H); nothing recommended in-play",
+   "rules": "F-01 H-01 P2",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "Run at halftime, before the 3Q kickoff"
+  },
+  {
+   "id": "C16",
+   "check": "Robinhood ladder pulled for every game (reference under v05; price test with +2c fee under current)",
+   "rules": "F-02 H-02 P3",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "KXNFL2HSPREAD and KXNFL2HTOTAL ladders pulled"
+  },
+  {
+   "id": "C17",
+   "check": "Execution venue matches the profile (v05: DSB only; current: DSB, Red105 or Robinhood, better EV first)",
+   "rules": "F-02 H-02 P3 M-03",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "DSB, Red105 and Robinhood priced; none passes"
+  },
+  {
+   "id": "C18",
+   "check": "CLEAR LEAN test printed for every game run: three inputs, split, hard-counter check",
+   "rules": "P1",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "done",
+   "note": "personnel neutral . FLOW NEUTRAL (YPP WAS 4.59 vs NYG 4.44, clean margin WAS +3) . price split (Red105 WAS ML +105 +0.7; DSB NYG -1/2 +115 +0.4) -> NO CLEAR LEAN - pass; no hard counter in play"
+  },
+  {
+   "id": "C19",
+   "check": "A MATCHUP LEAN line for every game examined, citing its FLOW rows",
+   "rules": "F-41 H-39",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C20",
+   "check": "No lean or fire on a total rests on FLOW",
+   "rules": "H-38 G-03",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C21",
+   "check": "Halftime confirmed on the scoreboard; 2H kickoff receiver logged",
+   "rules": "H-08",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "Halftime confirmed on ESPN board, WAS 10 NYG 7; NYG received the opening kick -> WAS receives the 2H kickoff"
+  },
+  {
+   "id": "C22",
+   "check": "Pregame handoff loaded: HANDOFF VERIFIED / INCOMPLETE / UNAVAILABLE printed; open full-game tickets flagged",
+   "rules": "H-07 H-30",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "HANDOFF VERIFIED (1H boards 4:13 and 5:00 PM in this chat; no open full-game ticket)"
+  },
+  {
+   "id": "C23",
+   "check": "1H drive chart pulled with play text; drive count and scoring reconciled to the linescore",
+   "rules": "H-09 G-06",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "9 drives with play text; WAS FG + TD = 10, NYG TD = 7, reconciles"
+  },
+  {
+   "id": "C24",
+   "check": "2H consensus from OT-inclusive books; live full-game line pulled for the implied 2H line",
+   "rules": "H-10 H-11 H-20",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "4 books with 2H markets (DK, FD, BetRivers, Bovada), live FG from 8 books"
+  },
+  {
+   "id": "C25",
+   "check": "Convergence screen: every half-point touching 3 or 7 evaluated as a HOOK CANDIDATE",
+   "rules": "H-15",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "No 2H number at any book or venue touches 3 or 7"
+  },
+  {
+   "id": "C26",
+   "check": "Blowout (17+), 45+ first half, wind, QB change and opener gates each checked",
+   "rules": "H-24 H-25 H-26 H-27 H-28",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "Margin 3 (no blowout); 1H combined 17; wind 9 / gusts 17; no QB change (Winston one sneak, McCarthy stays); opener FIRST OBSERVED 6:40 PM, not on a key number; OT flag logged (margin 3)"
+  },
+  {
+   "id": "C27",
+   "check": "FLOW-TOTAL (SHADOW) line printed (or 'no view')",
+   "rules": "H-38",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C28",
+   "check": "HOOK-through-divergence clause checked at every venue (DSB, Red105, Robinhood): the venue's number strictly beats every book in the pull, else shadow; Robinhood 2H contracts count overtime (P9), so no overtime restriction",
+   "rules": "H-18 H-02 P5 P8 P9",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "done",
+   "note": "No HOOK candidate at DSB, Red105 or Robinhood, so the clause has nothing to pass"
+  },
+  {
+   "id": "C29",
+   "check": "Slate sweep row printed for every game with FLAGGED / STATIC",
+   "rules": "P4",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C30",
+   "check": "Watchlist of at most four deep reviews; lightweight screen line for every other game",
+   "rules": "F-15 F-16 F-17",
+   "engine": [
+    "1H"
+   ],
+   "profiles": [
+    "v05"
+   ],
+   "status": "",
+   "note": ""
+  },
+  {
+   "id": "C31",
+   "check": "Every fire, lean, shadow and conditional written to the log with number, price, venue, timestamp",
+   "rules": "F-45 H-41",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "See log block"
+  },
+  {
+   "id": "C32",
+   "check": "OWED list printed: grades due, closes due, unconfirmed placements",
+   "rules": "F-43",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "Printed"
+  },
+  {
+   "id": "C33",
+   "check": "Previous board's grades and closing lines pulled before this run (or listed as still owed), CLV per Liem L1.1",
+   "rules": "F-46 H-42",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "1H no-bet graded at the half; closes still owed"
+  },
+  {
+   "id": "C34",
+   "check": "Sizing stated in units ($300 to win); any upsizing declared before the price",
+   "rules": "F-03 M-01 M-02",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "Unit $300 to win; no size issued"
+  },
+  {
+   "id": "C35",
+   "check": "RECOMMENDED section printed at the end (bets with venue, number, price, size - or 'none')",
+   "rules": "F-42 H-40",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "Printed"
+  },
+  {
+   "id": "C36",
+   "check": "Push probability and any conversion between numbers taken from the one-sided table B-NFL-3, not the either-team frequencies printed in the tabs",
+   "rules": "F-10 F-14 F-23 H-12 H-17 R-07; formula fix 11/11, PUSH_TABLE_B-NFL-3.md",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "2H overtime-in rows used: level 7.31, laying 1 = 2.78, 2 = 2.15; getting 1 = 3.20, 2 = 2.31"
+  },
+  {
+   "id": "C37",
+   "check": "Halftime start and estimated 3Q kickoff logged in Pacific time for every game run (needed to pull the 2H close)",
+   "rules": "H-31 H-41 H-42",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "Halftime start about 6:39 PM PT; estimated 3Q kickoff about 6:53 PM PT"
+  },
+  {
+   "id": "C38",
+   "check": "Fire class named for every fire (HOOK / direct gap / HOOK through divergence); no DERIV-LAG fire before 20 logged boards",
+   "rules": "F-25 F-28 H-19 H-20",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "v05",
+    "current"
+   ],
+   "status": "done",
+   "note": "No fire"
+  },
+  {
+   "id": "C39",
+   "check": "Every printed lean carries its best venue price, the fair at that number and the tag BETTABLE or PRICE WORSE THAN FAIR - pass; no lean is recommended as a bet unless BETTABLE",
+   "rules": "G-13 P11",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "done",
+   "note": "No lean printed"
+  },
+  {
+   "id": "C40",
+   "check": "No total priced or fired at a venue whose number is not the consensus number; no totals conversion used (spreads may use B-NFL-3)",
+   "rules": "R-07a P12",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "done",
+   "note": "Venue totals all on 20.5; books' modal number 19.5, only FanDuel on 20.5 -> no two-book fair at 20.5 -> not priced"
+  },
+  {
+   "id": "C41",
+   "check": "No engine fire on a total rests on FLOW; a totals bet comes only from Totals v0.3",
+   "rules": "G-03 TT-11",
+   "engine": [
+    "1H",
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "done",
+   "note": "No totals fire"
+  },
+  {
+   "id": "C42",
+   "check": "Totals v0.3: combined first-half yards per play and both teams' first-half completion rates printed for every game run",
+   "rules": "TT-02 TT-04",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "done",
+   "note": "Combined 1H YPP 4.51 (284 yds / 63 plays); completions McCarthy 12/19 = 63.2%, Daniels 11/15 = 73.3% (Burks 14-yd catch counted as reversed)"
+  },
+  {
+   "id": "C43",
+   "check": "Totals v0.3: one totals line per game (OVER / UNDER / no view / trigger met, no price), with the receiver or tight-end tag when it applies",
+   "rules": "TT-01 TT-03 TT-04 TT-05 TT-09",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "done",
+   "note": "Totals line: no view (YPP under 4.93 but neither team under 55% completions; not above 5.89). No receiver/TE tag"
+  },
+  {
+   "id": "C44",
+   "check": "Totals v0.3: price gate applied at the same number (fair or better; Robinhood ask + 2 cents and R-03); size Over $150 to win, Under $75 to win",
+   "rules": "TT-06 TT-07",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "done",
+   "note": "No trigger, so no price test and no size"
+  },
+  {
+   "id": "C45",
+   "check": "Totals v0.3: ledger row written for every game run, with the silent price-only line; 20-bet stop count stated for each rule",
+   "rules": "TT-08 TT-10",
+   "engine": [
+    "2H"
+   ],
+   "profiles": [
+    "current"
+   ],
+   "status": "done",
+   "note": "Ledger row in log block; price-only line: none (no priced number). Stop counts: Over 0 of 20, Under 0 of 20"
+  }
+ ],
+ "log": [
+  {
+   "time_pt": "18:42",
+   "type": "NO CLEAR LEAN",
+   "game": "WAS@NYG 2H",
+   "halftime": "WAS 10 NYG 7",
+   "split": "personnel neutral . FLOW NEUTRAL . price split"
+  },
+  {
+   "type": "prices",
+   "fair": {
+    "NYG 2H ML": 0.5055,
+    "NYG -0.5 (h2h-derived)": 0.4686,
+    "NYG -0.5 (Bovada only)": 0.457
+   },
+   "DSB": {
+    "NYG -0.5 +115": "+0.4 / -0.8",
+    "WAS +0.5 -125": "-1.3 / -2.4",
+    "WAS ML +100": -0.55,
+    "NYG ML -120": -4.0,
+    "20.5 -105 both": "not priced"
+   },
+   "Red105": {
+    "NYG -0.5 +110": "-0.8 / -1.9",
+    "WAS +0.5 -120": "-0.2 / -1.4",
+    "WAS ML +105": 0.7,
+    "NYG ML -125": -5.0,
+    "20.5 -105 both": "not priced"
+   },
+   "RH_all_in": {
+    "NYG -2.5 yes 40": -0.1,
+    "WAS -2.5 yes 38": 0.3,
+    "O20.5 48 / U20.5 53": "not priced"
+   }
+  },
+  {
+   "type": "Totals v0.3 row",
+   "ypp": 4.51,
+   "cmp": {
+    "NYG": "12/19",
+    "WAS": "11/15"
+   },
+   "line": "no view",
+   "books": "19.5 x2, 20, 20.5"
+  },
+  {
+   "type": "grade",
+   "game": "WAS@NYG 1H",
+   "result": "WAS 10-7; no-bet stands; WAS +1/2 side won, DSB NYG -1/2 +115 paper lost; 17 points"
+  }
+ ]
+}
