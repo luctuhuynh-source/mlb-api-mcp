@@ -54,8 +54,8 @@
   },
   {
    "id": "C04",
-   "check": "FLOW pulled for every game on this run, source game labelled",
-   "rules": "F-06 G-07 P7",
+   "check": "FLOW pulled for every game on this run, source game labelled; a team starting a different QB than in its last game uses that QB's most recent start for the team (QB-CHANGE) or is printed FLOW DATA GAP",
+   "rules": "F-06 G-07 G-07a P7 P15",
    "engine": [
     "1H"
    ],

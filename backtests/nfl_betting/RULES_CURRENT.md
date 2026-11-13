@@ -1,6 +1,8 @@
 # NFL betting - current rules (rules text of 2026-11-12)
 
-**Versions: NFL FG+1H v0.6c. NFL 2H v0.6c. Game-flow read v1.2 with CLEAR LEAN v1.1 (lean price gate, P11) and ALWAYS PULL FLOW. Robinhood venue rules v1.2 (v1.0, the 10/17 addenda, the 11/12 overtime correction, and totals at the same number only, P12).**
+**Versions: NFL FG+1H v0.6d. NFL 2H v0.6c. Game-flow read v1.3 with CLEAR LEAN v1.1 (lean price gate, P11), ALWAYS PULL FLOW and QB-CHANGE rows (P15). Robinhood venue rules v1.2 (v1.0, the 10/17 addenda, the 11/12 overtime correction, and totals at the same number only, P12).**
+
+**Ratified 11/12/2026, 6:53 PM PT (change P15, item B closed): a team whose starting QB tonight is not the QB who started its last game gets its FLOW row from that QB's most recent start, tagged `QB-CHANGE`, instead of a void row.** Phong, offered "Ratify the QB-change fix" after the WAS@NYG boards: "Ratify". Origin: 11/9 BUF@MIN, where MIN's void row left the 1H read with one input; the test line BUF -1.5 1H would have won.
 
 **Three decisions by voice, 11/12/2026 about 5:10 AM, written on Phong's typed "Push into repo" (5:11 AM): P11 a lean is bet only at the fair or better; P12 totals are never converted across numbers, spreads keep table B-NFL-3; P13 no settlement-wording check, the rules stay "including overtime" (X-36 closed).**
 
@@ -31,7 +33,7 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 - M-05 [=] Liem L3.1 and L3.2: no promotion or retirement of a class on W-L under n = 200; a class with fewer than 60 closing-line entries reports but never promotes.
 
 ---
-## Engine A - NFL full-game + 1H, v0.6c (IDs F-xx)
+## Engine A - NFL full-game + 1H, v0.6d (IDs F-xx)
 
 ### Scope and venues
 - F-01 [=] Pregame window only (line posted to kickoff). Never bet in-play. [P2] "Runs after kickoff are overrides, graded vs the pregame close." [R] Since never-bet-in-play is unchanged, a read made after kickoff is not a recommendation and is labelled as such (11/8 NE -1.5 was printed after kickoff and bet).
@@ -41,7 +43,7 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 
 ### Inputs and pulls
 - F-05 [=] Canary first: any tool or data failure or silent workaround flagged at the top before anything else; Robinhood status printed per game.
-- F-06 [P7][P6] FLOW for EVERY game on EVERY run (sweep, STATIC games, individual runs, final pulls): each team's most recent completed game (schedule-verified), `half=0` summary plus the 1H split, one FLOW row per team labelled with its source game. A team off a bye uses its last played game, tagged `STALE-1WK`. FLOW is never skipped for time: inside about T-10 use summary-only pulls (`include_plays=false`) and run the full protocol anyway. `FLOW SKIPPED - TIME PRIORITY` is retired. The only fallback is a tool error, flagged at the top. FLOW never fires a bet, never moves a fair or a size, and is barred from total leans.
+- F-06 [P7][P6] FLOW for EVERY game on EVERY run (sweep, STATIC games, individual runs, final pulls): each team's most recent completed game (schedule-verified), `half=0` summary plus the 1H split, one FLOW row per team labelled with its source game. A team off a bye uses its last played game, tagged `STALE-1WK`. [P15] A team starting a different QB than in its last game uses that QB's most recent start instead, tagged `QB-CHANGE` (G-07a). FLOW is never skipped for time: inside about T-10 use summary-only pulls (`include_plays=false`) and run the full protocol anyway. `FLOW SKIPPED - TIME PRIORITY` is retired. The only fallback is a tool error, flagged at the top. FLOW never fires a bet, never moves a fair or a size, and is barred from total leans.
 - F-07 [=][P6] Consensus pull: 5 or more books, spreads, totals, h2h, spreads_h1, totals_h1. Practice reports. Official inactives from the team sites or the official tracker at the 90-minute mark, not a general search. Weather at kick.
 - F-08 [P2] Pull schedule T-100 / T-85 / T-60 / T-30 / T-20 is recommended timing, not a lock. "T-12 terminal audit" means the final pre-kick run. The final run re-pulls the consensus and re-confirms QB1 and inactives before any fire.
 
@@ -177,6 +179,7 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 - G-05 [=] Halftime sequencing (6.8): status -> DSB 2H market present -> hard vetoes -> compact FLOW table -> fair, gates, class -> rank -> ticket. A candidate whose mandatory read did not run -> `SHADOW - UNVERIFIED`.
 - G-06 [=] Data integrity (6.9): verify event ID, teams, period, drive chronology, scoring reconciliation, orientation, play text. Discrepancy -> `FLOW DATA CONFLICT`.
 - G-07 [P7][P6] Previous-game selection (6.7): most recent completed game from the schedule; each row labelled with its source game; bye -> last played game, `STALE-1WK`. The time-priority skip is retired for every football engine.
+- G-07a [P15] QB-CHANGE row (pregame 1H and full-game runs). When the QB starting tonight is not the QB who started the team's most recent completed game (a backup in, or QB1 back from injury), the team's FLOW row comes from the most recent game THIS QB started for this team this season, labelled with its source game and tagged `QB-CHANGE` (plus `STALE-nWK` when it is older than last week). If he has no start for this team this season (first career start, new signing, trade), the row is `FLOW DATA GAP - QB-CHANGE` and the FLOW input does not count, as before. The starter is the one confirmed under F-19; until then the row is provisional. Half-time runs are unchanged: their FLOW is the half just played (H-27 still governs a QB change at half). Phong, 11/12: "Ratify".
 - G-08 [=] Audit fields (6.10) on every fire, shadow and lean.
 - G-09 [P1] CLEAR LEAN v1.0. Three inputs: PERSONNEL (monitored starters QB1, OTs, C, CB1, S1, WR1 out or credibly limited; which side gains). FLOW (the per-team rows: YPP, giveaways, clean margin, sustain rate; the 1H split for 1H runs, the 1H just played for 2H runs). PRICE (which side DSB prices at or above the leave-out fair: the side with the smaller negative edge, or a positive one). A lean prints only when at least 2 of the 3 point the same way AND there is no hard counter from the third. Hard counter = a QB1 scratch or unannounced backup, a FLOW gap of 1.5 YPP or more against the side, or two or more monitored starters out on the side being leaned. Otherwise the line reads exactly `NO CLEAR LEAN - pass` plus one line naming the split.
 - G-10 [R] Two aligned inputs with no hard counter print the lean. "Soft" is not a term in the rule; the 11/8 "two soft inputs is not clear" ruling was stricter than the text.
@@ -199,7 +202,7 @@ How readings were chosen: a later ratified ruling beats an earlier one; a senten
 
 ---
 ## Open, not rules
-- Item B (11/9): QB-change FLOW rows use the replacement QB's most recent start instead of void? Phong: information only, no change.
+- Closed 11/12 (P15, G-07a): item B ratified. QB-change FLOW rows use the starting QB's most recent start for the team this season, tagged `QB-CHANGE`.
 - Paper side for NO CLEAR LEAN games (G-11).
 - Closed 11/12 (P11, G-13): a lean is bet only at the fair or better.
 - Closed 11/12 (P13): no run check on the Robinhood settlement wording. Phong: "No, no need to do that. But just keep the wording, including overtime". If the exchange changes the wording again, nothing in a run will catch it.
