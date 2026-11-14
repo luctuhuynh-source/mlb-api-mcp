@@ -1,0 +1,282 @@
+{
+ "protocol": "CFB betting",
+ "engine": "2H",
+ "date": "2026-11-13",
+ "games": [
+  "FSU@PITT"
+ ],
+ "run_time_pt": "5:36-5:46 PM",
+ "how_to_fill": "status = done, na (with a reason in note) or skipped. A rule you did not apply is skipped, not done.",
+ "items": [
+  {
+   "id": "K01",
+   "check": "Rules read in this chat from RULES_CFB_2H_CURRENT.md and the tab text (CFB_2H_tab.txt or the doc tab), not from memory notes",
+   "rules": "README",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "RULES_CFB_2H_CURRENT.md read; live doc tab read (rev 33, ends at v2.3b, same as rule list); Game-flow CLEAR LEAN text read from GAME_FLOW_tab.txt snapshot; Robinhood tab not re-read line by line"
+  },
+  {
+   "id": "K02",
+   "check": "Canary line printed first, once per time window",
+   "rules": "X-01",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "CANARY OK with note: default scoreboard omitted the game, date=20261113 worked"
+  },
+  {
+   "id": "K03",
+   "check": "Halftime confirmed on the scoreboard and FLOW pulled with get_football_drives for every game; FLOW table printed; clean margin or FLOW DATA GAP",
+   "rules": "X-02",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "Halftime confirmed ESPN 401858293; drives pulled with plays. FSU 29 pl 157 yd 5.41 YPP, PITT 29 pl 139 yd 4.79; TO 0-0; clean margin PITT +1"
+  },
+  {
+   "id": "K04",
+   "check": "Per-game run order followed; time left to the 3Q kickoff stated; nothing recommended after the kickoff",
+   "rules": "X-03",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "Halftime began ~5:33 PT; 3Q kick est ~5:53 PT"
+  },
+  {
+   "id": "K05",
+   "check": "First-half handoff ingested when one exists; 2H-KICK named or UNKNOWN",
+   "rules": "X-04",
+   "engine": [
+    "2H"
+   ],
+   "status": "na",
+   "note": "No first-half run existed for this game. 2H-KICK UNKNOWN (PITT received the opening kickoff; not a sufficient source)"
+  },
+  {
+   "id": "K06",
+   "check": "Outside books pulled and listed (two or more, same number, de-vigged); DSB, Red105 and Robinhood kept out of the consensus",
+   "rules": "X-05",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "DK + Bovada, pulled 5:36 PT twice. Spread both PITT -1.5 (DK FSU -140/PITT +100; BOV -112/-108) fair PITT 47.9 / FSU 52.1. ML fair PITT 54.05. Total DK 24.5, BOV 24 -> one book at 24"
+  },
+  {
+   "id": "K07",
+   "check": "Price test run at every venue with a 2H market: DSB, Red105 and the Robinhood ladders (ask + 2 cents); 3.0-point floor applied",
+   "rules": "X-05 X-07",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "DSB: PITT -1.5 -100 = -2.1pp; FSU +1.5 -110 = -0.2pp; PITT ML -135 = -3.4; FSU ML +115 = -0.6; O24 -100 = -1.5, U24 -110 = -0.9 (one-book, shadow). RH: no -1.5 strike; PITT -2.5 YES 43+2, FSU +2.5 NO 58+2, off-strike, no 3pp. RH total strike 23.5 not the consensus number. Red105: no screen supplied"
+  },
+  {
+   "id": "K08",
+   "check": "Executability stated: quote ages, fillable size, Robinhood bid-ask; otherwise SHADOW with EXEC UNVERIFIED",
+   "rules": "X-06",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "No fire. Quotes 5:36 PT; DSB screen 5:34 PT; fillable size not verified"
+  },
+  {
+   "id": "K09",
+   "check": "Robinhood: settlement, strike convention and tie handling stated; ask cap 60 cents; converted spread strikes tagged OFF-STRIKE",
+   "rules": "X-07",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "RH 2H incl OT; strikes are half-points \"wins 2H by over X.5\", no tie; nearest strikes -2.5/+2.5 = OFF-STRIKE one point from books; no fire"
+  },
+  {
+   "id": "K10",
+   "check": "No total priced or fired at a number other than the consensus number",
+   "rules": "X-08",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "DSB 24 priced only vs Bovada 24; RH 23.5 and DK 24.5 not converted"
+  },
+  {
+   "id": "K11",
+   "check": "Size and caps applied; window exposure printed; one wager per game",
+   "rules": "X-09",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "No fire; window exposure 0u of 1.5u"
+  },
+  {
+   "id": "K12",
+   "check": "Pre-ticket re-pull and news check done for every fire",
+   "rules": "X-10",
+   "engine": [
+    "2H"
+   ],
+   "status": "na",
+   "note": "No fire, so no ticket to re-check. Second outside pull at 5:36:54 unchanged; news search found no late-Q2 injury report"
+  },
+  {
+   "id": "K13",
+   "check": "Anchor printed as reference only; it triggered nothing",
+   "rules": "X-11",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "Anchor PITT -1.5 / 25.2 (close PITT -3, 51.5 from Phong Yahoo screen); no FLOW shift (YPP edge 0.62)"
+  },
+  {
+   "id": "K14",
+   "check": "Blowout rule applied to every game (28+ / 21 to 27)",
+   "rules": "X-12",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "Lead 1 -> ordinary rules"
+  },
+  {
+   "id": "K15",
+   "check": "QB status printed with source and time for both teams",
+   "rules": "X-13",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "PITT C.Dailey every drive; FSU A.Daniels every drive; CONTINUING both, source ESPN play text 5:38 PT"
+  },
+  {
+   "id": "K16",
+   "check": "Weather pulled for the 2H start hour; wind gate applied to totals",
+   "rules": "X-14",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "Xweather Pittsburgh 9 PM ET: 36F, wind 3 mph, gust 9, dry"
+  },
+  {
+   "id": "K17",
+   "check": "Market status and stale-line checks made",
+   "rules": "X-15",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "DSB screen labelled NCAA Football 2nd Half, 5:34 PT; halftime under 25 min"
+  },
+  {
+   "id": "K18",
+   "check": "Opener gates printed as PASS, FAIL or UNVERIFIED",
+   "rules": "X-16",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "Both opener gates UNVERIFIED (no 2H opener observed)"
+  },
+  {
+   "id": "K19",
+   "check": "Ledger line printed: live record, ROI, shadow n, mode",
+   "rules": "X-17",
+   "engine": [
+    "2H"
+   ],
+   "status": "skipped",
+   "note": "Printed live 5-2, LIVE mode from the log; ROI and the current shadow n were not recomputed (log ends at shadow n=61 on 10/17 plus unnumbered 11/6 entries)"
+  },
+  {
+   "id": "K20",
+   "check": "Tier recorded for every game",
+   "rules": "X-18",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "P4 (ACC v ACC)"
+  },
+  {
+   "id": "K21",
+   "check": "CLEAR LEAN test printed for every game: three inputs, split, hard counters",
+   "rules": "X-19 X-20",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "personnel even (no vote) / FLOW neutral (YPP FSU +0.62, clean margin PITT +1) / price FSU -> 1 of 3 -> NO CLEAR LEAN"
+  },
+  {
+   "id": "K22",
+   "check": "Every printed lean carries venue price, fair and the tag BETTABLE or PRICE WORSE THAN FAIR - pass",
+   "rules": "X-21",
+   "engine": [
+    "2H"
+   ],
+   "status": "na",
+   "note": "No lean printed"
+  },
+  {
+   "id": "K23",
+   "check": "Shadow columns printed",
+   "rules": "X-22",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "home PITT -1.5 -100 DSB; trailer favoured: no (leader PITT is the 2H favourite); 3Q-kick receiver UNKNOWN; leader under 21 without FLOW: PITT -1.5 vs DK +100"
+  },
+  {
+   "id": "K24",
+   "check": "First-observed, decision and executed quotes logged with times; the 3Q-kickoff line owed or pulled",
+   "rules": "X-23",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "First observed DSB 5:34 PT, outside 5:36 PT; decision 5:46 PT none; 3Q-kickoff line OWED"
+  },
+  {
+   "id": "K25",
+   "check": "Section 6 output format used; RECOMMENDED printed with ENGINE then MATCHUP LEAN; shadow log printed",
+   "rules": "X-24",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": ""
+  },
+  {
+   "id": "K26",
+   "check": "Grades and closing lines owed from the previous board pulled, or listed as owed",
+   "rules": "X-23 X-25",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "Listed as owed: 11/6 VT@SMU and TCU@ARIZ grades + CLV; 11/7 slate entries not in the log; CLV on 10/17 entries"
+  },
+  {
+   "id": "K27",
+   "check": "Every fire, lean, shadow and conditional written to the log with number, price, venue and time",
+   "rules": "X-23",
+   "engine": [
+    "2H"
+   ],
+   "status": "done",
+   "note": "This file is the log entry; pushed to runs/"
+  }
+ ]
+}
